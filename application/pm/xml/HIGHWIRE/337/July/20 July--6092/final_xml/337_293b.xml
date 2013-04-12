@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="book-review" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1224871</article-id>
+<article-id pub-id-type="doi">10.1126/science.1224871</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Book Review</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Books <italic>et al.</italic></subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>books</subject></subj-group>
+<subj-group subj-group-type="field"><subject>PHYSICS</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Physics</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Counterintuitive Solutions</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Sprague</surname><given-names>Michael R.</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib>
+<aff id="aff1"><label>1</label>The reviewer is at the Clarendon Laboratory, University of Oxford, Parks Road, Oxford OX1 3PU, UK. </aff>
+</contrib-group>
+<author-notes>
+<corresp>E-mail: <email>michael.sprague@physics.ox.ac.uk</email></corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<day>20</day>
+<month>07</month>
+<year>2012</year>
+</pub-date>
+<volume>337</volume>
+<issue>6092</issue>
+<fpage seq="b">293</fpage>
+<lpage>293</lpage>
+<product product-type="book"><bold>Paradox: The Nine Greatest Enigmas in Science.</bold> Jim Al-Khalili. Bantam, London, 2012. 251 pp. &#x00A3;16.99. ISBN 9780593069295.</product>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser"><p>Al-Khalili dissects nine supposed physics paradoxes.</p></abstract>
+<abstract abstract-type="web-summary"><p>Al-Khalili dissects nine supposed physics paradoxes.</p></abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Sherman J. Suter</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Harry Jach</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>Paradoxes in physics have long been used to highlight knots in our understanding of how the world works. Jim Al-Khalili's <italic>Paradox</italic> examines nine celebrated examples and carefully disentangles them&#x2014;demonstrating they are not logical paradoxes when cast in the right light. These run from the well known (Zeno's paradox, Maxwell's demon, and Schr&#x00F6;dinger's half-immortal cat) to the less so (the pole in the barn paradox, Laplace's demon, and Olbers' paradox).</p>
+<p>The paradox commonly attributed to Olbers provides the book's high point. The underlying question&#x2014;why is the night sky dark?&#x2014;is easy to state and equally easy to overlook. In explaining its resolution (a finite, expanding universe), Al-Khalili (a physicist at the University of Surrey) offers an enchanting portrait of our evolving understanding of the universe from Ptolemy through to Einstein. That the first correct solution was proposed by writer Edgar Allan Poe in his <italic>Eureka: A Prose Poem</italic>, an altogether fantastic and arguably unhinged intertwining of poetic and scientific passion (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>), left me wondering whether this paradox held the seed of a more compelling book. The author's recollection of his first glimpse of the Andromeda galaxy through a telescope provides hints of his own passion and thrill of discovery. The thrill, unfortunately, is quickly dispelled by the aside that follows, &#x201C;Physicists often tend to think in this strange way.&#x201D;</p>
+<fig id="F1" position="float">
+<caption>
+<title>Dark despite all of the stars.</title>
+</caption>
+<graphic xlink:href="337_293b_F1"></graphic>
+<attrib>CREDIT: FOTOVOYAGER/WWW.ISTOCK.COM</attrib>
+</fig>
+<p>The book's tone resembles the pleasant patter of a magician who carefully offers his hat up for inspection before pulling out the rabbit. In many instances, the revelation delights&#x2014;such as Al-Khalili's untangling of the Monty Hall paradox and, as an example in miniature, his discussion of the claim that &#x201C;every Scotsman who travels south to England raises the average IQ of both countries.&#x201D; In other cases, we are left wanting. The discussion of Maxwell's demon, a creature that can seemingly create order from randomness, ends with the exasperated decree: &#x201C;We can never defeat the Second Law of Thermodynamics. Always remember that.&#x201D; Nonetheless, Al-Khalili clearly summarizes all of the paradoxes, and he attempts solutions from several different angles for completeness.</p>
+<p><italic>Paradox</italic> provides a serviceable and, at times, compelling field guide to some of the most important and fascinating conundrums in physics. Al-Khalili engagingly describes the tools necessary to disarm them and bits of lore that enrich them. If he doesn't convincingly convey the most luminous tint of a particular paradox, that is all the more reason to venture forth in search of your own answers in your own strange way.</p>
+</body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<citation citation-type="web">
+<comment><ext-link ext-link-type="uri" xlink:href="http://xroads.virginia.edu/~hyper/poe/eureka.html">http://xroads.virginia.edu/~hyper/poe/eureka.html</ext-link>.</comment></citation>
+</ref>
+</ref-list>
+</back>
+</article>

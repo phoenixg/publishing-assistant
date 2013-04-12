@@ -1,0 +1,94 @@
+<issue vol="331" number="6019">
+    <group name="intro">
+        <node id="1">
+            <title>Special Feature: International Science &amp; Engineering Visualization Challenge 2010</title>
+            <teaser>International Science &amp; Engineering Visualization Challenge 2010</teaser>
+            <text>&lt;p&gt;In the journal's 19 February 2010 issue, &lt;em&gt;Science&lt;/em&gt;, in partnership with the National Science Foundation, presents the winners and honorable mentions in the seventh annual International Science &amp; Engineering Visualization Challenge.
+                     &lt;/p&gt;
+                     &lt;p&gt;The articles linked on this page describe the accomplishments of the creative and gifted scientists, artists, and others who put the winning entries together, and an &lt;a href="show/"&gt;online slide presentation&lt;/a&gt; showcases the competition's winners and honorable mentions.
+                     &lt;/p&gt;
+                     &lt;p&gt;In addition, a segment of the  &lt;a href="http://www.sciencemag.org/cgi/content/full/327/5968/946/DC1"&gt;&lt;em&gt;Science&lt;/em&gt; Podcast&lt;/a&gt; includes interviews with one of the competition's judges and the creators of a winning entry in the illustration category.
+                       &lt;p&gt;All material is freely available (non-subscribers require a &lt;a href="http://www.sciencemag.org/subscriptions/indiv_register.dtl"&gt;simple registration&lt;/a>).
+                     &lt;/p&gt;</text>
+        </node>
+    </group>
+	<group name="introduction">
+		<node id="1">
+            <url>#</url>
+			<linktext>2010 Visualization Challenge </linktext>
+			<teaser>Edward Teach </teaser>
+		</node>	
+	</group>
+    <group name="winners">
+		<node id="1">
+            <url>#</url>
+			<linktext>Illustration: First Place</linktext>
+			<teaser>Human Immunodeficiency Virus 3D</teaser>
+		</node>	
+        <node id="2">
+            <url>#</url>
+			<linktext>Illustration: Honorable Mention</linktext>
+			<teaser>AraNet: A genome-wide gene function association network for Arabidopsis thaliana</teaser>
+		</node>	
+        <node id="3">
+            <url>#</url>
+			<linktext>Illustration: Honorable Mention</linktext>
+			<teaser>Enterbacteria Phage T4</teaser>
+		</node>	
+        <node id="4">
+            <url>#</url>
+			<linktext>Illustration: Honorable Mention</linktext>
+			<teaser>Proposed structure of Yeast Mitotic Spindle</teaser>
+		</node>	
+        <node id="5">
+            <url>#</url>
+			<linktext>Informational Graphics: First Place</linktext>
+			<teaser>Introduction to Fungi</teaser>
+		</node>	
+        <node id="6">
+            <url>#</url>
+			<linktext>Informational Graphics: Honorable Mention</linktext>
+			<teaser>Everyone Ever in the World</teaser>
+		</node>	
+        <node id="7">
+            <url>#</url>
+			<linktext>Photography: First Place</linktext>
+			<teaser>Rough Waters</teaser>
+		</node>	
+        <node id="8">
+            <url>#</url>
+			<linktext>Photography: Honorable Mention</linktext>
+			<teaser>TRICHOMES (Hairs) on the Seed of the Common Tomato</teaser>
+		</node>	
+        <node id="9">
+            <url>#</url>
+			<linktext>Photography: Honorable Mention</linktext>
+			<teaser>Centipede Millirobot</teaser>
+		</node>	
+        <node id="10">
+            <url>#</url>
+			<linktext>Noninteractive Multimedia: First Place</linktext>
+			<teaser>Trash Track</teaser>
+		</node>	
+        		<node id="11">
+            <url>#</url>
+			<linktext>Noninteractive Multimedia: Honorable Mention</linktext>
+			<teaser>GPS and Relativity</teaser>
+		</node>	
+        		<node id="12">
+            <url>#</url>
+			<linktext>Noninteractive Multimedia: Honorable Mention</linktext>
+			<teaser>GlyphSea</teaser>
+		</node>	
+        		<node id="13">
+            <url>#</url>
+			<linktext>Noninteractive Multimedia: Honorable Mention</linktext>
+			<teaser>Computer Simulation of a Binary Quasar</teaser>
+		</node>	
+        		<node id="14">
+            <url>#</url>
+			<linktext>Noninteractive Multimedia: Honorable Mention</linktext>
+			<teaser>Visuaslization of the Whole Brain Catalog</teaser>
+		</node>	
+	</group>
+</issue>		

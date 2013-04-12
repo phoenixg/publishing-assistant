@@ -1,0 +1,1 @@
+<?phpclass publications_model extends CI_Model {    function __construct()    {        // Call the Model constructor        parent::__construct();    }}/**  *   * @author MGreen  *  * @param  *  * @return  **/  function getPublications()  {		$query = $this->db->get('publictions');		return $query->result();		  }?>

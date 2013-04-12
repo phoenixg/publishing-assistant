@@ -1,0 +1,75 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<!-- * Do not edit above this line; Edit title below: * -->
+		<title>Global Homepage - Magazine Highlights ({!{ISSUE_SHORT_DAY}!} {!{ISSUE_FULL_MONTH}!})</title>
+		<!-- * Begin editable area * -->
+		<link rel="proxy-stylesheet" type="text/css" href="local_styles.css"/>
+	</head>
+
+	<body>
+
+		<!--START POSTPROCESSHOOK-->
+		<!--END POSTPROCESSHOOK-->
+
+		<div id="begin-fragment-marker"><!-- start of fragment marker div --></div>
+
+		<!-- * Begin editable area * -->
+
+		<div class="sci-block" id="sci-mag">
+			<h2><a href="/magazine"><em>Science</em></a><span><a href="/rss/current.xml" class="sci-icon-rss">RSS</a></span></h2>
+			<ul class="mini-tab-list">
+				<li><a class="current" href="/content/current">Current Issue</a></li>
+				<li><a class="" href="/archive/">Previous Issues</a></li>
+				<li><a class="" href="/content/early/recent"><em>Science</em> Express</a></li>
+			</ul>						
+			<div class="panes">						
+				<div>
+					<div class="sci-block-sub">
+						<div class="sci-callout center">
+							<a href="/content/current" title="Go to the latest issue of Science"><img src="/feature/icon/pic.mag.current-issue.jpg" alt="Cover of Current Issue of Science" /></a>
+						</div>
+						<ul class="ref-list">				
+							<li><a href="/content/current">Table of Contents</a></li>
+							<li><a href="/content/{!{VOLUME_NUM}!}/{!{ISSUE_NUM}!}.author-index">Author Index</a></li>
+							<li><a href="/content/{!{VOLUME_NUM}!}/{!{ISSUE_NUM}!}.subject-index">Subject Index</a></li>
+							<li><a href="/site/feature/misc/top_articles/">Top Last Month</a></li>
+							<li><a href="/site/products/">Products</a></li>
+						</ul>
+					</div>
+					<div class="sci-block-cn">
+						<p class="overline titler glare">{!{ISSUE_SHORT_DAY}!} {!{ISSUE_FULL_MONTH}!} {!{ISSUE_FULL_YEAR}!}, Vol. {!{VOLUME_NUM}!}, #{!{ISSUE_NUM}!}</p>
+						<ul id="sci-highlights" class="item-list">
+							{*{OVERLINE-LIST|SCI-HIGHLIGHTS|ALL}*}
+						</ul>
+					</div>
+				</div>
+				<div class="Invisible">						
+					<div class="previous-issues sci-section">									
+						<object type="application/x-highwire-ui" data="urn:include-file">
+							<param name="src" value="/site/includefiles/previous_sci_issues.xhtml"/>
+						</object>
+						<div class="all-previous-issues">
+							<a href="/content/by/year">SEE ALL PREVIOUS ISSUES &gt;</a>
+						</div>
+					</div>
+				</div>
+				<div class="Invisible">
+					<div class="titler"><img src="/icons/logo.science-express.gif" alt="Science Express"/></div>
+					<ul id="sci-express" class="item-list">
+							{*{OVERLINE-LIST|SCI-EXPRESS|2-4}*}
+					</ul>
+					<div>&#160;</div>
+					<ul class="ref-list">
+						<li><a href="/sciencexpress/recent.xhtml">More <em>Science</em> Express</a></li>
+					</ul>
+				</div>
+			</div>				
+		</div>
+
+		<!-- * End editable area * -->
+
+		<div id="end-fragment-marker"><!-- start of fragment marker div --></div>
+
+	</body>
+</html>
+

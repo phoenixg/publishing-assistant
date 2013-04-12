@@ -1,0 +1,2 @@
+<h2>List Records</h2><ul class="tab-list">	<li><a href="./1">Papers</a></li>	<li><a href="./2">Photos</a></li>	<li><a href="./3">Oral Histories</a></li>	<li><a href="./4">Online Programs</a></li></ul>
+<?phpforeach ($records as $row) {	print('<div>');	print($row['date_string'] . '  ' . $row['tags'] . ' <br /> ' );	print('<a href="../update_record/' . $row['id'] . '">' . $row['title'] . '</a>');	print('</div>');}?>

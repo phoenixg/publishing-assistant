@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1236882</article-id>
+<article-id pub-id-type="doi">10.1126/science.1236882</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Perspective</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Perspectives</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>perspective</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Chemistry</subject></subj-group>
+<subj-group subj-group-type="field"><subject>CHEMISTRY</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Microbiology</subject><subject>Medicine</subject><subject>Chemistry</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Pactamycin Made Easy</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Codelli</surname><given-names>Julian A.</given-names></name></contrib>
+<contrib contrib-type="author" corresp="yes"><name><surname>Reisman</surname><given-names>Sarah E.</given-names></name></contrib>
+<aff>Chemistry and Chemical Engineering, California Institute of Technology, 1200 East California Boulevard, Pasadena, CA 91125, USA.</aff>
+</contrib-group>
+<author-notes>
+<corresp>E-mail: <email>jcodelli@caltech.edu</email>; <email>reisman@caltech.edu</email></corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<day>12</day>
+<month>04</month>
+<year>2013</year>
+</pub-date>
+<volume>340</volume>
+<issue>6129</issue>
+<fpage>152</fpage>
+<lpage>153</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>A concise chemical synthesis of pactamycin, a natural product that targets the ribosome, may allow the development of less toxic derivatives. <named-content content-type="related-content">[Also see Report by <related-article related-article-type="in-this-issue" vol="340" page="180" issue="6129">Malinowski <italic>et al.</italic></related-article>]</named-content></p>
+</abstract>
+<abstract abstract-type="excerpt">
+<p>Natural products&#x2014;small molecules isolated from plants, fungi, bacteria, and other microorganisms&#x2014;continue to serve as an important source of chemical tools for the study of biological systems and disease pathology, as well as new drugs. One example is the natural product pactamycin, which has been instrumental in the investigation of ribosome structure and function (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>, <xref ref-type="bibr" rid="R2"><italic>2</italic></xref>). However, the structural complexity of this small molecule has historically rendered it&#x2014;and by extension its unnatural analogs&#x2014;synthetically inaccessible, hindering efforts at the development of pactamycin-derived therapeutics. On page 180 of this issue, Malinowski <italic>et al.</italic> (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>) report a total chemical synthesis of pactamycin that elegantly addresses this challenge and opens a new chapter in the story of this natural product.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Phillip D. Szuromi</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Harry Jach</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>Natural products&#x2014;small molecules isolated from plants, fungi, bacteria, and other microorganisms&#x2014;continue to serve as an important source of chemical tools for the study of biological systems and disease pathology, as well as new drugs. One example is the natural product pactamycin, which has been instrumental in the investigation of ribosome structure and function (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>, <xref ref-type="bibr" rid="R2"><italic>2</italic></xref>). However, the structural complexity of this small molecule has historically rendered it&#x2014;and by extension its unnatural analogs&#x2014;synthetically inaccessible, hindering efforts at the development of pactamycin-derived therapeutics. On page <related-article related-article-type="in-this-issue" vol="340" page="180" issue="6129">180</related-article> of this issue, Malinowski <italic>et al.</italic> (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>) report a total chemical synthesis of pactamycin that elegantly addresses this challenge and opens a new chapter in the story of this natural product.</p>
+<fig id="F1" position="float">
+<caption>
+<title>Pactamycin in 15 steps.</title>
+<p>(<bold>A</bold>) Malinowski <italic>et al.</italic> used a synthetic strategy to prepare pactamycin that relied on a hidden symmetry element in the natural product, depicted in blue (the open arrow denotes a planning step to identify possible reactants); Me, methyl. (<bold>B</bold>) In the key reaction sequence, a chiral catalyst assembles all of the carbons in the pactamycin framework. A desymmetrization step then sets the stereochemistry; Ph, phenyl.</p>
+</caption>
+<graphic xlink:href="340_152_F1"></graphic>
+</fig>
+<p>Isolated from <italic>Streptomyces pactum</italic> in 1961 (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>), pactamycin has attracted the attention of both chemists and biologists for decades. Although originally categorized as an inhibitor of ribosomal initiation, recent structural and biochemical investigations have shown that it inhibits translocation, preventing the target ribosomal unit from continuing to move along the mRNA strand to which it is bound, and thus disrupting protein synthesis (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>, <xref ref-type="bibr" rid="R2"><italic>2</italic></xref>). Unfortunately, pactamycin exhibits this activity against ribosomes across all phylogenetic domains: bacteria, archaea, and eukaryotes. Indeed, the toxicity of pactamycin in mammalian cells has largely precluded its use as a therapeutic agent in humans.</p>
+<p>Recently, several independent studies have revealed that subtle changes to the pactamycin structure (see the figure, panel A) can greatly alter the molecule's biological activity (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>&#x2013;<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>). Culture extracts from a variety of <italic>Streptomyces</italic> species, including both wild-type and mutant strains, have given researchers access to a small collection of analogs possessing truncated or deoxygenated appendages of the seventh carbon atom (C7), some of which also lack the salicylate group. Some of these derivatives possess improved selectivity for killing protozoan cell lines (e.g., the parasites responsible for malaria and African sleeping sickness) versus both bacterial and human cell lines.</p>
+<p>These findings have sparked a renewed interest in the development of a chemical synthesis of pactamycin, which could ultimately provide access to new synthetic analogs with therapeutically useful selectivity profiles. In 2011, Hanessian and co-workers reported the first total chemical synthesis of pactamycin, a breakthrough discovery that provides access to the molecule in 32 synthetic steps from commercial starting materials (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>, <xref ref-type="bibr" rid="R9"><italic>9</italic></xref>). Nonetheless, a systematic study of the correlation between molecular structure and biological function demands a more concise and modular synthesis.</p>
+<p>In general terms, a practical chemical synthesis of a molecule should proceed in as few synthetic steps as possible, and when feasible, incorporate functional groups in their native form to minimize unnecessary oxidation, reduction, and protecting-group reactions. In the case of pactamycin, the five-membered ring at the core of the molecule, which is decorated at each carbon with a nitrogen or oxygen atom, poses a particular challenge to practicality. This compact system must be constructed not only with the correct connectivity, but also the correct stereochemistry (or three-dimensional orientation) between the atoms. The spatial relationships of the various appendages protruding from the ring are crucial to the molecular recognition events that constitute binding to a biological target.</p>
+<p>One way to reduce the complexity of a synthetic problem is to exploit an element of symmetry in the target molecule. Although nonobvious in a cursory inspection of pactamycin, Malinowski <italic>et al.</italic> identified a &#x201C;hidden&#x201D; symmetry element in the carbon chain extending from C4 to C8 that allowed them to design a synthetic plan that would begin with an inexpensive, symmetric starting material (see the figure, panel A). A variant of a Mannich reaction allowed the authors to use a chiral amine to catalyze carbon-carbon bond formation and also control the stereochemistry at the C2 atom. The stereochemical information at C2 is then relayed through the subsequent reductive desymmetrization of the methyl ketones at C5 and C7, such that the final product possesses the correct three-dimensional structure (see the figure, panel B). An important aspect of the synthesis is that the salicylate, aniline, and urea groups are all incorporated in their native form (without requiring protecting groups or other synthetic manipulations), which helps reduce the number of synthetic steps.</p>
+<p>The synthesis developed by Malinowski <italic>et al.</italic> provides access to pactamycin in only 15 chemical steps (versus 32 steps previously) and 1.9% overall yield. Notably, several late-stage intermediates used in the synthesis represent suitable precursors for the preparation of analogs. Future investigations of the biological effects of such analogs could lead to the development of therapeutic agents with attenuated toxicity in mammalian cells. Just as the synthesis reported by Malinowski <italic>et al.</italic> will likely prove to be an enabling development in the story of pactamycin, it also highlights the enabling power of symmetry as a design element in rendering complex molecules synthetically practical.</p>
+</body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Brodersen</surname><given-names>D. E.</given-names></name><etal/></person-group>., <source>Cell</source> <volume>103</volume>, <fpage>1143</fpage> (<year>2000</year>).</citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Dinos</surname><given-names>G.</given-names></name><etal/></person-group>., <source>Mol. Cell</source> <volume>13</volume>, <fpage>113</fpage> (<year>2004</year>).</citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Malinowski</surname><given-names>J. T.</given-names></name><etal/></person-group>., <source>Science</source> <volume>340</volume>, <fpage>180</fpage> (<year>2013</year>).</citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Argoudelis</surname><given-names>A. D.</given-names></name><name><surname>Jahnke</surname><given-names>H. K.</given-names></name><name><surname>Fox</surname><given-names>J. A.</given-names></name></person-group>, <source>Antimicrob. Agents Chemother.</source> <volume>1962</volume>, <fpage>191</fpage> (<year>1962</year>).</citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Otoguro</surname><given-names>K.</given-names></name><etal/></person-group>., <source>J. Antibiot. (Tokyo)</source> <volume>63</volume>, <fpage>381</fpage> (<year>2010</year>).</citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Lu</surname><given-names>W.</given-names></name><name><surname>Roongsawang</surname><given-names>N.</given-names></name><name><surname>Mahmud</surname><given-names>T.</given-names></name></person-group>, <source>Chem. Biol.</source> <volume>18</volume>, <fpage>425</fpage> (<year>2011</year>).</citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Iwatsuki</surname><given-names>M.</given-names></name><etal/></person-group>., <source>J. Antibiot.</source> <volume>65</volume>, <fpage>169</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hanessian</surname><given-names>S.</given-names></name><etal/></person-group>., <source>Angew. Chem. Int. Ed.</source> <volume>50</volume>, <fpage>3497</fpage> (<year>2011</year>).</citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hanessian</surname><given-names>S.</given-names></name><name><surname>Vakiti</surname><given-names>R. R.</given-names></name><name><surname>Dorich</surname><given-names>S.</given-names></name><name><surname>Banerjee</surname><given-names>S.</given-names></name><name><surname>Desch&#x00EA;nes-Simard</surname><given-names>B.</given-names></name></person-group>, <source>J. Org. Chem.</source> <volume>77</volume>, <fpage>9458</fpage> (<year>2012</year>).</citation>
+</ref>
+</ref-list>
+</back>
+</article>

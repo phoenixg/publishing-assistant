@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"><front>
+<journal-meta><journal-id journal-id-type="publisher-id">SCIENCE</journal-id><journal-title>Science</journal-title><abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title><issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta><article-id pub-id-type="publisher-id">1226048</article-id><article-id pub-id-type="doi">10.1126/science.1226048</article-id><article-categories>
+<subj-group subj-group-type="article-type"><subject>Perspective</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Perspectives</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>perspective</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Materials Science</subject></subj-group>
+<subj-group subj-group-type="field"><subject>MAT SCI</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Order from Disorder</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Wang</surname><given-names>Dongbo</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib>
+<contrib contrib-type="author" corresp="yes"><name><surname>Fernandez-Martinez</surname><given-names>Alejandro</given-names></name><xref ref-type="aff" rid="aff2">2</xref></contrib>
+<aff id="aff1"><label>1</label>National Institute of Standards and Technology, Polymers Division, Gaithersburg, MD 20899, USA.</aff>
+<aff id="aff2"><label>2</label>Centre National de la Recherche Scientifique and Universit&#x00E9; Joseph-Fourier Grenoble I, Institut des Sciences de la Terre, B.P. 53X, Grenoble cedex 9, 38041, France.</aff>
+</contrib-group>
+<author-notes>
+<corresp>E-mail: <email>dongbo.wang@nist.gov</email>; <email>alex.fernandez-martinez@obs.ujf-grenoble.fr</email></corresp>
+</author-notes><pub-date pub-type="ppub">
+<day>17</day>
+<month>08</month>
+<year>2012</year>
+</pub-date><volume>337</volume><issue>6096</issue><fpage>812</fpage><lpage>813</lpage><permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>The repeat units of a crystalline material can be made up of disordered clusters.</p>
+</abstract>
+<abstract abstract-type="excerpt">
+<p>Our understanding of the atomic structure of materials relies on our ability to describe structural characteristics such as the short-range order (in the case of liquids or amorphous materials) or the periodicity inherent to crystalline materials. On page 825 of this issue, L. Wang <italic>et al.</italic> (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>) challenge our understanding of the inherent disorder that can be present in a crystal by presenting evidence for a crystalline material composed of amorphous clusters. They show that C<sub>60</sub> molecules from the crystalline solvated fullerene phase C<sub>60</sub>*<italic>m</italic>-xylene undergo an order-to-disorder transition under compression at &#x2248;35 GPa but keep their translational symmetry. A material can still possess long-range order even though its fundamental building blocks are disordered.</p>
+</abstract><custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Phillip D. Szuromi</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Cynthia Howe</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>Our understanding of the atomic structure of materials relies on our ability to describe structural characteristics such as the short-range order (in the case of liquids or amorphous materials) or the periodicity inherent to crystalline materials. On page <related-article related-article-type="in-this-issue" vol="337" page="825" issue="6096">825</related-article> of this issue, L. Wang <italic>et al.</italic> (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>) challenge our understanding of the inherent disorder that can be present in a crystal by presenting evidence for a crystalline material composed of amorphous clusters. They show that C<sub>60</sub> molecules from the crystalline solvated fullerene phase C<sub>60</sub>*<italic>m</italic>-xylene undergo an order-to-disorder transition under compression at &#x2248;35 GPa but keep their translational symmetry. A material can still possess long-range order even though its fundamental building blocks are disordered.</p>
+<p>The resulting phase&#x2014;a crystal composed of amorphous clusters or ordered amorphous carbon clusters (OACC)&#x2014;showed both the x-ray diffraction reflections typical of a hexagonal close-packed (hcp) lattice and the broad oscillations of diffuse scattering typical of amorphous materials. Raman spectra indicate a high degree of disorder at the subnanometer scale of an amorphous component, and inelastic x-ray scattering (IXS revealed a transition from <italic>sp</italic><sup>2</sup> carbon (that of native C<sub>60</sub>) to <italic>sp</italic><sup>3</sup> carbon. Together, these data provide strong evidence of a chemically heterogeneous and structurally disordered system, which could be termed amorphous. However, the <italic>m</italic>-xylene organic spacer that solvates the surfaces of the disordered carbon clusters is not highly reactive under the high pressures of the experiments and likely remains spatially ordered.</p>
+<p>A simple classification of the degree of static topological order in solid-state materials can be established by quantifying their proximity to being crystalline or amorphous. The vast majority of materials exist within the continuum between these two end members (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>, <xref ref-type="bibr" rid="R3"><italic>3</italic></xref>). On one side, static disorder in crystalline materials has long been of interest because of the need to control defects in engineered materials for various applications. Crystallographic defects such as vacancies, interstitials, or stacking faults decrease the coherence of the crystal lattice, especially in crystalline nanomaterials, where a large number of atoms are at the interface resulting in surface relaxation effects that further reduce the size of their coherent domains (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>).</p>
+<fig id="F1" position="float">
+<caption>
+<title>Order up.</title>
+<p>Short-range order in most materials shows a strong dependence on long-range topological static order or disorder. Wang <italic>et al.</italic> show that the formation of OACC enlarges our current knowledge of this order-disorder diagram by expanding it to a region where amorphous clusters can be arranged in a periodic lattice, and it may serve as a conceptual end member to quasicrystals, which show substantial short-range ordering but little topological static ordering. In OACC, weak interacting solvent molecules of <italic>m</italic>-xylene act as spacers of the amorphous carbon clusters and hold the periodic structure.</p>
+</caption>
+<graphic xlink:href="337_812_F1" /></fig>
+<p>Another example of crystalline solids showing a high degree of crystallographic disorder (i.e., disorder relative to a defect-free periodic lattice) is the cationic disorder. In solid electrolytes, such as AgS<sub>2</sub> or AgI, silver cations form a sublattice that exhibits a high degree of disorder, which results in a diffraction pattern with both amorphous and crystalline characteristics (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>). In clay minerals, cations occupy positions in the interlayer pores that compensate the negative structural charge generated by isomorphic substitutions randomly distributed within the solid framework (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>).</p>
+<p>On the other end, although amorphous solids do not typically show long-range order, they can sometimes show hints of medium-range order (MRO) at the nanometer scale, especially when strong interatomic interactions are present (i.e., covalent solids) (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>). In some of these materials, the &#x201C;stiffness&#x201D; and stereochemical (or directed) character of the intramolecular bonds is translated into a certain pseudo-periodicity at the medium-range scale that is reflected by the presence of a prepeak or first sharp diffraction peak in the x-ray or neutron diffraction pattern. Possible origins for MRO include the presence of interstitial-void correlations, the formation of ring-structure topologies, cation-cation correlations, or density fluctuations [see Zaug <italic>et al.</italic> (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>) and references therein].</p>
+<p>How do the findings of Wang <italic>et al.</italic> integrate into our current understanding of statically ordered or disordered materials (see the figure)? Generally, highly crystalline materials form through crystal-growth processes near equilibrium in the absence of impurities, or they are annealed at high temperatures in order to reach low-energy topological configurations. Under these conditions, growth units attach without structural distortion. At conditions further from equilibrium or in the presence of impurities, structural distortions (defects) result in higher degrees of structural disorder but the materials is still crystalline.</p>
+<p>However, amorphous materials are synthesized by introducing substantial levels of impurities or by rapid formation during a phase transition, commonly melt quenching or solution precipitation, under conditions far from equilibrium. When disorder is induced during a phase transition, it extends to the molecular or atomic scale and necessarily propagates to longer length scales. When such materials are formed, it is likely impossible to introduce structural coherency over longer length scales, resulting in materials with hints of MRO at best.</p>
+<p>Another mode of building order is the recently reported formation of mesocrystals (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>) and the occurrence of oriented attachment pathways (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>, <xref ref-type="bibr" rid="R11"><italic>11</italic></xref>). Under conditions far from equilibrium, nanoparticles nucleate but grow so slowly that they aggregate in a structurally coherent manner. However, long-range order is hindered by low-angle misalignment between nanoparticles. Another unusual mode of building materials is found in quasicrystals, where metals can precipitate with high degrees of short-range rotational symmetry ordering that lack translational symmetry, resulting in poor long-range ordering.</p>
+<p>The formation of OACC generates partial disorder through a secondary process, in this case pressure-induced amorphization, where the C<sub>60</sub> component is deformable but the <italic>m</italic>-xylene is not. This approach could be generalized to produce hybrid structures, where one component in a multicomponent system could be designed to deform and become amorphous. The presence of a weak interacting spacer molecule seems to be an important requirement in order to keep crystallinity in the final deformed system. This work opens the door for the synthesis of intercalated <italic>sp</italic><sup>3</sup> amorphous carbon materials with the potential for a huge variety of physical properties. For example, if dopant molecules replaced the <italic>m</italic>-xylene space, it might be possible to combine the superconductivity in alkali metal-intercalated C<sub>60</sub> (fullerides) (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>) and the exceptional high hardness (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>) in <italic>sp</italic><sup>3</sup> three-dimensional polymers of C<sub>60</sub>.</p>
+</body>
+<back>
+<ack>
+<title>Acknowledgments</title>
+<p>We thank A. F. Wallace, W. J. Boettinger, and R. Poloni for helpful discussions.</p>
+</ack>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1">
+<label>1</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>L.</given-names></name><etal/></person-group>., <source>Science</source>
+<volume>337</volume>, <fpage>825</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<note><p>Dynamically induced disorder is common in many high-temperature phases of molecular solids, such as polymer crystals, or even in C<sub>60</sub> fullerites, where the C<sub>60</sub> molecules rotate freely around their centers in a face-centered cubic lattice (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>).</p></note>
+</ref>
+<ref id="R3">
+<label>3</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>David</surname><given-names>W. I. F.</given-names></name><etal/></person-group>., <source>Europhys. Lett.</source>
+<volume>18</volume>, <fpage>219</fpage> (<year>1992</year>).</citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Billinge</surname><given-names>S. J. L.</given-names></name><name><surname>Kanatzidis</surname><given-names>M. G.</given-names></name></person-group>, <source>Chem. Commun. (Camb.)</source>
+<volume>2004</volume>, <fpage>749</fpage> (<year>2004</year>).</citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Blanton</surname><given-names>T.</given-names></name><etal/></person-group>., <source>Powder Diffraction</source>
+<volume>26</volume>, <fpage>114</fpage> (<year>2011</year>).</citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Sposito</surname><given-names>G.</given-names></name><etal/></person-group>., <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>96</volume>, <fpage>3358</fpage> (<year>1999</year>).</citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Elliott</surname><given-names>S. R.</given-names></name></person-group>, <source>Nature</source>
+<volume>354</volume>, <fpage>445</fpage> (<year>1991</year>).</citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Zaug</surname><given-names>J. M.</given-names></name><etal/></person-group>., <source>Nat. Mater.</source>
+<volume>7</volume>, <fpage>890</fpage> (<year>2008</year>).</citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<citation citation-type="book">
+<person-group person-group-type="author"><name><surname>Colfen</surname><given-names>H.</given-names></name><name><surname>Antonietti</surname><given-names>M.</given-names></name></person-group>, <source>Mesocrystals and Nonclassical Crystallization</source> (<publisher-name>Wiley</publisher-name>, <publisher-loc>Chichester, UK</publisher-loc>, <year>2008</year>), pp. <fpage>113</fpage>&#x2013;<lpage>177</lpage>.</citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>D.</given-names></name><etal/></person-group>., <source>Science</source>
+<volume>336</volume>, <fpage>1014</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Penn</surname><given-names>R. L.</given-names></name><name><surname>Banfield</surname><given-names>J. F.</given-names></name></person-group>, <source>Science</source>
+<volume>281</volume>, <fpage>969</fpage> (<year>1998</year>).</citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Tanigaki</surname><given-names>K.</given-names></name><etal/></person-group>., <source>Nature</source>
+<volume>352</volume>, <fpage>222</fpage> (<year>1991</year>).</citation>
+</ref>
+<ref id="R13">
+<label>13</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Yamanaka</surname><given-names>S.</given-names></name><etal/></person-group>., <source>Phys. Rev. Lett.</source>
+<volume>96</volume>, <fpage>076602</fpage> (<year>2006</year>).</citation>
+</ref>
+</ref-list>
+</back>
+</article>

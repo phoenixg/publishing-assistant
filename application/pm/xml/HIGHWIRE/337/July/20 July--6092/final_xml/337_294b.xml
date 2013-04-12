@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="book-review" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1224874</article-id>
+<article-id pub-id-type="doi">10.1126/science.1224874</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Book Review</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Books <italic>et al.</italic></subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>books</subject></subj-group>
+<subj-group subj-group-type="field"><subject>ENGINEERING</subject><subject>EVOLUTION</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Biomechanics</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Evolution and Robots</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>White</surname><given-names>Michael A.</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib>
+<aff id="aff1"><label>1</label>The reviewer is at the Department of Genetics, Washington University, 4444 Forest Park Avenue, St. Louis, MO 63108-2212, USA.</aff>
+</contrib-group>
+<author-notes>
+<corresp>E-mail: <email>mwhite@genetics.wustl.edu</email></corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<day>20</day>
+<month>07</month>
+<year>2012</year>
+</pub-date>
+<volume>337</volume>
+<issue>6092</issue>
+<fpage seq="b">294</fpage>
+<lpage>295</lpage>
+<product product-type="book"><bold>Darwin's Devices: What Evolving Robots Can Teach Us About the History of Life and the Future of Technology.</bold> John Long. Basic Books, New York, 2012. 281 pp. $26.99, C$30, &#x00A3;17.99. ISBN 9780465021413.</product>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser"><p>Long discusses his use of autonomous robotic fish to study vertebrate biomechanics and evolution.</p></abstract>
+<abstract abstract-type="web-summary"><p>Long discusses his use of autonomous robotic fish to study vertebrate biomechanics and evolution.</p></abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Sherman J. Suter</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Lauren Kmec</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>I am envious of those who when asked what they work on can respond, &#x201C;I study the evolution of robots.&#x201D; John Long (a vertebrate physiologist at Vassar College) is one such researcher, and reading <italic>Darwin's Devices</italic> is like listening, over drinks, to a voluble, engaging, and funny scientist tell you about his work. On occasion, his jargon gets a little heavy, he will toss in an unexplained concept, or he will digress about his youthful dreams to join the Navy. But for the most part, Long draws you into a compelling and wide-ranging conversation. This includes discussions of the mechanics of fish backbones, how we practice science, the nature of evolution, what it means to be intelligent, our dystopian robot future, and, most important, the crucial role of good models in science.</p>
+<fig id="F1" position="float">
+<caption>
+<title>Robot Madeleine, an aquatic tetrapod.</title>
+</caption>
+<graphic xlink:href="337_294b_F1"></graphic>
+<attrib>CREDIT: JOHN LONG</attrib>
+</fig>
+<p><italic>Darwin's Devices</italic> recounts the efforts of Long and his colleagues to study the biomechanics and evolution of vertebrae in fish using autonomous, aquatic robots as models. Long is interested in whether natural selection for more efficient food-seeking behavior could have led to the appearance of stiff backbones in the earliest vertebrates. By allowing robots with different backbone properties to compete with each other and by having the winners pass their traits down to the next generation of robots, Long and his collaborators follow backbone evolution in their population of robotic fish.</p>
+<p>As Long explains his work, he presents an insider's tour of the practice of science. He offers hints on how to justify your research proposal to reviewers, carefully plan your experiments, deal with results that refute your hypothesis (&#x201C;[i]n science this kind of failure is called progress&#x201D;), and respond to criticism of your conclusions. He also includes accessible and careful discussions of the basic principles of evolutionary biology, which are nicely illustrated in the robot experiments. These features of the book will reward lay readers, because the scientific process and evolutionary biology are widely misunderstood.</p>
+<p>Another topic commonly misunderstood, even within the scientific community, is the use of models. Not surprisingly, Long was challenged to justify to colleagues and reviewers his use of robotic fish as models of vertebrate evolution, because the simple robots clearly lack many important features of actual fish. <italic>Darwin's Devices</italic> presents an extended argument for why his robots are good models; in the process, it demonstrates why simple models of complex systems are powerful tools in biology.</p>
+<p>Models capture our ideas about a system in concrete form, and they enable us to explore the implications of those ideas. Good models do not merely recreate the behavior of the represented system. They also provide a means to test hypotheses about key causal relationships that underlie the system's behavior. Their focused simplicity enables scientists to address specific questions without the obscuring influence of the full complexity of the original system. Embodied representations, robot models enjoy an advantage over in silico simulations in that they never inadvertently violate physical laws.</p>
+<p>Long designs his robotic experiments to evaluate specific hypotheses that would be impossible to test in live fish, much less extinct ones. His informative, and often surprising, results serve as an interesting case study that illustrates the value of models in biology.</p>
+<p>Accessible and thought-provoking, <italic>Darwin's Devices</italic> provides an exemplary account of scientific practice for the general reader. Of course, it benefits from the inclusion of stories about robots.</p>
+</body>
+</article>

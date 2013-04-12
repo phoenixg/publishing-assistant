@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1232999</article-id>
+<article-id pub-id-type="doi">10.1126/science.1232999</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Special Issue Research Article</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>special/r-articles</subject></subj-group>
+<subj-group subj-group-type="field"><subject>ANTHRO</subject><subject>ONLINE</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Anatomy</subject><subject>Anthropology</subject><subject>Paleontology</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>The Lower Limb and Mechanics of Walking in <italic>Australopithecus sediba</italic></article-title><alt-title alt-title-type="running-head"><italic>Australopithecus sediba</italic></alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>DeSilva</surname><given-names>Jeremy M.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref ref-type="corresp" rid="cor1">*</xref></contrib> <contrib contrib-type="author"><name><surname>Holt</surname><given-names>Kenneth G.</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Churchill</surname><given-names>Steven E.</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Carlson</surname><given-names>Kristian J.</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref ref-type="aff" rid="aff5"><sup>5</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Walker</surname><given-names>Christopher S.</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Zipfel</surname><given-names>Bernhard</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref ref-type="aff" rid="aff6"><sup>6</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Berger</surname><given-names>Lee R.</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib>
+<aff id="aff1"><label>1</label>Department of Anthropology, Boston University, 232 Bay State Road, Boston, MA 02215, USA.</aff>
+<aff id="aff2"><label>2</label>Evolutionary Studies Institute, University of the Witwatersrand, Private Bag 3, Wits 2050, South Africa.</aff>
+<aff id="aff3"><label>3</label>Department of Physical Therapy and Athletic Training, Sargent College, 635 Commonwealth Avenue, Boston University, Boston, MA 02215, USA.</aff>
+<aff id="aff4"><label>4</label>Department of Evolutionary Anthropology, Box 90383, Duke University, Durham, NC 27708, USA.</aff>
+<aff id="aff5"><label>5</label>Department of Anthropology, Indiana University, Bloomington, IN 47405, USA.</aff>
+<aff id="aff6"><label>6</label>Bernard Price Institute for Palaeontological Research, School of Geosciences, University of the Witwatersrand, Private Bag 3, Wits 2050, South Africa.</aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>Corresponding author. E-mail: <email xlink:href="jdesilva@bu.edu">jdesilva@bu.edu</email></corresp></author-notes>
+<pub-date pub-type="ppub"><day>12</day><month>04</month><year>2013</year></pub-date>
+<volume>340</volume>
+<issue>6129</issue>
+<issue-title content-type="special-issue"><italic>Australopithecus sediba</italic></issue-title>
+<elocation-id>1232999</elocation-id>
+<history><date date-type="received"><day>20</day><month>11</month><year>2012</year></date><date date-type="accepted"><day>13</day><month>03</month><year>2013</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract>
+<p>The discovery of a relatively complete <italic>Australopithecus sediba</italic> adult female skeleton permits a detailed locomotor analysis in which joint systems can be integrated to form a comprehensive picture of gait kinematics in this late australopith. Here we describe the lower limb anatomy of <italic>Au. sediba</italic> and hypothesize that this species walked with a fully extended leg and with an inverted foot during the swing phase of bipedal walking. Initial contact of the lateral foot with the ground resulted in a large pronatory torque around the joints of the foot that caused extreme medial weight transfer (hyperpronation) into the toe-off phase of the gait cycle (late pronation). These bipedal mechanics are different from those often reconstructed for other australopiths and suggest that there may have been several forms of bipedalism during the Plio-Pleistocene.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Print abstract page</meta-name><meta-value>164</meta-value></custom-meta></custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<boxed-text content-type="sci-custom 6129-sediba"><p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/site/extra/sediba/index.xhtml">Index to <italic>Australopithecus sediba</italic> special section</ext-link></p></boxed-text>
+<p>The locality of Malapa, South Africa, has yielded two relatively complete skeletons of <italic>Australopithecus sediba</italic>, dated at 1.977 million years ago (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>, <xref ref-type="bibr" rid="R2"><italic>2</italic></xref>). This species has a combination of primitive and derived features in the hand (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>), upper limb (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>), thorax (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>), spine (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>), and foot (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>) in a hominin with a relatively small brain (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>), a human-like pelvis (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>), and a mosaic of <italic>Homo</italic>- and <italic>Australopithecus</italic>-like craniodental anatomy (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>, <xref ref-type="bibr" rid="R10"><italic>10</italic></xref>, <xref ref-type="bibr" rid="R11"><italic>11</italic></xref>). The foot in particular possesses an anatomical mosaic not present in either <italic>Au. afarensis</italic> or <italic>Au. africanus</italic> (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>), supporting the contention that there were multiple forms of bipedal locomotion in the Plio-Pleistocene (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). The recent discovery of an <italic>Ardipithecus</italic>-like foot from 3.4-million-year-old deposits at Burtele, Ethiopia, further shows that at least two different kinematic solutions to bipedalism coexisted in the Pliocene (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>). Here we describe the lower limb of <italic>Au. sediba</italic> [specimen numbers and attributions are provided in table S1 (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>)] and propose a hypothesis for how this late australopith walked.</p>
+<sec sec-type="other1" disp-level="1">
+<title>Lower Limb of MH1</title>
+<p>The holotype of <italic>Au. sediba</italic> is Malapa Hominin 1 (MH1), a juvenile male partial skeleton whose lower limb consists of a right proximal femur (fig. S1), small shaft fragments from the tibia and fibula, and foot bones already described (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>) (table S1). The proximal femur is australopith-like, with a long, anteroposteriorly compressed femoral neck (fig. S2) and low neck-shaft angle (110&#x00B0; to 115&#x00B0;) (table S2). Posterolaterally, there is a third trochanter, inferior to which is a well-developed hypotrochanteric fossa, a human feature reflecting a large insertion area for the gluteus maximus (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>).</p>
+</sec>
+<sec sec-type="other2" disp-level="1">
+<title>Lower Limb of MH2</title>
+<p>The lower limb of MH2, an adult female, consists of a right femoral head and neck, part of the proximal femoral shaft, the left proximal fibula, and the right knee joint (including the patella). Additionally, as already described (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>), MH2 preserves an articulated distal tibia, talus, and calcaneus and a partial fifth metatarsal. The proximal femur preserves much of the head and neck (fig. S1). As in MH1, the neck is anteroposteriorly compressed (table S2). Viewed superiorly, the head appears to be prolonged anteriorly, as is the case in most humans (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>).</p>
+<p>The right knee of MH2 is represented by an 86.7-mm-long fragment of the distal femur (fig. S3), two fragments that conjoin to form most of the tibial plateau (fig. S4), and a relatively complete patella composed of two conjoining fragments, one of which remains partially embedded in calcified sediment. This part of the patella has been digitally extracted from micro&#x2013;computed tomography (&#x03BC;CT) scans, and a nearly complete knee cap has been reconstructed (fig. S5). The posteromedial part of the distal femur has been sheared away, but the lateral condyle, patellar articular surface, distal shaft, and most of the medial condyle are well preserved. The bicondylar angle is estimated to be ~9&#x00B0;, which is within the range of modern humans but is low for an australopith (table S3). There is a sustrochlear hollow just superior to the patellar surface, evidence of contact with the patella in a fully extended position (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>) (fig. S6). There is a strong medial condylar boss, an anatomy unique to hominins, and evidence for a &#x201C;tibial dominant&#x201D; knee capable of full extension (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>) (fig. S7). Most notable is the high lateral patellar lip. The lateral trochlear groove angle (<xref ref-type="bibr" rid="R19"><italic>19</italic></xref>) is 31.3&#x00B0;, 3 SD above the modern human mean (<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>) and far greater than any ape trochlear angle, because apes tend to have flat trochlear grooves (<xref ref-type="fig" rid="F1">Fig. 1</xref>). A high lateral patellar lip serves as a bony mechanism for patellar retention during bipedal gait (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>, <xref ref-type="bibr" rid="R22"><italic>22</italic></xref>). The extension of the lateral lip in <italic>Au. sediba</italic> is not a function of overall anterior expansion of the patellar surface, as is found in <italic>Homo</italic> (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>), and is restricted just to the lateral side (fig. S8). Laterally, there is a deep groove for the popliteus, an internal rotator of the tibia and stabilizer of the knee. This muscle may have been important in resisting internal rotation of the femur during stance phase. The relatively narrow tibial spines on the MH2 tibial plateau suggest enhanced knee mobility (<xref ref-type="bibr" rid="R23"><italic>23</italic></xref>), although this anatomy may also be related to the small size of <italic>Au. sediba</italic> (<xref ref-type="bibr" rid="R24"><italic>24</italic></xref>).</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption>
+<title>The lateral patellar lip.</title>
+<p>The lateral trochlear groove angle (<xref ref-type="bibr" rid="R19"><italic>19</italic></xref>) is similar in <italic>Australopithecus</italic> (TM 1513, Sts 34, A.L. 129-1, A.L. 333-4, and A.L. 333w-56), early <italic>Homo</italic> (KNM-ER 1472, KNM-ER 1481, and KNM-WT 15000), and modern humans (<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>). This measurement in MH2 (U.W. 88-63)<italic> </italic>is over 3 SD higher than in modern humans. Apes have flat trochlear grooves (<italic>18</italic>) (fig. S7) and thus lateral trochlear groove angles near zero. Bottom images, from left to right, are as follows: TM 1513, KNM-ER 1472, modern human, and MH2, all scaled to the same size. They have been positioned so that the medial patellar surface is horizontal, which corresponds closely to the orientation recommended in (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>). Note the extreme lateral patellar lip in MH2.</p>
+</caption><graphic xlink:href="340_1232999_F1"></graphic></fig>
+<p>On the proximal tibia, the medial condyle is flat and the lateral condyle is slightly convex anteroposteriorly, similar to the condition found in other small australopiths (specimens A.L. 129-1 and StW 514), although the functional importance of this convexity is unclear (<xref ref-type="bibr" rid="R25"><italic>25</italic></xref>). There appears to be a small notch on the lateral plateau, perhaps indicating the presence of a double meniscus attachment and thus possibly greater osteoligamentous control over rotation at the knee as in <italic>Homo</italic> proximal tibiae (<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>). However, the absence of this notch in other australopiths does not necessarily imply the absence of a double insertion (<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>).</p>
+<p>The patella is small, measuring 27.1 mm wide mediolaterally and 13.1 mm thick anteroposteriorly. It is 24.7 mm tall superoinferiorly, which is probably just short of the actual height, because there is some damage to the distolateral aspect of the apex. The posterior part of the patella is human-like in being strongly convex mediolaterally (fig. S9), with a high central keel separating the condylar facets medially and laterally.</p>
+<p>The most proximal 97.1 mm of the left fibula of MH2 is preserved as four conjoining fragments (fig. S10). The fibula is more gracile than modern ape fibulae and in this respect resembles specimen OH 35 (fig. S11). The MH2 fibula has an osteophytic growth at the biceps femoris insertion.</p>
+</sec>
+<sec sec-type="other3" disp-level="1">
+<title>Lower Limb of MH4</title>
+<p>MH4, an adult or near-adult individual of unknown sex, is represented by two conjoining pieces of a tibia described previously (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>). Here we provide an estimated total length, possible because the proximal tibia, though not recovered, has left a natural cast of its anterior surface in the calcified sediment (fig. S12). We estimate total tibial length at approximately 271 mm, with a possible range of 267 to 275 mm, depending on the degree of proximal tibial retroversion and the proximal projection of the tibial spines.</p>
+</sec>
+<sec sec-type="other4" disp-level="1">
+<title>The Kinematics of Walking in <italic>Au. sediba</italic></title>
+<p>The anatomy of the foot (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>), spine (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>), pelvis (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>), and knee (this paper) indicate that <italic>Au. sediba</italic> was an obligate biped. Based primarily on the lower limb, pelvic, and vertebral morphology of MH2, and to a lesser extent on the pedal morphology of MH1, we propose that <italic>Au. sediba</italic> was a hyperpronator (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>) with exaggerated medial weight transfer during the stance phase of terrestrial bipedalism (<xref ref-type="fig" rid="F2">Fig. 2</xref>). Modern human hyperpronators serve as a kinematic reference model for this gait and its musculoskeletal consequences. We suggest that MH2 expressed this kinematic variation, and <italic>Au. sediba</italic> did with regular frequency, although the hypothesis that the entire species walked in this manner will require further testing with additional fossil material (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>).</p>
+<fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption>
+<title>Hyperpronation.</title>
+<p>(<bold>A</bold>) The pedal bones of <italic>Au. sediba</italic> are superimposed on a human foot in dorsal view. These bones are not all from the same individual (see table S1 for details). We hypothesize that MH2 would have contacted the ground along the lateral edge of an inverted foot. This would generate a ground reaction resultant (blue arrows) that would be positioned lateral to the joints of the foot, creating a large pronatory torque (red arrows). Although apes often land along the lateral edge of an inverted foot (<xref ref-type="bibr" rid="R30"><italic>30</italic></xref>, <xref ref-type="bibr" rid="R31"><italic>31</italic></xref>), they swing their body mass laterally over the stance foot during bipedal gait, effectively producing a counteracting supinatory torque. <italic>Au. sediba</italic> had a pelvis with sagitally oriented ilia (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>), suggesting a human-like abductor mechanism and in turn suggesting a medially positioned center of mass relative to the stance leg (illustrated by the large blue arrow at bottom left). This position of the center of mass would exacerbate the pronatory torque at the subtalar, midtarsal, and tarsometatarsal joints. (<bold>B</bold>) Excessive pronation on a weight-bearing foot (curved red arrow) causes a chain of rotatory movements proximal to the foot. The tibia internally rotates (green arrow) as the talus plantarflexes and adducts. The femur also internally rotates [(<italic>42</italic>, <italic>43</italic>); curved blue arrow], increasing the lateral deviation of the patella (small blue arrow). Pronation at the foot causes an anterior pitch of the center of mass [(<italic>34, 43</italic>); black arrow], counteracted by hyperlordosis of the lumbar region (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). <italic>Au. sediba</italic> possesses anatomies that are adaptive to, or consequences of, these motions.</p>
+</caption><graphic xlink:href="340_1232999_F2"></graphic></fig>
+<p>At heel strike of bipedal locomotion, humans commonly have a slightly supinated rearfoot and forefoot, which are passively driven by the ground reaction force into pronation of the subtalar and more distal joints during the subsequent midstance phase of walking. Video and plantar pressure data reveal that apes contact the ground with the heel (<xref ref-type="bibr" rid="R29"><italic>29</italic></xref>) and often the lateral midfoot simultaneously in what has been termed &#x201C;inverted heel-strike plantigrady&#x201D; (<xref ref-type="bibr" rid="R30"><italic>30</italic></xref>, <xref ref-type="bibr" rid="R31"><italic>31</italic></xref>). The abducted hallux serves a stabilizing role during quadrupedal walking in apes, contributing little to propulsion (<xref ref-type="bibr" rid="R31"><italic>31</italic></xref>). The divergent hallux is suggested to have served a similar stabilizing role during bipedal walking in <italic>Ardipithecus ramidus</italic> (<xref ref-type="bibr" rid="R32"><italic>32</italic></xref>).</p>
+<p>In a small percentage of modern humans, the foot is excessively inverted (termed forefoot and/or rearfoot varus) during the swing phase of walking, resulting in heel strike with the foot in a highly supinated posture, with ground contact established along the lateral border of the heel and forefoot (<xref ref-type="bibr" rid="R33"><italic>33</italic></xref>). Contact between the ground and the lateral side of the foot introduces a large pronatory torque around the subtalar and more distal joints, which drives the foot into pronation (<xref ref-type="bibr" rid="R33"><italic>33</italic></xref>, <xref ref-type="bibr" rid="R34"><italic>34</italic></xref>). As the foot is driven into pronation, there are high medially directed torques that can not only cause excess loading on the bones of the medial column of the foot (<xref ref-type="bibr" rid="R35"><italic>35</italic></xref>) but also stress the soft tissues, such as the ligaments supporting the medial longitudinal arch and the muscles whose tendons insert plantomedially, particularly the tibialis anterior and tibialis posterior. Plantar fasciitis, medial tibial stress syndrome (shin splints), and tibial stress fractures are therefore common injuries experienced by late and hyperpronating modern humans (<xref ref-type="bibr" rid="R34"><italic>34</italic></xref>). Although hyperpronation can have pathological consequences in modern humans, we are proposing here that the skeleton of <italic>Au. sediba</italic> reveals a suite of anatomies that are adaptive for, or consequences of, this kind of walking (<xref ref-type="fig" rid="F3">Fig. 3</xref>).</p>
+<fig id="F3" position="float" fig-type="figure"><label>Fig. 3</label><caption>
+<title>Skeletons of <italic>Au. sediba</italic>: left, MH1 (pictured with MH4 tibia); right, MH2.</title>
+<p>Several anatomies of these skeletons are consistent with a hyperpronating gait. The base of the fourth metatarsal is convex, indicating that the midfoot was hypermobile. The medial malleolus and talar head are hypertrophied, reflecting loading of an inverted foot and mobility at the talonavicular joint, respectively. The rearfoot is in an inverted position, a risk factor for hyperpronation in modern humans. Hyperpronators internally rotate the femur and tibia and are at a greater risk for patellar dislocation. The high lateral patellar lip reduces the risk of patellar subluxation. Osteophytes on the origin of the rectus femoris/iliofemoral ligament proximal attachment and insertion of the biceps femoris indicate soft tissue strain: possible consequences of a hyperpronating gait. MH2 has elevated lumbar lordosis (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>), perhaps to compensate for the excessive anterior pitch of the center of mass common in hyperpronators.</p>
+</caption><graphic xlink:href="340_1232999_F3"></graphic></fig>
+<p>Reconstruction of the conjoined elements of the rearfoot of MH2 demonstrates that the calcaneus had an inverted set (fig. S13), which is a contributing factor to hyperpronation in modern humans (<xref ref-type="bibr" rid="R36"><italic>36</italic></xref>). However, the inverted heel itself would not necessarily produce a pronatory torque, because there is considerable variation in the position of the subtalar joint axis relative to the ground reaction force location (<xref ref-type="bibr" rid="R37"><italic>37</italic></xref>). MH2 also had a gracile calcaneal tuber (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>), with a superiorly positioned lateral plantar process, which reduced the surface area of the plantar aspect of the heel in <italic>Au. sediba</italic> and would have reduced the effectiveness of the subcalcaneal heel pad (based on size information rather than material properties), which has been shown to dissipate peak stress during heel strike (<xref ref-type="bibr" rid="R38"><italic>38</italic></xref>). To compensate, we hypothesize that <italic>Au. sediba</italic> landed simultaneously on the heel and along the lateral foot at touch down, in much the same way that African apes walk (inverted heel-strike plantigrady) (<xref ref-type="bibr" rid="R31"><italic>31</italic></xref>). This is achievable in a bipedal hominin that has full knee extension by slightly increasing normal plantarflexion angle during foot contact. Because of the wider midfoot and forefoot, landing along the lateral side of an inverted foot would provide a large moment arm around the midtarsal and tarsometatarsal joints that would also transfer to the subtalar joint. Thus, a large pronatory torque would drive the foot into pronation (<xref ref-type="fig" rid="F2">Fig. 2</xref>). There is suggestive evidence for excessive pronation in the <italic>Au. sediba</italic> tarsals. An elevated degree of pronation is possible in <italic>Au. sediba</italic>, because the subtalar joint has a high radius of curvature and is therefore quite mobile and capable of an extreme range of motion (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>). The relatively large talar head of MH2 (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>) may signal elevated talonavicular mobility, especially because this joint is central to midfoot pronation in humans (<xref ref-type="bibr" rid="R39"><italic>39</italic></xref>).</p>
+<p>Landing on an inverted foot would also load the medial portion of the tibiotalar joint and introduce a shear force across the medial malleolus. This may explain the form of the medial malleoli of both MH2 and MH4, which are mediolaterally thicker than those of other fossil hominins or modern humans (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>). However, pronation does not occur at the tibiotalar joint but at the subtalar joint and joints of the midfoot. As the foot is driven into pronation by a high pronatory torque, the more distal parts of the medial foot would be excessively loaded (<xref ref-type="bibr" rid="R35"><italic>35</italic></xref>). A foot adapted for this kind of locomotion may therefore be expected to exhibit increased mechanical reinforcement of bones in the medial portion of the foot. We predict that, if additional foot elements are recovered, we will see greater joint and diaphyseal robusticity in medial relative to lateral tarsals, metatarsals, and phalanges (<xref ref-type="table" rid="T1">Table 1</xref>).</p>
+<table-wrap id="T1" position="float"><label>Table 1</label><caption>
+<p><bold>Evidence for hyperpronation in <italic>Au. sediba.</italic></bold></p>
+</caption>
+<table frame="hsides" rules="groups">
+<col width="33.64%"/>
+<col width="33.23%"/>
+<col width="33.13%"/>
+<thead>
+<tr>
+<td valign="top" align="left" scope="col"><bold>Hyperpronating biomechanics</bold></td>
+<td valign="top" align="center" scope="col"><bold>Anatomical predictions</bold></td>
+<td valign="top" align="center" scope="col"><bold>Morphology in <italic>Au. sediba</italic></bold></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" scope="row">Initial ground contact on an<break/>inverted foot, resulting in<break/>high medially directed<break/>forces on tibiotalar joint</td>
+<td valign="top" align="left">Inverted calcaneus and<break/>thick medial malleolus</td>
+<td valign="top" align="left">Calcaneus in inverted set and<break/>predicted forefoot in varus<break/>set; thickest medial malleoli<break/>of any known hominin.</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Excessive pronation at<break/>subtalar joint</td>
+<td valign="top" align="left">Increased mobility at<break/>subtalar joint</td>
+<td valign="top" align="left">High radius of curvature<break/>of talar facet on calcaneus.</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Excessive pronation at<break/>midtarsal joints and<break/>tarsometatarsal joints</td>
+<td valign="top" align="left">Mobile midfoot in<break/>coronal plane</td>
+<td valign="top" align="left">Greatly enlarged talar head,<break/>suggestive of talonavicular<break/>mobility.</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Increased strain on soft<break/>tissue of medial foot</td>
+<td valign="top" align="left">Components of medial arch,<break/>plantar aponeurosis (if<break/>present), and tibialis<break/>posterior tendon under stress</td>
+<td valign="top" align="left">Currently unknown. Predicted<break/>robust navicular tuberosity;<break/>reduced metatarsophalangeal<break/>joint extension if plantar<break/>aponeurosis taut.</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Increased strain on foot<break/>bones distally and<break/>medially</td>
+<td valign="top" align="left">Increased robusticity of medial<break/>tarsals, metatarsals, and<break/>phalanges</td>
+<td valign="top" align="left">Currently unknown. Predicted to<break/>be relatively robust medially;<break/>if partially divergent, hallux<break/>could also help counter pronatory<break/>torque.</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Lowered arch and<break/>increased midfoot mobility</td>
+<td valign="top" align="left">Increased sagittal plane<break/>dorsiflexion evident in<break/>bones of midfoot</td>
+<td valign="top" align="left">Convex surface to base of fourth<break/>metatarsal indicative of midtarsal<break/>break; predicted concavity of<break/>metatarsal facets on cuboid.</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Increased knee mobility</td>
+<td valign="top" align="left">Greater rotatory capacity<break/>and greater role for knee<break/>stabilizers, such as<break/>popliteus and biceps femoris</td>
+<td valign="top" align="left">Tibial spines close together<break/>and enlarged popliteal<break/>groove on distal femur.</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Increased internal<break/>rotation of femur</td>
+<td valign="top" align="left">Increased strain on muscles<break/>crossing both hip and<break/>knee joints</td>
+<td valign="top" align="left">Osteophytic growths on both origin for<break/>rectus femoris and insertion of<break/>biceps femoris. Predicted to<break/>have enlarged origin on the anterior<break/>superior iliac spine for sartorius.</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Increased risk of patellar<break/>subluxation</td>
+<td valign="top" align="left">Bony adaptations for<break/>patellar retention</td>
+<td valign="top" align="left">Highest lateral patellar lip of<break/>any known hominin.</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Anterior tilt of the pelvis</td>
+<td valign="top" align="left">Increased lumbar lordosis</td>
+<td valign="top" align="left">Last lumbar vertebra has very<break/>high wedging angle.</td>
+</tr>
+</tbody></table></table-wrap>
+<p>During midstance, the foot is more mobile and better able to conform to its substrate. In hyperpronators, the talus adducts and plantarflexes excessively, dropping the longitudinal arch and contributing to hypermobility of the midfoot. Although we hypothesize that <italic>Au. sediba</italic> possessed an arched foot (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>) (fig. S14), there is also evidence for midfoot mobility. A right fourth metatarsal, possibly from MH1, has a highly convex base dorsoplantarly, suggesting the presence of midfoot flexion or a &#x201C;midtarsal break&#x201D; (<xref ref-type="bibr" rid="R40"><italic>40</italic></xref>). Other hominin fourth metatarsal bases from <italic>Au. afarensis</italic>, <italic>Au. africanus</italic>, and the OH 8 foot are human-like and do not exhibit evidence for a midtarsal break (<xref ref-type="fig" rid="F4">Fig. 4</xref>) (<xref ref-type="bibr" rid="R40"><italic>40</italic></xref>, <xref ref-type="bibr" rid="R41"><italic>41</italic></xref>). The convexity of the Malapa fourth metatarsal is thus unexpected and implies more mobility at the lateral tarsometatarsal joint in this hominin than in any other. We suggest that the seemingly contradictory anatomies in the foot of <italic>Au. sediba</italic> (possession of an arched foot and long plantar ligament together with midfoot mobility) can only be explained in the context of a bipedal foot that hyperpronates when weight-bearing (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>).</p>
+<fig id="F4" position="float" fig-type="figure"><label>Fig. 4</label><caption>
+<title>The fourth metatarsal.</title>
+<p>(<bold>Left</bold>)<bold> </bold>Curvature of the base of the fourth metatarsal in fossil hominins, humans, apes, and monkeys (<xref ref-type="bibr" rid="R40"><italic>40</italic></xref>). Humans and most fossil hominins, including <italic>Au. afarensis</italic> (<xref ref-type="bibr" rid="R41"><italic>41</italic></xref>), have flat bases, consistent with a stiff and immobile midfoot. The <italic>Au. sediba</italic> fourth metatarsal has a convex base. [The box-and-whiskers plot shows the median (vertical line), upper and lower quartiles (box), range (whiskers), and outliers (circles) for each group.] (<bold>Right)</bold> Digital renderings of the fourth metatarsal in medial view, illustrating the dorsoplantarly curved base morphology in apes and <italic>Au. sediba</italic> and the flat base in other hominins and in modern humans.</p>
+</caption><graphic xlink:href="340_1232999_F4"></graphic></fig>
+<p>In modern humans, excessive pronation may have damaging effects in lower limb joints proximal to the foot. In hyperpronators, the tibia and femur both internally rotate excessively (<xref ref-type="bibr" rid="R42"><italic>42</italic></xref>, <xref ref-type="bibr" rid="R43"><italic>43</italic></xref>) under a patella that is relatively fixed by the rectus femoris attachment to the anterior inferior iliac spine (AIIS) as the quadriceps femoris contracts to extend the leg during toe-off (<xref ref-type="bibr" rid="R34"><italic>34</italic></xref>). Because this occurs late in the gait cycle, during knee extension, the patella is pulled laterally, and thus hyperpronators are at risk for both patellofemoral pain (<xref ref-type="bibr" rid="R44"><italic>44</italic></xref>) and patellar subluxation (<xref ref-type="bibr" rid="R45"><italic>45</italic></xref>, <xref ref-type="bibr" rid="R46"><italic>46</italic></xref>). A hominin bony adaptation that helps prevent patellar subluxation is a raised lateral lip of the distal femur (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>, <xref ref-type="bibr" rid="R22"><italic>22</italic></xref>). The extreme lateral patellar lipping of MH2 (<xref ref-type="fig" rid="F1">Fig. 1</xref>) (figs. S7 and S8) may be an adaptation to resist injurious lateral translation of the patella during hyperpronation of the foot and resulting internal rotation of the tibia and femur during late stance phase. This skeletal adaptation in <italic>Au. sediba</italic> may also implicate a reduced or absent vastus medialis obliquus in counteracting lateral translation of the patella. The fact that a lateral lip is present at birth (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>, <xref ref-type="bibr" rid="R18"><italic>18</italic></xref>) can be extrapolated to indicate that the species <italic>Au. sediba</italic> (and not just MH2) was adapted for this kind of locomotion (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>). Furthermore, the large popliteal groove present on the MH2 femur may indicate strong muscular involvement in counteracting the internal rotation of the femur on a fixed tibia, because the popliteus acts as an external rotator of the femur during stance phase.</p>
+<p>Hyperpronation drives the entire leg medially during stance phase and may strain any muscle crossing both the knee and the hip joints (e.g., the rectus femoris), particularly those inserting laterally in the leg (e.g., the long head of the biceps femoris). As previously mentioned, the insertion for the biceps femoris on the proximal fibula is osteophytic, indicative of elevated strain on this insertion area (fig. S10). The MH2 ilium has an unusually large and projecting AIIS (fig. S15), suggesting that the rectus femoris (and/or iliofemoral ligament) was under considerable strain during gait. As the femur internally rotates and adducts, the AIIS will be stressed by excessive stretching of the rectus femoris tendinous origin. Finally, hyperpronators experience an anterior pitch of the center of mass relative to the hip joint (<xref ref-type="bibr" rid="R43"><italic>43</italic></xref>), requiring compensatory hyperlordosis to shift the center of mass posteriorly back over the hip joints, often resulting in lower back pain (<xref ref-type="bibr" rid="R34"><italic>34</italic></xref>). The last lumbar vertebra of <italic>Au. sediba</italic> has very high dorsal wedging, suggesting elevated lordosis (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>), which may have adapted this species to the challenges of being a hyperpronating biped.</p>
+<p>Although we find the evidence compelling that <italic>Au. sediba</italic>, or at least MH2, was a hyperpronating biped (<xref ref-type="fig" rid="F3">Fig. 3</xref> and <xref ref-type="table" rid="T1">Table 1</xref>), the selective advantage of this form of bipedality is unclear. There is little evidence that other known australopiths were hyperpronators, because the peculiar anatomies of the <italic>Au. sediba</italic> foot, knee, and hip are not found in earlier australopiths. Recent work on the Laetoli footprints (<xref ref-type="bibr" rid="R47"><italic>47</italic></xref>, <xref ref-type="bibr" rid="R48"><italic>48</italic></xref>) suggests that although the makers of the prints (presumably <italic>Au. afarensis</italic>) walked with a human-like gait, they had slightly less medial weight transfer. The hallux of <italic>Au. afarensis</italic> is domed and robust (<xref ref-type="bibr" rid="R49"><italic>49</italic></xref>), indicating that weight transfer was more human-like than ape-like, but there probably were at least subtle differences in how <italic>Au. afarensis</italic> walked as compared to most modern humans. We hypothesize that terrestrial bipedalism in <italic>Au. sediba</italic> also differed subtly from that in most humans today, with <italic>Au. sediba</italic> engaging in more weight transfer on to the medial foot (hyperpronation) rather than less, as may have been the case with <italic>Au. afarensis</italic>.</p>
+<p>Our interpretation of Malapa skeletal morphology extends the variation in <italic>Australopithecus</italic> locomotion. As suggested by others (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>, <xref ref-type="bibr" rid="R12"><italic>12</italic></xref>, <xref ref-type="bibr" rid="R13"><italic>13</italic></xref>), there were different kinematic solutions for being a bipedal hominin in the Plio-Pleistocene. The MH2 skeleton provides insight into one of those potential solutions: hyperpronation. This mode of locomotion may be a compromise between an animal that is adapted for extended knee bipedalism and one that either still had an arboreal component or had re-evolved a more arboreal lifestyle from a more terrestrial ancestor. There is some postcranial evidence that the South African species <italic>Au. africanus</italic> may have been more arboreal than the east African <italic>Au. afarensis</italic> (<xref ref-type="bibr" rid="R50"><italic>50</italic></xref>, <xref ref-type="bibr" rid="R51"><italic>51</italic></xref>), and a hypothesized close relationship between <italic>Au. africanus</italic> and <italic>Au. sediba</italic> (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>, <xref ref-type="bibr" rid="R11"><italic>11</italic></xref>), along with features in the upper limbs of the latter thought to reflect adaptations to climbing and suspension (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>, <xref ref-type="bibr" rid="R4"><italic>4</italic></xref>), is consistent with a retained arboreal component in the locomotor repertoire of <italic>Au. sediba</italic>. Pronation is an important foot motion that shifts weight onto the medial side of the foot in climbing apes (<xref ref-type="bibr" rid="R52"><italic>52</italic></xref>, <xref ref-type="bibr" rid="R53"><italic>53</italic></xref>) and serves a role in weight transfer, shock absorption, and negotiation of uneven substrates during human bipedal gaits. An animal that was adapted to do both reasonably well may have had to support an increasingly mobile foot by evolving a large mobile medial column and important stabilizing anatomies at the knee and hip, in order to survive in these dual worlds.</p>
+</sec>
+</body>
+<back><app-group><app>
+<title>Supplementary Materials</title><supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/340/6129/1232999/suppl/DC1">www.sciencemag.org/340/6129/1232999/suppl/DC1</ext-link></p>
+<p>Materials and Methods</p>
+<p>Supplementary Text</p>
+<p>Figs. S1 to S15</p>
+<p>Tables S1 to S3</p>
+<p>References (<xref ref-type="bibr" rid="R54"><italic>54</italic></xref>&#x2013;<xref ref-type="bibr" rid="R78"><italic>78</italic></xref>)</p></supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Berger</surname><given-names>L. R.</given-names></name><etal/></person-group>., 
+<article-title><italic>Australopithecus sediba</italic>: A new species of <italic>Homo</italic>-like australopith from South Africa</article-title>. <source>Science</source> 
+<volume>328</volume>, 
+<fpage>195</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1126/science.1184944</pub-id><pub-id pub-id-type="pmid">20378811</pub-id></citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Pickering</surname><given-names>R.</given-names></name><etal/></person-group>., 
+<article-title><italic>Australopithecus sediba</italic> at 1.977 Ma and implications for the origins of the genus <italic>Homo</italic></article-title>. <source>Science</source> 
+<volume>333</volume>, 
+<fpage>1421</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1126/science.1203697</pub-id><pub-id pub-id-type="pmid">21903808</pub-id></citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kivell</surname><given-names>T. L.</given-names></name><name><surname>Kibii</surname><given-names>J. M.</given-names></name><name><surname>Churchill</surname><given-names>S. E.</given-names></name><name><surname>Schmid</surname><given-names>P.</given-names></name><name><surname>Berger</surname><given-names>L. R.</given-names></name></person-group>, 
+<article-title><italic>Australopithecus sediba</italic> hand demonstrates mosaic evolution of locomotor and manipulative abilities</article-title>. <source>Science</source> 
+<volume>333</volume>, 
+<fpage>1411</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1126/science.1202625</pub-id><pub-id pub-id-type="pmid">21903806</pub-id></citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Churchill</surname><given-names>S. E.</given-names></name><etal/></person-group>., 
+<article-title>The upper limb of <italic>Australopithecus sediba</italic></article-title>. <source>Science</source> 
+<volume>340</volume>, 
+<fpage>1233477</fpage> (2013). <pub-id pub-id-type="doi">10.1126/science.1233477</pub-id></citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Schmid</surname><given-names>P.</given-names></name><etal/></person-group>., 
+<article-title>Mosaic morphology in the thorax of <italic>Australopithecus sediba</italic></article-title>. <source>Science</source> 
+<volume>340</volume>, 
+<fpage>1234598</fpage> (2013). <pub-id pub-id-type="doi">10.1126/science.1234598</pub-id></citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Williams</surname><given-names>S.</given-names></name><etal/></person-group>., 
+<article-title>The vertebral column of <italic>Australopithecus sediba</italic></article-title>. <source>Science</source> 
+<volume>340</volume>, 
+<fpage>1232996</fpage> (2013). <pub-id pub-id-type="doi">10.1126/science.1232996</pub-id></citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Zipfel</surname><given-names>B.</given-names></name><etal/></person-group>., 
+<article-title>The foot and ankle of <italic>Australopithecus sediba</italic></article-title>. <source>Science</source> 
+<volume>333</volume>, 
+<fpage>1417</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1126/science.1202703</pub-id><pub-id pub-id-type="pmid">21903807</pub-id></citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Carlson</surname><given-names>K. J.</given-names></name><etal/></person-group>., 
+<article-title>The endocast of MH1, <italic>Australopithecus sediba</italic></article-title>. <source>Science</source> 
+<volume>333</volume>, 
+<fpage>1402</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1126/science.1203922</pub-id><pub-id pub-id-type="pmid">21903804</pub-id></citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kibii</surname><given-names>J. M.</given-names></name><etal/></person-group>., 
+<article-title>A partial pelvis of <italic>Australopithecus sediba</italic></article-title>. <source>Science</source> 
+<volume>333</volume>, 
+<fpage>1407</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1126/science.1202521</pub-id><pub-id pub-id-type="pmid">21903805</pub-id></citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>de Ruiter</surname><given-names>D. J.</given-names></name><etal/></person-group>., 
+<article-title>Mandibular remains support taxonomic validity of <italic>Australopithecus sediba</italic></article-title>. <source>Science</source> 
+<volume>340</volume>, 
+<fpage>1232997</fpage> (2013). <pub-id pub-id-type="doi">10.1126/science.1232997</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Irish</surname><given-names>J. D.</given-names></name><name><surname>Guatelli-Steinberg</surname><given-names>D.</given-names></name><name><surname>Legge</surname><given-names>S. S.</given-names></name><name><surname>Berger</surname><given-names>L. R.</given-names></name><name><surname>de Ruiter</surname><given-names>D. J.</given-names></name></person-group>, 
+<article-title>Dental morphology and the phylogenetic &#x201C;place&#x201D; of <italic>Australopithecus sediba</italic></article-title>. <source>Science</source> 
+<volume>340</volume>, 
+<fpage>1233062</fpage> (2013). <pub-id pub-id-type="doi">10.1126/science.1233062</pub-id></citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Harcourt-Smith</surname><given-names>W. E. H.</given-names></name><name><surname>Aiello</surname><given-names>L. C.</given-names></name></person-group>, 
+<article-title>Fossils, feet and the evolution of human bipedal locomotion</article-title>. <source>J. Anat.</source> 
+<volume>204</volume>, 
+<fpage>403</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1111/j.0021-8782.2004.00296.x</pub-id><pub-id pub-id-type="pmid">15198703</pub-id></citation></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Haile-Selassie</surname><given-names>Y.</given-names></name><etal/></person-group>., 
+<article-title>A new hominin foot from Ethiopia shows multiple Pliocene bipedal adaptations</article-title>. <source>Nature</source> 
+<volume>483</volume>, 
+<fpage>565</fpage> (<year>2012</year>). <pub-id pub-id-type="doi">10.1038/nature10922</pub-id><pub-id pub-id-type="pmid">22460901</pub-id></citation></ref>
+<ref id="R14"><note><label>14</label>
+<p>Methods and background are available as supplementary materials on <italic>Science</italic> Online.</p></note></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Lovejoy</surname><given-names>C. O.</given-names></name><name><surname>Meindl</surname><given-names>R. S.</given-names></name><name><surname>Ohman</surname><given-names>J. C.</given-names></name><name><surname>Heiple</surname><given-names>K. G.</given-names></name><name><surname>White</surname><given-names>T. D.</given-names></name></person-group>, 
+<article-title>The Maka femur and its bearing on the antiquity of human walking: Applying contemporary concepts of morphogenesis to the human fossil record</article-title>. <source>Am. J. Phys. Anthropol.</source> 
+<volume>119</volume>, 
+<fpage>97</fpage> (<year>2002</year>). <pub-id pub-id-type="doi">10.1002/ajpa.10111</pub-id><pub-id pub-id-type="pmid">12237933</pub-id></citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Asfaw</surname><given-names>B.</given-names></name></person-group>, 
+<article-title>Proximal femur articulation in Pliocene hominids</article-title>. <source>Am. J. Phys. Anthropol.</source> 
+<volume>68</volume>, 
+<fpage>535</fpage> (<year>1985</year>). <pub-id pub-id-type="doi">10.1002/ajpa.1330680409</pub-id><pub-id pub-id-type="pmid">3936365</pub-id></citation></ref>
+<ref id="R17"><label>17</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Tardieu</surname><given-names>C.</given-names></name></person-group>, 
+<article-title>Development of the human hind limb and its importance for the evolution of bipedalism</article-title>. <source>Evol. Anthropol.</source> 
+<volume>19</volume>, 
+<fpage>174</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1002/evan.20276</pub-id></citation></ref>
+<ref id="R18"><label>18</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Lovejoy</surname><given-names>C. O.</given-names></name></person-group>, 
+<article-title>The natural history of human gait and posture. Part 3. The knee</article-title>. <source>Gait Posture</source> 
+<volume>25</volume>, 
+<fpage>325</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1016/j.gaitpost.2006.05.001</pub-id><pub-id pub-id-type="pmid">16766186</pub-id></citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Tardieu</surname><given-names>C.</given-names></name><etal/></person-group>., 
+<article-title>Relationship between formation of the femoral bicondylar angle and trochlear shape: Independence of diaphyseal and epiphyseal growth</article-title>. <source>Am. J. Phys. Anthropol.</source> 
+<volume>130</volume>, 
+<fpage>491</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1002/ajpa.20373</pub-id><pub-id pub-id-type="pmid">16425192</pub-id></citation></ref>
+<ref id="R20"><label>20</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Wanner</surname><given-names>J. A.</given-names></name></person-group>, 
+<article-title>Variations in the anterior patellar groove of the human femur</article-title>. <source>Am. J. Phys. Anthropol.</source> 
+<volume>47</volume>, 
+<fpage>99</fpage> (<year>1977</year>). <pub-id pub-id-type="doi">10.1002/ajpa.1330470117</pub-id><pub-id pub-id-type="pmid">888940</pub-id></citation></ref>
+<ref id="R21"><label>21</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Clark</surname><given-names>W. E.</given-names></name></person-group>, 
+<article-title>Observations on the anatomy of the fossil Australopithecinae</article-title>. <source>J. Anat.</source> 
+<volume>81</volume>, 
+<fpage>300</fpage> (<year>1947</year>). <pub-id pub-id-type="pmid">17105037</pub-id></citation></ref>
+<ref id="R22"><label>22</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Heiple</surname><given-names>K. G.</given-names></name><name><surname>Lovejoy</surname><given-names>C. O.</given-names></name></person-group>, 
+<article-title>The distal femoral anatomy of <italic>Australopithecus</italic></article-title>. <source>Am. J. Phys. Anthropol.</source> 
+<volume>35</volume>, 
+<fpage>75</fpage> (<year>1971</year>). <pub-id pub-id-type="doi">10.1002/ajpa.1330350109</pub-id><pub-id pub-id-type="pmid">5003051</pub-id></citation></ref>
+<ref id="R23"><label>23</label><citation citation-type="book">C. Tardieu, Morpho-functional analysis of the articular surfaces of the knee-joint in primates, in <italic>Primate Evolutionary Biology</italic>, A. B. Chiarelli, R. S. Corruccini, Eds. (Springer-Verlag, New York, 1981), pp. 68&#x2013;80.</citation></ref>
+<ref id="R24"><label>24</label><citation citation-type="book">L. C. Aiello, M. C. Dean, <italic>An Introduction to Human Evolutionary Anatomy</italic> (Academic Press, London, 1990).</citation></ref>
+<ref id="R25"><label>25</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Organ</surname><given-names>J. M.</given-names></name><name><surname>Ward</surname><given-names>C. V.</given-names></name></person-group>, 
+<article-title>Contours of the hominoid lateral tibial condyle with implications for <italic>Australopithecus</italic></article-title>. <source>J. Hum. Evol.</source> 
+<volume>51</volume>, 
+<fpage>113</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1016/j.jhevol.2006.01.007</pub-id><pub-id pub-id-type="pmid">16563467</pub-id></citation></ref>
+<ref id="R26"><label>26</label><citation citation-type="book">B. Senut, C. Tardieu, Functional aspects of Plio-Pleistocene hominid limb bones: Implications for taxonomy and phylogeny, in <italic>Ancestors: The Hard Evidence</italic>, E. Delson, Ed. (Alan R. Liss, New York, 1985), pp. 193&#x2013;201.</citation></ref>
+<ref id="R27"><label>27</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Dugan</surname><given-names>J.</given-names></name><name><surname>Holliday</surname><given-names>T. W.</given-names></name></person-group>, 
+<article-title>Utility of the lateral meniscal notch in distinguishing hominin taxa</article-title>. <source>J. Hum. Evol.</source> 
+<volume>57</volume>, 
+<fpage>773</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1016/j.jhevol.2009.07.006</pub-id><pub-id pub-id-type="pmid">19878967</pub-id></citation></ref>
+<ref id="R28"><note><label>28</label>
+<p>Pronation of the foot is a triplanar motion (eversion, abduction, and dorsiflexion occurring simultaneously) and is a normal function of bipedal foot mechanics in order to absorb ground reaction forces and accommodate uneven substrates. It converts the foot from a rigid structure at heel strike to a more mobile one at midstance. Hyperpronation is poorly defined in a clinical sense, because there is no distinct cutoff between those that excessively pronate and those that do not. However, here we define it as continued pronation into the part of stance phase when the foot should be resupinating (usually at the later part of midstance and during the entire propulsive phase). Extended (timing-wise) pronation is caused both by the magnitude of pronation (in degrees) that occurs as a result of the large pronatory torque generated by contacting the ground on a varus heel and forefoot, and the timing of foot motion. Because of the excessive motion occurring at the subtalar, midtarsal, and tarsometatarsal joints, the foot fails to resupinate at late stance and pushoff.</p></note></ref>
+<ref id="R29"><label>29</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Gebo</surname><given-names>D. L.</given-names></name></person-group>, 
+<article-title>Plantigrady and foot adaptation in African apes: Implications for hominid origins</article-title>. <source>Am. J. Phys. Anthropol.</source> 
+<volume>89</volume>, 
+<fpage>29</fpage> (<year>1992</year>). <pub-id pub-id-type="doi">10.1002/ajpa.1330890105</pub-id><pub-id pub-id-type="pmid">1530061</pub-id></citation></ref>
+<ref id="R30"><label>30</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Elftman</surname><given-names>H.</given-names></name><name><surname>Manter</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>Chimpanzee and human feet in bipedal walking</article-title>. <source>Am. J. Phys. Anthropol.</source> 
+<volume>20</volume>, 
+<fpage>69</fpage> (<year>1935</year>). <pub-id pub-id-type="doi">10.1002/ajpa.1330200109</pub-id></citation></ref>
+<ref id="R31"><label>31</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Vereecke</surname><given-names>E.</given-names></name><name><surname>D&#x2019;Ao&#x00FB;t</surname><given-names>K.</given-names></name><name><surname>De Clercq</surname><given-names>D.</given-names></name><name><surname>Van Elsacker</surname><given-names>L.</given-names></name><name><surname>Aerts</surname><given-names>P.</given-names></name></person-group>, 
+<article-title>Dynamic plantar pressure distribution during terrestrial locomotion of bonobos (<italic>Pan paniscus</italic>)</article-title>. <source>Am. J. Phys. Anthropol.</source> 
+<volume>120</volume>, 
+<fpage>373</fpage> (<year>2003</year>). <pub-id pub-id-type="doi">10.1002/ajpa.10163</pub-id><pub-id pub-id-type="pmid">12627532</pub-id></citation></ref>
+<ref id="R32"><label>32</label><citation citation-type="other">C. O. Lovejoy, B. Latimer, G. Suwa, B. Asfaw, T. D. White, Combining prehension and propulsion: The foot of <italic>Ardipithecus ramidus. Science</italic> <bold>326</bold>, 72e1-e8 (2009).</citation></ref>
+<ref id="R33"><label>33</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Gross</surname><given-names>K. D.</given-names></name><etal/></person-group>., 
+<article-title>Varus foot alignment and hip conditions in older adults</article-title>. <source>Arthritis Rheum.</source> 
+<volume>56</volume>, 
+<fpage>2993</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1002/art.22850</pub-id><pub-id pub-id-type="pmid">17763430</pub-id></citation></ref>
+<ref id="R34"><label>34</label><citation citation-type="book">K. G. Holt, J. Hamill, Running injuries and treatment: A dynamic approach, in <italic>Rehabilitation of the Foot and Ankle</italic>, G. J. Sammarco, Ed. (Mosby, St. Louis, MO, 1995), pp. 241&#x2013;258.</citation></ref>
+<ref id="R35"><label>35</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Wong</surname><given-names>L.</given-names></name><name><surname>Hunt</surname><given-names>A.</given-names></name><name><surname>Burns</surname><given-names>J.</given-names></name><name><surname>Crosbie</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>Effect of foot morphology on center-of-pressure excursion during barefoot walking</article-title>. <source>J. Am. Podiatr. Med. Assoc.</source> 
+<volume>98</volume>, 
+<fpage>112</fpage> (<year>2008</year>). <pub-id pub-id-type="pmid">18347119</pub-id></citation></ref>
+<ref id="R36"><label>36</label><citation citation-type="book">T. C. Michaud, The foot: Hyperpronation and hypopronation, in <italic>Functional Soft-Tissue Examination and Treatment by Manual Methods</italic>, W. I. Hammer, Ed. (Jones and Bartlett, Sudbury, MA, 2005), pp. 399&#x2013;426.</citation></ref>
+<ref id="R37"><label>37</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kirby</surname><given-names>K. A.</given-names></name></person-group>, 
+<article-title>Subtalar joint axis location and rotational equilibrium theory of foot function</article-title>. <source>J. Am. Podiatr. Med. Assoc.</source> 
+<volume>91</volume>, 
+<fpage>465</fpage> (<year>2001</year>). <pub-id pub-id-type="pmid">11679628</pub-id></citation></ref>
+<ref id="R38"><label>38</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Bennett</surname><given-names>M. B.</given-names></name><name><surname>Ker</surname><given-names>R. F.</given-names></name></person-group>, 
+<article-title>The mechanical properties of the human subcalcaneal fat pad in compression</article-title>. <source>J. Anat.</source> 
+<volume>171</volume>, 
+<fpage>131</fpage> (<year>1990</year>). <pub-id pub-id-type="pmid">2081699</pub-id></citation></ref>
+<ref id="R39"><label>39</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ouzounian</surname><given-names>T. J.</given-names></name><name><surname>Shereff</surname><given-names>M. J.</given-names></name></person-group>, 
+<article-title>In vitro determination of midfoot motion</article-title>. <source>Foot Ankle</source> 
+<volume>10</volume>, 
+<fpage>140</fpage> (<year>1989</year>). <pub-id pub-id-type="doi">10.1177/107110078901000305</pub-id><pub-id pub-id-type="pmid">2613125</pub-id></citation></ref>
+<ref id="R40"><label>40</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>DeSilva</surname><given-names>J. M.</given-names></name></person-group>, 
+<article-title>Revisiting the &#x201C;midtarsal break.&#x201D;</article-title> <source>Am. J. Phys. Anthropol.</source> 
+<volume>141</volume>, 
+<fpage>245</fpage> (<year>2010</year>). <pub-id pub-id-type="pmid">19672845</pub-id></citation></ref>
+<ref id="R41"><label>41</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ward</surname><given-names>C. V.</given-names></name><name><surname>Kimbel</surname><given-names>W. H.</given-names></name><name><surname>Johanson</surname><given-names>D. C.</given-names></name></person-group>, 
+<article-title>Complete fourth metatarsal and arches in the foot of <italic>Australopithecus afarensis</italic></article-title>. <source>Science</source> 
+<volume>331</volume>, 
+<fpage>750</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1126/science.1201463</pub-id><pub-id pub-id-type="pmid">21311018</pub-id></citation></ref>
+<ref id="R42"><label>42</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Tiberio</surname><given-names>D.</given-names></name></person-group>, 
+<article-title>The effect of excessive subtalar joint pronation on patellofemoral mechanics: A theoretical model</article-title>. <source>J. Orthop. Sports Phys. Ther.</source> 
+<volume>9</volume>, 
+<fpage>160</fpage> (<year>1987</year>). <pub-id pub-id-type="pmid">18797010</pub-id></citation></ref>
+<ref id="R43"><label>43</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Khamis</surname><given-names>S.</given-names></name><name><surname>Yizhar</surname><given-names>Z.</given-names></name></person-group>, 
+<article-title>Effect of feet hyperpronation on pelvic alignment in a standing position</article-title>. <source>Gait Posture</source> 
+<volume>25</volume>, 
+<fpage>127</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1016/j.gaitpost.2006.02.005</pub-id><pub-id pub-id-type="pmid">16621569</pub-id></citation></ref>
+<ref id="R44"><label>44</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Powers</surname><given-names>C. M.</given-names></name><name><surname>Maffucci</surname><given-names>R.</given-names></name><name><surname>Hampton</surname><given-names>S.</given-names></name></person-group>, 
+<article-title>Rearfoot posture in subjects with patellofemoral pain</article-title>. <source>J. Orthop. Sports Phys. Ther.</source> 
+<volume>22</volume>, 
+<fpage>155</fpage> (<year>1995</year>). <pub-id pub-id-type="pmid">8535473</pub-id></citation></ref>
+<ref id="R45"><label>45</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Rothbart</surname><given-names>B. A.</given-names></name><name><surname>Estabrook</surname><given-names>L.</given-names></name></person-group>, 
+<article-title>Excessive pronation: A major biomechanical determinant in the development of chondromalacia and pelvic lists</article-title>. <source>J. Manipulative Physiol. Ther.</source> 
+<volume>11</volume>, 
+<fpage>373</fpage> (<year>1988</year>). <pub-id pub-id-type="pmid">2976805</pub-id></citation></ref>
+<ref id="R46"><label>46</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Eng</surname><given-names>J. J.</given-names></name><name><surname>Pierrynowski</surname><given-names>M. R.</given-names></name></person-group>, 
+<article-title>Evaluation of soft foot orthotics in the treatment of patellofemoral pain syndrome</article-title>. <source>Phys. Ther.</source> 
+<volume>73</volume>, 
+<fpage>62</fpage>
+<lpage>, discussion 68</lpage> (<year>1993</year>).<pub-id pub-id-type="pmid">8421719</pub-id></citation></ref>
+<ref id="R47"><label>47</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Bennett</surname><given-names>M. R.</given-names></name><etal/></person-group>., 
+<article-title>Early hominin foot morphology based on 1.5-million-year-old footprints from Ileret, Kenya</article-title>. <source>Science</source> 
+<volume>323</volume>, 
+<fpage>1197</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1126/science.1168132</pub-id><pub-id pub-id-type="pmid">19251625</pub-id></citation></ref>
+<ref id="R48"><label>48</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Crompton</surname><given-names>R. H.</given-names></name><etal/></person-group>., 
+<article-title>Human-like external function of the foot, and fully upright gait, confirmed in the 3.66 million year old Laetoli hominin footprints by topographic statistics, experimental footprint-formation and computer simulation</article-title>. <source>J. R. Soc. Interface</source> 
+<volume>9</volume>, 
+<fpage>707</fpage> (<year>2012</year>). <pub-id pub-id-type="doi">10.1098/rsif.2011.0258</pub-id><pub-id pub-id-type="pmid">21775326</pub-id></citation></ref>
+<ref id="R49"><label>49</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Latimer</surname><given-names>B.</given-names></name><name><surname>Lovejoy</surname><given-names>C. O.</given-names></name></person-group>, 
+<article-title>Hallucal tarsometatarsal joint in <italic>Australopithecus afarensis</italic></article-title>. <source>Am. J. Phys. Anthropol.</source> 
+<volume>82</volume>, 
+<fpage>125</fpage> (<year>1990</year>). <pub-id pub-id-type="doi">10.1002/ajpa.1330820202</pub-id><pub-id pub-id-type="pmid">2360609</pub-id></citation></ref>
+<ref id="R50"><label>50</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>McHenry</surname><given-names>H. M.</given-names></name><name><surname>Berger</surname><given-names>L. R.</given-names></name></person-group>, 
+<article-title>Body proportions of <italic>Australopithecus afarensis</italic> and <italic>A. africanus</italic> and the origin of the genus <italic>Homo</italic></article-title>. <source>J. Hum. Evol.</source> 
+<volume>35</volume>, 
+<fpage>1</fpage> (<year>1998</year>). <pub-id pub-id-type="doi">10.1006/jhev.1997.0197</pub-id><pub-id pub-id-type="pmid">9680464</pub-id></citation></ref>
+<ref id="R51"><label>51</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Green</surname><given-names>D. J.</given-names></name><name><surname>Gordon</surname><given-names>A. D.</given-names></name><name><surname>Richmond</surname><given-names>B. G.</given-names></name></person-group>, 
+<article-title>Limb-size proportions in <italic>Australopithecus afarensis</italic> and <italic>Australopithecus africanus</italic></article-title>. <source>J. Hum. Evol.</source> 
+<volume>52</volume>, 
+<fpage>187</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1016/j.jhevol.2006.09.001</pub-id><pub-id pub-id-type="pmid">17049965</pub-id></citation></ref>
+<ref id="R52"><label>52</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Stern</surname><given-names>J. T.</given-names><suffix>Jr.</suffix></name><name><surname>Susman</surname><given-names>R. L.</given-names></name></person-group>, 
+<article-title>The locomotor anatomy of <italic>Australopithecus afarensis</italic></article-title>. <source>Am. J. Phys. Anthropol.</source> 
+<volume>60</volume>, 
+<fpage>279</fpage> (<year>1983</year>). <pub-id pub-id-type="doi">10.1002/ajpa.1330600302</pub-id><pub-id pub-id-type="pmid">6405621</pub-id></citation></ref>
+<ref id="R53"><label>53</label><citation citation-type="thesis">R. Wunderlich, thesis, State University of New York at Stony Brook, Stony Brook, NY (1999).</citation></ref>
+<ref id="R54"><label>54</label><citation citation-type="web">W. S. Rasband, J. Image, U.S. National Institutes of Health, Bethesda, MD, 1997&#x2013;2012; <ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://imagej.nih.gov/ij/">http://imagej.nih.gov/ij/</ext-link>.</citation></ref>
+<ref id="R55"><label>55</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Reed</surname><given-names>K. E.</given-names></name><name><surname>Kitching</surname><given-names>J. W.</given-names></name><name><surname>Grine</surname><given-names>F. E.</given-names></name><name><surname>Jungers</surname><given-names>W. L.</given-names></name><name><surname>Sokoloff</surname><given-names>L.</given-names></name></person-group>, 
+<article-title>Proximal femur of <italic>Australopithecus africanus</italic> from Member 4, Makapansgat, South Africa</article-title>. <source>Am. J. Phys. Anthropol.</source> 
+<volume>92</volume>, 
+<fpage>1</fpage> (<year>1993</year>). <pub-id pub-id-type="doi">10.1002/ajpa.1330920102</pub-id><pub-id pub-id-type="pmid">8238286</pub-id></citation></ref>
+<ref id="R56"><label>56</label><citation citation-type="book">C. O. Lovejoy, Biomechanical perspectives on the lower limb of early hominids, in <italic>Primate Functional Morphology and Evolution</italic>, R. Tuttle, Ed. (Mouton, The Hague, Netherlands, 1975), pp. 291&#x2013;326.</citation></ref>
+<ref id="R57"><label>57</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Lovejoy</surname><given-names>C. O.</given-names></name><name><surname>Johanson</surname><given-names>D. C.</given-names></name><name><surname>Coppens</surname><given-names>Y.</given-names></name></person-group>, 
+<article-title>Hominid lower limb bones recovered from the Hadar formation: 1974-1977 collections</article-title>. <source>Am. J. Phys. Anthropol.</source> 
+<volume>57</volume>, 
+<fpage>679</fpage> (<year>1982</year>). <pub-id pub-id-type="doi">10.1002/ajpa.1330570411</pub-id></citation></ref>
+<ref id="R58"><label>58</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Johanson</surname><given-names>D. C.</given-names></name><etal/></person-group>., 
+<article-title>Morphology of the Pliocene partial hominid skeleton (A.L. 288-1) from the Hadar formation, Ethiopia</article-title>. <source>Am. J. Phys. Anthropol.</source> 
+<volume>57</volume>, 
+<fpage>403</fpage> (<year>1982</year>). <pub-id pub-id-type="doi">10.1002/ajpa.1330570403</pub-id></citation></ref>
+<ref id="R59"><label>59</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Pickford</surname><given-names>M.</given-names></name><name><surname>Senut</surname><given-names>B.</given-names></name><name><surname>Gommery</surname><given-names>D.</given-names></name><name><surname>Treil</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>Bipedalism in <italic>Orrorin tugenensis</italic> revealed by its femora</article-title>. <source>C. R. Palevol</source> 
+<volume>1</volume>, 
+<fpage>191</fpage> (<year>2002</year>). <pub-id pub-id-type="doi">10.1016/S1631-0683(02)00028-3</pub-id></citation></ref>
+<ref id="R60"><label>60</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ward</surname><given-names>C. V.</given-names></name><name><surname>Kimbel</surname><given-names>W. H.</given-names></name><name><surname>Harmon</surname><given-names>E. H.</given-names></name><name><surname>Johanson</surname><given-names>D. C.</given-names></name></person-group>, 
+<article-title>New postcranial fossils of <italic>Australopithecus afarensis</italic> from Hadar, Ethiopia (1990-2007)</article-title>. <source>J. Hum. Evol.</source> 
+<volume>63</volume>, 
+<fpage>1</fpage> (<year>2012</year>). <pub-id pub-id-type="doi">10.1016/j.jhevol.2011.11.012</pub-id><pub-id pub-id-type="pmid">22652491</pub-id></citation></ref>
+<ref id="R61"><label>61</label><citation citation-type="thesis">D. DeGusta, thesis, University of California at Berkeley, Berkeley, CA (2004).</citation></ref>
+<ref id="R62"><label>62</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Partridge</surname><given-names>T. C.</given-names></name><name><surname>Granger</surname><given-names>D. E.</given-names></name><name><surname>Caffee</surname><given-names>M. W.</given-names></name><name><surname>Clarke</surname><given-names>R. J.</given-names></name></person-group>, 
+<article-title>Lower Pliocene hominid remains from Sterkfontein</article-title>. <source>Science</source> 
+<volume>300</volume>, 
+<fpage>607</fpage> (<year>2003</year>). <pub-id pub-id-type="doi">10.1126/science.1081651</pub-id><pub-id pub-id-type="pmid">12714736</pub-id></citation></ref>
+<ref id="R63"><label>63</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Walker</surname><given-names>A. C.</given-names></name></person-group>, 
+<article-title>New <italic>Australopithecus</italic> femora from East Rudolf, Kenya</article-title>. <source>J. Hum. Evol.</source> 
+<volume>2</volume>, 
+<fpage>545</fpage> (<year>1973</year>). <pub-id pub-id-type="doi">10.1016/0047-2484(73)90132-2</pub-id></citation></ref>
+<ref id="R64"><label>64</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Pickering</surname><given-names>T. R.</given-names></name><etal/></person-group>., 
+<article-title>New hominid fossils from Member 1 of the Swartkrans formation, South Africa</article-title>. <source>J. Hum. Evol.</source> 
+<volume>62</volume>, 
+<fpage>618</fpage> (<year>2012</year>). <pub-id pub-id-type="doi">10.1016/j.jhevol.2012.02.003</pub-id><pub-id pub-id-type="pmid">22440747</pub-id></citation></ref>
+<ref id="R65"><label>65</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Day</surname><given-names>M. H.</given-names></name><name><surname>Leakey</surname><given-names>R. E. F.</given-names></name><name><surname>Walker</surname><given-names>A. C.</given-names></name><name><surname>Wood</surname><given-names>B. A.</given-names></name></person-group>, 
+<article-title>New hominids from East Turkana, Kenya</article-title>. <source>Am. J. Phys. Anthropol.</source> 
+<volume>45</volume>, 
+<fpage>369</fpage> (<year>1976</year>). <pub-id pub-id-type="doi">10.1002/ajpa.1330450304</pub-id><pub-id pub-id-type="pmid">826171</pub-id></citation></ref>
+<ref id="R66"><label>66</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Day</surname><given-names>M. H.</given-names></name><name><surname>Leakey</surname><given-names>R. E. F.</given-names></name><name><surname>Walker</surname><given-names>A. C.</given-names></name><name><surname>Wood</surname><given-names>B. A.</given-names></name></person-group>, 
+<article-title>New hominids from East Rudolf, Kenya, I</article-title>. <source>Am. J. Phys. Anthropol.</source> 
+<volume>42</volume>, 
+<fpage>461</fpage> (<year>1975</year>). <pub-id pub-id-type="doi">10.1002/ajpa.1330420314</pub-id><pub-id pub-id-type="pmid">807114</pub-id></citation></ref>
+<ref id="R67"><label>67</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Johanson</surname><given-names>D. C.</given-names></name><etal/></person-group>., 
+<article-title>New partial skeleton of <italic>Homo habilis</italic> from Olduvai Gorge, Tanzania</article-title>. <source>Nature</source> 
+<volume>327</volume>, 
+<fpage>205</fpage> (<year>1987</year>). <pub-id pub-id-type="doi">10.1038/327205a0</pub-id><pub-id pub-id-type="pmid">3106831</pub-id></citation></ref>
+<ref id="R68"><label>68</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Lordkipanidze</surname><given-names>D.</given-names></name><etal/></person-group>., 
+<article-title>Postcranial evidence from early <italic>Homo</italic> from Dmanisi, Georgia</article-title>. <source>Nature</source> 
+<volume>449</volume>, 
+<fpage>305</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1038/nature06134</pub-id><pub-id pub-id-type="pmid">17882214</pub-id></citation></ref>
+<ref id="R69"><label>69</label><citation citation-type="book">A. C. Walker, R. E. F. Leakey, The postcranial bones, in <italic>The Nariokotome</italic> Homo erectus <italic>skeleton</italic>, A. C. Walker, R. E. F. Leakey, Eds. (Harvard Univ. Press, Cambridge, MA, 1993), pp. 95&#x2013;160.</citation></ref>
+<ref id="R70"><label>70</label><citation citation-type="book">W. H. Gilbert, Daka member hominid postcranial remains, in Homo erectus. <italic>Pleistocene Evidence from the Middle Awash, Ethiopia</italic>, W. H. Gilbert, B. Asfaw, Eds. (Univ. of California Press, Berkeley, CA, 2008), pp. 373&#x2013;396.</citation></ref>
+<ref id="R71"><label>71</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Day</surname><given-names>M. H.</given-names></name><name><surname>Leakey</surname><given-names>R. E. F.</given-names></name></person-group>, 
+<article-title>New evidence of the genus <italic>Homo</italic> from East Rudolf, Kenya (III)</article-title>. <source>Am. J. Phys. Anthropol.</source> 
+<volume>41</volume>, 
+<fpage>367</fpage> (<year>1974</year>). <pub-id pub-id-type="doi">10.1002/ajpa.1330410304</pub-id></citation></ref>
+<ref id="R72"><label>72</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Grine</surname><given-names>F. E.</given-names></name><name><surname>Jungers</surname><given-names>W. L.</given-names></name><name><surname>Tobias</surname><given-names>P. V.</given-names></name><name><surname>Pearson</surname><given-names>O. M.</given-names></name></person-group>, 
+<article-title>Fossil <italic>Homo</italic> femur from Berg Aukas, northern Namibia</article-title>. <source>Am. J. Phys. Anthropol.</source> 
+<volume>97</volume>, 
+<fpage>151</fpage> (<year>1995</year>). <pub-id pub-id-type="doi">10.1002/ajpa.1330970207</pub-id><pub-id pub-id-type="pmid">7653506</pub-id></citation></ref>
+<ref id="R73"><label>73</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Jungers</surname><given-names>W. L.</given-names></name><etal/></person-group>., 
+<article-title>Descriptions of the lower limb skeleton of <italic>Homo floresiensis</italic></article-title>. <source>J. Hum. Evol.</source> 
+<volume>57</volume>, 
+<fpage>538</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1016/j.jhevol.2008.08.014</pub-id><pub-id pub-id-type="pmid">19062072</pub-id></citation></ref>
+<ref id="R74"><label>74</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Leakey</surname><given-names>R. E. F.</given-names></name><name><surname>Walker</surname><given-names>A. C.</given-names></name></person-group>, 
+<article-title>Further hominids from the Plio-Pleistocene of Koobi Fora, Kenya</article-title>. <source>Am. J. Phys. Anthropol.</source> 
+<volume>67</volume>, 
+<fpage>135</fpage> (<year>1985</year>). <pub-id pub-id-type="doi">10.1002/ajpa.1330670209</pub-id><pub-id pub-id-type="pmid">3933357</pub-id></citation></ref>
+<ref id="R75"><label>75</label><citation citation-type="book">W. M. Bass, <italic>Human Osteology. A Laboratory and Field Manual</italic> (Missouri Archaeology Society, Columbia, MO, 1995).</citation></ref>
+<ref id="R76"><label>76</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Susman</surname><given-names>R. L.</given-names></name><name><surname>Stern</surname><given-names>J. T.</given-names></name></person-group>, 
+<article-title>Functional morphology of <italic>Homo habilis</italic></article-title>. <source>Science</source> 
+<volume>217</volume>, 
+<fpage>931</fpage> (<year>1982</year>). <pub-id pub-id-type="doi">10.1126/science.217.4563.931</pub-id><pub-id pub-id-type="pmid">17747955</pub-id></citation></ref>
+<ref id="R77"><label>77</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Elftman</surname><given-names>H.</given-names></name></person-group>, 
+<article-title>The transverse tarsal joint and its control</article-title>. <source>Clin. Orthop.</source> 
+<volume>16</volume>, 
+<fpage>41</fpage> (<year>1960</year>).<pub-id pub-id-type="pmid">13819895</pub-id></citation></ref>
+<ref id="R78"><label>78</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Glard</surname><given-names>Y.</given-names></name><etal/></person-group>., 
+<article-title>An anatomical and biometrical study of the femoral trochlear groove in the human fetus</article-title>. <source>J. Anat.</source> 
+<volume>206</volume>, 
+<fpage>411</fpage> (<year>2005</year>). <pub-id pub-id-type="doi">10.1111/j.1469-7580.2005.00400.x</pub-id><pub-id pub-id-type="pmid">15817109</pub-id></citation></ref>
+</ref-list>
+<ack>
+<title>Acknowledgments</title><p>We thank the South African Heritage Resource agency for the permits to work at the Malapa site; the Nash family for granting access to the Malapa site and continued support of research on their reserve; the South African Department of Science and Technology and the African Origins Platform (AOP), the South African National Research Foundation, the Evolutionary Studies Institute, the University of the Witwatersrand, the University of the Witwatersrand&#x2019;s Vice Chancellor&#x2019;s Discretionary Fund, the National Geographic Society, the Leakey Foundation, the Palaeontological Scientific Trust, the Andrew W. Mellon Foundation, the Ford Foundation, the U.S. Diplomatic Mission to South Africa, the French Embassy of South Africa, the A.H. Schultz Foundation, Boston University, Duke University, a Ray A. Rothrock &#x2019;77 Fellowship and International Research Travel Assistance Grant of Texas A&amp;M University, and the Oppenheimer and Ackerman families and Sir Richard Branson for funding; the University of the Witwatersrand&#x2019;s Schools of Geosciences and Anatomical Sciences and the Bernard Price Institute for Palaeontology for support and facilities; the Gauteng Government, Gauteng Department of Agriculture, Conservation and Environment and the Cradle of Humankind Management Authority; and our respective universities for ongoing support. We thank the VIP lab of the Palaeosciences Centre and the Microfocus X-ray CT facility of the Palaeosciences Centre at Wits; and for funding these facilities, we thank the University of the Witwatersrand Office of Research and the National Research Foundation Strategic Research Infrastructure Grant and AOP funding programs. For access to comparative specimens, we thank E. Mbua, P. Kiura, V. Iminjili, and the National Museums of Kenya; A. Kwekason, P. Msemwa, and the Tanzania Commission for Science and Technology; B. Billings, Fossil Primate Access Advisory and the School of Anatomical Sciences at the University of the Witwatersrand; S. Potze, L. C. Kgasi, and the Ditsong Museum; Y. Haile-Selassie, L. Jellema, and the Cleveland Museum of Natural History; J. Chupasko and the Harvard Museum of Comparative Zoology; D. Pilbeam, M. Morgan, O. Herschensohn, J. Rousseau, and the Harvard Museum of Archeology and Ethnology; E. Westwig and the American Museum of Natural History; M. Wolpoff and the Department of Anthropology at the University of Michigan; and O. Lovejoy (Kent State University). For technical and material support, we thank Duke University and the University of Zurich 2009 and 2010 Field Schools. Numerous individuals have been involved in the ongoing preparation and excavation of these fossils, including C. Dube, C. Kemp, M. Kgasi, M. Languza, J. Malaza, G. Mokoma, P. Mukanela, T. Nemvhundi, M. Ngcamphalala, S. Jirah, S. Tshabalala, and C. Yates. Other individuals who have given significant support to this project include B. de Klerk, W. Lawrence, C. Steininger, B. Kuhn, L. Pollarolo, J. Kretzen, D. Conforti, J. McCaffery, C. Dlamini, H. Visser, R. McCrae-Samuel, B. Nkosi, B. Louw, L. Backwell, F. Thackeray, and M. Peltier. J. Smilg facilitated medical CT scanning of the specimens. The <italic>Au. sediba</italic> specimens are archived at the Evolutionary Studies Institute at the University of the Witwatersrand. All data used in this study are available upon request, including access to the original specimens, by bona fide scientists.</p>
+</ack></back>
+</article>

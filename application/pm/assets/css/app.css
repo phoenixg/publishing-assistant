@@ -1,0 +1,88 @@
+      body {
+        padding-top: 12px;
+        padding-bottom: 40px;
+      }
+      
+      footer {
+        border-top: solid 3px #2c2c2c;
+        margin-top: 24px;
+        padding-top: 12px;
+      }
+      
+      h1 {
+        margin-bottom: 0.8em;
+      }
+      
+      label {
+        border-bottom: dotted 1px #ddd;
+        padding-bottom: 3px;
+      }
+
+      label:first-child{
+        border-top: dotted 1px #ddd;
+        padding-top: 5px;
+      }
+      
+      label:hover {
+        cursor: pointer;
+        border-right: solid 4px #08C;
+        color: black;
+      }
+      
+      .brand {
+        display: block; 
+        width: 218px; 
+        height: 22px;
+        background: url(../img/pa-logo.png) no-repeat; 
+        text-indent: -9998em;
+        position: relative;
+        top: 12px;
+        left: 18px;
+      }
+      
+      .checkbox > span {
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      display: inline-block;
+      max-width: 80%;
+      overflow: hidden;
+      }
+      
+      .spinner {
+        background: url(../img/h-progress.gif) no-repeat;
+        display: inline-block;
+        height: 11px;
+        width: 16px;
+      }
+      
+      textarea {
+        background-color: #FCFBE5;
+        color: #2C898D;
+        font-size: 11px;
+        font-family: courier;
+        height: 5em;
+        line-height: 1.2em;
+        margin-top: 2px;
+        width: 98%;
+      }      
+      
+      legend {
+        font-weight: bold;
+        font-size: 18px;
+        text-transform: capitalize;
+        margin-bottom: 20px;
+        color: #801B1B;
+      }
+      
+      .html_preview {
+        border: solid 3px #dfdfdf;
+        padding: 12px;
+      }
+      
+    .edit_preview {
+      margin-bottom: 22px;
+    }      
+      
+      .quiet {
+        color: #ccc;
+      }

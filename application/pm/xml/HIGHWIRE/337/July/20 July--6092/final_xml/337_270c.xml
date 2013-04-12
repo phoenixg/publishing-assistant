@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>twil</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Chemistry</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>A Glimpse of Gold</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Fahrenkamp-Uppenbrink</surname><given-names>Julia</given-names></name></contrib>
+</contrib-group>
+<pub-date pub-type="ppub">
+<day>20</day>
+<month>07</month>
+<year>2012</year>
+</pub-date>
+<volume>337</volume>
+<issue>6092</issue>
+<fpage seq="c">270</fpage>
+<lpage>271</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="twil.pdf" />
+<custom-meta-wrap>
+<custom-meta><meta-name>Editor</meta-name><meta-value>Kristen Mueller, Jake Yeston</meta-value></custom-meta>
+</custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<p>Gold nanoparticles supported on titania have high catalytic activity; for example, in the oxidation of carbon monoxide at room temperature. What are the structural properties of the Au/TiO<sub>2</sub> catalyst that enable this catalytic activity? Transmission electron microscopy has provided structural information, but the strong electron beam can damage the system, and it remains unclear whether the associated images represent the active structure of the catalyst. Kuwauchi <italic>et al.</italic> now report the use of environmental transmission electron microscopy, which allows the catalyst to be studied under reaction conditions. They find that the nanoparticle morphology varies systematically in differing environments, changing from faceted to round, depending on the gases present. In contrast, the support maintains its crystallinity throughout the experiments, and the interface between the particles and the support also remains stable. By systematically studying the effects of electron irradiation on the structure, the authors derive conditions under which no detectable structural damage occurs, thus making it possible to deduce the intrinsic structure of the catalyst under reaction conditions.</p>
+<p><italic>Angew. Chem. Int. Ed.</italic> <bold>51</bold>, 10.1002/anie.201201283 (2012).</p>
+</body>
+</article>

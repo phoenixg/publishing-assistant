@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">sigtrans</journal-id>
+<journal-title>Science Signaling</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Sci. Signal.</abbrev-journal-title>
+<issn pub-type="epub">1937-9145</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">2003493</article-id>
+<article-id pub-id-type="doi">10.1126/scisignal.2003493</article-id>
+<article-categories><subj-group subj-group-type="article-type"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>STKE Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="field"><subject>IMMUNOLOGY</subject><subject>PHYSIOLOGY</subject><subject>CELL BIOL</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Immunology</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>How Diet and Sun Promote Inflammation</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Wong</surname><given-names>Wei</given-names></name></contrib>
+<aff id="aff1"><italic>Science Signaling</italic>, AAAS, Washington, DC 20005, USA</aff>
+</contrib-group>
+<pub-date pub-type="ppub"><day>14</day><month>08</month><year>2012</year></pub-date>
+<volume>5</volume>
+<issue>237</issue>
+<fpage>ec213</fpage>
+<lpage>ec213</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>Endogenously produced danger-associated molecular patterns induced by free fatty acids and sun-damaged RNAs activate TLR4 and TLR3.</p>
+</abstract>
+<abstract>
+    <p>A pair of papers identifies endogenously produced danger-associated molecular patterns that activate Toll-like receptors (TLRs) 3 and 4, which stimulate inflammatory responses through the transcription factor NF-&#x03BA;B (nuclear factor &#x03BA;B). Excessive amounts of free fatty acids (FFAs) trigger insulin resistance by activating TLR4; however, FFAs do not directly interact with TLR4. In the first paper, Pal <italic>et al. </italic>(see also Heinrichsdorff and Olefsky) showed that activation of TLR4 by FFAs requires fetuin-A (FetA), a glycoprotein secreted by the liver that is a biomarker of chronic inflammatory diseases. Morpholino-based gene knockdown in mice of <italic>FetA</italic> (<italic>FetA<sup>KD</sup></italic>) or <italic>Tlr4</italic> (<italic>Tlr4<sup>KD</sup></italic>)<italic> </italic>prevented the development of insulin resistance caused by a high-fat diet and also reduced activation of NF-&#x03BA;B and production of messenger RNAs (mRNAs) encoding inflammatory cytokines, such as interleukin 6 (IL-6) and tumor necrosis factor&#x2013;&#x03B1; (TNF-&#x03B1;). The resistance of <italic>FetA<sup>KD</sup></italic> mice to high-fat diet&#x2013;induced insulin resistance was attenuated by treatment with purified FetA. Treatment of 3T3L1 mouse adipocytes with the free fatty acid palmitate increased the activity of NF-&#x03BA;B and expression of <italic>IL-6</italic> and <italic>TNF-&#x03B1;</italic> only in the presence of FetA, effects that were abrogated by the TLR4 inhibitor CLI-095. The leucine-rich repeat regions 2 and 6 of TLR4 were required for binding to FetA. The glycan residues of lipopolysaccharide are required for binding to TLR4 and, similarly, forms of FetA lacking the terminal carbohydrate moieties did not increase the activity of an NF-&#x03BA;B reporter gene in HEK cells or trigger insulin resistance in response to FFAs in adipocytes. </p>
+<p>TLR3 recognizes double-stranded RNA (dsRNA) that is typically produced in virally infected cells. Bernard <italic>et al. </italic>found that, in keratinocytes, TLR3 detected self noncoding RNA that was damaged by ultraviolet B (UVB) radiation, which can occur in response to excessive sun exposure and trigger the inflammatory reaction called sunburn. Treatment with lysates prepared from UVB-irradiated normal human epidermal keratinocytes (NHEKs) triggered the production of IL-6 and TNF-&#x03B1; from nonirradiated NHEKs, responses that required TLR3. Intradermal injection of lysates from irradiated NHEKs, but not those from nonirradiated NHEKs, triggered an inflammatory response in wild-type mice but not <italic>TLR3<sup>&#x2013;/&#x2013;</sup></italic> mice. Whole-transcriptome shotgun sequencing of RNA from UVB-irradiated NHEKs showed that the base-read frequency of certain stem-loop domains of the small nuclear RNA U1 was increased; these stem loops could form dsRNAs that could activate TLR3. UVB-irradiated synthetic U1 RNA, but not nonirradiated U1 RNA, triggered the production of IL-6 and TNF-&#x03B1; from nonirradiated NHEKs and peripheral blood mononuclear cells. In NHEKs, UVB-irradiated U1 RNA colocalized with endosomal TLR3 and triggered the nuclear translocation of the p65 subunit of NF-&#x03BA;B. Intradermal injection of UVB-irradiated U1 RNA, but not UVB-irradiated transfer RNA, into the ears of wild-type mice caused an inflammatory response in the ears and increased the expression of <italic>TNF-&#x03B1;</italic> and <italic>IL-6 </italic>in the skin. These responses were not seen in <italic>TLR3<sup>&#x2013;/&#x2013;</sup></italic> mice. Thus, TLR3 and TLR4 can be activated by endogenous danger-associated molecular pattern ligands that resemble the pathogen-associated molecular pattern ligands.</p>
+<p>D. Pal, S. Dasgupta, R. Kundu, S. Maitra, G. Das, S. Mukhopadhyay, S. Ray, S. S. Majumdar, S. Bhattacharya, Fetuin-A acts as an endogenous ligand of TLR4 to promote lipid-induced insulin resistance. <italic>Nat. Med. </italic><bold>18</bold>, 1279&#x2013;1285 (2012). <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/22842477">[PubMed]</ext-link> </p>
+<p>J. J. Bernard, C. Cowing-Zitron, T. Nakatsuji, B. Muehleisen, J. Muto, A. W. Borkowski, L. Martinez, E. L. Greidinger, B. D. Yu, R. L. Gallo, Ultraviolet radiation damages self noncoding RNA and is detected by TLR3. <italic>Nat. Med.</italic> <bold>18</bold>, 1286&#x2013;1290 (2012). <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/22772463">[PubMed]</ext-link> </p>
+<p>J. Heinrichsdorff, J. M. Olefsky, Fetuin-A: The missing link in lipid-induced inflammation. <italic>Nat. Med. </italic><bold>18</bold>, 1182&#x2013;1183 (2012). <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/22869185">[PubMed]</ext-link> </p>
+</abstract>
+</article-meta>
+</front>
+</article>

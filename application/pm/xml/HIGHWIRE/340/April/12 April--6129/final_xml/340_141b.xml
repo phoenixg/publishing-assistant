@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="letter" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Letter</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Letters</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>letters</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Virology</subject><subject>Psychiatry</subject><subject>Sociology</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Biosecurity's Weakest Link</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Hulme</surname><given-names>Philip E.</given-names></name></contrib>
+<aff id="aff1">The Bio-Protection Research Centre, Lincoln University, Lincoln, 7647 Canterbury, New Zealand.</aff>
+</contrib-group>
+<author-notes>
+<corresp>E-mail: <email>philip.hulme@lincoln.ac.nz</email></corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<day>12</day>
+<month>04</month>
+<year>2013</year>
+</pub-date>
+<volume>340</volume>
+<issue>6129</issue>
+<fpage seq="b">141</fpage>
+<lpage>142</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="letters.pdf" />
+<custom-meta-wrap>
+<custom-meta><meta-name>Editor</meta-name><meta-value>Jennifer Sills</meta-value></custom-meta>
+</custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<p>The ongoing debate regarding the biosecurity concerns arising from functional gain research on human pathogenic viruses has brought into clearer focus the major gap between academic and public perceptions of acceptable risk (&#x201C;New U.S. rules increase oversight of H5N1 studies, other risky science,&#x201D; D. Malakoff and M. Enserink, News &amp; Analysis, 1 March, p. <related-article related-article-type="in-this-publication" vol="339" page="1025" issue="6123">1025</related-article>). At the heart of the current controversy is anxiety over the safety of dual-use research and the risk that it will yield information or technologies with the potential to be misused to threaten public health or national security. These fears strongly shape the priorities of national biosecurity policies across the whole spectrum of the life sciences (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). Yet the most likely threat posed by dual-use research is not from a rogue individual or organization but simple human fallibility (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>).</p>
+<p>The increasing catalog of thefts, loss of samples, inadvertent infections, and unintentional releases of restricted pathogens demonstrates that the weakest link rests with those most directly involved with the research (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>&#x2013;<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>). Regardless of the effects that publishing sensitive research may have on our vulnerability to bioterrorism (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>), it may increase the likelihood of unintentional biosafety breaches by encouraging further, legitimate, functional gain studies.</p>
+    <p>Under new guidance (&#x201C;A framework for decisions about research with HPAI H5N1 viruses&#x201D; A. P. Patterson <italic>et al.</italic>, Policy Forum, 1 March, p. <ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.sciencemag.org/content/339/6123/1036.full">1036</ext-link>), research support will be tied to sufficient mitigation and management of both biosafety and biosecurity risks. The unfortunate reality is that scientists exhibit considerable overconfidence in assessing the risks posed by their work and underestimate the probability of human error by several orders of magnitude (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>). In addition, institutional oversight of dual-use research often fails to adhere to established guidelines (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>). Despite good intentions, new guidelines are unlikely to make a major impact on the likelihood of human error. A more robust approach would be for scientists and funders to address the worst-case scenario and assess the adequacy of strategies in place to ensure an effective response to the various routes of potential biosecurity breaches. A sensible first step: Ensure that gain-of-function research on pathogenic viruses with high human impact is undertaken under the highest biosafety levels, in relatively few laboratories, and away from major population centers or transport nodes.</p>
+</body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hulme</surname><given-names>P. E.</given-names></name></person-group>, <source>Science</source> <volume>334</volume>, <fpage>176</fpage> (<year>2011</year>).</citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Balmer</surname><given-names>B.</given-names></name></person-group>, <source>Science</source> <volume>326</volume>, <fpage>1635</fpage> (<year>2009</year>).</citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Cressey</surname><given-names>D.</given-names></name></person-group>, <source>Nature</source> <volume>448</volume>, <fpage>732</fpage> (<year>2007</year>).</citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Kaiser</surname><given-names>J.</given-names></name></person-group>, <source>Science</source> <volume>317</volume>, <fpage>1852</fpage> (<year>2007</year>).</citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Henkel</surname><given-names>R. D.</given-names></name><name><surname>Miller</surname><given-names>T.</given-names></name><name><surname>Weyant</surname><given-names>R. S.</given-names></name></person-group>, <source>Appl. Biosafety</source> <volume>17</volume>, <fpage>171</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Palese</surname><given-names>P.</given-names></name></person-group>, <source>Nature</source> <volume>481</volume>, <fpage>115</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<citation citation-type="book">
+<collab collab-type="author">NRC</collab>, <source>Evaluation of the Updated Site-Specific Risk Assessment for the National Bio- and Agro-Defense Facility in Manhattan, Kansas</source> (<publisher-name>National Academies Press</publisher-name>, <publisher-loc>Washington, DC</publisher-loc>, <year>2012</year>).</citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Race</surname><given-names>M. S.</given-names></name><name><surname>Hammond</surname><given-names>E.</given-names></name></person-group>, <source>Biosecurity Bioterrorism-Biodefense Strategy Practice Sci.</source> <volume>6</volume>, <fpage>19</fpage> (<year>2008</year>).</citation>
+</ref>
+</ref-list>
+</back>
+</article>

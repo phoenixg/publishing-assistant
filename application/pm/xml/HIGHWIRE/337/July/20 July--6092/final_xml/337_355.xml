@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1221886</article-id>
+<article-id pub-id-type="doi">10.1126/science.1221886</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Report</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Reports</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>reports</subject></subj-group>
+<subj-group subj-group-type="field"><subject>CELL BIOL</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Deformations Within Moving Kinetochores Reveal Different Sites of Active and Passive Force Generation</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Dumont</surname><given-names>Sophie</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="fn" rid="afn1">*</xref><xref ref-type="corresp" rid="cor1">&#x2020;</xref></contrib> <contrib contrib-type="author"><name><surname>Salmon</surname><given-names>E. D.</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Mitchison</surname><given-names>Timothy J.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib>
+<aff id="aff1"><label>1</label>Department of Systems Biology, Harvard Medical School, Boston, MA 02115, USA.</aff>
+<aff id="aff2"><label>2</label>Department of Biology, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.</aff>
+</contrib-group>
+<author-notes>
+<fn id="afn1" fn-type="present-address"><label>*</label>
+<p>Present address: Department of Cell and Tissue Biology, University of California, San Francisco, San Francisco, CA 94143, USA.</p></fn>
+<corresp id="cor1"><label>&#x2020;</label>To whom correspondence should be addressed. E-mail: <email xlink:href="sophie.dumont@ucsf.edu">sophie.dumont@ucsf.edu</email></corresp></author-notes>
+<pub-date pub-type="ppub"><day>20</day><month>07</month><year>2012</year></pub-date>
+<volume>337</volume>
+<issue>6092</issue>
+<fpage>355</fpage>
+<lpage>358</lpage>
+<history><date date-type="received"><day>13</day><month>03</month><year>2012</year></date><date date-type="accepted"><day>14</day><month>05</month><year>2012</year></date><date date-type="epub"><day>21</day><month>06</month><year>2012</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="editor"><title>Never Let Me Go</title><p>Kinetochores are the structures within chromosomes that interact with the microtubules of the mitotic spindle during mitosis. By measuring the deformation of individual kinetochores in live mammalian cells, <bold>Dumont <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="337" page="355">355</related-article>, published online 21 June) asked, how do kinetochores harness the free energy of microtubule depolymerization without losing grip of microtubules? Kinetochores contacted microtubules using two distinct mechanical interfaces: an active, force-generating interface near the microtubule tip, and a passive, frictional interface at least 20 nanometers away along the microtubule lattice. The separate active and passive interfaces allowed for intermittent force generation and persistent microtubule attachment&#x2014;both required for accurate chromosome segregation.</p></abstract>
+<abstract abstract-type="teaser"><p>Distinct active, force-generating and passive, frictional interactions with microtubules allow processive chromosome movement.</p></abstract>
+<abstract>
+<p>Kinetochores mediate chromosome segregation at mitosis. They are thought to contain both active, force-producing and passive, frictional interfaces with microtubules whose relative locations have been unclear. We inferred mechanical deformation within single kinetochores during metaphase oscillations by measuring average separations between fluorescently labeled kinetochore subunits in living cells undergoing mitosis. Inter-subunit distances were shorter in kinetochores moving toward poles than in those moving away. Inter-subunit separation decreased abruptly when kinetochores switched to poleward movement and decreased further when pulling force increased, suggesting that active force generation during poleward movement compresses kinetochores. The data revealed an active force-generating interface within kinetochores and a separate passive frictional interface located at least 20 nanometers away poleward. Together, these interfaces allow persistent attachment with intermittent active force generation.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Stella Hurtley</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Chris Filiatreau</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>Kinetochores link chromosomes to microtubules in the mitotic spindle and generate forces for chromosome movement (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). Mammalian kinetochores consist of more than 80 proteins (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>), many of whose positions have been mapped with nanometer-level precision (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>&#x2013;<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>). Kinetochores are thought to interact both actively and passively with microtubules, but the molecular identity and physical nature of the relevant interfaces are unclear (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>). Active interfaces generate pulling force by transducing the free energy of microtubule plus-end depolymerization into mechanical work (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>, <xref ref-type="bibr" rid="R12"><italic>12</italic></xref>) at kinetochores moving poleward (P). Passive interfaces generate molecular friction when kinetochores are forced to slide over the microtubule lattice toward plus-ends (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>). This occurs when kinetochores moving away from poles (AP) are pulled by P sisters and also when poleward flux pulls microtubules away from stationary kinetochores in some systems (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>, <xref ref-type="bibr" rid="R15"><italic>15</italic></xref>).</p>
+<p>Mechanical compliance (deformation in response to force) should report on the position and direction of forces acting on kinetochores (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). We used the separation between red and green probes to measure kinetochore deformation in living Ptk2 cells. The CenpC probe reported on kinetochore subunits near the chromosome, and Cdc20 and Hec1 probes reported on subunits near microtubules. CenpC binds DNA (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>), Cdc20 reports on microtubule-binding protein KNL1, and Hec1 binds microtubules and is part of the load-bearing Ndc80 complex (<xref ref-type="fig" rid="F1">Fig. 1A</xref>) (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). Metaphase oscillations, in which kinetochores switch fairly regularly between P and AP movement, provided natural force fluctuations (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>, <xref ref-type="bibr" rid="R19"><italic>19</italic></xref>).</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption>
+<p>Tracking kinetochore probe pairs. (<bold>A</bold>) Simplified one-dimensional representation of kinetochore organization (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>), with probe positions indicated by stars. (<bold>B</bold>) Experimental schematic. Kinetochore positions oscillate during metaphase. P denotes movement toward a pole, and AP denotes movement away. Probes are indicated as colored circles. (<bold>C</bold>) Representative images of EYFP-Cdc20 and mCherry-CenpC at one time point. Scale bar, 5 &#x03BC;m. (<bold>D</bold>) Enlarged image of the single kinetochore pair indentified in (C). Scale bar, 500 nm. (<bold>E</bold>) Representative tracks of a single kinetochore [circle-identified in (C)], with direction indicated. Dashed lines indicate direction reversals. (<bold>F</bold>) Inter-probe distance versus time from the tracks in (E). Dotted lines indicate direction reversals. (<bold>G</bold> and <bold>H</bold>) Histograms of all CenpC(N)&#x2013;Cdc20 distance measurements during metaphase (G) and anaphase (H). The average of the means of P and AP distributions is consistent with the reported CenpC&#x2013;KNL1 N-terminal distance in fixed cells (53 to 54 nm) (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). (<bold>I</bold>) Histograms of all CenpC(N)&#x2013;Hec1(C) distance measurements during metaphase. The noise in single traces and histogram widths [(F) to (I)] stemmed from both experimental noise (such as centroid determination and two-color registration) and biological variation. Stars indicate histogram distribution means.</p>
+</caption><graphic xlink:href="337_355_F1"></graphic></fig>
+<p>A one-dimensional map of kinetochore subunits (<xref ref-type="fig" rid="F1">Fig. 1A</xref>) was generated from light-level measurements in fixed cells and in vitro structural work (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). We coexpressed two fluorescent kinetochore protein pairs in Ptk2 cells, either mCherry-CenpC [N-terminal label, CenpC(N)] and EYFP-Cdc20, or mCherry-CenpC and Hec1-EGFP [C-terminal label, Hec1(C)]. These probes did not perturb metaphase oscillations (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). The Cdc20 probe was brighter than the Hec1 probe and was used for most experiments. We imaged red and green probes simultaneously by means of confocal fluorescence microscopy with a dichroic beam splitter and a single camera. Cells were compressed with an agarose pad so as to keep kinetochores in focus (<xref ref-type="fig" rid="F1">Fig. 1B</xref>), and compression did not perturb oscillations (table S1) (<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>). Occasionally, drastic compression was used to induce unusually large forces (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). Using a variant (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>, <xref ref-type="bibr" rid="R6"><italic>6</italic></xref>) of SHREC (single-molecule high-resolution colocalization) (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>) in vivo (<xref ref-type="fig" rid="F1">Fig. 1C</xref>), we measured the distance between centroids of the probes (<xref ref-type="fig" rid="F1">Fig. 1D</xref>) every 10 s during several oscillation cycles (<xref ref-type="fig" rid="F1">Fig. 1E</xref> and movies S1 and S2) (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>).</p>
+<p>We first asked whether P and AP kinetochores were on average different. Graphs of interprobe distance over time for a single kinetochore (<xref ref-type="fig" rid="F1">Fig. 1F</xref>), and a histogram of many kinetochores (<xref ref-type="fig" rid="F1">Fig. 1G</xref>), revealed CenpC(N)&#x2013;Cdc20 distances of 47 &#x00B1; 20 nm in P kinetochores (<italic>n</italic> = 525 measurements), and 55 &#x00B1; 19 nm in AP kinetochores (<italic>n</italic> = 569 measurements). These values differ with high significance (<italic>P</italic> = 10<sup>&#x2212;10</sup>) (table S2). Of kinetochores imaged, 93% displayed a greater mean inter-probe distance in AP than in P state (fig. S1A). The 15% shorter CenpC(N)&#x2013;Cdc20 distance in P as compared with AP kinetochores could stem from either a mechanically compliant CenpC(N)&#x2013;Cdc20 linkage that responds to force or from biochemical changes that relocalize a probe molecule.</p>
+<p>To distinguish mechanical from biochemical causes of inter-probe distance change, we first asked whether it also occurred during anaphase, which drastically changes kinetochore biochemistry (<xref ref-type="bibr" rid="R22"><italic>22</italic></xref>). Anaphase kinetochores are biased toward P motion to segregate chromosomes, but AP transients still occur in Ptk2 cells with similar velocities to metaphase (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>, <xref ref-type="bibr" rid="R23"><italic>23</italic></xref>), probably because of polar ejection forces (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). Inter-probe distances in anaphase were statistically indistinguishable from those at metaphase (<italic>P</italic> = 0.2 for P, and <italic>P</italic> = 0.4 for AP). The mean CenpC(N)&#x2013;Cdc20 distance in anaphase was 49 &#x00B1; 22 nm in P kinetochores (<italic>n</italic> = 204 measurements) and 57 &#x00B1; 20 nm in AP kinetochores (<italic>n</italic> = 89 measurements) (<xref ref-type="fig" rid="F1">Fig. 1H</xref> and table S2). Just as for metaphase, anaphase P and AP inter-probe distances were statistically different from each other (<italic>P</italic> = 0.004), and all but one kinetochore displayed a greater mean inter-probe distance in AP than in P state.</p>
+<p>Next, we measured the inter-probe distance at metaphase between CenpC(N) and Hec1(C), which is part of the main load-bearing complex, Ndc80. The mean CenpC(N)&#x2013;Hec1(C) distance was 38 &#x00B1; 15 nm in P kinetochores (<italic>n</italic> = 564 measurements) and 43 &#x00B1; 17 nm in AP kinetochores (<italic>n</italic> = 487 measurements) (<xref ref-type="fig" rid="F1">Fig. 1I</xref> and table S2). These values differ with high significance (<italic>P</italic> = 10<sup>&#x2212;5</sup>), and their average was consistent with the localization of Hec1 in fixed cells (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). Here too, the mean behavior was representative of individual kinetochores (fig. S1B). Observing similar changes in distance from CenpC to two different probes reporting on the microtubule-binding KMN network (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>, <xref ref-type="bibr" rid="R17"><italic>17</italic></xref>) strongly argues that length changes between P and AP are due to mechanical compliance.</p>
+<p>In a mechanical model, force changes and deformation changes are expected to be closely correlated in time. To test whether this requirement is met, we tracked sister kinetochores during direction reversals (<xref ref-type="fig" rid="F2">Fig. 2A</xref>) in which forces change abruptly. We measured the distance within one kinetochore and distance between that kinetochore and its sister, where the latter reports on force between kinetochores from centromere stretch, during 40 s of observation (five sequential images) centered on reversals, averaged over all reversals in the data set (<xref ref-type="fig" rid="F2">Fig. 2, B to D</xref>). Kinetochore direction (<xref ref-type="fig" rid="F2">Fig. 2B</xref>) (<xref ref-type="bibr" rid="R19"><italic>19</italic></xref>) and inter-kinetochore distance (<xref ref-type="fig" rid="F2">Fig. 2C</xref>) both changed abruptly at reversals. P-to-AP and AP-to-P reversals occurred at markedly different inter-kinetochore distances (<italic>P</italic> = 10<sup>&#x2212;13</sup>) (<xref ref-type="fig" rid="F2">Fig. 2C</xref> and table S3) and times. The leading P kinetochore reversed on average 6 &#x00B1; 11 s (<italic>n</italic> = 133 reversals) before the trailing AP one (and in 15% of the cases after the AP one), which was illustrated by a shift on the time axis (<xref ref-type="fig" rid="F2">Fig. 2, B to D</xref>). Inter-kinetochore distance tended to increase during coordinated movement because the leading P kinetochore moved slightly faster (on average) than did its trailing AP sister (fig. S2, A to D). P-to-AP reversal occurred on average 7 &#x00B1; 15 s (<italic>n</italic> = 151 reversals) after the maximum inter-kinetochore distance had been reached; inter-kinetochore distance was 2.7 &#x00B1; 1.0 &#x03BC;m at this reversal and decreased abruptly afterward as both sisters transiently moved toward each other (<xref ref-type="fig" rid="F2">Fig. 2C</xref>). AP-to-P reversal occurred after this decrease in inter-kinetochore distance at 1.9 &#x00B1; 0.6 &#x03BC;m, which is close to the global minimum (<xref ref-type="fig" rid="F2">Fig. 2C</xref> and fig. S2D). The above data are consistent with a mechanical model (<xref ref-type="bibr" rid="R24"><italic>24</italic></xref>) in which high centromere stretch favors P-to-AP reversal and low stretch favors AP-to-P reversal (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>).</p>
+<fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption>
+<p>Distance between sister kinetochores and between probes in one kinetochore during direction reversals. (<bold>A</bold>) Single kinetochore position (top) and inter-kinetochore distance (bottom) over time for a sister kinetochore pair (that of <xref ref-type="fig" rid="F1">Fig. 1C</xref>). Black stars indicate all direction reversals, and dotted lines indicate direction reversals for the circle-identified kinetochore. (<bold>B</bold>) Mean kinetochore position, (<bold>C</bold>) inter-kinetochore distance, and (<bold>D</bold>) CenpC(N)&#x2013;Cdc20 distance over time for metaphase P-to-AP (<italic>n</italic> = 104 traces) and AP-to-P (<italic>n</italic> = 98 traces) reversals (P in red, AP in blue). AP-to-P reversals are positioned 6 s later than P-to-AP reversals on the time axis so as to reflect the average time between them. Bars indicate SEM. Direction reversals cause abrupt changes in inter-probe distance with in a kinetochore, which is consistent with a mechanical response to a change in force.</p>
+</caption><graphic xlink:href="337_355_F2"></graphic></fig>
+<p>Within our time resolution, changes in movement direction and CenpC(N)&#x2013;Cdc20 distances coincided (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). CenpC(N)&#x2013;Cdc20 distances increased abruptly after P-to-AP reversals and decreased abruptly after AP-to-P reversals (<xref ref-type="fig" rid="F2">Fig. 2D</xref>; fig. S2, E and F; and tables S3 and S4), which was also true at anaphase (table S3). That change in forces exerted by P and on AP kinetochores&#x2014;measured through inter-kinetochore stretch&#x2014;coincides closely with changes in inter-probe distances within kinetochores supports the mechanical interpretation of inter-probe distances and constrains time scales associated with force transitions.</p>
+<p>Extent of deformation is expected to correlate with magnitude of force in a mechanical model. To test this, we plotted inter-probe distance against inter-kinetochore distance. Here too, chromosome oscillations provided natural changes in kinetochore forces (fig. S2); to extend the range of forces, we included measurements from drastically compressed cells in which inter-kinetochore stretch was up to 6 &#x03BC;m. Force between kinetochores is due to active force from the P kinetochore opposed largely by friction from the AP kinetochore (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>, <xref ref-type="bibr" rid="R15"><italic>15</italic></xref>, <xref ref-type="bibr" rid="R24"><italic>24</italic></xref>). Velocity of AP kinetochores increased with inter-kinetochore distance, as expected if AP movement is due to pulling by the P sister opposed by frictional drag at the AP kinetochore (<italic>P</italic> = 10<sup>&#x2212;4</sup>) (<xref ref-type="fig" rid="F3">Fig. 3A</xref> and table S5). Consistent with this view, velocity of P kinetochores decreased with inter-kinetochore distance (<italic>P</italic> = 0.08) (<xref ref-type="fig" rid="F3">Fig. 3A</xref> and table S5) (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>). Inter-probe distances in P kinetochores decreased with inter-kinetochore distance (<italic>P</italic> = 10<sup>&#x2212;8</sup>) (<xref ref-type="fig" rid="F3">Fig. 3B</xref> and table S5). This suggests that P kinetochores that exert more force are more compressed. No correlation between inter-probe and inter-kinetochore distances was detected in AP kinetochores (<italic>P</italic> = 0.6) (<xref ref-type="fig" rid="F3">Fig. 3B</xref> and table S5). When little active force was generated at low inter-kinetochore distances, both P and AP kinetochores displayed similar inter-probe distances (<xref ref-type="fig" rid="F3">Fig. 3B</xref>).</p>
+<fig id="F3" position="float" fig-type="figure"><label>Fig. 3</label><caption>
+<p>Kinetochore velocity and CenpC(N)&#x2013;Cdc20 distance at different inter-kinetochore distances. (<bold>A</bold>) Kinetochore velocity as a function of inter-kinetochore distance during metaphase P (<italic>n</italic> = 104 traces) and AP (<italic>n</italic> = 104 traces) movement before and after P-to-AP reversals, respectively, when the highest inter-kinetochore distances are visited. P velocity decreases and AP velocity increases with inter-kinetochore distance, as expected if P kinetochores generate force and inter-kinetochore distance is a metric for force. We include data from drastic spindle compression to probe even higher forces (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). (<bold>B</bold>) CenpC(N)&#x2013;Cdc20 distance as a function of inter-kinetochore distance during metaphase P (<italic>n</italic> = 547 measurements) and AP (<italic>n</italic> = 529 measurements) movement. Inter-probe distance decreases with inter-kinetochore distance in P kinetochores, which is consistent with a force-deformation relationship. Lines are best linear fits.</p>
+</caption><graphic xlink:href="337_355_F3"></graphic></fig>
+<p>Because P kinetochores, where active force is generated, are internally compressed relative to AP kinetochores and because the larger the force generated at P kinetochores the more compressed they are, we developed a simple mechanical model in which frictional forces are generated at a more outward position than that of active forces in P kinetochores, leading to internal compression (<xref ref-type="fig" rid="F4">Fig. 4A</xref>, figs. S3 and S4, and tables S6 and S7) (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). AP kinetochores, which lack active force generation, are extended by pulling from centromeric chromatin balanced by friction at the kinetochore-microtubule interface. Kinetochore deformation need not vary linearly with force and may either represent changes in length of protein linkages or their reorientation and reorganization. We extended this mechanical model in light of previous mapping data (<xref ref-type="fig" rid="F4">Fig. 4B</xref>) (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). The active, force-generating interface for P movement lies internal to the mean position of the Hec1(C) probe, and the passive, frictional interface is at least 20 nm outward of the active interface (<xref ref-type="fig" rid="F3">Fig. 3B</xref>). This makes the microtubule-binding site at the outer end of Hec1 (<xref ref-type="fig" rid="F4">Fig. 4A</xref>, 0 nm mean position) a good candidate for passive force generation (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>).</p>
+<fig id="F4" position="float" fig-type="figure"><label>Fig. 4</label><caption>
+<p>Mechanical model for kinetochore compliance. (<bold>A</bold>) Kinetochores and inter-kinetochore chromatin viewed as three springs in series, with probes indicated by stars. P kinetochores are compressed, on average, relative to AP kinetochores. We interpret this as indicating that an active force-generating interface that is only engaged in P kinetochores (orange) lies inward of the mean positions of Cdc20 and Hec1(C), whereas a passive frictional interface that is engaged in all kinetochores (blue) lies outward of these markers. (<bold>B</bold>) Preliminary structural interpretation, with inter-probe distances indicated for CenpC(N)&#x2013;Cdc20 (mean &#x00B1; SEM). The active and passive interfaces could differ because they comprise different molecules or because force generation is restricted to the end of the microtubule, whereas friction occurs all along the embedded lattice.</p>
+</caption><graphic xlink:href="337_355_F4"></graphic></fig>
+<p>Spatially separated passive and active interfaces at kinetochores, whether comprising different molecules or different interactions of the same molecule with microtubules in different locations (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>), may represent a design principle with important advantages. The passive frictional interface binds persistently to microtubules independently of the microtubule dynamics state or movement direction, ensuring segregation accuracy. The active interface consumes energy to efficiently move kinetochores poleward but can evolve without the constraint of requiring persistent attachment. Together, both interfaces allow the kinetochore to harness force from depolymerizing microtubules without losing grip. That said, kinetochores may be able to function using only the passive interface&#x2014;for example, in systems without anaphase A (<xref ref-type="bibr" rid="R25"><italic>25</italic></xref>) or where microtubules polymerize continuously at kinetochores, even during anaphase (<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>). In these systems, segregation forces will be generated elsewhere in the spindle and presumably transmitted to chromatin via molecular friction.</p>
+</body>
+<back><app-group><app>
+<title>Supplementary Materials</title><supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/science.1221886/DC1">www.sciencemag.org/cgi/content/full/science.1221886/DC1</ext-link></p>
+<p>Materials and Methods</p>
+<p>Supplementary Text</p>
+<p>Figs. S1 to S4</p>
+<p>Tables S1 to S7</p>
+<p>References (<xref ref-type="bibr" rid="R27"><italic>27</italic></xref><italic>&#x2013;</italic><xref ref-type="bibr" rid="R76"><italic>76</italic></xref>)</p>
+<p>Movies S1 and S2</p></supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Santaguida</surname><given-names>S.</given-names></name><name><surname>Musacchio</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>The life and miracles of kinetochores</article-title>. <source>EMBO J.</source> 
+<volume>28</volume>, 
+<fpage>2511</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1038/emboj.2009.173</pub-id><pub-id pub-id-type="pmid">19629042</pub-id></citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Cheeseman</surname><given-names>I. M.</given-names></name><name><surname>Desai</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Molecular architecture of the kinetochore-microtubule interface</article-title>. <source>Nat. Rev. Mol. Cell Biol.</source> 
+<volume>9</volume>, 
+<fpage>33</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1038/nrm2310</pub-id><pub-id pub-id-type="pmid">18097444</pub-id></citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Joglekar</surname><given-names>A. P.</given-names></name><name><surname>Bloom</surname><given-names>K.</given-names></name><name><surname>Salmon</surname><given-names>E. D.</given-names></name></person-group>, 
+<article-title>In vivo protein architecture of the eukaryotic kinetochore with nanometer scale accuracy</article-title>. <source>Curr. Biol.</source> 
+<volume>19</volume>, 
+<fpage>694</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1016/j.cub.2009.02.056</pub-id><pub-id pub-id-type="pmid">19345105</pub-id></citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ribeiro</surname><given-names>S. A.</given-names></name><etal /></person-group>., 
+<article-title>A super-resolution map of the vertebrate kinetochore</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>107</volume>, 
+<fpage>10484</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1073/pnas.1002325107</pub-id><pub-id pub-id-type="pmid">20483991</pub-id></citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Schittenhelm</surname><given-names>R. B.</given-names></name><etal /></person-group>., 
+<article-title>Spatial organization of a ubiquitous eukaryotic kinetochore protein network in <italic>Drosophila</italic> chromosomes</article-title>. <source>Chromosoma</source> 
+<volume>116</volume>, 
+<fpage>385</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1007/s00412-007-0103-y</pub-id><pub-id pub-id-type="pmid">17333235</pub-id></citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Wan</surname><given-names>X.</given-names></name><etal /></person-group>., 
+<article-title>Protein architecture of the human kinetochore microtubule attachment site</article-title>. <source>Cell</source> 
+<volume>137</volume>, 
+<fpage>672</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1016/j.cell.2009.03.035</pub-id><pub-id pub-id-type="pmid">19450515</pub-id></citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Maresca</surname><given-names>T. J.</given-names></name><name><surname>Salmon</surname><given-names>E. D.</given-names></name></person-group>, 
+<article-title>Intrakinetochore stretch is associated with changes in kinetochore phosphorylation and spindle assembly checkpoint activity</article-title>. <source>J. Cell Biol.</source> 
+<volume>184</volume>, 
+<fpage>373</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1083/jcb.200808130</pub-id><pub-id pub-id-type="pmid">19193623</pub-id></citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Uchida</surname><given-names>K. S.</given-names></name><etal /></person-group>., 
+<article-title>Kinetochore stretching inactivates the spindle assembly checkpoint</article-title>. <source>J. Cell Biol.</source> 
+<volume>184</volume>, 
+<fpage>383</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1083/jcb.200811028</pub-id><pub-id pub-id-type="pmid">19188492</pub-id></citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Venkei</surname><given-names>Z.</given-names></name><etal /></person-group>., 
+<article-title>Spatiotemporal dynamics of Spc105 regulates the assembly of the Drosophila kinetochore</article-title>. <source>Open Biol.</source> 
+<volume>2</volume>, 
+<fpage>110032</fpage> (<year>2012</year>). <pub-id pub-id-type="doi">10.1098/rsob.110032</pub-id><pub-id pub-id-type="pmid">22645658</pub-id></citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Joglekar</surname><given-names>A. P.</given-names></name><name><surname>Bloom</surname><given-names>K. S.</given-names></name><name><surname>Salmon</surname><given-names>E. D.</given-names></name></person-group>, 
+<article-title>Mechanisms of force generation by end-on kinetochore-microtubule attachments</article-title>. <source>Curr. Opin. Cell Biol.</source> 
+<volume>22</volume>, 
+<fpage>57</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1016/j.ceb.2009.12.010</pub-id><pub-id pub-id-type="pmid">20061128</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Grishchuk</surname><given-names>E. L.</given-names></name><name><surname>Molodtsov</surname><given-names>M. I.</given-names></name><name><surname>Ataullakhanov</surname><given-names>F. I.</given-names></name><name><surname>McIntosh</surname><given-names>J. R.</given-names></name></person-group>, 
+<article-title>Force production by disassembling microtubules</article-title>. <source>Nature</source> 
+<volume>438</volume>, 
+<fpage>384</fpage> (<year>2005</year>). <pub-id pub-id-type="doi">10.1038/nature04132</pub-id><pub-id pub-id-type="pmid">16292315</pub-id></citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Koshland</surname><given-names>D. E.</given-names></name><name><surname>Mitchison</surname><given-names>T. J.</given-names></name><name><surname>Kirschner</surname><given-names>M. W.</given-names></name></person-group>, 
+<article-title>Polewards chromosome movement driven by microtubule depolymerization in vitro</article-title>. <source>Nature</source> 
+<volume>331</volume>, 
+<fpage>499</fpage> (<year>1988</year>). <pub-id pub-id-type="doi">10.1038/331499a0</pub-id><pub-id pub-id-type="pmid">3340202</pub-id></citation></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Nicklas</surname><given-names>R. B.</given-names></name></person-group>, 
+<article-title>Measurements of the force produced by the mitotic spindle in anaphase</article-title>. <source>J. Cell Biol.</source> 
+<volume>97</volume>, 
+<fpage>542</fpage> (<year>1983</year>). <pub-id pub-id-type="doi">10.1083/jcb.97.2.542</pub-id><pub-id pub-id-type="pmid">6885908</pub-id></citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Khodjakov</surname><given-names>A.</given-names></name><name><surname>Rieder</surname><given-names>C. L.</given-names></name></person-group>, 
+<article-title>Kinetochores moving away from their associated pole do not exert a significant pushing force on the chromosome</article-title>. <source>J. Cell Biol.</source> 
+<volume>135</volume>, 
+<fpage>315</fpage> (<year>1996</year>). <pub-id pub-id-type="doi">10.1083/jcb.135.2.315</pub-id><pub-id pub-id-type="pmid">8896591</pub-id></citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Maddox</surname><given-names>P.</given-names></name><name><surname>Straight</surname><given-names>A.</given-names></name><name><surname>Coughlin</surname><given-names>P.</given-names></name><name><surname>Mitchison</surname><given-names>T. J.</given-names></name><name><surname>Salmon</surname><given-names>E. D.</given-names></name></person-group>, 
+<article-title>Direct observation of microtubule dynamics at kinetochores in Xenopus extract spindles: Implications for spindle mechanics</article-title>. <source>J. Cell Biol.</source> 
+<volume>162</volume>, 
+<fpage>377</fpage> (<year>2003</year>). <pub-id pub-id-type="doi">10.1083/jcb.200301088</pub-id><pub-id pub-id-type="pmid">12900391</pub-id></citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hori</surname><given-names>T.</given-names></name><etal /></person-group>., 
+<article-title>CCAN makes multiple contacts with centromeric DNA to provide distinct pathways to the outer kinetochore</article-title>. <source>Cell</source> 
+<volume>135</volume>, 
+<fpage>1039</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1016/j.cell.2008.10.019</pub-id><pub-id pub-id-type="pmid">19070575</pub-id></citation></ref>
+<ref id="R17"><note><label>17</label>
+<p>Materials and methods are available as supplementary materials on <italic>Science</italic> Online.</p></note></ref>
+<ref id="R18"><label>18</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Skibbens</surname><given-names>R. V.</given-names></name><name><surname>Skeen</surname><given-names>V. P.</given-names></name><name><surname>Salmon</surname><given-names>E. D.</given-names></name></person-group>, 
+<article-title>Directional instability of kinetochore motility during chromosome congression and segregation in mitotic newt lung cells: A push-pull mechanism</article-title>. <source>J. Cell Biol.</source> 
+<volume>122</volume>, 
+<fpage>859</fpage> (<year>1993</year>). <pub-id pub-id-type="doi">10.1083/jcb.122.4.859</pub-id><pub-id pub-id-type="pmid">8349735</pub-id></citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Akiyoshi</surname><given-names>B.</given-names></name><etal /></person-group>., 
+<article-title>Tension directly stabilizes reconstituted kinetochore-microtubule attachments</article-title>. <source>Nature</source> 
+<volume>468</volume>, 
+<fpage>576</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1038/nature09594</pub-id><pub-id pub-id-type="pmid">21107429</pub-id></citation></ref>
+<ref id="R20"><label>20</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Dumont</surname><given-names>S.</given-names></name><name><surname>Mitchison</surname><given-names>T. J.</given-names></name></person-group>, 
+<article-title>Compression regulates mitotic spindle length by a mechanochemical switch at the poles</article-title>. <source>Curr. Biol.</source> 
+<volume>19</volume>, 
+<fpage>1086</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1016/j.cub.2009.05.056</pub-id><pub-id pub-id-type="pmid">19540117</pub-id></citation></ref>
+<ref id="R21"><label>21</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Churchman</surname><given-names>L. S.</given-names></name><name><surname>Okten</surname><given-names>Z.</given-names></name><name><surname>Rock</surname><given-names>R. S.</given-names></name><name><surname>Dawson</surname><given-names>J. F.</given-names></name><name><surname>Spudich</surname><given-names>J. A.</given-names></name></person-group>, 
+<article-title>Single molecule high-resolution colocalization of Cy3 and Cy5 attached to macromolecules measures intramolecular distances through time</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>102</volume>, 
+<fpage>1419</fpage> (<year>2005</year>). <pub-id pub-id-type="doi">10.1073/pnas.0409487102</pub-id><pub-id pub-id-type="pmid">15668396</pub-id></citation></ref>
+<ref id="R22"><label>22</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Howell</surname><given-names>B. J.</given-names></name><etal /></person-group>., 
+<article-title>Spindle checkpoint protein dynamics at kinetochores in living cells</article-title>. <source>Curr. Biol.</source> 
+<volume>14</volume>, 
+<fpage>953</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1016/j.cub.2004.05.053</pub-id><pub-id pub-id-type="pmid">15182668</pub-id></citation></ref>
+<ref id="R23"><label>23</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Tirnauer</surname><given-names>J. S.</given-names></name><name><surname>Canman</surname><given-names>J. C.</given-names></name><name><surname>Salmon</surname><given-names>E. D.</given-names></name><name><surname>Mitchison</surname><given-names>T. J.</given-names></name></person-group>, 
+<article-title>EB1 targets to kinetochores with attached, polymerizing microtubules</article-title>. <source>Mol. Biol. Cell</source> 
+<volume>13</volume>, 
+<fpage>4308</fpage> (<year>2002</year>). <pub-id pub-id-type="doi">10.1091/mbc.E02-04-0236</pub-id><pub-id pub-id-type="pmid">12475954</pub-id></citation></ref>
+<ref id="R24"><label>24</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Skibbens</surname><given-names>R. V.</given-names></name><name><surname>Rieder</surname><given-names>C. L.</given-names></name><name><surname>Salmon</surname><given-names>E. D.</given-names></name></person-group>, 
+<article-title>Kinetochore motility after severing between sister centromeres using laser microsurgery: Evidence that kinetochore directional instability and position is regulated by tension</article-title>. <source>J. Cell Sci.</source> 
+<volume>108</volume>, 
+<fpage>2537</fpage> (<year>1995</year>).<pub-id pub-id-type="pmid">7593295</pub-id></citation></ref>
+<ref id="R25"><label>25</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Oegema</surname><given-names>K.</given-names></name><name><surname>Desai</surname><given-names>A.</given-names></name><name><surname>Rybina</surname><given-names>S.</given-names></name><name><surname>Kirkham</surname><given-names>M.</given-names></name><name><surname>Hyman</surname><given-names>A. A.</given-names></name></person-group>, 
+<article-title>Functional analysis of kinetochore assembly in <italic>Caenorhabditis elegans</italic></article-title>. <source>J. Cell Biol.</source> 
+<volume>153</volume>, 
+<fpage>1209</fpage> (<year>2001</year>). <pub-id pub-id-type="doi">10.1083/jcb.153.6.1209</pub-id><pub-id pub-id-type="pmid">11402065</pub-id></citation></ref>
+<ref id="R26"><label>26</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>LaFountain</surname><given-names>J. R. J.</given-names><suffix>Jr.</suffix></name><name><surname>Cohan</surname><given-names>C. S.</given-names></name><name><surname>Siegel</surname><given-names>A. J.</given-names></name><name><surname>LaFountain</surname><given-names>D. J.</given-names></name></person-group>, 
+<article-title>Direct visualization of microtubule flux during metaphase and anaphase in crane-fly spermatocytes</article-title>. <source>Mol. Biol. Cell</source> 
+<volume>15</volume>, 
+<fpage>5724</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1091/mbc.E04-08-0750</pub-id><pub-id pub-id-type="pmid">15469981</pub-id></citation></ref>
+<ref id="R27"><label>27</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Mitchison</surname><given-names>T. J.</given-names></name><name><surname>Salmon</surname><given-names>E. D.</given-names></name></person-group>, 
+<article-title>Poleward kinetochore fiber movement occurs during both metaphase and anaphase-A in newt lung cell mitosis</article-title>. <source>J. Cell Biol.</source> 
+<volume>119</volume>, 
+<fpage>569</fpage> (<year>1992</year>). <pub-id pub-id-type="doi">10.1083/jcb.119.3.569</pub-id><pub-id pub-id-type="pmid">1400593</pub-id></citation></ref>
+<ref id="R28"><label>28</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Rieder</surname><given-names>C. L.</given-names></name><name><surname>Davison</surname><given-names>E. A.</given-names></name><name><surname>Jensen</surname><given-names>L. C.</given-names></name><name><surname>Cassimeris</surname><given-names>L.</given-names></name><name><surname>Salmon</surname><given-names>E. D.</given-names></name></person-group>, 
+<article-title>Oscillatory movements of monooriented chromosomes and their position relative to the spindle pole result from the ejection properties of the aster and half-spindle</article-title>. <source>J. Cell Biol.</source> 
+<volume>103</volume>, 
+<fpage>581</fpage> (<year>1986</year>). <pub-id pub-id-type="doi">10.1083/jcb.103.2.581</pub-id><pub-id pub-id-type="pmid">3733881</pub-id></citation></ref>
+<ref id="R29"><label>29</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ke</surname><given-names>K.</given-names></name><name><surname>Cheng</surname><given-names>J.</given-names></name><name><surname>Hunt</surname><given-names>A. J.</given-names></name></person-group>, 
+<article-title>The distribution of polar ejection forces determines the amplitude of chromosome directional instability</article-title>. <source>Curr. Biol.</source> 
+<volume>19</volume>, 
+<fpage>807</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1016/j.cub.2009.04.036</pub-id><pub-id pub-id-type="pmid">19446456</pub-id></citation></ref>
+<ref id="R30"><label>30</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Levesque</surname><given-names>A. A.</given-names></name><name><surname>Compton</surname><given-names>D. A.</given-names></name></person-group>, 
+<article-title>The chromokinesin Kid is necessary for chromosome arm orientation and oscillation, but not congression, on mitotic spindles</article-title>. <source>J. Cell Biol.</source> 
+<volume>154</volume>, 
+<fpage>1135</fpage> (<year>2001</year>). <pub-id pub-id-type="doi">10.1083/jcb.200106093</pub-id><pub-id pub-id-type="pmid">11564754</pub-id></citation></ref>
+<ref id="R31"><label>31</label><citation citation-type="thesis">X. Wan, thesis, University of North Carolina, Chapel Hill (2008).</citation></ref>
+<ref id="R32"><label>32</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Churchman</surname><given-names>L. S.</given-names></name><name><surname>Flyvbjerg</surname><given-names>H.</given-names></name><name><surname>Spudich</surname><given-names>J. A.</given-names></name></person-group>, 
+<article-title>A non-Gaussian distribution quantifies distances measured with fluorescence localization techniques</article-title>. <source>Biophys. J.</source> 
+<volume>90</volume>, 
+<fpage>668</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1529/biophysj.105.065599</pub-id><pub-id pub-id-type="pmid">16258038</pub-id></citation></ref>
+<ref id="R33"><label>33</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>McEwen</surname><given-names>B. F.</given-names></name><name><surname>Heagle</surname><given-names>A. B.</given-names></name><name><surname>Cassels</surname><given-names>G. O.</given-names></name><name><surname>Buttle</surname><given-names>K. F.</given-names></name><name><surname>Rieder</surname><given-names>C. L.</given-names></name></person-group>, 
+<article-title>Kinetochore fiber maturation in PtK1 cells and its implications for the mechanisms of chromosome congression and anaphase onset</article-title>. <source>J. Cell Biol.</source> 
+<volume>137</volume>, 
+<fpage>1567</fpage> (<year>1997</year>). <pub-id pub-id-type="doi">10.1083/jcb.137.7.1567</pub-id><pub-id pub-id-type="pmid">9199171</pub-id></citation></ref>
+<ref id="R34"><label>34</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Mortensen</surname><given-names>K. I.</given-names></name><name><surname>Churchman</surname><given-names>L. S.</given-names></name><name><surname>Spudich</surname><given-names>J. A.</given-names></name><name><surname>Flyvbjerg</surname><given-names>H.</given-names></name></person-group>, 
+<article-title>Optimized localization analysis for single-molecule tracking and super-resolution microscopy</article-title>. <source>Nat. Methods</source> 
+<volume>7</volume>, 
+<fpage>377</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1038/nmeth.1447</pub-id><pub-id pub-id-type="pmid">20364147</pub-id></citation></ref>
+<ref id="R35"><label>35</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Waters</surname><given-names>J. C.</given-names></name><name><surname>Chen</surname><given-names>R.-H.</given-names></name><name><surname>Murray</surname><given-names>A. W.</given-names></name><name><surname>Salmon</surname><given-names>E. D.</given-names></name></person-group>, 
+<article-title>Localization of Mad2 to kinetochores depends on microtubule attachment, not tension</article-title>. <source>J. Cell Biol.</source> 
+<volume>141</volume>, 
+<fpage>1181</fpage> (<year>1998</year>). <pub-id pub-id-type="doi">10.1083/jcb.141.5.1181</pub-id><pub-id pub-id-type="pmid">9606210</pub-id></citation></ref>
+<ref id="R36"><label>36</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Carroll</surname><given-names>C. W.</given-names></name><name><surname>Milks</surname><given-names>K. J.</given-names></name><name><surname>Straight</surname><given-names>A. F.</given-names></name></person-group>, 
+<article-title>Dual recognition of CENP-A nucleosomes is required for centromere assembly</article-title>. <source>J. Cell Biol.</source> 
+<volume>189</volume>, 
+<fpage>1143</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1083/jcb.201001013</pub-id><pub-id pub-id-type="pmid">20566683</pub-id></citation></ref>
+<ref id="R37"><label>37</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Milks</surname><given-names>K. J.</given-names></name><name><surname>Moree</surname><given-names>B.</given-names></name><name><surname>Straight</surname><given-names>A. F.</given-names></name></person-group>, 
+<article-title>Dissection of CENP-C-directed centromere and kinetochore assembly</article-title>. <source>Mol. Biol. Cell</source> 
+<volume>20</volume>, 
+<fpage>4246</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1091/mbc.E09-05-0378</pub-id><pub-id pub-id-type="pmid">19641019</pub-id></citation></ref>
+<ref id="R38"><label>38</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Shah</surname><given-names>J. V.</given-names></name><etal /></person-group>., 
+<article-title>Dynamics of centromere and kinetochore proteins: Implications for checkpoint signaling and silencing</article-title>. <source>Curr. Biol.</source> 
+<volume>14</volume>, 
+<fpage>942</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1016/S0960-9822(04)00381-1</pub-id><pub-id pub-id-type="pmid">15182667</pub-id></citation></ref>
+<ref id="R39"><label>39</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Screpanti</surname><given-names>E.</given-names></name><etal /></person-group>., 
+<article-title>Direct binding of Cenp-C to the Mis12 complex joins the inner and outer kinetochore</article-title>. <source>Curr. Biol.</source> 
+<volume>21</volume>, 
+<fpage>391</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1016/j.cub.2010.12.039</pub-id><pub-id pub-id-type="pmid">21353556</pub-id></citation></ref>
+<ref id="R40"><label>40</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Przewloka</surname><given-names>M. R.</given-names></name><etal /></person-group>., 
+<article-title>CENP-C is a structural platform for kinetochore assembly</article-title>. <source>Curr. Biol.</source> 
+<volume>21</volume>, 
+<fpage>399</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1016/j.cub.2011.02.005</pub-id><pub-id pub-id-type="pmid">21353555</pub-id></citation></ref>
+<ref id="R41"><label>41</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>DeLuca</surname><given-names>J. G.</given-names></name><name><surname>Musacchio</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Structural organization of the kinetochore-microtubule interface</article-title>. <source>Curr. Opin. Cell Biol.</source> 
+<volume>24</volume>, 
+<fpage>48</fpage> (<year>2012</year>). <pub-id pub-id-type="doi">10.1016/j.ceb.2011.11.003</pub-id><pub-id pub-id-type="pmid">22154944</pub-id></citation></ref>
+<ref id="R42"><label>42</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Lawrimore</surname><given-names>J.</given-names></name><name><surname>Bloom</surname><given-names>K. S.</given-names></name><name><surname>Salmon</surname><given-names>E. D.</given-names></name></person-group>, 
+<article-title>Point centromeres contain more than a single centromere-specific Cse4 (CENP-A) nucleosome</article-title>. <source>J. Cell Biol.</source> 
+<volume>195</volume>, 
+<fpage>573</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1083/jcb.201106036</pub-id><pub-id pub-id-type="pmid">22084307</pub-id></citation></ref>
+<ref id="R43"><label>43</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Cheeseman</surname><given-names>I. M.</given-names></name><name><surname>Chappie</surname><given-names>J. S.</given-names></name><name><surname>Wilson-Kubalek</surname><given-names>E. M.</given-names></name><name><surname>Desai</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>The conserved KMN network constitutes the core microtubule-binding site of the kinetochore</article-title>. <source>Cell</source> 
+<volume>127</volume>, 
+<fpage>983</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1016/j.cell.2006.09.039</pub-id><pub-id pub-id-type="pmid">17129783</pub-id></citation></ref>
+<ref id="R44"><label>44</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kiyomitsu</surname><given-names>T.</given-names></name><name><surname>Obuse</surname><given-names>C.</given-names></name><name><surname>Yanagida</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Human Blinkin/AF15q14 is required for chromosome alignment and the mitotic checkpoint through direct interaction with Bub1 and BubR1</article-title>. <source>Dev. Cell</source> 
+<volume>13</volume>, 
+<fpage>663</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1016/j.devcel.2007.09.005</pub-id><pub-id pub-id-type="pmid">17981135</pub-id></citation></ref>
+<ref id="R45"><label>45</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kallio</surname><given-names>M. J.</given-names></name><name><surname>Beardmore</surname><given-names>V. A.</given-names></name><name><surname>Weinstein</surname><given-names>J.</given-names></name><name><surname>Gorbsky</surname><given-names>G. J.</given-names></name></person-group>, 
+<article-title>Rapid microtubule-independent dynamics of Cdc20 at kinetochores and centrosomes in mammalian cells</article-title>. <source>J. Cell Biol.</source> 
+<volume>158</volume>, 
+<fpage>841</fpage> (<year>2002</year>). <pub-id pub-id-type="doi">10.1083/jcb.200201135</pub-id><pub-id pub-id-type="pmid">12196507</pub-id></citation></ref>
+<ref id="R46"><label>46</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Tang</surname><given-names>Z.</given-names></name><name><surname>Bharadwaj</surname><given-names>R.</given-names></name><name><surname>Li</surname><given-names>B.</given-names></name><name><surname>Yu</surname><given-names>H.</given-names></name></person-group>, 
+<article-title>Mad2-Independent inhibition of APC<sup>Cdc20</sup> by the mitotic checkpoint protein BubR1</article-title>. <source>Dev. Cell</source> 
+<volume>1</volume>, 
+<fpage>227</fpage> (<year>2001</year>). <pub-id pub-id-type="doi">10.1016/S1534-5807(01)00019-3</pub-id><pub-id pub-id-type="pmid">11702782</pub-id></citation></ref>
+<ref id="R47"><label>47</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>S. T.</given-names></name><name><surname>Rattner</surname><given-names>J. B.</given-names></name><name><surname>Jablonski</surname><given-names>S. A.</given-names></name><name><surname>Yen</surname><given-names>T. J.</given-names></name></person-group>, 
+<article-title>Mapping the assembly pathways that specify formation of the trilaminar kinetochore plates in human cells</article-title>. <source>J. Cell Biol.</source> 
+<volume>175</volume>, 
+<fpage>41</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1083/jcb.200606020</pub-id><pub-id pub-id-type="pmid">17030981</pub-id></citation></ref>
+<ref id="R48"><label>48</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Tang</surname><given-names>Z.</given-names></name><name><surname>Shu</surname><given-names>H.</given-names></name><name><surname>Oncel</surname><given-names>D.</given-names></name><name><surname>Chen</surname><given-names>S.</given-names></name><name><surname>Yu</surname><given-names>H.</given-names></name></person-group>, 
+<article-title>Phosphorylation of Cdc20 by Bub1 provides a catalytic mechanism for APC/C inhibition by the spindle checkpoint</article-title>. <source>Mol. Cell</source> 
+<volume>16</volume>, 
+<fpage>387</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1016/j.molcel.2004.09.031</pub-id><pub-id pub-id-type="pmid">15525512</pub-id></citation></ref>
+<ref id="R49"><label>49</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kang</surname><given-names>J.</given-names></name><etal /></person-group>., 
+<article-title>Structure and substrate recruitment of the human spindle checkpoint kinase Bub1</article-title>. <source>Mol. Cell</source> 
+<volume>32</volume>, 
+<fpage>394</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1016/j.molcel.2008.09.017</pub-id><pub-id pub-id-type="pmid">18995837</pub-id></citation></ref>
+<ref id="R50"><label>50</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>D&#x2019;Arcy</surname><given-names>S.</given-names></name><name><surname>Davies</surname><given-names>O. R.</given-names></name><name><surname>Blundell</surname><given-names>T. L.</given-names></name><name><surname>Bolanos-Garcia</surname><given-names>V. M.</given-names></name></person-group>, 
+<article-title>Defining the molecular basis of BubR1 kinetochore interactions and APC/C-CDC20 inhibition</article-title>. <source>J. Biol. Chem.</source> 
+<volume>285</volume>, 
+<fpage>14764</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1074/jbc.M109.082016</pub-id><pub-id pub-id-type="pmid">20220147</pub-id></citation></ref>
+<ref id="R51"><label>51</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Yang</surname><given-names>F.</given-names></name><name><surname>Moss</surname><given-names>L. G.</given-names></name><name><surname>Phillips</surname><given-names>G. N.</given-names><suffix>Jr.</suffix></name></person-group>, 
+<article-title>The molecular structure of green fluorescent protein</article-title>. <source>Nat. Biotechnol.</source> 
+<volume>14</volume>, 
+<fpage>1246</fpage> (<year>1996</year>). <pub-id pub-id-type="doi">10.1038/nbt1096-1246</pub-id><pub-id pub-id-type="pmid">9631087</pub-id></citation></ref>
+<ref id="R52"><label>52</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Shaner</surname><given-names>N. C.</given-names></name><name><surname>Steinbach</surname><given-names>P. A.</given-names></name><name><surname>Tsien</surname><given-names>R. Y.</given-names></name></person-group>, 
+<article-title>A guide to choosing fluorescent proteins</article-title>. <source>Nat. Methods</source> 
+<volume>2</volume>, 
+<fpage>905</fpage> (<year>2005</year>). <pub-id pub-id-type="doi">10.1038/nmeth819</pub-id><pub-id pub-id-type="pmid">16299475</pub-id></citation></ref>
+<ref id="R53"><label>53</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ganem</surname><given-names>N. J.</given-names></name><name><surname>Upton</surname><given-names>K.</given-names></name><name><surname>Compton</surname><given-names>D. A.</given-names></name></person-group>, 
+<article-title>Efficient mitosis in human cells lacking poleward microtubule flux</article-title>. <source>Curr. Biol.</source> 
+<volume>15</volume>, 
+<fpage>1827</fpage> (<year>2005</year>). <pub-id pub-id-type="doi">10.1016/j.cub.2005.08.065</pub-id><pub-id pub-id-type="pmid">16243029</pub-id></citation></ref>
+<ref id="R54"><label>54</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Houghtaling</surname><given-names>B. R.</given-names></name><name><surname>Yang</surname><given-names>G.</given-names></name><name><surname>Matov</surname><given-names>A.</given-names></name><name><surname>Danuser</surname><given-names>G.</given-names></name><name><surname>Kapoor</surname><given-names>T. M.</given-names></name></person-group>, 
+<article-title>Op18 reveals the contribution of nonkinetochore microtubules to the dynamic organization of the vertebrate meiotic spindle</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>106</volume>, 
+<fpage>15338</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1073/pnas.0902317106</pub-id><pub-id pub-id-type="pmid">19706424</pub-id></citation></ref>
+<ref id="R55"><label>55</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Buster</surname><given-names>D. W.</given-names></name><name><surname>Zhang</surname><given-names>D.</given-names></name><name><surname>Sharp</surname><given-names>D. J.</given-names></name></person-group>, 
+<article-title>Poleward tubulin flux in spindles: Regulation and function in mitotic cells</article-title>. <source>Mol. Biol. Cell</source> 
+<volume>18</volume>, 
+<fpage>3094</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1091/mbc.E06-11-0994</pub-id><pub-id pub-id-type="pmid">17553931</pub-id></citation></ref>
+<ref id="R56"><label>56</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>McDonald</surname><given-names>K. L.</given-names></name><name><surname>O&#x2019;Toole</surname><given-names>E. T.</given-names></name><name><surname>Mastronarde</surname><given-names>D. N.</given-names></name><name><surname>McIntosh</surname><given-names>J. R.</given-names></name></person-group>, 
+<article-title>Kinetochore microtubules in PTK cells</article-title>. <source>J. Cell Biol.</source> 
+<volume>118</volume>, 
+<fpage>369</fpage> (<year>1992</year>). <pub-id pub-id-type="doi">10.1083/jcb.118.2.369</pub-id><pub-id pub-id-type="pmid">1629239</pub-id></citation></ref>
+<ref id="R57"><label>57</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Rieder</surname><given-names>C. L.</given-names></name></person-group>, 
+<article-title>The formation, structure, and composition of the mammalian kinetochore and kinetochore fiber</article-title>. <source>Int. Rev. Cytol.</source> 
+<volume>79</volume>, 
+<fpage>1</fpage> (<year>1982</year>). <pub-id pub-id-type="doi">10.1016/S0074-7696(08)61672-1</pub-id><pub-id pub-id-type="pmid">6185450</pub-id></citation></ref>
+<ref id="R58"><label>58</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>McEwen</surname><given-names>B. F.</given-names></name><name><surname>Heagle</surname><given-names>A. B.</given-names></name></person-group>, 
+<article-title>Electron microscopic tomography: A tool for probing the structure and function of subcellular components</article-title>. <source>Int. J. Imaging Syst. Technol.</source> 
+<volume>8</volume>, 
+<fpage>175</fpage> (<year>1997</year>). <pub-id pub-id-type="doi">10.1002/(SICI)1098-1098(1997)8:2&lt;175::AID-IMA5&gt;3.0.CO;2-7</pub-id></citation></ref>
+<ref id="R59"><label>59</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hutchins</surname><given-names>J. R.</given-names></name><etal /></person-group>., 
+<article-title>Systematic analysis of human protein complexes identifies chromosome segregation proteins</article-title>. <source>Science</source> 
+<volume>328</volume>, 
+<fpage>593</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1126/science.1181348</pub-id><pub-id pub-id-type="pmid">20360068</pub-id></citation></ref>
+<ref id="R60"><label>60</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Neumann</surname><given-names>B.</given-names></name><etal /></person-group>., 
+<article-title>Phenotypic profiling of the human genome by time-lapse microscopy reveals cell division genes</article-title>. <source>Nature</source> 
+<volume>464</volume>, 
+<fpage>721</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1038/nature08869</pub-id><pub-id pub-id-type="pmid">20360735</pub-id></citation></ref>
+<ref id="R61"><label>61</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Johnson</surname><given-names>V. L.</given-names></name><name><surname>Scott</surname><given-names>M. I.</given-names></name><name><surname>Holt</surname><given-names>S. V.</given-names></name><name><surname>Hussein</surname><given-names>D.</given-names></name><name><surname>Taylor</surname><given-names>S. S.</given-names></name></person-group>, 
+<article-title>Bub1 is required for kinetochore localization of BubR1, Cenp-E, Cenp-F and Mad2, and chromosome congression</article-title>. <source>J. Cell Sci.</source> 
+<volume>117</volume>, 
+<fpage>1577</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1242/jcs.01006</pub-id><pub-id pub-id-type="pmid">15020684</pub-id></citation></ref>
+<ref id="R62"><label>62</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Klebig</surname><given-names>C.</given-names></name><name><surname>Korinth</surname><given-names>D.</given-names></name><name><surname>Meraldi</surname><given-names>P.</given-names></name></person-group>, 
+<article-title>Bub1 regulates chromosome segregation in a kinetochore-independent manner</article-title>. <source>J. Cell Biol.</source> 
+<volume>185</volume>, 
+<fpage>841</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1083/jcb.200902128</pub-id><pub-id pub-id-type="pmid">19487456</pub-id></citation></ref>
+<ref id="R63"><label>63</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Khodjakov</surname><given-names>A.</given-names></name><name><surname>Pines</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>Centromere tension: A divisive issue</article-title>. <source>Nat. Cell Biol.</source> 
+<volume>12</volume>, 
+<fpage>919</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1038/ncb1010-919</pub-id><pub-id pub-id-type="pmid">20885417</pub-id></citation></ref>
+<ref id="R64"><label>64</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Amaro</surname><given-names>A. C.</given-names></name><etal /></person-group>., 
+<article-title>Molecular control of kinetochore-microtubule dynamics and chromosome oscillations</article-title>. <source>Nat. Cell Biol.</source> 
+<volume>12</volume>, 
+<fpage>319</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1038/ncb2033</pub-id><pub-id pub-id-type="pmid">20228811</pub-id></citation></ref>
+<ref id="R65"><label>65</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Coue</surname><given-names>M.</given-names></name><name><surname>Lombillo</surname><given-names>V. A.</given-names></name><name><surname>McIntosh</surname><given-names>J. R.</given-names></name></person-group>, 
+<article-title>Microtubule depolymerization promotes particle and chromosome movement in vitro</article-title>. <source>J. Cell Biol.</source> 
+<volume>112</volume>, 
+<fpage>1165</fpage> (<year>1991</year>). <pub-id pub-id-type="doi">10.1083/jcb.112.6.1165</pub-id><pub-id pub-id-type="pmid">1999468</pub-id></citation></ref>
+<ref id="R66"><label>66</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Asbury</surname><given-names>C. L.</given-names></name><name><surname>Tien</surname><given-names>J. F.</given-names></name><name><surname>Davis</surname><given-names>T. N.</given-names></name></person-group>, 
+<article-title>Kinetochores&#x2019; gripping feat: Conformational wave or biased diffusion?</article-title> <source>Trends Cell Biol.</source> 
+<volume>21</volume>, 
+<fpage>38</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1016/j.tcb.2010.09.003</pub-id><pub-id pub-id-type="pmid">20951587</pub-id></citation></ref>
+<ref id="R67"><label>67</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>McIntosh</surname><given-names>J. R.</given-names></name><etal /></person-group>., 
+<article-title>Fibrils connect microtubule tips with kinetochores: A mechanism to couple tubulin dynamics to chromosome motion</article-title>. <source>Cell</source> 
+<volume>135</volume>, 
+<fpage>322</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1016/j.cell.2008.08.038</pub-id><pub-id pub-id-type="pmid">18957206</pub-id></citation></ref>
+<ref id="R68"><label>68</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>VandenBeldt</surname><given-names>K. J.</given-names></name><etal /></person-group>., 
+<article-title>Kinetochores use a novel mechanism for coordinating the dynamics of individual microtubules</article-title>. <source>Curr. Biol.</source> 
+<volume>16</volume>, 
+<fpage>1217</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1016/j.cub.2006.04.046</pub-id><pub-id pub-id-type="pmid">16782013</pub-id></citation></ref>
+<ref id="R69"><label>69</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Dong</surname><given-names>Y.</given-names></name><name><surname>Vanden Beldt</surname><given-names>K. J.</given-names></name><name><surname>Meng</surname><given-names>X.</given-names></name><name><surname>Khodjakov</surname><given-names>A.</given-names></name><name><surname>McEwen</surname><given-names>B. F.</given-names></name></person-group>, 
+<article-title>The outer plate in vertebrate kinetochores is a flexible network with multiple microtubule interactions</article-title>. <source>Nat. Cell Biol.</source> 
+<volume>9</volume>, 
+<fpage>516</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1038/ncb1576</pub-id><pub-id pub-id-type="pmid">17435749</pub-id></citation></ref>
+<ref id="R70"><label>70</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Welburn</surname><given-names>J. P.</given-names></name><etal /></person-group>., 
+<article-title>The human kinetochore Ska1 complex facilitates microtubule depolymerization-coupled motility</article-title>. <source>Dev. Cell</source> 
+<volume>16</volume>, 
+<fpage>374</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1016/j.devcel.2009.01.011</pub-id><pub-id pub-id-type="pmid">19289083</pub-id></citation></ref>
+<ref id="R71"><label>71</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Powers</surname><given-names>A. F.</given-names></name><etal /></person-group>., 
+<article-title>The Ndc80 kinetochore complex forms load-bearing attachments to dynamic microtubule tips via biased diffusion</article-title>. <source>Cell</source> 
+<volume>136</volume>, 
+<fpage>865</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1016/j.cell.2008.12.045</pub-id><pub-id pub-id-type="pmid">19269365</pub-id></citation></ref>
+<ref id="R72"><label>72</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Meraldi</surname><given-names>P.</given-names></name><name><surname>McAinsh</surname><given-names>A. D.</given-names></name><name><surname>Rheinbay</surname><given-names>E.</given-names></name><name><surname>Sorger</surname><given-names>P. K.</given-names></name></person-group>, 
+<article-title>Phylogenetic and structural analysis of centromeric DNA and kinetochore proteins</article-title>. <source>Genome Biol.</source> 
+<volume>7</volume>, 
+<fpage>R23</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1186/gb-2006-7-3-r23</pub-id><pub-id pub-id-type="pmid">16563186</pub-id></citation></ref>
+<ref id="R73"><label>73</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>DeLuca</surname><given-names>J. G.</given-names></name><etal /></person-group>., 
+<article-title>Kinetochore microtubule dynamics and attachment stability are regulated by Hec1</article-title>. <source>Cell</source> 
+<volume>127</volume>, 
+<fpage>969</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1016/j.cell.2006.09.047</pub-id><pub-id pub-id-type="pmid">17129782</pub-id></citation></ref>
+<ref id="R74"><label>74</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hill</surname><given-names>T. L.</given-names></name></person-group>, 
+<article-title>Theoretical problems related to the attachment of microtubules to kinetochores</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>82</volume>, 
+<fpage>4404</fpage> (<year>1985</year>). <pub-id pub-id-type="doi">10.1073/pnas.82.13.4404</pub-id><pub-id pub-id-type="pmid">3859869</pub-id></citation></ref>
+<ref id="R75"><label>75</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Lombillo</surname><given-names>V. A.</given-names></name><name><surname>Stewart</surname><given-names>R. J.</given-names></name><name><surname>McIntosh</surname><given-names>J. R.</given-names></name></person-group>, 
+<article-title>Minus-end-directed motion of kinesin-coated microspheres driven by microtubule depolymerization</article-title>. <source>Nature</source> 
+<volume>373</volume>, 
+<fpage>161</fpage> (<year>1995</year>). <pub-id pub-id-type="doi">10.1038/373161a0</pub-id><pub-id pub-id-type="pmid">7816099</pub-id></citation></ref>
+<ref id="R76"><label>76</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Asbury</surname><given-names>C. L.</given-names></name><name><surname>Gestaut</surname><given-names>D. R.</given-names></name><name><surname>Powers</surname><given-names>A. F.</given-names></name><name><surname>Franck</surname><given-names>A. D.</given-names></name><name><surname>Davis</surname><given-names>T. N.</given-names></name></person-group>, 
+<article-title>The Dam1 kinetochore complex harnesses microtubule dynamics to produce force and movement</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>103</volume>, 
+<fpage>9873</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1073/pnas.0602249103</pub-id><pub-id pub-id-type="pmid">16777964</pub-id></citation></ref>
+</ref-list>
+<ack>
+<title>Acknowledgments</title><p>We thank J. Shah for the stable Ptk2 EYFP-Cdc20 line, C. Carroll and A. Straight for the mCherry-CenpC construct, J. DeLuca for Hec1 constructs, X. Wan for sharing SpeckleTracker, and M. Kirschner for equipment loan. We thank I. Cheeseman, P. Choi, S. Churchman, J. DeLuca, M. Ginzberg, Q. Justman, J. Shah, X. Wan, and J. Waters (HMS Nikon Imaging Center) for discussions. S.D. was supported by the Charles A. King Trust, Bank of America and by NIH K99GM094335; E.D.S. was supported by NIH R37GM024364; and T.J.M. was supported by NIH R01GM039565. Data are presented in the supplementary materials.</p>
+</ack></back>
+</article>

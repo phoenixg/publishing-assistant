@@ -1,0 +1,29 @@
+<html xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+<!-- * Do not edit above this line; Edit title below: * -->
+<title>{!{ISSUE_SHORT_DAY}!} {!{ISSUE_FULL_MONTH}!} 20{!{ISSUE_YEAR}!} - TOC Highlights</title>
+<link rel='proxy-stylesheet' type='text/css' href='local_styles.css' />
+</head>
+
+<body>
+
+<!--START POSTPROCESSHOOK-->
+<!--END POSTPROCESSHOOK-->
+
+<div id='begin-fragment-marker'><!-- start of fragment marker div --></div>
+
+<!-- * Begin editable area * -->
+
+	<h4>Issue Highlights</h4>
+
+	<ul class='LinkList'>
+		{*{LINK-LIST|NEW-THIS-WEEK|ALL}*}
+	</ul>
+
+<!-- * End editable area * -->
+
+<div id='end-fragment-marker'><!-- start of fragment marker div --></div>
+
+</body>
+</html>
+

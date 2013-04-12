@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>twil</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Physics</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Bond Valence Under Pressure</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Stajic</surname><given-names>Jelena</given-names></name></contrib>
+</contrib-group>
+<pub-date pub-type="ppub">
+<day>03</day>
+<month>08</month>
+<year>2012</year>
+</pub-date>
+<volume>337</volume>
+<issue>6094</issue>
+<fpage seq="c">504</fpage>
+<lpage>504</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="twil.pdf" />
+<custom-meta-wrap>
+<custom-meta><meta-name>Editor</meta-name><meta-value>Kristen Mueller, Maria Cruz</meta-value></custom-meta>
+</custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<p>Many chemical elements display different valence states in the different compounds that they form. Some, like rare earths and actinides, can also have a mixed valence state within a single compound if the difference in energies between the competing states is small. Often, the valence state is deduced from structural data by assuming a simple dependence on the bond lengths. Souza-Neto <italic>et al.</italic> demonstrate that there is a big discrepancy between the results obtained from this bond-valence model and the direct measurements of the valence state of Eu in the compound EuO under pressure. At about 44 GPa, this oxide undergoes a transition from an NaCl-like to a CsCl-like structure, wherein the two phases coexist; above 59 GPa, only the CsCl phase remains. The authors found a mixture of Eu<sup>2+</sup> and Eu<sup>3+</sup> in the intermediate-pressure regime, and a near recovery of a homogeneous Eu<sup>2+</sup> valence state above 59 GPa, despite a 7% volume collapse associated with the structural transition; the bond-valence model based on structural data predicts a much higher valence. The results support probing of both structure and electronic states in mixed-valence systems.</p>
+<p><italic>Phys. Rev. Lett.</italic> <bold>109</bold>, 026403 (2012).</p>
+</body>
+</article>

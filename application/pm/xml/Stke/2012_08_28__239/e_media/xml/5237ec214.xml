@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">sigtrans</journal-id>
+<journal-title>Science Signaling</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Sci. Signal.</abbrev-journal-title>
+<issn pub-type="epub">1937-9145</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">2003495</article-id>
+<article-id pub-id-type="doi">10.1126/scisignal.2003495</article-id>
+<article-categories><subj-group subj-group-type="article-type"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>STKE Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="field"><subject>IMMUNOLOGY</subject><subject>MICROBIO</subject><subject>CELL BIOL</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Immunology</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>A Caspase for Phagosomal-Lysosomal Fusion </article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Foley</surname><given-names>John F.</given-names></name></contrib>
+<aff id="aff1"><italic>Science Signaling</italic>, AAAS, Washington, DC 20005, USA</aff>
+</contrib-group>
+<pub-date pub-type="ppub"><day>14</day><month>08</month><year>2012</year></pub-date>
+<volume>5</volume>
+<issue>237</issue>
+<fpage>ec214</fpage>
+<lpage>ec214</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>Clearance of phagosomes containing pathogenic bacteria depends on caspase-11.</p>
+</abstract>
+<abstract>
+<p>Inflammasomes are multiprotein complexes consisting of a Nod-like receptor (NLR) protein, an adaptor molecule, and caspase-1. Sensing of microbial products by the NLR stimulates assembly of the inflammasome and activation of caspase-1, which is required for the processing and secretion of the proinflammatory cytokines interleukin-1&#x03B2; (IL-1&#x03B2;) and IL-18. In mice, caspase-11 (which is encoded by <italic>Casp4</italic>) is required for the activation of caspase-1 in response to lipopolysaccharide (LPS) and bacterial toxins. Akhter <italic>et al</italic>. found that when caspase-11&#x2013;deficient (<italic>Casp4</italic><sup>&#x2013;/&#x2013;</sup>) mouse macrophages were infected with <italic>Legionella pneumophilia</italic>, which causes Legionnaire&#x2019;s pneumonia, caspase-1 activation was intact. However, whereas wild-type mouse macrophages eliminated <italic>L. pneumophilia</italic>, <italic>Casp4</italic><sup>&#x2013;/&#x2013;</sup> macrophages failed to do so and the bacteria replicated. Unlike the phagosomes in wild-type cells, in <italic>Casp4</italic><sup>&#x2013;/&#x2013;</sup> cells phagosomes containing <italic>L. pneumophilia</italic> failed to fuse with lysosomes, which enabled bacterial replication. In wild-type macrophages, infection with <italic>L. pneumophilia</italic> induced the expression of <italic>Casp4</italic>. Infection of macrophages with a mutant <italic>F. pneumophilia</italic> deficient in flagellin failed to induce the interaction of caspase-11 with the Nlrc4 inflammasome and to activate caspase-1. Caspase-11 was required for the polymerization of actin around phagosomes containing <italic>L. pneumophilia</italic>, and F-actin formation depended on caspase-11&#x2013;mediated inactivation of cofilin. In the absence of F-actin formation, bacterial phagosome fusion with lysosomes was inhibited. Caspase-11 was dispensable for the fusion of lysosomes with phagosomes containing a nonpathogenic strain of <italic>Escherichia coli</italic>. In a human macrophage cell line that does not contain caspase-11 and cannot eliminate <italic>L. pneumophilia</italic>, ectopic expression of caspase-4 and caspase-5, human homologs of mouse caspase-11, resulted in activation of caspase-1 and restriction of bacterial replication. Together, these data implicate caspase-11 in the response to pathogenic bacteria by promoting the fusion of bacterial-containing phagosomes with lysosomes as well as activating caspase-1.</p>
+<p>A. Akhter, K. Caution, A. A. Khweek, M. Tazi, B. A. Abdulrahman, D. H. A. Abdelaziz, O. H. Voss, A. I. Doseff, H. Hassan, A. K. Azad, L. S. Schlesinger, M. D. Wewers, M. A. Gavrilin, A. O. Amer, Caspase-11 promotes the fusion of phagosomes harboring pathogenic bacteria with lysosomes by modulating actin polymerization. <italic>Immunity</italic> <bold>37</bold>, 35&#x2013;47 (2012). <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/22658523">[PubMed]</ext-link> </p>
+</abstract>
+</article-meta>
+</front>
+</article>

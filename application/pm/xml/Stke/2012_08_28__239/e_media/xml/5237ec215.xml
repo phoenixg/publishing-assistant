@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">sigtrans</journal-id>
+<journal-title>Science Signaling</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Sci. Signal.</abbrev-journal-title>
+<issn pub-type="epub">1937-9145</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">2003490</article-id>
+<article-id pub-id-type="doi">10.1126/scisignal.2003490</article-id>
+<article-categories><subj-group subj-group-type="article-type"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>STKE Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="field"><subject>DEVELOPMENT</subject><subject>CELL BIOL</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Cell Death</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Elimination by Extrusion</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Gough</surname><given-names>Nancy R.</given-names></name></contrib>
+<aff id="aff1"><italic>Science</italic> <italic>Signaling</italic>, AAAS, Washington, DC 20005, USA</aff>
+</contrib-group>
+<pub-date pub-type="ppub"><day>14</day><month>08</month><year>2012</year></pub-date>
+<volume>5</volume>
+<issue>237</issue>
+<fpage>ec215</fpage>
+<lpage>ec215</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>An AMPK homolog and its upstream activators are necessary for cell death by cell shedding in <italic>Caenorhabditis elegans</italic>.</p>
+</abstract>
+<abstract>
+<p>Elimination of extra, damaged, or dysfunctional cells is critical to organismal survival. Therefore, cells have multiple routes to achieve programmed cell death. When one of the main routes, caspase-mediated apoptosis, is compromised, limited cell death still occurs in the model organism <italic>Caenorhabditis elegans</italic>. Denning <italic>et al</italic>. explored this alternative cell death pathway that resulted in the shedding of ~6 cells from the developing embryo deficient in caspase-mediated apoptosis. By screening for mutants that enabled the survival of one of the cells normally shed in the animals with compromised caspase-mediated apoptosis, the authors identified loss of <italic>pig-1</italic> as resulting in animals with an extra (albeit dysfunctional) excretory cell and an extra RME neuron. In addition, <italic>pig-1 </italic>deficiency reduced the total number of shed cells. PIG-1 is a homolog of MELK, which is related to AMP-regulated kinase (AMPK) and, in mammals, AMPK is activated by phosphorylation by a kinase complex including the kinase LKB1, STRAD&#x03B1;, and MO25&#x03B1;. <italic>C. elegans</italic> deficient in caspase-mediated apoptosis and in which the LKB1 or STRAD&#x03B1; homolog were inactivated, or animals in which two of the three MO25&#x03B1; homologs were inactivated, exhibited the extra excretory cell phenotype of the <italic>pig-1</italic>&#x2013;deficient animals. The surface abundance of various adhesion proteins (tagged with green fluorescent protein) was reduced in cells that were shed in the animals deficient for caspase-mediated apoptosis; however, when <italic>pig-1</italic> was inactivated in these animals, the cell that produced the extra excretory cell had adhesion proteins at the cell surface. In the animals deficient for caspase-mediated apoptosis, inactivation of genes encoding ARF guanosine triphosphatases implicated in endocytosis resulted in the extra excretory cell phenotypes like that of the <italic>pig-1</italic> animals. Thus, the authors proposed that activation of an AMPK-related kinase by the LKB1 complex promotes the endocytosis of adhesion proteins to enable a caspase-independent cell shedding pathway that eliminates extra cells in developing <italic>C. elegans</italic>. This pathway may be important in mammals, because in humans, mutations in LKB1 cause a syndrome associated with intestinal polyps, which may result from defective extrusion of cells from the intestinal epithelia.</p>
+<p>D. P. Denning, V. Hatch, H. R. Horvitz, Programmed elimination of cells by caspase-independent cell extrusion in <italic>C. elegans</italic>. <italic>Nature</italic> <bold>488</bold>, 226&#x2013;230 (2012). <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/22801495">[PubMed] </ext-link> </p>
+</abstract>
+</article-meta>
+</front>
+</article>

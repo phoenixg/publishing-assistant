@@ -1,0 +1,106 @@
+<issue vol="331" number="6013">
+	<group name="sci-highlights">
+		<node id="1">
+			<overline>PALEONTOLOGY</overline>
+            <url>http://www.sciencemag.org/content/331/6013/37.short</url>
+			<linktext>Ammonites, Reconstructed</linktext>
+			<teaser>Synchrotron x-ray observations of ammonite fossils reveal the feeding habits of these Cretaceous marine organisms.</teaser>
+            <imgalt>ammonite mouthparts</imgalt>
+		</node>
+		<node id="2">
+			<overline>NEWS FOCUS</overline>
+            <url>http://www.sciencemag.org/content/331/6013/24.1.short</url>
+			<linktext>The Power of One</linktext>
+			<teaser>Rather than probe masses of cells all at once, scientists are now applying new research techniques to individual cells.</teaser>
+            <imgalt>human white blood cell</imgalt>
+		</node>
+		<node id="3">
+			<overline>EVOLUTION</overline>
+            <url>http://www.sciencemag.org/content/331/6013/73.short</url>
+			<linktext>Seasonal Sexual Signaling</linktext>
+			<teaser></teaser>
+		</node>
+		<node id="4">
+			<overline>MATERIALS SCIENCE</overline>
+            <url>http://www.sciencemag.org/content/331/6013/51.short</url>
+			<linktext>Spinning the Unspinnable</linktext>
+			<teaser></teaser>
+		</node>
+		<node id="5">
+			<overline>PLANT SCIENCE</overline>
+            <url>http://www.sciencemag.org/content/331/6013/36.short</url>
+			<linktext>When Flowering Makes Sense</linktext>
+			<teaser></teaser>
+		</node>	
+	</group>
+	<group name="sci-express">
+		<node id="1">
+			<overline>ASTRONOMY</overline>
+			<url>http://www.sciencemag.org/lookup/doi/10.1126/science.1200083</url>
+			<linktext>Discovery of Powerful Gamma-Ray Flares from the Crab Nebula</linktext>
+			<teaser></teaser>
+		</node>
+		<node id="2">
+			<overline>ASTRONOMY</overline>
+			<url>http://www.sciencemag.org/lookup/doi/10.1126/science.1199705</url>
+			<linktext>Gamma-Ray Flares from the Crab Nebula</linktext>
+			<teaser></teaser>
+		</node>
+		<node id="3">
+			<overline>ASTRONOMY</overline>
+			<url>http://www.sciencemag.org/lookup/doi/10.1126/science.1201365</url>
+			<linktext>Astronomy in the Time Domain</linktext>
+			<teaser></teaser>
+		</node>
+		<node id="4">
+			<overline>PLANETARY SCIENCE</overline>
+			<url>http://www.sciencemag.org/lookup/doi/10.1126/science.1199375</url>
+			<linktext>Seismic Detection of the Lunar Core</linktext>
+			<teaser></teaser>
+		</node>
+		<node id="5">
+			<overline>GEOCHEMISTRY</overline>
+			<url>http://www.sciencemag.org/lookup/doi/10.1126/science.1199697</url>
+			<linktext>A Persistent Oxygen Anomaly Reveals the Fate of Spilled Methane in the Deep Gulf of Mexico</linktext>
+			<teaser></teaser>
+		</node>	
+        <node id="6">
+			<overline>NEUROSCIENCE</overline>
+			<url>http://www.sciencemag.org/lookup/doi/10.1126/science.1198331</url>
+			<linktext>Human Tears Contain a Chemosignal</linktext>
+			<teaser></teaser>
+		</node>	
+	</group>
+	<group name="sci-podcast">
+		<node id="1">
+            <teaser>Sexual ornamentation in butterflies, early human migration out of Africa, your letters to <em>Science</em>, and more.</teaser>
+            <page>98</page>
+            <subpage>2</subpage>
+            <imgcredit>Katy Prudic, evolutionary developmental biology</imgcredit>
+		</node>
+	</group>
+    <group name="new-this-week">
+        <node id="1">
+            <url>http://www.sciencemag.org/content/331/6013/55.short</url>
+            <linktext>Heating the Solar Atmosphere</linktext>
+        </node>
+        <node id="2">
+            <url>http://www.sciencemag.org/content/331/6013/39.short</url>
+            <linktext>The Mechanics of Movement</linktext>
+        </node>
+        <node id="3">
+            <url>http://www.sciencemag.org/content/331/6013/37.short</url>
+            <linktext>Ammonites, Reconstructed</linktext>
+        </node>
+        <node id="4">
+            <url>http://www.sciencemag.org/content/331/6013/73.short</url>
+            <linktext>Seasonal Sexual Signaling</linktext>
+        </node>
+    </group>
+    <group name="mag-promo">
+		<node id="1">
+            <url>Heating the Solar Atmosphere</url>
+            <linktext>http://www.sciencemag.org/content/331/6013/55.short</linktext>
+		</node>
+	</group>
+</issue>		

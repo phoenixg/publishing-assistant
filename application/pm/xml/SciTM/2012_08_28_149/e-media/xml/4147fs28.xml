@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<!--Produced by Media Entities, Inc., XMLtoolWorks, 10 Aug 2012-->
+<article article-type="other" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">STM</journal-id>
+<journal-title>Science Translational Medicine</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Sci. Transl. Med.</abbrev-journal-title>
+<issn pub-type="ppub">1946-6234</issn><issn pub-type="epub">1946-6242</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">3003685</article-id>
+<article-id pub-id-type="doi">10.1126/scitranslmed.3003685</article-id>
+<article-categories><subj-group subj-group-type="article-type"><subject>Focus</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Focus</subject></subj-group>
+<subj-group subj-group-type="field"><subject>MEDICINE</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Regulatory Science</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Balancing Tissue and Tumor Formation in Regenerative Medicine</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Bailey</surname><given-names>Alexander M.</given-names></name></contrib>
+<aff id="aff1">Office of Cellular, Tissue, and Gene Therapies, Center for Biologics Evaluation and Research, FDA, Rockville, MD 20852, USA.</aff>
+</contrib-group>
+<author-notes><corresp id="cor1">E-mail: <email xlink:href="alexander.bailey@fda.hhs.gov">alexander.bailey@fda.hhs.gov</email></corresp></author-notes>
+<pub-date pub-type="ppub"><day>15</day><month>08</month><year>2012</year></pub-date>
+<volume>4</volume>
+<issue>147</issue>
+<fpage>147fs28</fpage>
+<lpage>147fs28</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>A set of general principles can guide preclinical testing strategies for evaluating the tumorigenicity of regenerative medicine products.</p>
+</abstract>
+<abstract>
+<p>A set of general principles can guide preclinical testing strategies for evaluating the tumorigenicity of regenerative medicine products.</p>
+</abstract>
+<custom-meta-wrap>
+<custom-meta><meta-name>Editor</meta-name><meta-value>KL</meta-value></custom-meta>
+<custom-meta><meta-name>Copyeditor</meta-name><meta-value>CF</meta-value></custom-meta>
+<custom-meta><meta-name>Number-figs</meta-name><meta-value>1</meta-value></custom-meta>
+</custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<p>Innovative cell-based therapies are being developed to repair, replace, or regenerate absent, injured, or diseased tissues and organs. These investigational therapies offer promise for the treatment of many serious medical conditions, which is illustrated by the variety of indications currently under investigation in clinical trials (see <ext-link ext-link-type="uri" xlink:href="http://www.clinicaltrials.gov">www.clinicaltrials.gov</ext-link>). In the United States, cell-based regenerative medicine (RM) products are regulated by the U.S. Food and Drug Administration (FDA) through the Center for Biologics Evaluation and Research (CBER). Before initiation of a clinical trial for a specific RM product, it is the responsibility of FDA&#x2019;s CBER review staff to establish whether clinical trial participants would be exposed to substantial and unreasonable risks.</p>
+<p>From 2007 to 2011, CBER received ~115 original submissions from academic and commercial sponsors requesting permission to begin clinical investigations of cell-based RM products for many different indications, including cardiovascular diseases, diabetes, neurodegenerative disorders, wound healing, and others. For this analysis, the number of submissions excludes products for oncology indications or those manufactured by use of genetic engineering. The identity and tissue sources of these cell-based RM products span a wide spectrum (<xref ref-type="fig" rid="F1">Fig. 1</xref>), ranging from functionally specialized and lineage-restricted cells to products derived from unspecialized pluripotent embryonic stem (ES) cells.</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1.</label><caption><title>FDA/CBER experience.</title><p>Original submissions (~115) to initiate clinical investigations for cell-based RM products were submitted to FDA/CBER from 2007-2011. The cellular components of these products spanned a wide spectrum of (<bold>A</bold>) cell types and (<bold>B</bold>) tissue sources; ~70% of submissions were for new products and 30% were for new indications for previously evaluated (cross-referenced) products. Assessment of tumorigenicity risk was performed by direct testing of the product (in vitro or in vivo studies) (43%) or through consideration of product attributes, the scientific literature, and/or previous clinical experience (57%).</p></caption><graphic xlink:href="4147fs28-F1"></graphic>
+<attrib>CREDIT: B. STRAUCH/<italic>SCIENCE TRANSLATIONAL MEDICINE</italic></attrib></fig>
+<sec sec-type="other1" disp-level="1">
+<title>PROMISE AND RISK</title>
+<p>The promise of many cell-based RM products is based on their inherent biological properties&#x2014;high rates of proliferation, migratory (trafficking) ability, plasticity, and capacity for self-renewal. However, these same properties also pose particular challenges during product development. The potential for tumor formation is a major safety concern for products derived from undifferentiated or incompletely differentiated cells or from cells that have undergone extensive ex vivo manipulation. Indeed, the formation of teratomas after injection of undifferentiated ES cells into immunodeficient mice is a distinguishing feature, and the potential for malignant transformation and inappropriate differentiation of cells undergoing prolonged or rapid expansion is well documented (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref><italic>&#x2013;</italic><xref ref-type="bibr" rid="R3"><italic>3</italic></xref>). The potential for tumor formation should also be considered in the context of the anatomical location of any found tumor or undesired tissue because increased damage to normal host tissue may result if cells proliferate in an anatomically constrained or sensitive area, such as the spinal column or retinal space (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>).</p>
+<p>FDA and other regulatory agencies recognize the inherent risk of tumor formation for many cell-based RM products (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref><italic>&#x2013;</italic><xref ref-type="bibr" rid="R7"><italic>7</italic></xref>). The importance of appropriate preclinical testing to identify, characterize, and minimize this risk has also been discussed by the FDA Cellular, Tissue, and Gene Therapies Advisory Committee (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>, <xref ref-type="bibr" rid="R9"><italic>9</italic></xref>). During FDA/CBER regulatory review, the potential for tumor formation is considered for all cell-based RM products (<xref ref-type="fig" rid="F1">Fig. 1</xref>). Many of the principles described in this article determined the methods of evaluation and mitigation strategies that were appropriate for each product.</p>
+<p>Extra caution is warranted for ES cell&#x2013;derived products to ensure that the proportion of residual undifferentiated cells in the final product is as low as technically feasible. Other less well understood risk factors, such as chromosomal instability, may be identified and minimized through appropriate preclinical testing (and subsequent changes to product manufacturing processes). An appropriate program could include in vitro testing (such as chromosomal analysis), in vivo evaluation of proliferation and tumor formation after product administration at the clinically relevant anatomical location, additional product characterization (such as whole-genome microarray analysis), or changes in product manufacturing (such as antibody-mediated cell sorting for the targeted depletion of undesired phenotypes).</p>
+</sec>
+<sec sec-type="other2" disp-level="1">
+<title>TUMORIGENICITY TESTING CHALLENGES</title>
+<p>Designing appropriate preclinical testing programs to evaluate the tumorigenic potential of a cell-based RM product is challenging for several reasons: (i) the heterogeneity and biological complexity of cell-based RM products; (ii) the lack of a complete understanding of cellular product attributes that are reliably predictive for tumorigenicity; and (iii) the difficulty of translating preclinical test results to the clinical scenario.</p>
+<p>The variability and biological complexity of cell-based RM products have made it difficult to develop and adopt a standardized, prescribed set of preclinical studies that are uniformly appropriate. To illustrate this point, consider the following hypothetical example of two different cell-based RM products: (i) a three-dimensional, bioresorbable polymer scaffold seeded with adipose&#x2013;derived, ex vivo culture&#x2013;expanded mesenchymal stem cells (MSCs) that are to be surgically implanted for nerve regeneration and (ii) a suspension of ES cell&#x2013;derived cardiomyocytes that are to be directly injected into the myocardium. These hypothetical cell-based RM products are different with respect to their tissue source, cellular phenotype, manufacturing processes, anatomical site of administration, and (most likely) in vivo tissue distribution. It follows that the preclinical programs to evaluate the safety of these two hypothetical products will differ by necessity. </p>
+<p>For the MSC-based product, there is a risk that donor cells may become genetically unstable after extensive manufacturing or interactions with the scaffold pre- or postimplantation. Thus, testing that does not include evaluation of the intended clinical product&#x2014;MSCs cultured to the end of product limit and seeded on the polymer scaffold&#x2014;may not adequately inform clinical risk. This is equally true for the second hypothetical product, but there is also a greater risk that a suspension of ES cell&#x2013;derived cardiomyocytes contains residual undifferentiated cells that could form teratomas after administration. To help ensure that the tumorigenicity testing of such a product is interpretable, the study design should include groups of animals that receive undifferentiated ES cells, serial dilutions of a population of undifferentiated ES cells combined with ES cell&#x2013;derived cardiomyocytes, and the final intended clinical product. This approach to preclinical tumorigenicity testing, in which the panel of tests is tailored for each specific product, is in contrast to the established rodent bioassays used for carcinogenicity testing of small-molecule pharmaceuticals.</p>
+<p>As a result of the challenges associated with testing methods for RM products, a panel of tests that consists of both in vitro and in vivo studies is often the most informative. For example, in vitro testing may identify phenotypic and genomic markers specific to a population of cells; however, the utility of these markers may be limited by an incomplete understanding of biomarkers that are, in fact, predictive of tumor formation. Moreover, many in vitro assays fail to account for the tumor-promoting or tumor-suppressing effects of the local niche within which the cells will reside after patient administration, such as inflammatory status, growth factor concentrations, and extracellular matrix presentation. Nevertheless, in vitro tests have utility in many instances. For example, comprehensive evaluation of a cell-based RM product&#x2019;s growth kinetics, including determination of proliferation rate or number of population doublings before senescence, may help inform the risk of tumor formation. It follows that although in vitro characterization and testing of a cell-based RM product is informative, complementary in vivo testing is often, though not always, necessary.</p>
+</sec>
+<sec sec-type="other3" disp-level="1">
+<title>IS MY PRODUCT CAPABLE OF TUMOR FORMATION?</title>
+<p>The risk of tumor formation for each cell-based RM product is dependent on a constellation of product-specific properties. These may include cell type (for example, fetal neural cells versus neonatal fibroblasts), cell persistence, phenotypic plasticity, proliferative capacity, and propensity to migrate from the site of administration. Other critical factors, such as degree of manipulation during manufacturing, the local microenvironment within which the delivered cells will eventually reside, cell dose, and immune status, may also either increase or decrease the likelihood of tumor formation. Accordingly, there is a spectrum of risk among cell-based RM products, and an understanding of these product-specific risk factors can aid in the development of appropriate preclinical testing strategies. For instance, there is presumably less risk of tumor formation after administration of low&#x2013;passage number, differentiated fibroblasts compared with either of the hypothetical cell-based RM products discussed above. For the former, animal studies to evaluate tumorigenicity may not be necessary; rather, in vitro characterization of the cellular product and assessment of its biological stability may be sufficient.</p>
+<p>A well-designed preclinical testing program incorporates a tiered approach that is risk based (as determined by comprehensive product characterization) and takes into account the limitations of both in vitro testing and available animal models. If evaluation of tumorigenic potential in an animal model is warranted, an appreciation of some of the associated challenges will aid in the design of an appropriate study (<xref ref-type="table" rid="T1">Table 1</xref>). For example, administration of human cells to an immunocompetent rodent will result in their rapid elimination. If these cells are expected to persist in the clinical setting, it would be difficult to gauge the level of risk of tumor formation from these results alone. Similarly, an animal study that evaluates a route of product administration that is different from what is proposed clinically may not adequately account for the influence of the local host microenvironment, which could affect the product&#x2019;s ability to form tumors. For instance, results generated from the subcutaneous implantation of a cell-based RM product may not accurately reflect the bioactivity of a product that is intended for intracranial implantation in humans. Consideration of these issues and other challenges, as highlighted above and in <xref ref-type="table" rid="T1">Table 1</xref>, may aid in the design of an appropriate preclinical program.</p>
+<table-wrap id="T1" position="float">
+<label>Table 1.</label><caption><title>Assessing tumorigenic potential.</title><p>Although there currently is no check-the-box standard preclinical animal study design to evaluate a cell-based RM product&#x2019;s ability to form tumors in vivo, an appreciation of the limitations and challenges associated with animal testing can aid in the design of product-specific science-based preclinical testing strategies.</p></caption>
+<table frame="hsides" rules="groups">
+<col width="35.68%"/>
+<col width="64.32%"/>
+<thead>
+<tr>
+<td valign="top" align="left" scope="col"><bold>Considerations for cell-based RM products</bold></td>
+<td valign="top" align="center" scope="col"><bold>Associated challenges for preclinical animal studies</bold></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" scope="row">The cellular component may form tumors after in vivo administration.</td>
+<td valign="top" align="center">Comprehensive preclinical testing may be necessary to identify and minimize the risk of tumor formation.</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">The identical clinical product should be tested.</td>
+<td valign="top" align="center">Achieving durable cell engraftment in animals may be difficult.</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">If the cells are expected to persist in humans, durable engraftment of the cellular product is necessary for a preclinical study to be informative.</td>
+<td valign="top" align="left">An immune response to human donor cells may prevent durable engraftment in an animal model (xenorejection). To address this caveat:<break/>&#x2022; Use of immuno-compromised (IC) rodents or immuno-suppression (IS) regimens may facilitate engraftment, but IC animals may have shorter life spans, and IS regimens may cause toxicity in the host animal or to the administered cells.<break/>&#x2022; The use of analogous animal cells may facilitate engraftment, but these cells may also have different bioactivity.</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Tumor formation is often a slowly occurring and rare event.</td>
+<td valign="top" align="left">Preclinical testing that is not conducted over a sufficient portion of the expected life span of an animal may yield a false-negative result. A large number of animals may be needed to detect rare tumor formation events.</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Some animals spontaneously develop tumors that are unrelated to administration of  the product.</td>
+<td valign="top" align="left">Identification of tumor origin (donor- or host-cell) is necessary. A large number of animals may be needed to distinguish spontaneous tumor formation from those due to the product.</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">The microenvironment may influence a product&#x2019;s tumorigenic potential.</td>
+<td valign="top" align="left">Cell delivery to an anatomical location other than the intended clinical location may not adequately inform clinical risk.<break/>Scaffolding or other product components may provide environmental cues that influence bioactivity.Xenogeneic environments may not provide clinically relevant cues, which may influence interpretability of results.</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Tumor formation may be dose dependent.</td>
+<td valign="top" align="left">It may not be possible to administer the absolute clinical dose in an animal model.<break/>The sensitivity of testing methods may need to be confirmed with appropriate positive controls.</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">A product may induce tumor formation from existing subclinical host malignant cells.</td>
+<td valign="top" align="left">Established animal models relevant to the target patient population may not exist.</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Product characteristics may introduce new risk factors for tumor formation.</td>
+<td valign="top" align="left">There are no standard preclinical methods of evaluation; new products may require new testing paradigms.</td>
+</tr>
+</tbody></table></table-wrap>
+<p>FDA/CBER evaluates the safety of investigational cell-based RM products prior to administration in clinical trials. A data-driven, case-by-case approach is employed during the review process to ensure that an appropriate balance is struck between the potential risks and benefits of a cell-based RM product. While the risk for tumor formation may exist, product characterization and preclinical testing paradigms that are appropriately designed and implemented can help to identify, minimize, and manage this risk. Bearing this in mind, there are considerations that may aid innovators during implementation of preclinical testing and product development programs: (i) There is a continuum of risk that is dependent on a collection of product attributes; (ii) a preclinical testing program may need to be tailored to the specific cellular product and level of risk; and (iii) new therapies may require new testing paradigms. Preclinical testing strategies that take into account these issues and those highlighted in <xref ref-type="table" rid="T1">Table 1</xref> may help to  strike a balance between tissue regeneration and tumor formation.</p>
+</sec>
+</body>
+<back>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Thomson</surname><given-names>J. A.</given-names></name><name><surname>Itskovitz-Eldor</surname><given-names>J.</given-names></name><name><surname>Shapiro</surname><given-names>S. S.</given-names></name><name><surname>Waknitz</surname><given-names>M. A.</given-names></name><name><surname>Swiergiel</surname><given-names>J. J.</given-names></name><name><surname>Marshall</surname><given-names>V. S.</given-names></name><name><surname>Jones</surname><given-names>J. M.</given-names></name></person-group>, <article-title>Embryonic stem cell lines derived from human blastocysts</article-title>. <source>Science</source> <volume>282</volume>, <fpage>1145</fpage>&#x2013;<lpage>1147</lpage> (<year>1998</year>).<pub-id pub-id-type="doi">10.1126/science.282.5391.1145</pub-id><pub-id pub-id-type="pmid">9804556</pub-id></citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Brivanlou</surname><given-names>A. H.</given-names></name><name><surname>Gage</surname><given-names>F. H.</given-names></name><name><surname>Jaenisch</surname><given-names>R.</given-names></name><name><surname>Jessell</surname><given-names>T.</given-names></name><name><surname>Melton</surname><given-names>D.</given-names></name><name><surname>Rossant</surname><given-names>J.</given-names></name></person-group>, <article-title>Stem cells. Setting standards for human embryonic stem cells</article-title>. <source>Science</source> <volume>300</volume>, <fpage>913</fpage>&#x2013;<lpage>916</lpage> (<year>2003</year>).<pub-id pub-id-type="doi">10.1126/science.1082940</pub-id><pub-id pub-id-type="pmid">12738841</pub-id></citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hatzistergos</surname><given-names>K. E.</given-names></name><name><surname>Blum</surname><given-names>A.</given-names></name><name><surname>Ince</surname><given-names>T.</given-names></name><name><surname>Grichnik</surname><given-names>J. M.</given-names></name><name><surname>Hare</surname><given-names>J. M.</given-names></name></person-group>, <article-title>What is the oncologic risk of stem cell treatment for heart disease?</article-title> <source>Circ. Res.</source> <volume>108</volume>, <fpage>1300</fpage>&#x2013;<lpage>1303</lpage> (<year>2011</year>).<pub-id pub-id-type="doi">10.1161/CIRCRESAHA.111.246611</pub-id><pub-id pub-id-type="pmid">21617132</pub-id></citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Grigoriadis</surname><given-names>N.</given-names></name><name><surname>Lourbopoulos</surname><given-names>A.</given-names></name><name><surname>Lagoudaki</surname><given-names>R.</given-names></name><name><surname>Frischer</surname><given-names>J. M.</given-names></name><name><surname>Polyzoidou</surname><given-names>E.</given-names></name><name><surname>Touloumi</surname><given-names>O.</given-names></name><name><surname>Simeonidou</surname><given-names>C.</given-names></name><name><surname>Deretzi</surname><given-names>G.</given-names></name><name><surname>Kountouras</surname><given-names>J.</given-names></name><name><surname>Spandou</surname><given-names>E.</given-names></name><name><surname>Kotta</surname><given-names>K.</given-names></name><name><surname>Karkavelas</surname><given-names>G.</given-names></name><name><surname>Tascos</surname><given-names>N.</given-names></name><name><surname>Lassmann</surname><given-names>H.</given-names></name></person-group>, <article-title>Variable behavior and complications of autologous bone marrow mesenchymal stem cells transplanted in experimental autoimmune encephalomyelitis</article-title>. <source>Exp. Neurol.</source> <volume>230</volume>, <fpage>78</fpage>&#x2013;<lpage>89</lpage> (<year>2011</year>).<pub-id pub-id-type="doi">10.1016/j.expneurol.2011.02.021</pub-id><pub-id pub-id-type="pmid">21440544</pub-id></citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="web">Points to Consider in the Characterization of Cell Lines Used to Produce Biologicals, <italic>Center for Biologics Evaluation and Research (CBER), FDA</italic> (1993). <ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.fda.gov/downloads/biologicsbloodvaccines/safetyavailability/ucm162863.pdf">http://www.fda.gov/downloads/biologicsbloodvaccines/safetyavailability/ucm162863.pdf</ext-link>.</citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="web">Guidance for Industry: Guidance for Human Somatic Cell Therapy and Gene Therapy. <italic>CBER, FDA</italic> (1998). <ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.fda.gov/biologicsbloodvaccines/guidancecomplianceregulatoryinformation/guidances/cellularandgenetherapy/ucm072987.htm">http://www.fda.gov/biologicsbloodvaccines/guidancecomplianceregulatoryinformation/guidances/cellularandgenetherapy/ucm072987.htm</ext-link>.</citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="web">Committee for Advanced Therapies (CAT), Reflection Paper on Stem Cell-Based Medicinal Products <italic>European Medicines Agency</italic> (2010). <ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2011/02/WC500101692.pdf">http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2011/02/WC500101692.pdf</ext-link>. </citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="web">Cellular Products for Joint Surface Repair - March 2005. <italic>Cellular, Tissue, and Gene Therapies Advisory Committee (CTGTAC) Meeting #38</italic> (2005). <ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.fda.gov/ohrms/dockets/ac/05/questions/2005-4093q1.pdf">http://www.fda.gov/ohrms/dockets/ac/05/questions/2005-4093q1.pdf</ext-link>.</citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="web">Cellular Therapies Derived from Human Embryonic Stem Cells - Considerations for Pre-Clinical Safety Testing and Patient Monitoring - April 2008. <italic>Cellular, Tissue, and Gene Therapies Advisory Committee (CTGTAC) Meeting #45</italic> (2008). <ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.fda.gov/ohrms/dockets/ac/08/briefing/2008-0471B1_1.pdf">http://www.fda.gov/ohrms/dockets/ac/08/briefing/2008-0471B1_1.pdf</ext-link>.</citation></ref>
+</ref-list>
+<ack>
+<title>Acknowledgments: </title><p>The author thanks P. Au, M. Serabian, D. Fink, and T. Chen from FDA/CBER/OCTGT for their assistance in preparing this commentary. <bold>Competing interests</bold>: The author declares that he has no competing interests.</p>
+</ack>
+</back>
+</article>

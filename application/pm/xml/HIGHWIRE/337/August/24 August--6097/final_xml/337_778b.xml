@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"><front>
+<journal-meta><journal-id journal-id-type="publisher-id">SCIENCE</journal-id><journal-title>Science</journal-title><abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title><issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta><article-categories>
+<subj-group subj-group-type="article-type"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>twil</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Materials Science</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Blocking Zeolite Transport</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Szuromi</surname><given-names>Phil</given-names></name></contrib>
+</contrib-group>
+<pub-date pub-type="ppub">
+<day>17</day>
+<month>08</month>
+<year>2012</year>
+</pub-date><volume>337</volume><issue>6096</issue><fpage seq="b">778</fpage><lpage>778</lpage><permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="twil.pdf" /><custom-meta-wrap>
+<custom-meta><meta-name>Editor</meta-name><meta-value>Kristen Mueller, Maria Cruz</meta-value></custom-meta>
+</custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<fig id="F1" position="anchor"><graphic xlink:href="337_778b_F1"/>
+<attrib>CREDIT: HEDLUND <italic>ET AL</italic>., <italic>J. MEMBRANE SCI.</italic> <bold>415-416</bold> (2012).</attrib>
+</fig>
+<p>Zeolites are microporous aluminum silicates, and because their pore and channel sizes can be similar to those of small organic molecules, they are used as adsorbents, in separations, and as catalysts. In some of the separation applications of zeolites, such as removing hydrogen from hydrocarbon gas streams, both large and small molecules occupy the material's internal channels. In such processes, the larger molecules can partially block the channels and affect transport of the smaller molecules. Hedlund <italic>et al.</italic> measured the diffusion of helium in a ZSM-5 zeolite membrane in which they had adsorbed <italic>n</italic>-hexane or benzene. Loading with either hydrocarbon could decrease the transport by more than two orders of magnitude. Percolation models with parameters determined from density functional theory, rather than simply fitting the results with adjustable parameters, described the measured mass transport of helium through the defect-free zeolite. For <italic>n</italic>-hexane, the mass transport of helium initially decreased gradually with hydrocarbon loading but then decreased abruptly at about 50% loading. For benzene, the decrease was observed at a lower hydrocarbon loading (19%). This stronger effect was caused by benzene adsorbing at the intersections of channels in the zeolite.</p>
+<p><italic>J. Membrane Sci.</italic>
+<bold>415&#x2013;416</bold>, 10.1016/j.memsci.2012.05.009 (2012).</p>
+</body>
+</article>

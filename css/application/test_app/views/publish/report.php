@@ -1,0 +1,1 @@
+<h2>Publish Report</h2><div class="data"><ul><?phpforeach ($msg as $item) {	print_r ("<li>");	print_r ($item);	print_r ("</li>");}?></ul></div>

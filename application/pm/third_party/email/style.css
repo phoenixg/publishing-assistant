@@ -1,0 +1,99 @@
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	vertical-align: baseline;
+
+}
+
+strong, b {
+  font-weight:bold;
+}
+
+em, i {
+  font-style:italic;
+}
+
+body {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	background-color: #e6e6e6;
+	text-align: center;
+}
+.clearfix {
+	clear: both;
+
+}
+#header {
+  padding:5px 30px 10px;
+	margin-bottom:20px;
+	background-color: #FFF;
+  overflow:hidden;
+}
+
+#science_logo {
+  float:left;
+}
+
+#wrapper {
+	width: 960px;
+	background-color: #d8e6ec;
+  border: solid #CBD7DD;
+  border-width:0 1px 1px;
+	margin:0 auto;
+	text-align: left;
+  padding-bottom:20px;
+}
+.alert {
+  margin:0 auto;
+  text-align:left;
+  font-size:17px;
+  padding:15px;
+  color: #0071BC;
+	font-size: 18px;
+	line-height: 24px;
+  width:50%;
+  text-align:center;
+  border:1px solid #CCC;
+  -moz-border-radius:10px;
+  -webkit-border-radius:10px;
+  border-radius:10px;
+  background-color:#FFF;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#FFFFFF), to(#D8E6EC)); 
+  background-image: -webkit-linear-gradient(top, #FFFFFF, #D8E6EC); 
+  background-image:    -moz-linear-gradient(top, #FFFFFF, #D8E6EC); 
+  background-image:     -ms-linear-gradient(top, #FFFFFF, #D8E6EC); 
+  background-image:      -o-linear-gradient(top, #FFFFFF, #D8E6EC); 
+  background-image:         linear-gradient(top, #FFFFFF, #D8E6EC);
+}
+
+.row {
+  width:80%;
+  margin:20px auto;
+  background:#FFF;
+  border:1px solid #999;
+  font-size:13px;
+  padding:20px;
+  -moz-border-radius:5px;
+  -webkit-border-radius:5px;
+  border-radius:5px;
+}
+
+h2 {
+  font-size:15px;
+  color:#AB0937;
+  font-weight:bold;
+}
+
+button {
+  height:35px;
+  font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size:14px;
+  margin-left:15px;
+}
+
+.err {
+  color:#AB0937;
+}

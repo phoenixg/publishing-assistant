@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="news" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>News of the Week</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>News of the Week</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>n-week</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Medicine</subject><subject>Astronomy</subject><subject>Virology</subject></subj-group>
+<subj-group subj-group-type="field"><subject>ASTRONOMY</subject><subject>EPIDEMIOLOGY</subject><subject>GENETICS</subject><subject>MEDICINE</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Random Sample</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<day>12</day>
+<month>04</month>
+<year>2013</year>
+</pub-date>
+<volume>340</volume>
+<issue>6129</issue>
+<fpage seq="c">126</fpage>
+<lpage>128</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser"><p>A new study estimates that dengue is more prevalent than previously thought, and fans of the television series <italic><italic>Game of </italic>Thrones</italic> can ponder a new hypothesis: The show's setting may be a world that orbits two stars instead of one.</p></abstract>
+<abstract abstract-type="web-summary"><p>A new study estimates that dengue is more prevalent than previously thought, and fans of the television series <italic><italic>Game of </italic>Thrones</italic> can ponder a new hypothesis: The show's setting may be a world that orbits two stars instead of one.</p></abstract>
+</article-meta>
+</front>
+<body>
+<sec>
+<title>Noted</title>
+<p>After years of pressure, Swiss drug company Roche says <bold>it will release all of its clinical trial data on Tamiflu</bold>, a controversial anti-influenza drug stockpiled by many nations despite some claims that there is not enough evidence of its efficacy. But some scientists remain skeptical, wondering what Roche might redact.</p>
+</sec>
+<sec>
+<title>Dengue More Prevalent Than Thought</title>
+<fig id="F1" position="float">
+<graphic xlink:href="340_126c_F1"></graphic>
+<attrib>CREDIT: JANE MESSINA</attrib>
+</fig>
+<p>There is no current vaccine for dengue, a mosquito-borne viral disease so painful that it's sometimes called "breakbone fever." To keep it in check&#x2014;through mosquito control and vaccination campaigns&#x2014;planners have to know where the disease is. Now, a new study estimates that there are 390 million global cases of dengue (pictured)&#x2014;several times the World Health Organization's estimates.</p>
+<p>Jeremy Farrar, a clinician at the University of Oxford Clinical Research Unit in Ho Chi Minh City, Vietnam, and epidemiologist Simon Hay of the University of Oxford in the United Kingdom compiled 8300 reports of dengue infections and considered new evidence on risk factors, such as population growth in urban areas where the virus-carrying <italic>Aedes aegypti</italic> mosquito thrives. Using new modeling techniques, they concluded that in 2010, dengue sent 96 million people to clinics or caused them to miss school or work, while another 294 million had mild or asymptomatic infections, the researchers reported online on 7 April in <italic>Nature</italic>. <ext-link ext-link-type="uri" xlink:href="http://scim.ag/moredengue"><bold>http://scim.ag/moredengue</bold></ext-link></p>
+</sec>
+<sec>
+<title>They Said It</title>
+<disp-quote>
+<p><bold>"[T]he secretary's action was politically motivated, scientifically unjustified, and contrary to agency precedent."</bold></p>
+<attrib>&#x2014;Judge Edward Korman of the Eastern District of New York, slamming a 2011 decision by U.S. Department of Health and Human Services Secretary Kathleen Sebelius to prevent younger teenagers from accessing the emergency contraceptive Plan B without a prescription. Korman ruled last week that Plan B should be available over the counter to women of all ages.</attrib>
+</disp-quote>
+</sec>
+<sec>
+<title>Game of Habitable Zones</title>
+<p>In the world of <italic>Game of Thrones</italic>, summer can last for years, winter for a generation. Fans have long debated the reason for these unpredictable seasons&#x2014;and now astronomers at Johns Hopkins University in Baltimore, Maryland, offer a hypothesis: The show's setting may be a world that orbits two stars instead of one.</p>
+<p>On this hypothetical planet, years last 700 days, and the two sunlike stars orbit each other every 100 days. This complicated dance results in erratic seasons, with winters that can last anywhere from 600 to 850 days. Because the orbit is a three-body problem, predicting the length of the seasons in advance would be impossible for the computerless maesters of Westeros. "With heavy hearts, we conclude that our attempts to provide the good folks of Westeros with a reliable weather forecast are inconclusive," the authors wrote in a paper posted on the arXiv server on 1 April.</p>
+<fig id="F2" position="float">
+<caption>
+<p>Kit Harrington as Jon Snow on <italic>Game of Thrones</italic>.</p>
+</caption>
+<graphic xlink:href="340_126c_F2"></graphic>
+<attrib>CREDIT: HELEN SLOAN/HBO</attrib>
+</fig>
+<p>Other earth scientists are skeptical. The pattern of winters and summers plotted in the paper "doesn't quite seem chaotic enough" to cause the turmoil observed in Westeros, says Stephen Kane, an astronomer at the California Institute of Technology in Pasadena who has studied the habitable zones of exoplanets in such circumbinary orbits. He suggests injecting a bit more chaos by introducing a third star to the system or reimagining the planet as an exomoon orbiting a gas giant. Still, this paper "is on the right path to providing a purely physical explanation" of the Westerosi seasons, he says. "Of course, if there's magic involved, all bets are off."</p>
+</sec>
+<sec>
+<title>Science Live</title>
+<p>Join us on Thursday, 18 April, at 3 p.m. EDT for a live chat on <italic>genetic privacy</italic>. How safe is your genome? <ext-link ext-link-type="uri" xlink:href="http://scim.ag/science-live"><bold>http://scim.ag/science-live</bold></ext-link></p>
+</sec>
+</body>
+</article>

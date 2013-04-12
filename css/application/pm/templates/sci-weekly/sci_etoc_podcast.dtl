@@ -1,0 +1,10 @@
+<!-- begin special e-mail message -->
+
+<hr />
+
+<div style="border:1px solid #CCC; padding:8px 8px 8px 75px; background:#FFFFCC url(http://www.sciencemag.org/feature/icon/scimag_pc_logo_60_60.jpg) no-repeat 5px 5px; margin-bottom:5px;">
+<strong><em>Science</em> Podcast</strong>
+<p>In this week's show: {*{PODCAST-TEASER|SCI-PODCAST|ALL}*}<a href="http://www.sciencemag.org/multimedia/podcast/index.dtl?etoc#20{!{ISSUE_YEAR}!}{!{ISSUE_FULL_MONTH}!}{!{ISSUE_SHORT_DAY}!}">Listen now</a>.</p>
+</div>
+
+<!-- end special e-mail message -->

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="letter" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Letter</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Letters</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>letters</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Retraction</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Anderson</surname><given-names>Travis M.</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib>
+<contrib contrib-type="author"><name><surname>Neiwert</surname><given-names>Wade A.</given-names></name><xref ref-type="aff" rid="aff2">2</xref></contrib>
+<contrib contrib-type="author"><name><surname>Kirk</surname><given-names>Martin L.</given-names></name><xref ref-type="aff" rid="aff3">3</xref></contrib>
+<contrib contrib-type="author"><name><surname>Piccoli</surname><given-names>Paula M. B.</given-names></name><xref ref-type="aff" rid="aff4">4</xref></contrib>
+<contrib contrib-type="author"><name><surname>Schultz</surname><given-names>Arthur J.</given-names></name><xref ref-type="aff" rid="aff5">5</xref></contrib>
+<contrib contrib-type="author"><name><surname>Koetzle</surname><given-names>Thomas F.</given-names></name><xref ref-type="aff" rid="aff6">6</xref></contrib>
+<contrib contrib-type="author"><name><surname>Musaev</surname><given-names>Djamaladdin G.</given-names></name><xref ref-type="aff" rid="aff7">7</xref></contrib>
+<contrib contrib-type="author"><name><surname>Morokuma</surname><given-names>Keiji</given-names></name><xref ref-type="aff" rid="aff7">7</xref></contrib>
+<contrib contrib-type="author"><name><surname>Cao</surname><given-names>Rui</given-names></name><xref ref-type="aff" rid="aff8">8</xref></contrib>
+<contrib contrib-type="author" corresp="yes"><name><surname>Hill</surname><given-names>Craig L.</given-names></name><xref ref-type="aff" rid="aff7">7</xref><xref ref-type="corresp" rid="cor1">*</xref></contrib>
+<aff id="aff1"><label>1</label>Sandia National Laboratories, Albuquerque, NM 87185-0754, USA.</aff>
+<aff id="aff2"><label>2</label>Department of Chemistry, Bethel University, St. Paul, MN 55112-6999, USA.</aff>
+<aff id="aff3"><label>3</label>Department of Chemistry and Chemical Biology, University of New Mexico, Albuquerque, NM 87131-0001, USA.</aff>
+<aff id="aff4"><label>4</label>Madison, WI 59719, USA.</aff>
+<aff id="aff5"><label>5</label>La Grange, IL 60525, USA.</aff>
+<aff id="aff6"><label>6</label>Dix Hills, NY 11746-4920, USA.</aff>
+<aff id="aff7"><label>7</label>Department of Chemistry, Emory University, Atlanta, GA 30322, USA.</aff>
+<aff id="aff8"><label>8</label>Department of Chemistry, Renmin University of China, Beijing 100872, China.</aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>To whom correspondence should be addressed. E-mail: <email>chill@emory.edu</email></corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<day>20</day>
+<month>07</month>
+<year>2012</year>
+</pub-date>
+<volume>337</volume>
+<issue>6092</issue>
+<fpage seq="a">290</fpage>
+<lpage>290</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="letters.pdf" />
+<custom-meta-wrap>
+<custom-meta><meta-name>Editor</meta-name><meta-value>Jennifer Sills</meta-value></custom-meta>
+</custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<p>On the basis of new experiments (NMR studies with <sup>17</sup>O-labeled compounds and varying pH, additional x-ray crystallography, and others), the authors of the Report &#x201C;A late-transition metal oxo complex: K<sub>7</sub>Na<sub>9</sub>[O=Pt<sup>IV</sup>(H<sub>2</sub>O)L<sub>2</sub>], L = [PW<sub>9</sub>O<sub>34</sub>]<sup>9&#x2212;</sup>&#x201D; (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>) have concluded that the full body of data does not support structural assignment of the title compound as a terminal platinum oxo. As a result, we retract the publication. The assignment is clarified in (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>).</p>
+</body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Anderson</surname><given-names>T. M.</given-names></name><etal/></person-group>., <source>Science</source> <volume>306</volume>, <fpage>2074</fpage> (<year>2004</year>).</citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>O'Halloran</surname><given-names>K. P.</given-names></name><etal/></person-group>., <source>Inorg. Chem.</source> <volume>51</volume>, <fpage>7025</fpage> (<year>2012</year>).</citation>
+</ref>
+</ref-list>
+</back>
+</article>

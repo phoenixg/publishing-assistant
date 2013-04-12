@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"><front>
+<journal-meta><journal-id journal-id-type="publisher-id">SCIENCE</journal-id><journal-title>Science</journal-title><abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title><issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta><article-id pub-id-type="publisher-id">1227301</article-id><article-id pub-id-type="doi">10.1126/science.1227301</article-id><article-categories>
+<subj-group subj-group-type="article-type"><subject>Perspective</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Perspectives</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>perspective</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Cell Biology</subject></subj-group>
+<subj-group subj-group-type="field"><subject>CELL BIOL</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>An Ancient Portal to Proteolysis</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Matouschek</surname><given-names>Andreas</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib>
+<contrib contrib-type="author" corresp="yes"><name><surname>Finley</surname><given-names>Daniel</given-names></name><xref ref-type="aff" rid="aff2">2</xref></contrib>
+<aff id="aff1"><label>1</label>Department of Chemistry and Biochemistry and Section of Molecular Genetics and Microbiology, University of Texas, Austin, TX 78712, USA.</aff>
+<aff id="aff2"><label>2</label>Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA.</aff>
+</contrib-group>
+<author-notes>
+<corresp>E-mail: <email>matouschek@austin.utexas.edu</email>; <email>daniel_finley@hms.harvard.edu</email></corresp>
+</author-notes><pub-date pub-type="ppub">
+<day>17</day>
+<month>08</month>
+<year>2012</year>
+</pub-date><volume>337</volume><issue>6096</issue><fpage>813</fpage><lpage>814</lpage><permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>The discovery in archaea of an alternative proteasome based on Cdc48 provides insights into the evolution of protein degradation machines.</p>
+</abstract>
+<abstract abstract-type="excerpt">
+<p>Selective protein degradation in eukaryotes is mediated primarily by the ubiquitin-proteasome system, in which the small protein ubiquitin is covalently attached to a target protein to signal its degradation by the 26S proteasome (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). The ubiquitin-proteasome system may include as many as 1000 distinct gene products, thus constituting one of the broadest regulatory systems in nature. Recent work, including a report by Barthelme and Sauer on page 843 of this issue (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>), has shed light on how this baroque pathway may have evolved and raises some unexpected possibilities for the mechanism by which proteins are delivered to proteasomes for their destruction.</p>
+</abstract><custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Helen Pickersgill</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Jeff Cook</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>Selective protein degradation in eukaryotes is mediated primarily by the ubiquitin-proteasome system, in which the small protein ubiquitin is covalently attached to a target protein to signal its degradation by the 26S proteasome (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). The ubiquitin-proteasome system may include as many as 1000 distinct gene products, thus constituting one of the broadest regulatory systems in nature. Recent work, including a report by Barthelme and Sauer on page <related-article related-article-type="in-this-issue" vol="337" page="843" issue="6096">843</related-article> of this issue (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>), has shed light on how this baroque pathway may have evolved and raises some unexpected possibilities for the mechanism by which proteins are delivered to proteasomes for their destruction.</p>
+<p>Although no prokaryote has a bonafide version of the eukaryotic ubiquitin-proteasome pathway, various archaea and bacteria contain adenosine triphosphate (ATP)&#x2013;dependent proteases that are of the same basic design (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>, <xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). For example, many archaea have a proteasome-like complex known as PAN (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>, <xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). PAN is composed of a hollow, 28-subunit proteolytic core particle (the 20<italic>S</italic> core particle), in which proteins are degraded, and a 6-subunit adenosine triphosphatase (ATPase) complex (the PAN cap). The PAN cap activates the core particle by opening up a channel and translocating in substrates while unfolding their globular domains. Ancestral variants of ubiquitin are also found in archaea, although the most prominent of these are not used to tag proteins for degradation (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>). Nonetheless, ubiquitination-like protein conjugation systems linked to protein degradation have been found in archaea and some bacteria (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R7"><italic>7</italic></xref>).</p>
+<p>Among the curiosities of the eukaryotic ubiquitin-proteasome system is an ATPase complex known as Cdc48 (sometimes called p97 or VCP) (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>). Its subunits form a six-membered ring, similar to the proteasomal ATPases, but their amino acid sequences are only distantly related. Cdc48 is involved in a range of cellular functions that involve ubiquitin but not always protein degradation. Mechanistically, Cdc48 appears to work in two different modes. One is to serve as a ubiquitin chain editing platform by interacting with factors that recognize ubiquitinated substrates, and with enzymes that add or remove ubiquitin (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>, <xref ref-type="bibr" rid="R9"><italic>9</italic></xref>). The other is to extract ubiquitinated proteins from membranes or complex structures such as chromatin and deliver them to proteasomes in the cytosol (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>, <xref ref-type="bibr" rid="R10"><italic>10</italic></xref>, <xref ref-type="bibr" rid="R11"><italic>11</italic></xref>). Thus, Cdc48 seems to prepare substrates for the proteasome in various ways&#x2014;handing them to the proteasome's ATPase caps (called 19<italic>S</italic> caps in eukaryotes), which then feed them into the proteolytic core. Oddly, the 19S caps (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>) have functions similar to Cdc48. They also bind to ubiquitin and to enzymes that add or remove ubiquitin, and they can unfold stable proteins and disassemble complexes (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). Could a substrate bypass the 19<italic>S</italic> caps on the way to degradation?</p>
+<p>The C terminus of Cdc48 contains the distinctive HbYX motif (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>), which had been identified in archaeal PAN (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>) and was shown to mediate PAN's binding to the core particle. The motif is also highly conserved in the eukaryotic 19S caps (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>, <xref ref-type="bibr" rid="R3"><italic>3</italic></xref>), where it again mediates interaction with the core particle. Thus, its appearance also in Cdc48 has been a persistent mystery. To address this, Barthelme and Sauer astutely focused on archaea rather than eukaryotes. They noticed that the core particle is found in all archaea but that PAN is missing in some, which suggested the presence of an unidentified ATPase cap. Given the HbYX motifs of Cdc48, they tested whether archaeal Cdc48 could be this missing cap. Indeed, archaeal Cdc48 bound the core particle, predominantly through the HbYX motif, and was capable of injecting substrates into the core particle cavity.</p>
+<p>What do these findings tell us about the origin of the eukaryotic protein degradation system and its overall design? There are two principal interpretations (see the figure). The more conservative model 1 posits that in archaea, PAN and Cdc48 function in parallel as core particle activators. As the eukaryotic system evolved, Cdc48 was pushed aside to function upstream of the proteasome rather than as a part of it, and no longer docks onto the core particle. In this model, Cdc48 became deeply entrenched in the ubiquitin pathway even as it lost its direct connection to the core particle, as evidenced by its association with a large number of ubiquitin receptors that bring substrates to it (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>, <xref ref-type="bibr" rid="R13"><italic>13</italic></xref>). Also, many proteins require Cdc48 for degradation (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>). This model fails to account for the conservation of Cdc48's HbYX motifs in eukaryotes, although there may be alternative explanations for this (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>, <xref ref-type="bibr" rid="R15"><italic>15</italic></xref>). Moreover, it is puzzling that an enzyme complex pre-adapted to degrade ubiquitin conjugates in the eukaryotic lineage would have been passed over for this role. A possible rationale would be that, as Cdc48 evolved into a broadly acting factor for extracting proteins from membranes and complexes, tight coupling to the core particle and thus degradation became a liability.</p>
+<fig id="F1" position="float">
+<caption>
+<title>Two models of eukaryotic Cdc48 action.</title>
+<p>(<bold>A</bold>) In model 1, Cdc48 has lost its ancient ability to interact directly with the core particle and functions as an accessory factor to deliver substrates to the 26<italic>S</italic> proteasome, which contains its own 19<italic>S</italic> caps. Cdc48 can disassemble protein complexes and serve as a ubiquitin editing platform. (<bold>B</bold>) In model 2, Cdc48 retains its ability to associate with the proteasome core particle, and this allows two types of activated proteasome complexes with distinct ATPase caps to form. The different caps may be optimized for different subsets of proteasome substrates. Substrate interaction with the two proteasome particles in both models can be mediated by adaptors, which are not shown in the figure.</p>
+</caption>
+<graphic xlink:href="337_813_F1" />
+<attrib>CREDIT: P. HUEY/<italic>SCIENCE</italic></attrib>
+</fig>
+<p>Model 2 asserts that Cdc48 functions similarly in both eukaryotes and archaea. Thus, in eukaryotes, the 19S cap and Cdc48 work in parallel to deliver substrates to the proteolytic core particle. This has good logic but conflicts with the long-standing paradigm of Cdc48 working upstream of the fully assembled proteasome (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>). First, no eukaryotic Cdc48&#x2013;core particle complex has ever been isolated or successfully reconstituted in eukaryotes, and not for a lack of trying. To identify an interaction between Cdc48 and the core particle in archaea, Barthelme and Sauer used an ATPase-defective mutant of Cdc48 because ATP hydrolysis weakens contacts at the Cdc48&#x2013;core particle interface. Thus, the same trick may be necessary to detect an interaction in the eukaryotic system. The eukaryotic 26<italic>S</italic> proteasome is quite stable, but there is ample precedent for instability of activator&#x2013;core particle complexes in bacteria. The second caveat is that, to our knowledge, no protein has been reported to require Cdc48 but not the 19<italic>S</italic> cap for proteasomal degradation. However, surprisingly few substrates have been tested for this (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>), and perhaps the right proteins have not yet been examined.</p>
+<p>If the 19<italic>S</italic> and Cdc48 caps both recognize substrates through ubiquitin, how might their functions differ? One possibility is that the Cdc48 and 19S caps unfold proteins by different mechanisms, such that each cap is best suited to unfolding a distinct subset of protein folds. Alternatively, the difference could lie in the step that follows the first recognition as the proteasome engages its substrates at initiation sequences. For example, in the 19<italic>S</italic> caps, the entrance to the degradation channel is somewhat occluded (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>) so that it might be inaccessible to some sequences (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>).</p>
+<p>The potential new function of Cdc48 as a proteasome component would provide Cdc48 with a clearer role in the ubiquitin pathway and tighten the pathway's overall design. However, conceptual neatness has never been a good predictor of biology.</p>
+</body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Finley</surname><given-names>D.</given-names></name></person-group>, <source>Annu. Rev. Biochem.</source>
+<volume>78</volume>, <fpage>477</fpage> (<year>2009</year>).</citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Barthelme</surname><given-names>D.</given-names></name><name><surname>Sauer</surname><given-names>R. T.</given-names></name></person-group>, <source>Science</source>
+<volume>337</volume>, <fpage>843</fpage> (<year>2012</year>); 10.1126/science.1224352.<pub-id pub-id-type="doi">10.1126/science.1224352</pub-id></citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Smith</surname><given-names>D. M.</given-names></name><etal/></person-group>., <source>Mol. Cell</source>
+<volume>27</volume>, <fpage>731</fpage> (<year>2007</year>).</citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>F.</given-names></name><etal/></person-group>., <source>Mol. Cell</source>
+<volume>34</volume>, <fpage>473</fpage> (<year>2009</year>).</citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Burroughs</surname><given-names>A. M.</given-names></name><name><surname>Iyer</surname><given-names>L. M.</given-names></name><name><surname>Aravind</surname><given-names>L.</given-names></name></person-group>, <source>Methods Mol. Biol.</source>
+<volume>832</volume>, <fpage>15</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Pearce</surname><given-names>M. J.</given-names></name><name><surname>Mintseris</surname><given-names>J.</given-names></name><name><surname>Ferreyra</surname><given-names>J.</given-names></name><name><surname>Gygi</surname><given-names>S. P.</given-names></name><name><surname>Darwin</surname><given-names>K. H.</given-names></name></person-group>, <source>Science</source>
+<volume>322</volume>, <fpage>1104</fpage> (<year>2008</year>).</citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Humbard</surname><given-names>M. A.</given-names></name><etal/></person-group>., <source>Nature</source>
+<volume>463</volume>, <fpage>54</fpage> (<year>2010</year>).</citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Meyer</surname><given-names>H.</given-names></name><name><surname>Bug</surname><given-names>M.</given-names></name><name><surname>Bremer</surname><given-names>S.</given-names></name></person-group>, <source>Nat. Cell Biol.</source>
+<volume>14</volume>, <fpage>117</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Richly</surname><given-names>H.</given-names></name><etal/></person-group>., <source>Cell</source>
+<volume>120</volume>, <fpage>73</fpage> (<year>2005</year>).</citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Ye</surname><given-names>Y.</given-names></name><name><surname>Meyer</surname><given-names>H. H.</given-names></name><name><surname>Rapoport</surname><given-names>T. A.</given-names></name></person-group>, <source>Nature</source>
+<volume>414</volume>, <fpage>652</fpage> (<year>2001</year>).</citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Jarosch</surname><given-names>E.</given-names></name><etal/></person-group>., <source>Nat. Cell Biol.</source>
+<volume>4</volume>, <fpage>134</fpage> (<year>2002</year>).</citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Verma</surname><given-names>R.</given-names></name><name><surname>McDonald</surname><given-names>H.</given-names></name><name><surname>Yates</surname><given-names>J. R.</given-names><suffix>3rd</suffix></name><name><surname>Deshaies</surname><given-names>R. J.</given-names></name></person-group>, <source>Mol. Cell</source>
+<volume>8</volume>, <fpage>439</fpage> (<year>2001</year>).</citation>
+</ref>
+<ref id="R13">
+<label>13</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Alexandru</surname><given-names>G.</given-names></name><etal/></person-group>., <source>Cell</source>
+<volume>134</volume>, <fpage>804</fpage> (<year>2008</year>).</citation>
+</ref>
+<ref id="R14">
+<label>14</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Zhao</surname><given-names>G.</given-names></name><etal/></person-group>., <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>104</volume>, <fpage>8785</fpage> (<year>2007</year>).</citation>
+</ref>
+<ref id="R15">
+<label>15</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>B&#x00F6;hm</surname><given-names>S.</given-names></name><name><surname>Lamberti</surname><given-names>G.</given-names></name><name><surname>Fern&#x00E1;ndez-S&#x00E1;iz</surname><given-names>V.</given-names></name><name><surname>Stapf</surname><given-names>C.</given-names></name><name><surname>Buchberger</surname><given-names>A.</given-names></name></person-group>, <source>Mol. Cell. Biol.</source>
+<volume>31</volume>, <fpage>1528</fpage> (<year>2011</year>).</citation>
+</ref>
+<ref id="R16">
+<label>16</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Lander</surname><given-names>G. C.</given-names></name><etal/></person-group>., <source>Nature</source>
+<volume>482</volume>, <fpage>186</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R17">
+<label>17</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Beskow</surname><given-names>A.</given-names></name><etal/></person-group>., <source>J. Mol. Biol.</source>
+<volume>394</volume>, <fpage>732</fpage> (<year>2009</year>).</citation>
+</ref>
+</ref-list>
+</back>
+</article>

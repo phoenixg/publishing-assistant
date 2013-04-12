@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">sigtrans</journal-id>
+<journal-title>Science Signaling</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Sci. Signal.</abbrev-journal-title>
+    <issn pub-type="epub">1937-9145</issn><issn pub-type="ppub">1945-0877</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">2002941</article-id>
+<article-id pub-id-type="doi">10.1126/scisignal.2002941</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Research Article</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>STKE Research Articles</subject></subj-group>
+<subj-group subj-group-type="field"><subject>VIROLOGY</subject><subject>CELL BIOL</subject><subject>NEUROSCIENCE</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Virology</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Interference with the PTEN-MAST2 Interaction by a Viral Protein Leads to Cellular Relocalization of PTEN</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Terrien</surname><given-names>Elouan</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Chaffotte</surname><given-names>Alain</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Lafage</surname><given-names>Mireille</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref><xref ref-type="aff" rid="aff5"><sup>5</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Khan</surname><given-names>Zakir</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref><xref ref-type="aff" rid="aff5"><sup>5</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Pr&#x00E9;haud</surname><given-names>Christophe</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref><xref ref-type="aff" rid="aff5"><sup>5</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Cordier</surname><given-names>Florence</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Simenel</surname><given-names>Catherine</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Delepierre</surname><given-names>Muriel</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Buc</surname><given-names>Henri</given-names></name><xref ref-type="aff" rid="aff6"><sup>6</sup></xref></contrib> <contrib contrib-type="author" corresp="yes"><name><surname>Lafon</surname><given-names>Monique</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref><xref ref-type="aff" rid="aff5"><sup>5</sup></xref><xref ref-type="corresp" rid="cor1">*</xref></contrib> <contrib contrib-type="author" corresp="yes"><name><surname>Wolff</surname><given-names>Nicolas</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref ref-type="corresp" rid="cor1">*</xref></contrib>
+<aff id="aff1"><label>1</label>Institut Pasteur, Unit&#x00E9; de R&#x00E9;sonance Magn&#x00E9;tique Nucl&#x00E9;aire des Biomol&#x00E9;cules, D&#x00E9;partement de Biologie Structurale et Chimie, F-75015 Paris, France.</aff>
+<aff id="aff2"><label>2</label>CNRS, UMR3528, F-75015 Paris, France.</aff>
+<aff id="aff3"><label>3</label>Universit&#x00E9; Pierre et Marie Curie, Cellule Pasteur UPMC, rue du Docteur Roux, 75015 Paris, France.</aff>
+<aff id="aff4"><label>4</label>Institut Pasteur, Unit&#x00E9; de Neuro Immunologie Virale, D&#x00E9;partement de Virologie, F-75015 Paris, France.</aff>
+<aff id="aff5"><label>5</label>CNRS, URA3015, F-75015 Paris, France.</aff>
+<aff id="aff6"><label>6</label>Institut Pasteur, F-75015 Paris, France.</aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>To whom correspondence should be addressed. E-mail: <email xlink:href="monique.lafon@pasteur.fr">monique.lafon@pasteur.fr</email> (M.L.); <email xlink:href="nicolas.wolff@pasteur.fr">nicolas.wolff@pasteur.fr</email> (N.W.)</corresp></author-notes>
+<pub-date pub-type="ppub"><day>14</day><month>08</month><year>2012</year></pub-date>
+<volume>5</volume>
+<issue>237</issue>
+<fpage>ra58</fpage>
+<lpage>ra58</lpage><history><date date-type="received"><day>07</day><month>02</month><year>2012</year></date><date date-type="accepted"><day>26</day><month>07</month><year>2012</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>The G protein of rabies virus manipulates the cellular localization of PTEN, which may promote cell survival.</p>
+</abstract>
+<abstract abstract-type="editor">
+<title>Rabies Virus Relocalizes PTEN</title>
+<p>Virulent strains of rabies virus infect neurons and promote survival of the infected cells to favor viral replication. Among the host factors that inhibit neuronal survival are the phosphatase PTEN and one of its binding partners, the kinase MAST2. PTEN and MAST2 interact through the PDZ domain of MAST2 and the PDZ domain&#x2013;binding site (PDZ-BS) of PTEN. Terrien <italic>et al</italic>. found that the rabies virus glycoprotein (G protein), which contains a PDZ-BS, disrupted the MAST2-PTEN complex in infected cells. Structural analysis showed that the surfaces of PTEN and G protein that interacted with MAST2 were similar and contained previously uncharacterized PDZ-binding regions. Finally, disruption of the MAST2-PTEN complex by viral G protein resulted in the relocalization of PTEN from the nucleus to the cytoplasm. Together, these data suggest that competition between viral G protein and MAST2 for binding to PTEN plays a role in the survival of infected cells.</p>
+</abstract>
+<abstract>
+<p>PTEN (phosphatase and tensin homolog deleted on chromosome 10) and MAST2 (microtubule-associated serine and threonine kinase 2) interact with each other through the PDZ domain of MAST2 (MAST2-PDZ) and the carboxyl-terminal (C-terminal) PDZ domain&#x2013;binding site (PDZ-BS) of PTEN. These two proteins function as negative regulators of cell survival pathways, and silencing of either one promotes neuronal survival. In human neuroblastoma cells infected with rabies virus (RABV), the C-terminal PDZ domain of the viral glycoprotein (G protein) can target MAST2-PDZ, and RABV infection triggers neuronal survival in a PDZ-BS&#x2013;dependent fashion. These findings suggest that the PTEN-MAST2 complex inhibits neuronal survival and that viral G protein disrupts this complex through competition with PTEN for binding to MAST2-PDZ. We showed that the C-terminal sequences of PTEN and the viral G protein bound to MAST2-PDZ with similar affinities. Nuclear magnetic resonance structures of these complexes exhibited similar large interaction surfaces, providing a structural basis for their binding specificities. Additionally, the viral G protein promoted the nuclear exclusion of PTEN in infected neuroblastoma cells in a PDZ-BS&#x2013;dependent manner without altering total PTEN abundance. These findings suggest that formation of the PTEN-MAST2 complex is specifically affected by the viral G protein and emphasize how disruption of a critical protein-protein interaction regulates intracellular PTEN trafficking. In turn, the data show how the viral protein might be used to decipher the underlying molecular mechanisms and to clarify how the subcellular localization of PTEN regulates neuronal survival.</p>
+</abstract>
+<custom-meta-wrap>
+<custom-meta><meta-name>Editor</meta-name><meta-value>John Foley</meta-value></custom-meta>
+<custom-meta><meta-name>Copyeditor</meta-name><meta-value>SPI</meta-value></custom-meta>
+</custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<sec sec-type="introduction" disp-level="1">
+<title>Introduction</title>
+<p>Phosphatase and tensin homolog deleted on chromosome 10 (PTEN) protein is widely expressed in the brain, preferentially in neurons and at synapses (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>), where it affects neuronal survival (neurite outgrowth and axonal regeneration). Through its ability to dephosphorylate the 3&#x2032; position of phosphatidylinositol 3,4,5-triphosphate, PTEN inhibits the survival and proliferative signaling pathway that is initiated by phosphatidylinositol 3-kinase (PI3K) and relayed by the downstream serine and threonine kinase Akt (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>&#x2013;<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). Inactivation of PTEN exerts a neuroprotective effect on neuronal precursors (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>), enhances self-renewal or proliferation of neural progenitors (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>), promotes dendritic and axonal growth, and modulates axon branching (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>&#x2013;<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>).</p>
+<p>PTEN, originally described as a protein localized in the cytoplasm, can also be found at the plasma membrane (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>), in microdomains (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>), and in the nucleus, where it exerts additional functions likely independently of its phosphatase activity (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>). Cellular compartmentalization is critical for the regulation of PTEN functions (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>). In particular, PTEN must be brought to the plasma membrane to antagonize PI3K activity. The balance between nuclear and cytoplasmic localization of PTEN is crucially affected during tumorigenesis, apoptotic processes, and neurosurvival after ischemia (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>, <xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). Localization and posttranslational modifications are not independent events; the nuclear import of PTEN requires monoubiquitination at specific lysine residues (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>) and interaction with Nedd4 family&#x2013;interacting protein 1 (Ndfip1), a protein that enhances PTEN ubiquitination by Nedd4 E3 ubiquitin ligases (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). Depending on the phosphorylated residue of the PTEN C-terminal domain (PTEN-Cter), nuclear or cytoplasmic accumulation could be observed. The maintenance and entry of PTEN into the nucleus is dependent on the phosphorylation of its unstructured C-terminal domain (PTEN-Cter), which is itself related to the ubiquitination state of PTEN (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>, <xref ref-type="bibr" rid="R17"><italic>17</italic></xref>, <xref ref-type="bibr" rid="R19"><italic>19</italic></xref>). Nevertheless, a detailed mechanism of action encompassing all of these observations is still lacking (<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>, <xref ref-type="bibr" rid="R21"><italic>21</italic></xref>).</p>
+<p>For PTEN to be fully active at the plasma membrane, a stretch of several serine and threonine residues present in PTEN-Cter must be dephosphorylated (<xref ref-type="bibr" rid="R22"><italic>22</italic></xref>). PTEN function is also modulated by its insertion into numerous multiprotein complexes. PTEN-Cter interacts with scaffold proteins, such as membrane-associated guanylate inverted kinase 2 (MAGI2) (<xref ref-type="bibr" rid="R23"><italic>23</italic></xref>), Na<sup>+</sup>/H<sup>+</sup> exchanger regulatory factor (NHERF) (<xref ref-type="bibr" rid="R24"><italic>24</italic></xref>), prostate apoptosis response 3 (Par3) (<xref ref-type="bibr" rid="R25"><italic>25</italic></xref>), and microtubule-associated serine and threonine kinases 1, 2, and 3 (MAST1, 2, and 3). The sequestration of only a small fraction of PTEN by NHERF at the plasma membrane is sufficient to attenuate Akt-dependent survival signaling in cells treated with platelet-derived growth factor (<xref ref-type="bibr" rid="R24"><italic>24</italic></xref>). The binding of MAST2 to PTEN increases the efficiency of PTEN phosphorylation (<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>). The interaction between these two proteins involves a PDZ domain (MAST2-PDZ) located in the central part of MAST2 (<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>, <xref ref-type="bibr" rid="R28"><italic>28</italic></xref>) and a PDZ domain&#x2013;binding site (PDZ-BS) formed by the last three C-terminal amino acids (-TKV<sub>COOH</sub>) of PTEN. PDZ domains are modular structures, 80 to 100 amino acid residues in length, and are well known to mediate transient protein-protein interactions that are centrally involved in organizing signal transduction pathways (<xref ref-type="bibr" rid="R29"><italic>29</italic></xref>). MAST2 is a submembrane protein localized at the postsynaptic region of the neuromuscular junction and central synapses in several parts of the brain (<xref ref-type="bibr" rid="R30"><italic>30</italic></xref>, <xref ref-type="bibr" rid="R31"><italic>31</italic></xref>). It belongs to the family of AGC kinases. MAST2 was identified as an antagonist of neuronal survival through its ability to inhibit neurite outgrowth and stimulate neurite retraction (<xref ref-type="bibr" rid="R32"><italic>32</italic></xref>), and inactivation of MAST2 in human neuroblastoma cells triggers survival, similarly to the effect of silencing PTEN in rat dorsal root ganglion neurons (<xref ref-type="bibr" rid="R33"><italic>33</italic></xref>).</p>
+<p>Assessing the role of the PDZ-BS of PTEN may be one way to advance the understanding of PTEN function in neuronal survival. Indeed, the interaction established between the PTEN PDZ-BS and MAST2-PDZ can be specifically challenged in living cells because the MAST2-PDZ is targeted by the C terminus (-TRL<sub>COOH</sub>) of the envelope glycoprotein (G protein) of the rabies virus (RABV) (<xref ref-type="bibr" rid="R34"><italic>34</italic></xref>, <xref ref-type="bibr" rid="R35"><italic>35</italic></xref>). RABV is a strictly neurotropic virus that has acquired the selective advantage to promote the survival of the neurons that it infects (<xref ref-type="bibr" rid="R36"><italic>36</italic></xref>). We have shown previously that the interaction between the MAST2-PDZ and the PDZ-BS of the RABV G protein results in the selective recruitment of MAST2 at the membrane of RABV-infected cells (<xref ref-type="bibr" rid="R35"><italic>35</italic></xref>). Provided that the RABV strain is a virulent one, this recruitment is concomitant with the activation of the cellular Akt pathway and the promotion of neurite outgrowth (<xref ref-type="bibr" rid="R35"><italic>35</italic></xref>). Neuron survival of RABV-infected neurons occurs in a manner qualitatively similar to that of attenuation of endogenous PTEN and MAST2 (<xref ref-type="bibr" rid="R32"><italic>32</italic></xref>, <xref ref-type="bibr" rid="R33"><italic>33</italic></xref>). As part of the hypothesis that the complex formed by PTEN and MAST2 is required for the inhibition of neurosurvival, G protein&#x2013;mediated survival could result from the capacity of the G protein to disrupt this complex. On this basis, we surmised that, if the competition between PTEN and the viral G protein toward the PDZ domain of MAST2 was specific enough, infection by a virulent RABV strain would target and abolish this sole interaction of PTEN in cells. This would likely result in a discrete perturbation of a functional feature of endogenous PTEN.</p>
+<p>To understand the respective binding specificities of PTEN and RABV G protein with MAST2-PDZ, we solved the structures of the MAST2-PDZ domain in complex with the 13 C-terminal amino acid residues of PTEN (MAST2-PDZ/PTEN13-Cter) and of the RABV G protein (MAST2-PDZ/Cyto13-att). We found that the C-terminal domains of PTEN and RABV G protein each had similar network of connectivity at the binding sites, defining a common and previously uncharacterized interaction surface with MAST2-PDZ. Next, we analyzed the effect that prevention of complex formation between MAST2-PDZ and PTEN by the viral G protein had on PTEN localization in infected neuronal cells. Our results support the possibility that the C-terminal region of the RABV G protein may efficiently compete with PTEN to bind to the MAST2-PDZ, which results in a marked alteration in the subcellular localization of PTEN.</p>
+</sec>
+<sec sec-type="results" disp-level="1">
+<title>Results</title>
+<sec disp-level="2">
+<title>PTEN13-Cter binds to MAST2-PDZ through both canonical and distal interactions</title>
+<p>We quantified the interaction between MAST2-PDZ and PTEN13-Cter in vitro through isothermal titration microcalorimetry (ITC) experiments (see <xref ref-type="table" rid="T1">Table 1</xref> for peptide sequences). The apparent dissociation constant <italic>K</italic><sub>D(app)</sub> was 2 &#x03BC;M at a concentration of monomer units of 1.8 &#x03BC;M. The Gibbs free energy of binding (&#x0394;<italic>G</italic> = &#x0394;<italic>H</italic> &#x2212; <italic>T</italic>&#x0394;<italic>S</italic>) was mainly driven by an overall enthalpy contribution [&#x0394;<italic>H</italic><sub>(app)</sub> &#x2248; &#x2212;6 kcal/mol], reflecting the major contribution of polar interaction to peptide binding (<xref ref-type="table" rid="T1">Table 1</xref>). We then solved the structure of the MAST2-PDZ/PTEN13-Cter complex by nuclear magnetic resonance (NMR) spectroscopy (<xref ref-type="fig" rid="F1">Fig. 1A</xref>). We performed assignments of nuclear Overhauser effect (NOE) peaks and calculation of the structure of the MAST2-PDZ/PTEN13-Cter complex with ARIA2.2 and HADDOCK software programs. Sixty-seven intermolecular distances between MAST2-PDZ and PTEN13-Cter were estimated from filtered NOE NMR experiments. The final ensemble of 10 structures of lowest energies has an average pairwise root mean square deviation (RMSD) of 0.9 &#x00B1; 0.2 &#x00C5; for backbone atoms (table S1).</p>
+<table-wrap id="T1" position="float"><label>Table 1</label><caption>
+<p>Peptide sequences and their affinities for MAST2-PDZ. Sequence alignment of the PDZ-BS C termini of eight peptides and their apparent dissociation constants [<italic>K</italic><sub>D(app)</sub>] for MAST2-PDZ as measured by fluorimetry and ITC experiments. PTEN13-Cter, the final C-terminal 13 amino acids of PTEN; Cyto13-vir, the final C-terminal 13 amino acids of G protein from the CVS-NIV RABV strain; Cyto13-att, the final C-terminal 13 amino acids of G protein from the ERA-NIV RABV strain; Cyto13-att-W(&#x2212;11)A, a mutant of Cyto13-att that contains a W(&#x2212;11)A substitution; Cyto4-att, the PDZ-BS of Cyto13-att; Cyto13-IRL, the final C-terminal 13 amino acids of G protein from the CVS-B2c RABV strain; Cyto13-ARL, the final C-terminal 13 amino acids of G protein from the vampire bat RABV strain; Cyto9-&#x0394;4, a truncated Cyto13-att that lacks the PDZ-BS. <italic>K</italic><sub>D(app)</sub> and <italic>K</italic><sub>d</sub> were measured by ITC at 30 &#x03BC;M MAST2-PDZ and by fluorimetry at 2 and 30 &#x03BC;M MAST2-PDZ. Thermodynamic parameters are presented with &#x0394;<italic>H</italic> and <italic>T</italic>&#x0394;<italic>S</italic> corresponding to the enthalpy and entropy of the system, respectively. ND, not determined.</p>
+</caption>
+<table frame="hsides">
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<thead>
+<tr>
+<td rowspan="3" valign="middle" align="left" scope="row"><bold>Peptide</bold></td>
+<td colspan="13" align="center" scope="col"></td>
+<td colspan="2" valign="middle" align="center" scope="colgroup"><bold>Fluorimetry</bold><break/><bold>experiments</bold></td>
+<td colspan="7" valign="middle" align="center" scope="colgroup"><bold>ITC experiments</bold></td>
+</tr>
+<tr>
+<td colspan="13" valign="middle" align="center" scope="colgroup"><bold>Sequence</bold></td>
+<td colspan="1" valign="middle" align="center" scope="col"><bold>MAST2-PDZ</bold><break/><bold>(2 &#x03BC;M)</bold></td>
+<td colspan="1" valign="middle" align="center" scope="col"><bold>MAST2-PDZ</bold><break/><bold>(30 &#x03BC;M)</bold></td>
+<td colspan="7" valign="middle" align="center" scope="colgroup"><bold>MAST2-PDZ</bold><break/><bold>(30 &#x03BC;M)</bold></td>
+</tr>
+<tr>
+<td colspan="13" valign="top" align="center" scope="col"></td>
+<td valign="middle" colspan="1" align="center" scope="colgroup"><bold><italic>K</italic><sub>d</sub></bold><break/><bold>(&#x03BC;M)</bold></td>
+<td valign="middle" align="center" scope="col"><bold><italic>K</italic><sub>d</sub></bold><break/><bold>(&#x03BC;M)</bold></td>
+<td valign="middle" colspan="1" align="center" scope="colgroup"><bold><italic>K</italic><sub>D(app)</sub></bold><break/><bold>(&#x03BC;M)</bold></td>
+<td valign="middle" align="center" scope="col"><bold>Error</bold></td>
+<td valign="middle" align="center" scope="col"><bold>&#x0394;<italic>H</italic></bold></td>
+<td valign="middle" align="center" scope="col"><bold>Error</bold></td>
+<td valign="middle" align="center" scope="col"><bold><italic>T</italic>&#x0394;<italic>S</italic></bold></td>
+<td valign="middle" align="center" scope="col"><bold><italic>n</italic></bold></td>
+<td valign="middle" align="center" scope="col"><bold>Error</bold></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" scope="row">PTEN13-Cter</td>
+<td valign="top" align="center">P</td>
+<td valign="top" align="center">F</td>
+<td valign="top" align="center">D</td>
+<td valign="top" align="center">E</td>
+<td valign="top" align="center">D</td>
+<td valign="top" align="center">Q</td>
+<td valign="top" align="center">H</td>
+<td valign="top" align="center">T</td>
+<td valign="top" align="center">Q</td>
+<td valign="top" align="center">I</td>
+<td valign="top" align="center">T</td>
+<td valign="top" align="center">K</td>
+<td valign="top" align="center">V</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">16</td>
+<td valign="top" align="char" char=".">1.99</td>
+<td valign="top" align="char" char="&#x00B1;">&#x00B1;0.05</td>
+<td valign="top" align="center">&#x2212;6323</td>
+<td valign="top" align="char" char="&#x00B1;">&#x00B1;36.53</td>
+<td valign="top" align="center">1451</td>
+<td valign="top" align="char" char=".">1.18</td>
+<td valign="top" align="char" char="&#x00B1;">&#x00B1;0.005</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Cyto13-vir</td>
+<td valign="top" align="center">S</td>
+<td valign="top" align="center">W</td>
+<td valign="top" align="center">E</td>
+<td valign="top" align="center">S</td>
+<td valign="top" align="center">H</td>
+<td valign="top" align="center">K</td>
+<td valign="top" align="center">S</td>
+<td valign="top" align="center">G</td>
+<td valign="top" align="center">G</td>
+<td valign="top" align="center">Q</td>
+<td valign="top" align="center">T</td>
+<td valign="top" align="center">R</td>
+<td valign="top" align="center">L</td>
+<td valign="top" align="center">2.5</td>
+<td valign="top" align="center">18</td>
+<td valign="top" align="char" char=".">1.26</td>
+<td valign="top" align="char" char="&#x00B1;">&#x00B1;0.11</td>
+<td valign="top" align="center">&#x2212;9929</td>
+<td valign="top" align="char" char="&#x00B1;">&#x00B1;142.77</td>
+<td valign="top" align="center">&#x2212;1876</td>
+<td valign="top" align="char" char=".">0.99</td>
+<td valign="top" align="char" char="&#x00B1;">&#x00B1;0.02</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Cyto13-att</td>
+<td valign="top" align="center">S</td>
+<td valign="top" align="center">W</td>
+<td valign="top" align="center">E</td>
+<td valign="top" align="center">S</td>
+<td valign="top" align="center">H</td>
+<td valign="top" align="center">K</td>
+<td valign="top" align="center">S</td>
+<td valign="top" align="center">G</td>
+<td valign="top" align="center">G</td>
+<td valign="top" align="center">E</td>
+<td valign="top" align="center">T</td>
+<td valign="top" align="center">R</td>
+<td valign="top" align="center">L</td>
+<td valign="top" align="center">1.5</td>
+<td valign="top" align="center">32</td>
+<td valign="top" align="char" char=".">0.57</td>
+<td valign="top" align="char" char="&#x00B1;">&#x00B1;0.052</td>
+<td valign="top" align="center">&#x2212;9860</td>
+<td valign="top" align="char" char="&#x00B1;">&#x00B1;113.24</td>
+<td valign="top" align="center">&#x2212;1338</td>
+<td valign="top" align="char" char=".">0.97</td>
+<td valign="top" align="char" char="&#x00B1;">&#x00B1;0.01</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Cyto13-att-<break/>W(&#x2212;11)A</td>
+<td valign="top" align="center">S</td>
+<td valign="top" align="center">A</td>
+<td valign="top" align="center">E</td>
+<td valign="top" align="center">S</td>
+<td valign="top" align="center">H</td>
+<td valign="top" align="center">K</td>
+<td valign="top" align="center">S</td>
+<td valign="top" align="center">G</td>
+<td valign="top" align="center">G</td>
+<td valign="top" align="center">E</td>
+<td valign="top" align="center">T</td>
+<td valign="top" align="center">R</td>
+<td valign="top" align="center">L</td>
+<td valign="top" align="center">2.5</td>
+<td valign="top" align="center">19</td>
+<td valign="top" align="char" char=".">1.64</td>
+<td valign="top" align="char" char="&#x00B1;">&#x00B1;0.03</td>
+<td valign="top" align="center">&#x2212;7547</td>
+<td valign="top" align="char" char="&#x00B1;">&#x00B1;47.28</td>
+<td valign="top" align="center">346</td>
+<td valign="top" align="char" char=".">1.142</td>
+<td valign="top" align="char" char="&#x00B1;">&#x00B1;0.005</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Cyto4-att</td>
+<td valign="top" align="center">&#x00B7;</td>
+<td valign="top" align="center">&#x00B7;</td>
+<td valign="top" align="center">&#x00B7;</td>
+<td valign="top" align="center">&#x00B7;</td>
+<td valign="top" align="center">&#x00B7;</td>
+<td valign="top" align="center">&#x00B7;</td>
+<td valign="top" align="center">&#x00B7;</td>
+<td valign="top" align="center">&#x00B7;</td>
+<td valign="top" align="center">&#x00B7;</td>
+<td valign="top" align="center">E</td>
+<td valign="top" align="center">T</td>
+<td valign="top" align="center">R</td>
+<td valign="top" align="center">L</td>
+<td valign="top" align="center">7</td>
+<td valign="top" align="center">29</td>
+<td valign="top" align="char" char=".">6.37*</td>
+<td valign="top" align="char" char="&#x00B1;">&#x00B1;0.01</td>
+<td valign="top" align="center">&#x2212;8237</td>
+<td valign="top" align="char" char="&#x00B1;">&#x00B1;108.2</td>
+<td valign="top" align="center">&#x2212;1148</td>
+<td valign="top" align="char" char=".">1.10</td>
+<td valign="top" align="char" char="&#x00B1;">&#x00B1;0.01</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Cyto13-IRL</td>
+<td valign="top" align="center">S</td>
+<td valign="top" align="center">W</td>
+<td valign="top" align="center">E</td>
+<td valign="top" align="center">S</td>
+<td valign="top" align="center">Y</td>
+<td valign="top" align="center">R</td>
+<td valign="top" align="center">S</td>
+<td valign="top" align="center">G</td>
+<td valign="top" align="center">G</td>
+<td valign="top" align="center">E</td>
+<td valign="top" align="center">I</td>
+<td valign="top" align="center">R</td>
+<td valign="top" align="center">L</td>
+<td valign="top" align="center">ND</td>
+<td valign="top" align="center">ND</td>
+<td valign="top" align="char" char=".">14.47</td>
+<td valign="top" align="char" char="&#x00B1;">&#x00B1;0.1</td>
+<td valign="top" align="center">&#x2212;4237</td>
+<td valign="top" align="char" char="&#x00B1;">&#x00B1;189.40</td>
+<td valign="top" align="center">2363</td>
+<td valign="top" align="char" char=".">1.132</td>
+<td valign="top" align="char" char="&#x00B1;">&#x00B1;0.02</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Cyto13-ARL</td>
+<td valign="top" align="center">S</td>
+<td valign="top" align="center">W</td>
+<td valign="top" align="center">E</td>
+<td valign="top" align="center">L</td>
+<td valign="top" align="center">Y</td>
+<td valign="top" align="center">K</td>
+<td valign="top" align="center">S</td>
+<td valign="top" align="center">G</td>
+<td valign="top" align="center">G</td>
+<td valign="top" align="center">D</td>
+<td valign="top" align="center">A</td>
+<td valign="top" align="center">R</td>
+<td valign="top" align="center">L</td>
+<td valign="top" align="center">ND</td>
+<td valign="top" align="center">ND</td>
+<td valign="top" align="char" char=".">4.47</td>
+<td valign="top" align="char" char="&#x00B1;">&#x00B1;0.01</td>
+<td valign="top" align="center">&#x2212;4724</td>
+<td valign="top" align="char" char="&#x00B1;">&#x00B1;42.39</td>
+<td valign="top" align="center">2572</td>
+<td valign="top" align="char" char=".">1.147</td>
+<td valign="top" align="char" char="&#x00B1;">&#x00B1;0.006</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Cyto9-&#x0394;4</td>
+<td valign="top" align="center">S</td>
+<td valign="top" align="center">W</td>
+<td valign="top" align="center">E</td>
+<td valign="top" align="center">S</td>
+<td valign="top" align="center">H</td>
+<td valign="top" align="center">K</td>
+<td valign="top" align="center">S</td>
+<td valign="top" align="center">G</td>
+<td valign="top" align="center">G</td>
+<td valign="top" align="center">&#x00B7;</td>
+<td valign="top" align="center">&#x00B7;</td>
+<td valign="top" align="center">&#x00B7;</td>
+<td valign="top" align="center">&#x00B7;</td>
+<td valign="top" align="center">&#x2014;</td>
+<td valign="top" align="center">&#x2014;</td>
+<td valign="top" align="center">&#x2014;</td>
+<td valign="top" align="center">&#x2014;</td>
+<td valign="top" align="center">&#x2014;</td>
+<td valign="top" align="center">&#x2014;</td>
+<td valign="top" align="center">&#x2014;</td>
+<td valign="top" align="center">&#x2014;</td>
+<td valign="top" align="center">&#x2014;</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Position of<break/>amino acid<break/>residues</td>
+<td valign="top" align="center">&#x2212;12</td>
+<td valign="top" align="center">&#x2212;11</td>
+<td valign="top" align="center">&#x2212;10</td>
+<td valign="top" align="center">&#x2212;9</td>
+<td valign="top" align="center">&#x2212;8</td>
+<td valign="top" align="center">&#x2212;7</td>
+<td valign="top" align="center">&#x2212;6</td>
+<td valign="top" align="center">&#x2212;5</td>
+<td valign="top" align="center">&#x2212;4</td>
+<td valign="top" align="center">&#x2212;3</td>
+<td valign="top" align="center">&#x2212;2</td>
+<td valign="top" align="center">&#x2212;1</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center"></td>
+<td valign="top" align="center"></td>
+<td valign="top" align="center"></td>
+<td valign="top" align="center"></td>
+<td valign="top" align="center"></td>
+<td valign="top" align="center"></td>
+<td valign="top" align="center"></td>
+<td valign="top" align="center"></td>
+<td valign="top" align="center"></td>
+</tr>
+</tbody></table><table-wrap-foot>
+<p>*MAST2 (60 &#x03BC;M).</p></table-wrap-foot></table-wrap>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption>
+<p>NMR structures of MAST2-PDZ bound to Cyto13-att and PTEN13-Cter have similar and large surfaces of interaction. (<bold>A</bold>) Views of the backbones of the 10 structures of MAST2-PDZ (gray)/PTEN13-Cter (purple) of lowest energy. (<bold>B</bold>) Close-up views depict the distal binding sites of MAST2-PDZ and PTEN13-Cter. (<bold>C</bold>) Sequence alignment of the PDZ motifs of MAST family members. &#x03B2; strands (black arrows), &#x03B1; helices (black cylinders), and coil regions (black lines) are indicated above the sequences. Dots below the sequences indicate amino acid residues involved in binding to PTEN13-Cter (purple) or Cyto13-att (orange) as identified by intermolecular NMR experiments. (<bold>D</bold>) Views of the backbones of the 10 structures of MAST2-PDZ (gray)/Cyto13-att (orange) of lowest energy. (<bold>E</bold>) Close-up views depict the distal binding sites of MAST2-PDZ and Cyto13-att. Insets in (B) and (E) illustrate the positions of Phe<sup>(&#x2212;11)</sup> and Trp<sup>(&#x2212;11)</sup>, and interacting residues of MAST2-PDZ are represented in blue. Phe<sup>(&#x2212;11)</sup> of PTEN13-Cter and Trp<sup>(&#x2212;11)</sup> of Cyto13-att are shown in purple and orange, respectively. All of the structural models are generated with PyMOL.</p>
+</caption><graphic xlink:href="5_ra58_F1"></graphic></fig>
+<p>MAST2-PDZ adopts the topology of the PDZ domain, with five &#x03B2; strands and two &#x03B1; helices. As expected, the extreme C terminus of PTEN13-Cter interacts tightly with MAST2-PDZ, with the PDZ-binding groove composed of an &#x03B1;2 helix and a &#x03B2;2 strand (<xref ref-type="fig" rid="F1">Fig. 1A</xref>). The C terminus of PTEN13-Cter forms an antiparallel &#x03B2; strand through a complete set of canonical intermolecular backbone hydrogen bonds. Eighty-six percent of intermolecular NOEs involve the final three C-terminal amino acids of PTEN13-Cter (-TKV<sub>COOH</sub>). MAST2-PDZ has the class I domain&#x2013;specific interaction network, which enables recognition of the consensus sequence Ser/Thr-X-&#x03A6;<sub>COOH</sub>, where X is any residue and &#x03A6; is a hydrophobic residue. The backbone amides of Tyr<sup>17</sup>, Gly<sup>18</sup>, and Phe<sup>19</sup> of the carboxylate-binding loop of MAST2-PDZ are hydrogen-bonded to the C terminus of PTEN13-Cter, whereas the side chain of Val<sup>(0)</sup> enters the deep hydrophobic cavity formed by Tyr<sup>17</sup>, Phe<sup>19</sup>, Val<sup>77</sup>, Ile<sup>80</sup>, and Leu<sup>81</sup> (<xref ref-type="fig" rid="F1">Fig. 1C</xref>). The cationic side chain of Lys<sup>(&#x2212;1)</sup> interacts with the methyl side chain of Thr<sup>20</sup> of the MAST2-PDZ through hydrophobic contacts and is linked to Glu<sup>43</sup> through an ionic bond at the C terminus of the &#x03B2;3 strand. The methyl side chain of Thr<sup>(&#x2212;2)</sup> establishes a hydrophobic interaction with the side chain of Val<sup>77</sup> from the &#x03B1;2 helix, and its hydroxyl group is hydrogen-bonded to the N&#x03B5;2 of His<sup>73</sup>. Ile<sup>(&#x2212;3)</sup> is stabilized by hydrophobic contacts involving the aliphatic side chain of Arg<sup>22</sup>.</p>
+<p>Additionally, we found that the N-terminal region of PTEN13-Cter also interacted with MAST2-PDZ. The properties of this binding mode that are distinct from those of other previously characterized PDZ-peptide complexes arise from interactions that occur between the N-terminal aromatic residue of PTEN13-Cter Phe<sup>(&#x2212;11)</sup> and the &#x03B2;2, &#x03B2;3, and &#x03B2;5 strands of the MAST2-PDZ. Phe<sup>(&#x2212;11)</sup> interacts with the exposed hydrophobic residues of the &#x03B2;2 and &#x03B2;3 strands (<xref ref-type="fig" rid="F1">Fig. 1B</xref>). Intermolecular NOEs were observed between the benzyl side chain of Phe<sup>(&#x2212;11)</sup> and the Ile<sup>24</sup>, Met<sup>39</sup>, Val<sup>26</sup>, and Leu<sup>94</sup> side chains of the &#x03B2;2, &#x03B2;3, and &#x03B2;5 strands of MAST2-PDZ (fig. S1). This hydrophobic cluster is conserved in the MAST family (MAST1, 2, 3, and 4) (<xref ref-type="fig" rid="F1">Fig. 1C</xref>). The indole group of Trp<sup>41</sup> of MAST2-PDZ is 4 to 5 &#x00C5; from the benzyl side chain of Phe<sup>(&#x2212;11)</sup> in an edge-to-face conformation. We did not observe any contacts between the central six&#x2013;amino acid linker separating the two anchor points and the PDZ domain. Thus, the intracomplex formed by PTEN13-Cter and MAST2-PDZ involves both the final four amino acid residues at the C terminus of the peptide and a second anchorage site composed of the N-terminal phenylalanine residue interacting with exposed residues of the MAST2-PDZ &#x03B2; sheet.</p>
+</sec>
+<sec disp-level="2">
+<title>The RABV Cyto13-att peptide mimics the binding mode of PTEN13-Cter with MAST2-PDZ</title>
+<p>Analysis of the interaction of MAST2-PDZ with the 13&#x2013;amino acid C-terminal domains of G peptides from four different RABV strains&#x2014;Cyto13-vir (the virulent CVS-NIV RABV strain), Cyto13-att (the attenuated ERA-NIV RABV strain), Cyto13-IRL (the CVS-B2c RABV strain), and Cyto13-ARL (the vampire bat RABV strain)&#x2014;revealed a <italic>K</italic><sub>D(app)</sub> ranging from 0.57 to 14 &#x03BC;M (<xref ref-type="table" rid="T1">Table 1</xref>). Cyto13-att had the greatest affinity for MAST2-PDZ (0.57 &#x03BC;M). We solved the NMR structure of the MAST2-PDZ/Cyto13-att complex (<xref ref-type="fig" rid="F1">Fig. 1D</xref>). The RMSD of the 10 lowest energy structures was 0.89 &#x00B1; 0.2 &#x00C5; for backbone atoms. The C-terminal anchor, which encodes a class I PDZ-BS, is composed of the final three C-terminal peptide residues (-TRL<sub>COOH</sub>) inserted into the PDZ-binding pocket in a conventional mode. This interaction network is similar to that observed for PTEN13-Cter (-TKV<sub>COOH</sub>). Competition binding experiments, performed by NMR, showed that PTEN13-Cter and Cyto13-att peptides compete at the same site for binding to MAST2-PDZ (fig. S2). As previously described (<xref ref-type="bibr" rid="R35"><italic>35</italic></xref>), the substitution of glutamine by glutamate at position &#x2212;3 of Cyto13-vir and Cyto13-att, respectively, led to a different phenotype because of a relaxation of specificity; the substitution of glutamine by glutamate in the PDZ-BS triggered death of infected neurons and enabled viral G protein to interact with additional PDZ partners. However, as observed by NMR, the mutation led to only minor conformational fluctuations of the MAST2-PDZ (fig. S3). Similarly to what was observed for the PTEN13-Cter/MAST2-PDZ complex, the Gibbs free energy of binding of RABV G peptides to the MAST2-PDZ is mainly driven by a large enthalpy contribution [&#x0394;<italic>H</italic><sub>(app)</sub> &#x2248; &#x2212;10 kcal/mol], highlighting the predominant polar process of interaction (<xref ref-type="table" rid="T1">Table 1</xref>). In addition, we demonstrated that MAST2-PDZ also bound to class II PDZ-BS (-ARL<sub>COOH</sub> and -IRL<sub>COOH</sub>) that had various residues at position &#x2212;3 (Asp, Gln, and Glu), which were generated by different RABV strains, without a marked decrease in affinity (<xref ref-type="table" rid="T1">Table 1</xref>). The O&#x03B5;2 atom of Glu<sup>(&#x2212;3)</sup> accepts hydrogen bonds from the guanidine group of Arg<sup>22</sup> from the &#x03B2;2 strand. The range of residues at positions &#x2212;2 and &#x2212;3 of the four tested viral sequences highlights the robustness of MAST2-PDZ to accept various amino acid residues.</p>
+<p>As observed for Phe<sup>(&#x2212;11)</sup> of PTEN13-Cter, a second distal anchor point involving Trp<sup>(&#x2212;11)</sup> binds to the hydrophobic cluster of &#x03B2;2 and &#x03B2;3 strands (a cluster strictly aligned with the cluster observed for PTEN13-Cter). The MAST2-PDZ residues in contact are Ile<sup>24</sup> and Val<sup>26</sup> of the &#x03B2;2 strand and Trp<sup>41</sup> of the &#x03B2;3 strand (<xref ref-type="fig" rid="F1">Fig. 1E</xref>). Intermolecular NOEs indicate that the indole group of Trp<sup>41</sup> in the &#x03B2;3 strand of MAST2-PDZ interacts with the indole group of the Trp<sup>(&#x2212;11)</sup> of Cyto13-att at a distance of 2 to 3 &#x00C5; (fig. S4). The side chains of Trp<sup>41</sup> and Trp<sup>(&#x2212;11)</sup> adopt an edge-to-face conformation. As observed for the MAST2-PDZ/PTEN13-Cter complex, no contact was detected between the six&#x2013;amino acid linker separating the two anchor points and the PDZ domain. The flexibility of the conserved glycine pair likely favors the distortion required to ensure a concomitant contact at both anchor points. Trp<sup>(&#x2212;11)</sup> and at least one of the two glycine residues are conserved in most RABV G proteins.</p>
+<p>To assess the respective energetic contributions of the anchor points, we measured binding between a tetrapeptide (Cyto4-att) encompassing the four C-terminal residues and a peptide that contains a Trp-to-Ala substitution at position &#x2212;11 [Cyto13-att-W(&#x2212;11)A] (<xref ref-type="table" rid="T1">Table 1</xref>). Deletion of the nine N-terminal amino acid residues of Cyto13-att decreased the <italic>K</italic><sub>D(app)</sub> of Cyto4-att by 11-fold (to 6.37 &#x03BC;M), whereas the W(&#x2212;11)A substitution decreased the <italic>K</italic><sub>D(app)</sub> of Cyto13-att-W(&#x2212;11)A by 3-fold (to 1.64 &#x03BC;M). The loss of the N-terminal anchor is energetically equivalent to the loss of the crucial interaction that occurs at position &#x2212;2 that we monitored with the -ARL<sub>COOH</sub> and -IRL<sub>COOH</sub> PDZ-BS, which indicates that although the C-terminal anchor is the major contributor to the overall binding enthalpy, the N-terminal anchor also plays a critical role in the optimal and specific interaction with the MAST2-PDZ. Together, these results indicate that PTEN and RABV G protein have substantial similarities in their mode of binding to the MAST2-PDZ. The interaction of PTEN and viral peptides with the MAST2-PDZ involves both canonical PDZ-BS&#x2013;PDZ interactions and distal binding regions, which include the contribution of a second anchor to the extended &#x03B2;2 and &#x03B2;3 strands of the PDZ domain.</p>
+</sec>
+<sec disp-level="2">
+<title>Both PTEN13-Cter and Cyto13-att promote full dissociation of dimeric MAST2-PDZ</title>
+<p>At high concentrations, and in the absence of binding peptide, multimeric forms of MAST2-PDZ coexisted in solution. At concentrations below 100 &#x03BC;M, the monomeric and dimeric species strongly predominated compared with the other multimeric forms, in agreement with our sedimentation experiments (<xref ref-type="table" rid="T2">Table 2</xref>). Sedimentation equilibrium experiments performed at various speeds (22,000, 26,000, 32,000, and 44,000 rpm) and at different concentrations (30, 45, 180, and 722 &#x03BC;M) yielded an equilibrium dissociation constant of 29 &#x03BC;M, which was compatible with the progressive shift in the emission fluorescence spectrum of the protein when the concentration of MAST2-PDZ was varied (fig. S5). Upon addition of PTEN13-Cter, this multimer equilibrium was fully shifted toward the monomer species (<xref ref-type="table" rid="T2">Table 2</xref>). Such a shift was also observed when Cyto13-att was added to the solution, indicating that both peptides have the same ability to promote the monomeric species of MAST2-PDZ. The multimer equilibrium was not affected by the addition of the truncated peptide Cyto9-&#x0394;4, indicating that the PDZ-BS of the peptide was required for the dissociation of MAST2-PDZ multimers.</p>
+<table-wrap id="T2" position="float"><label>Table 2</label><caption>
+<p>Peptide addition promotes the monomeric form of MAST2-PDZ. Distribution of sedimentation coefficients (S20w) of MAST2-PDZ in complex with PTEN13-Cter, Cyto13-att, Cyto13-att-W(&#x2212;11)A, and Cyto4-att obtained by sedimentation velocity analytical ultracentrifugation experiments.</p>
+</caption>
+<table frame="hsides">
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<thead>
+<tr>
+<td colspan="3" valign="top" align="center" scope="colgroup"><bold>Hydrodynamic characteristics</bold></td>
+</tr>
+<tr>
+<td colspan="3" valign="top" align="center" scope="colgroup"><bold>MAST2-PDZ (100 &#x03BC;M)</bold></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="col"><bold>Peptide (200 &#x03BC;M)</bold></td>
+<td valign="top" align="center" scope="col"><bold>S20w (10<sup>&#x2212;13</sup> s)</bold></td>
+<td valign="top" align="center" scope="col"><bold>Error</bold></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" scope="row">No peptide</td>
+<td valign="top" align="char" char=".">2.1</td>
+<td valign="top" align="char" char=".">&#x00B1;0.2</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Cyto9-&#x0394;4</td>
+<td valign="top" align="char" char=".">2.1</td>
+<td valign="top" align="char" char=".">&#x00B1;0.2</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">PTEN13-Cter</td>
+<td valign="top" align="char" char=".">1.45</td>
+<td valign="top" align="char" char=".">&#x00B1;0.1</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Cyto13-att</td>
+<td valign="top" align="char" char=".">1.4</td>
+<td valign="top" align="char" char=".">&#x00B1;0.1</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Cyto13-att-W(&#x2212;11)A</td>
+<td valign="top" align="char" char=".">1.35</td>
+<td valign="top" align="char" char=".">&#x00B1;0.1</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Cyto4-att</td>
+<td valign="top" align="char" char=".">1.45</td>
+<td valign="top" align="char" char=".">&#x00B1;0.1</td>
+</tr>
+</tbody></table></table-wrap>
+<p>We observed tightly associated dimers in the x-ray structures of the MAST1-PDZ and MAST3-PDZ domains (<xref ref-type="fig" rid="F2">Fig. 2A</xref>, left panels). These dimeric structures were artificially stabilized through the cis addition of a PDZ-BS at the C-terminal end of the PDZ domain, with each protomer binding to the PDZ-BS of the other. The monomer-monomer interface involves the conserved hydrophobic clusters of &#x03B2;2 and &#x03B2;3 strands from each MAST1 and MAST3 PDZ protomer. This hydrophobic cluster is also conserved in MAST2-PDZ and is involved in the binding of the N-terminal sequences of PTEN13-Cter and Cyto13-att (<xref ref-type="fig" rid="F2">Fig. 2</xref>, A, middle and right panels, and B). Consequently, we propose that the N-terminal anchor of Cyto13-att precludes the self-association of MAST2-PDZ by masking the hydrophobic clusters of the &#x03B2;2 and &#x03B2;3 strands.</p>
+<fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption>
+<p>The binding of PTEN13-Cter and Cyto13-att induces steric hindrance that prevents the self-association of MAST2-PDZ. (<bold>A</bold>) Structures of MAST1-PDZ (PDB: 3PS4), MAST2-PDZ (PDB: 2KQF and 2KYL), and MAST3-PDZ (PDB: 3KHF). Amino acid residues of the &#x03B2;2 and &#x03B2;3 strands of MAST isoforms involved in dimerization or binding to position (&#x2212;11) of PTEN13-Cter and Cyto13-att are shown. (<bold>B</bold>) Sequence alignment of the PDZ domains of MAST1, MAST2, and MAST3. &#x03B2; strands (black arrows), &#x03B1; helices (black cylinders), and coil regions (black lines) are indicated above the sequences. Dots below the sequences indicate residues involved in binding to PTEN13-Cter (purple) or Cyto13-att (orange), as identified by intermolecular NMR experiments. Blue diamonds are amino acids of the crystal structures of MAST1-PDZ (PDB: 3PS4) and MAST3-PDZ (PDB: 3KHF) that are involved in self-association.</p>
+</caption><graphic xlink:href="5_ra58_F2"></graphic></fig>
+<p>To confirm that the dissociation of MAST2-PDZ dimers by the PTEN13-Cter and Cyto13-att peptides followed a similar mechanism, we monitored by fluorimetry the titrations of MAST2-PDZ by PTEN13-Cter and Cyto13-att at two concentrations of PDZ domain: 2 and 30 &#x03BC;M. On the basis of the monomer-dimer equilibrium constant of 29 &#x03BC;M, we calculated that the percentages of monomer were equal to 89 and 49% for 2 and 30 &#x03BC;M MAST2-PDZ, respectively. Indeed, the binding of both peptides induced a fluorescence change of Trp<sup>41</sup> in MAST2-PDZ, with an increase of fluorescence emission upon PTEN13-Cter addition and a quenching of fluorescence emission upon Cyto13-att addition. We established that the peptides exclusively bound to monomers of MAST2-PDZ. The <italic>K</italic><sub>D(app)</sub> of the monomer-peptide complex, deduced from a simple site-to-site mechanism at 2 &#x03BC;M MAST2-PDZ, approximated the true dissociation constant (<xref ref-type="table" rid="T1">Table 1</xref>). As expected, at this concentration of MAST2-PDZ, only very low peptide binding cooperativity was observed, and the <italic>K</italic><sub>D(app)</sub> values were close to the true <italic>K</italic><sub>D</sub> (<xref ref-type="table" rid="T1">Table 1</xref>). The in vitro interaction of RABV Cyto13-att or PTEN13-Cter with MAST2-PDZ is therefore a synergistic mechanism involving the N- and C-terminal anchors that prevents the self-association of MAST2-PDZ. Again, regarding this property, RABV Cyto13-att and PTEN13-Cter displayed marked similarities.</p>
+</sec>
+<sec disp-level="2">
+<title>The PDZ-BS of RABV G protein decreases the pool of nuclear PTEN in RABV-infected neuroblastoma cells</title>
+<p>Having shown that the C-terminal sequences of PTEN and the RABV G protein have similar structural and biophysical properties, we next examined the possibility that the fate of PTEN was modified in infected neuronal cells through a competition between RABV G protein and PTEN. For this purpose, we left uninfected or infected human-derived neuroblastoma SH-SY-5Y cells for 24 or 48 hours with recombinant RABV (rRABV) expressing either the full-length G protein (RABV-vir) or a PDZ-BS&#x2013;deleted G protein (RABV-&#x0394;4). We compared the amounts of PTEN and G protein in each condition by Western blotting (<xref ref-type="fig" rid="F3">Fig. 3A</xref>) and quantified these by chemiluminescence analysis (<xref ref-type="fig" rid="F3">Fig. 3B</xref>). Then, we calculated the ratio of G protein to PTEN in the infected cells after 48 hours of infection with rRABV. Infection with rRABV slightly modified the total cellular concentration of PTEN (a decrease of 10 to 20%; <xref ref-type="fig" rid="F3">Fig. 3A</xref>), whereas the band intensities of the RABV G protein were greater than those of PTEN in all cases (<xref ref-type="fig" rid="F3">Fig. 3C</xref>). Provided that the affinities of the PTEN- and G protein&#x2013;specific antibodies are similar, these observations suggested that the formation of a complex between MAST2-PDZ and PTEN-Cter was likely blocked in the infected cells.</p>
+<fig id="F3" position="float" fig-type="figure"><label>Fig. 3</label><caption>
+<p>RABV infection produces G protein that is more abundant than PTEN, but does not modify PTEN abundance compared with that in uninfected cells. Human-derived neuroblastoma SH-SY-5Y cells were infected for 24 hours with recombinant RABV (RABV-vir) or recombinant RABV-&#x0394;4 (RABV-&#x0394;4) or were left uninfected. (<bold>A</bold>) Western blotting analysis of the indicated cell lysates for PTEN and G protein 48 hours after RABV infection. &#x03B1;-Tubulin was used as a gel loading control. The data are from one of three separate experiments. (<bold>B</bold>) Bar chart depicts the quantification (by spectrophotometric analysis) of band intensities for PTEN (black histogram) and RABV (white histogram). (<bold>C</bold>) The ratio of RABV-G protein to PTEN abundance was calculated from the data in (B). Results are shown as arbitrary units. The results are representative of three independent experiments (results are presented as the mean of three independent experiments; error bars indicate SD).</p>
+</caption><graphic xlink:href="5_ra58_F3"></graphic></fig>
+<p>To assay the effect of this putative disruption, we used confocal microscopy to compare the cellular distribution of PTEN in uninfected cells and rRABV-infected cells 48 hours after infection. We performed three-color staining, with a mouse monoclonal antibody against RABV G protein to detect infected cells (<xref ref-type="fig" rid="F4">Fig. 4A</xref>), Hoechst staining to delineate the nucleus (<xref ref-type="fig" rid="F4">Fig. 4</xref>, A to D), and a rabbit polyclonal antibody against PTEN (<xref ref-type="fig" rid="F4">Fig. 4</xref>, C and D). In RABV-infected neuroblastoma cells, the G protein was exclusively located in the cytoplasm, with accumulation at the plasma membrane (<xref ref-type="fig" rid="F4">Fig. 4A</xref>), consistent with previous observations (<xref ref-type="bibr" rid="R35"><italic>35</italic></xref>). In uninfected cells, PTEN was detected in both the cytoplasm and the nucleus (<xref ref-type="fig" rid="F4">Fig. 4D</xref>). In marked contrast to the situation in uninfected cells, RABV infection triggered the exclusion of a substantial fraction of PTEN from the nucleus (<xref ref-type="fig" rid="F4">Fig. 4C</xref>). This was detected, first, by the absence of a correlation between the two fluorescent signals corresponding to PTEN and the nucleus in RABV-vir&#x2013;infected cells (<xref ref-type="fig" rid="F4">Fig. 4</xref>, E and F) as compared with that in uninfected cells (<xref ref-type="fig" rid="F4">Fig. 4</xref>, G and H) and, second, by the decrease in the ratio between nuclear and cytoplasmic PTEN in RABV-vir&#x2013;infected cells (0.60) compared with that in uninfected cells (0.92) (<xref ref-type="fig" rid="F4">Fig. 4I</xref>). The observation in RABV-&#x0394;4&#x2013;infected cells that this ratio (0.87) was similar to that in uninfected cells (0.92) indicated that RABV excludes PTEN from the nucleus in a PDZ-BS&#x2013;dependent fashion (<xref ref-type="fig" rid="F4">Fig. 4I</xref>).</p>
+<fig id="F4" position="float" fig-type="figure"><label>Fig. 4</label><caption>
+<p>RABV infection disturbs the nuclear localization of PTEN in a PDZ-BS&#x2013;dependent manner. Fluorescence confocal microscopic analysis of human-derived SH-SY-5Y neuroblastoma cells that were left uninfected or were infected for 48 hours with recombinant RABV (RABV-vir). (<bold>A</bold> to <bold>D</bold>) Cells were subjected to three-color staining: G protein (green), PTEN (red), and nuclear (blue). In (A) and (B), the red channel (PTEN) was turned off, whereas in (C) and (D), the green channel (G protein) was switched off. (<bold>E</bold> to <bold>H</bold>) Fluorescence emission waves (red for PTEN and blue for nuclei) were recorded for the images shown in (C) and (D) on a (E and H) 40-&#x03BC;m vertical axis and a (F and G) 70-&#x03BC;m horizontal axis to show the presence or exclusion of PTEN from the nucleus. PTEN was excluded from the nucleus in RABV-vir&#x2013;infected cells (E and F), as can be determined from the shift in the peaks of the blue and red waves, whereas PTEN remained in the nucleus of uninfected cells (G and H), where the blue and red peaks coincide. (<bold>I</bold>) Calculation of the ratio of nuclear PTEN to cytoplasmic PTEN in SK-N-SH cells 48 hours after infection as determined with ImageJ Neuro software. Thirty cells were analyzed for each condition per experiment, and the experiments were performed at least three times. Student&#x2019;s <italic>t</italic> test was used for statistical analysis (*<italic>P</italic> &#x2264; 0.05; **<italic>P</italic> &#x2264; 0.005).</p>
+</caption><graphic xlink:href="5_ra58_F4"></graphic></fig>
+<p>Similar cells were infected with a lentivirus engineered to deliver the G protein of RABV-vir only. In a cell expressing the G protein (green), the fluorescence intensity of PTEN in the nucleus was faint (<xref ref-type="fig" rid="F5">Fig. 5A</xref>), suggesting nuclear exclusion of PTEN. In contrast, in the neighboring cell that did not express the G protein, PTEN still localized to the nucleus (<xref ref-type="fig" rid="F5">Fig. 5A</xref>). When cells were infected with a lentivirus engineered to deliver the G protein of RABV-vir lacking the PDZ-BS (RABV-vir&#x0394;4), we did not observe nuclear exclusion of PTEN (<xref ref-type="fig" rid="F5">Fig. 5B</xref>). PTEN was therefore efficiently excluded from the nucleus by the RABV G protein in a PDZ-BS&#x2013;dependent manner. As a control, we examined whether treatment of cells with the PTEN13-Cter peptide, which contains the PDZ-BS of PTEN, could lead to similar results. We found that PTEN was excluded from the nucleus, but the dominant feature was that the overall amount of PTEN in the peptide-loaded cells was reduced (fig. S6); thus, injection of a peptide corresponding to the C terminus of PTEN, which competed with endogenous PTEN to bind to other PDZ domains, had a marked effect on the total cellular content of PTEN as well as on its localization. For our purposes, which include the study of the role of nuclear PTEN in neuronal homeostasis, the viral competitor appears to be a more finely tuned tool than the C-terminal peptide of PTEN. Together, our results support the hypothesis that the RABV G protein and PTEN compete in cells for binding to MAST2-PDZ. Our approach specifically targeted this interaction and led to more clear-cut results than did the use of a PTEN C-terminal peptide. We conclude that the MAST2-PTEN interaction in cells has a substantial effect on the compartmentalization of PTEN in neuronal cells.</p>
+<fig id="F5" position="float" fig-type="figure"><label>Fig. 5</label><caption>
+<p>Lentiviral production of G protein excludes PTEN from the nucleus in a PDZ-BS&#x2013;dependent manner. (<bold>A</bold>) Human SK-N-SH neuronal cells were infected with a lentivirus expressing the G protein of the RABV-vir strain. Two cells are shown. Left: One cell expresses the G protein (green) and the neighboring cell does not. Middle: PTEN was detected in both cells (red). Right: PTEN was excluded from the nucleus in the cell expressing G protein (nucleus is blue in merged image), whereas PTEN remained in the nucleus in the cell not expressing G protein (nucleus remains purple). (<bold>B</bold>) Human SK-N-SH neuronal cells were infected with a lentivirus expressing the G protein of the RABV-vir&#x0394;4 strain (green). PTEN was not excluded from the nucleus in the cell expressing G protein lacking the PDZ-BS (nucleus is purple in the merged image). Scale bars, 20 &#x03BC;m. These pictures are representative of three independent experiments. At least 30 cells were analyzed in each condition per experiment.</p>
+</caption><graphic xlink:href="5_ra58_F5"></graphic></fig>
+</sec>
+</sec>
+<sec sec-type="discussion" disp-level="1">
+<title>Discussion</title>
+<p>Several viral proteins contain short, generally disordered signaling regions that are able to rewire and deregulate cellular pathways (<xref ref-type="bibr" rid="R35"><italic>35</italic></xref>, <xref ref-type="bibr" rid="R37"><italic>37</italic></xref>). Interference with cellular homeostasis has been specifically documented with respect to the C-terminal regions of viral proteins that bind to PDZ domains, particularly in the case of HPV (human papillomavirus), HTLV-1 (human T cell leukemia/lymphoma virus type 1), influenza virus, and also RABV, through the cytoplasmic tail of its G protein (<xref ref-type="bibr" rid="R35"><italic>35</italic></xref>, <xref ref-type="bibr" rid="R38"><italic>38</italic></xref>). Using viral proteins as interference tools to characterize the pathways that they perturb requires that upon infection, they act as competitors endowed with specificity and sufficient affinity in a vital cellular process. Here, we provide structural and biological evidence that this is indeed the case for the perturbation by the RABV G protein of the interaction between the PDZ domain of MAST2 and the PDZ-BS of one of its endogenous binding partners, PTEN.</p>
+<p>We analyzed the perturbation of host cellular processes that trigger survival of infected neuronal cells, a competition between the viral RABV G protein and endogenous PTEN for the PDZ domain of MAST2. On the basis of our NMR data, we demonstrated that the viral G protein and PTEN interacted similarly with the PDZ target, implicating not only the final amino acids of the canonical C-terminal regions but also another anchoring region at the N terminus of the assayed peptides. These distal anchors bound to an exposed hydrophobic patch present in the extended &#x03B2;2 and &#x03B2;3 strands of MAST2-PDZ, a region previously shown to be involved in the auto-association of the MAST1-PDZ and MAST3-PDZ domains. Consistent with these observations, we demonstrated that the binding of endogenous proteins and viral protein led to the complete monomerization of MAST2-PDZ.</p>
+<p>We compared the affinity of the association between PDZ-MAST2 and Cyto13-att with a previously published set of binary interactions quantified by fluorescence polarization and involving 217 peptides and 85 mouse PDZ domains (<xref ref-type="bibr" rid="R39"><italic>39</italic></xref>). The PDZ-MAST2/Cyto13-att complex belongs to a group of 4% of complexes that display the highest (that is, submicromolar) affinities. As documented in several studies, the final four C-terminal amino acids of the peptides were sufficient to mediate a substantial interaction with PDZ domains. Here, we found that the terminal residues of the Cyto13-att and PTEN13-Cter sequences contributed mainly to the strength of binding to MAST2-PDZ. However, as shown by the W(&#x2212;11)A substitution and the N-terminal deletion of the viral peptide, N-terminal anchoring increases the affinity of the peptide for MAST2-PDZ. The presence of elongated &#x03B2;2 and &#x03B2;3 strands in the target domain of MAST2-PDZ is also shared by some other PDZ domains, including Par3-PDZ3 [Protein Data Bank (PDB) accession number: 2K20] and GRASP-PDZ (PDB: 2PNT). Exhaustive studies of human PDZ domains and random peptides of 10 amino acid residues have shown that up to seven C-terminal residues of the binding partner may be implicated in interacting with PDZ domains (<xref ref-type="bibr" rid="R39"><italic>39</italic></xref>, <xref ref-type="bibr" rid="R40"><italic>40</italic></xref>). Our results extend this range to 12 residues, and additionally, they assess the reason for the extension of this network of interactions. The presence of an additional interaction implicating a specific position of the peptide and a previously uncharacterized region of the PDZ domain clearly reinforces the specificity of the interaction in the C-terminal sequences of PTEN and G protein, which otherwise appears to be relatively trivial.</p>
+<p>The C-terminal sequence of the G protein of virulent RABV has a single known cellular family of interacting proteins upon infection: MAST2 and its isoform, MAST1 (<xref ref-type="bibr" rid="R35"><italic>35</italic></xref>). This high specificity can now be explained by the structural characteristics of the interaction between the G protein and MAST-PDZ. The key residues of binding partners involved in this supplementary set of interactions at position &#x2212;11 (Phe for PTEN and Trp for the G protein) are conserved. Furthermore, to exclude other spurious interactions, the residue at position &#x2212;3 should be unable to form interactions with other PDZ domains, a feature leading to recruitment of proteins controlling adverse pathways (<xref ref-type="bibr" rid="R41"><italic>41</italic></xref>). We previously showed that one single mutation (glutamine to glutamate) at the C terminus of the viral G protein increases the number of cellular partners for PDZ-BS in the infected cells and is sufficient to switch the fate of the infected cell from survival to apoptosis (<xref ref-type="bibr" rid="R35"><italic>35</italic></xref>). In the case of PTEN, the aromatic residue present at &#x2212;11 is also conserved and preserves the recognition of MAST-PDZ; however, PTEN must also recognize other motifs. Indeed, recognition of Par3 also requires distal interactions, in addition to final residues of the C terminus. These distal electrostatic contacts involve three acidic amino acid residues at positions &#x2212;8, &#x2212;9, and &#x2212;10 of PTEN with the extended &#x03B2;2 and &#x03B2;3 strands of the PDZ domain 3 of Par3 (<xref ref-type="bibr" rid="R42"><italic>42</italic></xref>). This triplet of charges is absent at homologous positions of all presently known sequences of the G proteins of different RABV isolates, suggesting that the virus, during adaptation to its hosts, has increased its specificity toward a single PTEN interaction.</p>
+<p>The peptide-induced breakdown of a PDZ-PDZ interface is another common property of the C-terminal sequences of PTEN and G protein that is worthy of consideration. The N-terminal anchoring interferes by steric interactions with the formation of MAST2-PDZ homodimers that involve the extended &#x03B2;2 and &#x03B2;3 strands. The global structure of this hydrophobic auto-association region is similar to that observed in MAST1-PDZ and MAST3-PDZ, as well as the structures of other PDZ domains, including GRASP-PDZ (PDB: 2EGK) and NHERF4-PDZ3 (PDB: 2V90). Notably, the frequency of PDZ-PDZ interactions in eukaryotic proteins has been documented (<xref ref-type="bibr" rid="R43"><italic>43</italic></xref>). Dimerization occurs in vitro in 30% of the 157 PDZ domains tested. Although several types of heterologous complexes involving MAST2 and SAST124, an isoform of MAST1 (<xref ref-type="bibr" rid="R31"><italic>31</italic></xref>, <xref ref-type="bibr" rid="R44"><italic>44</italic></xref>), have been documented, auto-association of MAST2 has not yet been studied in cells. Neutralization of the dimeric interface of its PDZ domain upon peptide binding may provide an interesting clue for MAST2 regulation that could follow one of the allosteric mechanisms postulated for PDZ conformational changes (<xref ref-type="bibr" rid="R45"><italic>45</italic></xref>). Peterson and co-workers demonstrated that ligand binding in a PDZ domain of the human Par6 protein is allosterically regulated by interaction with the small guanosine triphosphatase Cdc42 at a distant surface site (<xref ref-type="bibr" rid="R46"><italic>46</italic></xref>).</p>
+<p>Our work shows that the G protein appears to be a convenient tool to specifically disrupt the binary interaction between PTEN and MAST2 in cells. We have shown earlier how this competitor could be conveniently delivered to cells through lentiviral vectors. We have documented a specific result emerging from this strategy: the partial exclusion of PTEN from the nucleus during infection by a virulent RABV strain. Because MAST2 inactivation leads to a phenotype similar to that of PTEN inactivation, we initially made the hypothesis that during RABV infection the total amount of PTEN would decrease, relieving a block against cellular proliferation; however, this turned out not to be the case because the amount of PTEN in human neuroblastoma cells remained stable during infection. Rather, the viral G protein specifically altered the cellular localization of PTEN in neuroblastoma cells, decreasing the preferential localization of PTEN in the nucleus of uninfected cells. That a lower concentration of nuclear PTEN in human neuroblastoma cells infected with a RABV strain triggers neurosurvival is consistent with the report of lower concentrations of nuclear PTEN observed in highly proliferating advanced tumors (<xref ref-type="bibr" rid="R47"><italic>47</italic></xref>). The mechanisms by which the exit of PTEN from the nucleus controls survival and proliferation are currently unclear. It could be related to the tumor-suppressive function exerted by PTEN within the nucleus, which was documented by Song and co-workers and was assigned to its regulatory role in the assembly and activity of the E3 ubiquitin ligase APC (anaphase-promoting complex) and its activator Cdh1 (cadherin 1) (<xref ref-type="bibr" rid="R48"><italic>48</italic></xref>).</p>
+<p>When human neuroblastoma cells are exposed to hypoxic conditions, the stress stimulus does not affect the total cellular pool of PTEN, as we found, and also results in nuclear entry by PTEN (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). Whereas in our study and that of Howitt <italic>et al</italic>., neuronal survival is obtained with nuclear PTEN trafficking, hypoxia and infection result in trafficking in opposite directions. After ischemia, neuronal survival correlates with the translocation of PTEN to the nucleus, whereas in RABV infection, the triggering of neuronal survival was accompanied by the movement of PTEN out of the nucleus. These differences seem to depend on the basal localization of PTEN before application of the stress. Under normal homeostasis, PTEN is localized in the nucleus and in the cytoplasm of human neuroblastoma cells, mouse primary motor neurons (E13), and mouse embryonic fibroblasts (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>, <xref ref-type="bibr" rid="R49"><italic>49</italic></xref>, <xref ref-type="bibr" rid="R50"><italic>50</italic></xref>), whereas PTEN is found predominantly in the cytoplasm of cortical neurons (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). The amount and localization of endogenous PTEN are therefore highly cell- and context-specific. In contrast to human neuroblastoma, murine cortical neurons contain decreased amounts of MAST2 (<xref ref-type="bibr" rid="R30"><italic>30</italic></xref>), an observation that suggests a critical role for MAST2 in PTEN localization under homeostatic conditions. After a stress, cellular trafficking between the cytoplasm and the nucleus could be a compensatory mechanism to adjust the PTEN concentration to similar values in the nuclear compartment of any cellular type to an amount optimal for the activation of signaling pathways that stimulate neurosurvival and neuroprotection.</p>
+<p>Covalent modifications of the PTEN-Cter affect its rate of nuclear import and stability. Monoubiquitination of nonphosphorylatable forms of PTEN is enhanced and their nuclear entry is promoted (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). These nonphosphorylatable forms are also more susceptible to degradation (<xref ref-type="bibr" rid="R51"><italic>51</italic></xref>). Hence, response to an external stress can result from a shift in the dynamic equilibrium existing between phosphorylated and nonphosphorylated forms of PTEN and from a change in their cellular localization. Furthermore, these species bind differently to a tumor suppressor protein, PICT1 (<xref ref-type="bibr" rid="R52"><italic>52</italic></xref>), and to Ndfip1, which is a crucial cofactor for rapid nuclear entry (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). Valiente and co-workers showed that binding of PTEN to MAST2-PDZ increases the rate of PTEN phosphorylation, most likely within the C-terminal stretch of serine and threonine residues, which, once dephosphorylated, affect the overall protein stability (<xref ref-type="bibr" rid="R53"><italic>53</italic></xref>&#x2013;<xref ref-type="bibr" rid="R55"><italic>55</italic></xref>). The catalytic domain of MAST2 is expected to display strong sequence specificity. We suggest that this pattern of posttranslational modifications is modified depending on the presence or absence of G protein interference, and that it drives the temporal redistribution of PTEN upon viral infection. The infection of neuronal cells with virulent RABV strains or with lentiviral constructs expressing the relevant C-terminal G protein sequences can now be used to investigate the mechanism by which the concomitant depletion of PTEN within the nucleus occurs, and whether this is the main route by which RABV regulates neuronal proliferation and survival.</p>
+</sec>
+<sec sec-type="materials|methods" disp-level="1">
+<title>Materials and Methods</title>
+<sec disp-level="2">
+<title>Sample preparation for biophysical experiments</title>
+<p>MAST2-PDZ, nonlabeled and uniformly <sup>15</sup>N/<sup>13</sup>C- or <sup>15</sup>N-labeled (residues 1099 to 1193 were renumbered as 2 to 96), were expressed and purified as previously described (<xref ref-type="bibr" rid="R34"><italic>34</italic></xref>). The peptides Cyto13-att, Cyto13-vir, Cyto13-W(&#x2212;11)A, Cyto13-ARL, Cyto13-IRL, Cyto4-att, Cyto9-&#x0394;4, and PTEN13-Cter were synthesized in solid phase with the Fmoc (9-fluorenyl methoxycarbonyl) strategy (CovalAb) (see <xref ref-type="table" rid="T1">Table 1</xref> for sequences).</p>
+</sec>
+<sec disp-level="2">
+<title>NOE assignments and structure calculations</title>
+<p>Sequential assignment of <sup>1</sup>H, <sup>13</sup>C, and <sup>15</sup>N signals was performed following standard procedures, as previously described (<xref ref-type="bibr" rid="R34"><italic>34</italic></xref>). All NMR experiments were performed at 298 K on a Varian Inova 600-MHz spectrometer equipped with a cryoprobe [two-dimensional (2D) <sup>1</sup>H-<sup>1</sup>H nuclear Overhauser effect spectroscopy (NOESY), 3D <sup>13</sup>C- and <sup>15</sup>N-edited NOESY-HSQC (heteronuclear single-quantum coherence), 3D <sup>13</sup>C/<sup>15</sup>N double-filtered <sup>13</sup>C-edited NOESY to distinguish between intra- and intermolecular NOEs, and 2D and 3D <sup>13</sup>C/<sup>15</sup>N double-filtered total correlation spectroscopy (TOCSY) for <sup>1</sup>H assignment of Cyto13-att and PTEN13-Cter]. The mixing time was 120 ms for all NOESY spectra and 90 ms for the TOCSY spectrum. Proton <sup>3</sup><italic>J</italic><sub>HN-H&#x03B1;</sub> scalar couplings were determined from a 3D HNHA experiment. Coupling constants were transformed into dihedral angle constraints as follows: &#x03D5; = &#x2212;120&#x00B0; &#x00B1; 25&#x00B0; for <sup>3</sup><italic>J</italic><sub>HN-H&#x03B1;</sub> &#x2265; 8.0 Hz; &#x03D5; = &#x2212;65&#x00B0; &#x00B1; 25&#x00B0; for <sup>3</sup><italic>J</italic><sub>HN-H&#x03B1;</sub> &#x2264; 5.5 Hz. Peaks in NOESY spectra were assigned with the program ARIA 2.2 (<xref ref-type="bibr" rid="R56"><italic>56</italic></xref>) coupled to CNS 1.1 (<xref ref-type="bibr" rid="R57"><italic>57</italic></xref>) following ARIA&#x2019;s standard protocols with spin diffusion correction. Chemical shift tolerances were set to 0.025 parts per million (ppm) for HN protons, 0.05 ppm for protons in the indirect dimension of 3D experiments, and 0.5 ppm for <sup>13</sup>C and <sup>15</sup>N. To obtain the final structure ensemble, we calculated 100 structures with ARIA 2.2 and CNS 1.1 and refined the structures in explicit water with the PARALLHDG 5.3 force field. The 10 structures with the lowest total energy were selected and used as an input for the HADDOCK (high ambiguity driven docking) program 1.3 (<xref ref-type="bibr" rid="R58"><italic>58</italic></xref>) to dock Cyto13-att or PTEN13-Cter onto the MAST2-PDZ. Initial Cyto13-att or PTEN13-Cter coordinates (unfolded peptides) were built with PyMOL (which is available at <ext-link ext-link-type="uri" xlink:href="http://www.pymol.org">http://www.pymol.org</ext-link>). HADDOCK&#x2019;s parameters were left at their default values. The quality of the 10 best structures was analyzed with PROCHECK 3.5.4 (<xref ref-type="bibr" rid="R59"><italic>59</italic></xref>) and WHAT_CHECK (<xref ref-type="bibr" rid="R60"><italic>60</italic></xref>). The statistics for the 10 best structures and of the experimental restraints are given in table S1.</p>
+</sec>
+<sec disp-level="2">
+<title>Isothermal titration microcalorimetry</title>
+<p>ITC measurements were made as previously described (<xref ref-type="bibr" rid="R34"><italic>34</italic></xref>). In the case of exclusive binding on the monomeric species, the <italic>K</italic><sub>D(app)</sub> (F) at any starting concentration of protein, <italic>c</italic>(0), should be related to the true constant <italic>K</italic><sub>d0</sub> (F) by the equation <italic>K</italic><sub>0</sub> = <italic>x</italic>.<italic>K</italic><sub>D(app)</sub>, where <italic>x</italic> is the initial fraction of monomeric species at concentration <italic>c</italic>(0), which is estimated from the equilibrium sedimentation data. Furthermore, all saturation curves should be devoid of any cooperativity, as was observed in our data (<xref ref-type="table" rid="T1">Table 1</xref>), within experimental error.</p>
+</sec>
+<sec disp-level="2">
+<title>Determination of hydrodynamic characteristics</title>
+<p>Samples of MAST2-PDZ and MAST2-PDZ complexes were centrifuged in a Beckman Coulter XL-I analytical ultracentrifuge at 25&#x00B0;C in an AN60-Ti&#x2013;equipped four-hole rotor. Determination of the protein concentration as a function of radial position and time was performed by optical density measurements. For sedimentation velocity experiments, 300 &#x03BC;l of MAST2-PDZ (100 &#x03BC;M) or MAST2-PDZ (100 &#x03BC;M) in complex with Cyto4-att, Cyto9-&#x0394;4, Cyto13-att, Cyto13-att-W(&#x2212;11)A, or PTEN13-Cter (200 &#x03BC;M) was centrifuged for 15 hours at a rotor speed of 60,000 rpm with 12-mm double-sector aluminum centerpieces. In sedimentation equilibrium experiments, 40 &#x03BC;l of MAST2-PDZ (30, 45, 180, and 722 &#x03BC;M) was spun sequentially at rotor speeds of 26,000, 32,000, 38,000, 44,000, and 48,000 rpm with 12-mm six-sector Epon centerpieces. The data were acquired after running times of 7, 6, 6, 6, and 2 hours for each speed, respectively. The following parameters were calculated with Sednterp 1.09 and used for the experimental analysis: partial specific volume = 0.746 ml g<sup>&#x2212;1</sup>, viscosity &#x03B7; = 0.916 cP, and density &#x03C1; = 1.00468 g ml<sup>&#x2212;1</sup>. Sedimentation velocity data analysis was performed by continuous size distribution analysis <italic>c</italic>(<italic>S</italic>) with the program Sedfit 12.0 (available at <ext-link ext-link-type="uri" xlink:href="http://www.analyticalultracentrifugation.com">http://www.analyticalultracentrifugation.com</ext-link>) (<xref ref-type="bibr" rid="R61"><italic>61</italic></xref>). All <italic>c</italic>(<italic>S</italic>) distributions were calculated with a fitted frictional ratio <italic>f</italic>/<italic>f</italic><sub>0</sub> and a maximum entropy regularization procedure with a confidence level of 0.55. Sedimentation equilibrium radial distributions were analyzed by global fitting with the monomer-dimer model with Sedphat 8.2 software (available at <ext-link ext-link-type="uri" xlink:href="http://www.analyticalultracentrifugation.com">http://www.analyticalultracentrifugation.com</ext-link>) (<xref ref-type="bibr" rid="R62"><italic>62</italic></xref>). Monte Carlo analysis was performed on the fit to estimate measurement error.</p>
+</sec>
+<sec disp-level="2">
+<title>Fluorescence spectroscopy</title>
+<p>Fluorescence spectra were recorded on a 1-ml sample with an LS-5B spectrofluorimeter (PerkinElmer Life Sciences). The excitation wavelength was set at 295 nm with an excitation bandwidth of 2 or 5 nm, and the fluorescence emission spectra were recorded from 300 to 450 nm (emission bandwidth of 5 nm) in the presence (at a ratio of 1:1) or absence of peptide. The fluorescence emission spectrum of MAST2-PDZ was also recorded with the addition of different peptide concentrations ranging from 1 to 130 &#x03BC;M. After each dilution of MAST2-PDZ, a 5-min equilibrium period was allowed before recording the spectrum. The background fluorescence was recorded similarly in the absence of added proteins and subtracted from all spectra. All biophysics experiments were performed in 50 mM tris (pH 7.5) and 150 mM NaCl at 298 K.</p>
+</sec>
+<sec disp-level="2">
+<title>Cells and viruses</title>
+<p>Recombinant RABV (rRABV) viruses expressing either a full-length G protein (RABV-vir) or a G protein lacking the PDZ-BS (RABV-&#x0394;4) were obtained as previously described (<xref ref-type="bibr" rid="R35"><italic>35</italic></xref>). SK-N-SH (European Collection of Cell Cultures ref. no. 86012802) or SH-SY-5Y (<xref ref-type="bibr" rid="R32"><italic>32</italic></xref>) human-derived neuroblastoma cells were either uninfected or infected with each strain of rRABV at a multiplicity of infection of 3. Lentiviral vectors encoding RABV-vir G protein or RABV-vir G protein &#x0394;4 were produced from the plasmid pRev-TRE-G-CVS (GenBank accession no. AF406694) (<xref ref-type="bibr" rid="R63"><italic>63</italic></xref>). The gene encoding the G protein was isolated by high-fidelity polymerase chain reaction and cloned into the lentivirus plasmid pLenti6.3/V5-TOPO (Invitrogen). HIV vectors were prepared by cotransfecting human embryonic kidney 293 cells with a four-plasmid system including the above plasmids carrying the genes of interest, the pMDLg/pRRE and the pRSV-Rev packaging plasmids, and the vesicular stomatitis virus G protein expression plasmid (pMDG) (<xref ref-type="bibr" rid="R64"><italic>64</italic></xref>). Supernatants were collected after 2 days. HIV Gag protein p24 measured in vector preparations by enzyme-linked immunosorbent assay (HIV p24 ELISA, PerkinElmer) was in the range of 70 to 100 ng of p24 per microliter. The infectivity of each stock was monitored on neuroscreen cells (Cellomics) before use. SK-N-SH cells (6.0 &#x00D7; 10<sup>4</sup>) were infected for 48 hours with virus particles containing 30 ng of p24. A fluorescein isothiocyanate (FITC)&#x2013;conjugated TAT&#x2013;PTEN13-Cter peptide (C<sub>21</sub>H<sub>11</sub>NO<sub>5</sub>S-YGRKRRQRRR-PFDEDQHTQITKV) was synthesized. Cells were treated for 3 hours with 25 &#x03BC;M peptide in culture medium.</p>
+</sec>
+<sec disp-level="2">
+<title>Western blotting analysis</title>
+<p>RABV-infected and uninfected cells were lysed 48 hours after infection. Western blotting analysis of lysates of uninfected or RABV-infected cells was performed as described previously (<xref ref-type="bibr" rid="R65"><italic>65</italic></xref>) with rabbit polyclonal antibody against the cytoplasmic tail of PTEN (138G6, Cell Signaling Technology), a rabbit monoclonal antibody against the cytoplasmic domain of RABV G protein (V9), and a mouse monoclonal antibody against &#x03B1;-tubulin (AB-1, Oncogene RP).</p>
+</sec>
+<sec disp-level="2">
+<title>Immunocytochemistry</title>
+<p>RABV-infected and uninfected SH-SY-5Y or SK-N-SH cells were double-stained 48 hours after infection as previously described (<xref ref-type="bibr" rid="R35"><italic>35</italic></xref>) with a mouse monoclonal antibody against the RABV G protein [mouse monoclonal antibody PVE-12 (<xref ref-type="bibr" rid="R66"><italic>66</italic></xref>) or rabbit monoclonal antibody V9] and rabbit polyclonal antibodies against the C terminus of PTEN (138G6, Cell Signaling Technology). Nuclei were stained with Hoechst 33342. Confocal microscopy images were acquired with a Zeiss LSM 510 META (version 3.2) on Axiovert 200M with a Plan Apochromat 63&#x00D7; and numerical aperture 1.4 objective, or with a PerkinElmer spinning disk. Confocal images were compiled from serial Z-stacks 0.3 &#x03BC;m apart and analyzed with a Zeiss LSM Image browser. Image analysis was performed with Neuro ImageJ. The amounts of PTEN in the entire cell, in the nucleus, and in the cytoplasm were measured by quantification of PTEN antibody&#x2013;associated pixels in the entire cell, in the nucleus as identified by Hoechst staining, or in the cytoplasm of RABV-infected cells as identified by anti&#x2013;RABV G protein staining. Thirty cells per condition in at least three distinct fields were analyzed. Results are presented as the mean number of pixels &#x00B1; SEM. Student&#x2019;s <italic>t</italic> test was used for statistical analysis.</p>
+</sec>
+</sec>
+</body>
+<back><app-group><app>
+<title>Supplementary Materials</title><supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencesignaling.org/cgi/content/full/5/237/ra58/DC1">www.sciencesignaling.org/cgi/content/full/5/237/ra58/DC1</ext-link></p>
+<p>Fig. S1. Intermolecular NOE spectra of MAST2-PDZ in complex with PTEN13-Cter.</p>
+<p>Fig. S2. Cyto13-att disrupts the MAST2-PDZ/PTEN13-Cter complex in vitro.</p>
+<p>Fig. S3. Differences in MAST2-PDZ amide proton chemical shifts between MAST2-PDZ/Cyto13-att and MAST2-PDZ/Cyto13-vir complexes.</p>
+<p>Fig. S4. Intermolecular NOE spectra of MAST2-PDZ in complex with Cyto13-att.</p>
+<p>Fig. S5. Dissociation constant of the MAST2-PDZ dimer measured by analytical ultracentrifugation at various protein concentrations.</p>
+<p>Fig. S6. PTEN localization in human neuronal cells after intracellular delivery of a FITC-conjugated TAT&#x2013;PTEN13-Cter.</p>
+<p>Table S1. Statistical analysis of MAST2-PDZ/PTEN13-Cter and MAST2-PDZ/Cyto13-att NMR structures.</p>
+<p>Reference</p></supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ventruti</surname><given-names>A.</given-names></name><name><surname>Kazdoba</surname><given-names>T. M.</given-names></name><name><surname>Niu</surname><given-names>S.</given-names></name><name><surname>D&#x2019;Arcangelo</surname><given-names>G.</given-names></name></person-group>, 
+<article-title>Reelin deficiency causes specific defects in the molecular composition of the synapses in the adult brain.</article-title> <source>Neuroscience</source> 
+<volume>189</volume>, 
+<fpage>32</fpage>&#x2013;<lpage>42</lpage> (<year>2011</year>).</citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Manning</surname><given-names>B. D.</given-names></name><name><surname>Cantley</surname><given-names>L. C.</given-names></name></person-group>, 
+<article-title>Akt/PKB signaling: Navigating downstream.</article-title> <source>Cell</source> 
+<volume>129</volume>, 
+<fpage>1261</fpage>&#x2013;<lpage>1274</lpage> (<year>2007</year>).</citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Chow</surname><given-names>L. M.</given-names></name><name><surname>Baker</surname><given-names>S. J.</given-names></name></person-group>, 
+<article-title>PTEN function in normal and neoplastic growth.</article-title> <source>Cancer Lett.</source> 
+<volume>241</volume>, 
+<fpage>184</fpage>&#x2013;<lpage>196</lpage> (<year>2006</year>).</citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Sansal</surname><given-names>I.</given-names></name><name><surname>Sellers</surname><given-names>W. R.</given-names></name></person-group>, 
+<article-title>The biology and clinical relevance of the <italic>PTEN</italic> tumor suppressor pathway.</article-title> <source>J. Clin. Oncol.</source> 
+<volume>22</volume>, 
+<fpage>2954</fpage>&#x2013;<lpage>2963</lpage> (<year>2004</year>).</citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>L.</given-names></name><name><surname>Liu</surname><given-names>F.</given-names></name><name><surname>Salmonsen</surname><given-names>R. A.</given-names></name><name><surname>Turner</surname><given-names>T. K.</given-names></name><name><surname>Litofsky</surname><given-names>N. S.</given-names></name><name><surname>Di Cristofano</surname><given-names>A.</given-names></name><name><surname>Pandolfi</surname><given-names>P. P.</given-names></name><name><surname>Jones</surname><given-names>S. N.</given-names></name><name><surname>Recht</surname><given-names>L. D.</given-names></name><name><surname>Ross</surname><given-names>A. H.</given-names></name></person-group>, 
+<article-title>PTEN in neural precursor cells: Regulation of migration, apoptosis, and proliferation.</article-title> <source>Mol. Cell. Neurosci.</source> 
+<volume>20</volume>, 
+<fpage>21</fpage>&#x2013;<lpage>29</lpage> (<year>2002</year>).</citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Groszer</surname><given-names>M.</given-names></name><name><surname>Erickson</surname><given-names>R.</given-names></name><name><surname>Scripture-Adams</surname><given-names>D. D.</given-names></name><name><surname>Lesche</surname><given-names>R.</given-names></name><name><surname>Trumpp</surname><given-names>A.</given-names></name><name><surname>Zack</surname><given-names>J. A.</given-names></name><name><surname>Kornblum</surname><given-names>H. I.</given-names></name><name><surname>Liu</surname><given-names>X.</given-names></name><name><surname>Wu</surname><given-names>H.</given-names></name></person-group>, 
+<article-title>Negative regulation of neural stem/progenitor cell proliferation by the <italic>Pten</italic> tumor suppressor gene in vivo.</article-title> <source>Science</source> 
+<volume>294</volume>, 
+<fpage>2186</fpage>&#x2013;<lpage>2189</lpage> (<year>2001</year>).</citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Perandones</surname><given-names>C.</given-names></name><name><surname>Costanzo</surname><given-names>R. V.</given-names></name><name><surname>Kowaljow</surname><given-names>V.</given-names></name><name><surname>Pivetta</surname><given-names>O. H.</given-names></name><name><surname>Carminatti</surname><given-names>H.</given-names></name><name><surname>Radrizzani</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Correlation between synaptogenesis and the PTEN phosphatase expression in dendrites during postnatal brain development.</article-title> <source>Brain Res. Mol. Brain Res.</source> 
+<volume>128</volume>, 
+<fpage>8</fpage>&#x2013;<lpage>19</lpage> (<year>2004</year>).</citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Park</surname><given-names>K. K.</given-names></name><name><surname>Liu</surname><given-names>K.</given-names></name><name><surname>Hu</surname><given-names>Y.</given-names></name><name><surname>Smith</surname><given-names>P. D.</given-names></name><name><surname>Wang</surname><given-names>C.</given-names></name><name><surname>Cai</surname><given-names>B.</given-names></name><name><surname>Xu</surname><given-names>B.</given-names></name><name><surname>Connolly</surname><given-names>L.</given-names></name><name><surname>Kramvis</surname><given-names>I.</given-names></name><name><surname>Sahin</surname><given-names>M.</given-names></name><name><surname>He</surname><given-names>Z.</given-names></name></person-group>, 
+<article-title>Promoting axon regeneration in the adult CNS by modulation of the PTEN/mTOR pathway.</article-title> <source>Science</source> 
+<volume>322</volume>, 
+<fpage>963</fpage>&#x2013;<lpage>966</lpage> (<year>2008</year>).</citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Jia</surname><given-names>L.</given-names></name><name><surname>Ji</surname><given-names>S.</given-names></name><name><surname>Maillet</surname><given-names>J. C.</given-names></name><name><surname>Zhang</surname><given-names>X.</given-names></name></person-group>, 
+<article-title>PTEN suppression promotes neurite development exclusively in differentiating PC12 cells via PI3-kinase and MAP kinase signaling.</article-title> <source>J. Cell. Biochem.</source> 
+<volume>111</volume>, 
+<fpage>1390</fpage>&#x2013;<lpage>1400</lpage> (<year>2010</year>).</citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Drinjakovic</surname><given-names>J.</given-names></name><name><surname>Jung</surname><given-names>H.</given-names></name><name><surname>Campbell</surname><given-names>D. S.</given-names></name><name><surname>Strochlic</surname><given-names>L.</given-names></name><name><surname>Dwivedy</surname><given-names>A.</given-names></name><name><surname>Holt</surname><given-names>C. E.</given-names></name></person-group>, 
+<article-title>E3 ligase Nedd4 promotes axon branching by downregulating PTEN.</article-title> <source>Neuron</source> 
+<volume>65</volume>, 
+<fpage>341</fpage>&#x2013;<lpage>357</lpage> (<year>2010</year>).</citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Higuchi</surname><given-names>M.</given-names></name><name><surname>Masuyama</surname><given-names>N.</given-names></name><name><surname>Fukui</surname><given-names>Y.</given-names></name><name><surname>Suzuki</surname><given-names>A.</given-names></name><name><surname>Gotoh</surname><given-names>Y.</given-names></name></person-group>, 
+<article-title>Akt mediates Rac/Cdc42-regulated cell motility in growth factor-stimulated cells and in invasive PTEN knockout cells.</article-title> <source>Curr. Biol.</source> 
+<volume>11</volume>, 
+<fpage>1958</fpage>&#x2013;<lpage>1962</lpage> (<year>2001</year>).</citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Vazquez</surname><given-names>F.</given-names></name><name><surname>Devreotes</surname><given-names>P.</given-names></name></person-group>, 
+<article-title>Regulation of PTEN function as a PIP3 gatekeeper through membrane interaction.</article-title> <source>Cell Cycle</source> 
+<volume>5</volume>, 
+<fpage>1523</fpage>&#x2013;<lpage>1527</lpage> (<year>2006</year>).</citation></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Choy</surname><given-names>M. S.</given-names></name><name><surname>Bay</surname><given-names>B. H.</given-names></name><name><surname>Cheng</surname><given-names>H. C.</given-names></name><name><surname>Cheung</surname><given-names>N. S.</given-names></name></person-group>, 
+<article-title>PTEN is recruited to specific microdomains of the plasma membrane during lactacystin-induced neuronal apoptosis.</article-title> <source>Neurosci. Lett.</source> 
+<volume>405</volume>, 
+<fpage>120</fpage>&#x2013;<lpage>125</lpage> (<year>2006</year>).</citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Planchon</surname><given-names>S. M.</given-names></name><name><surname>Waite</surname><given-names>K. A.</given-names></name><name><surname>Eng</surname><given-names>C.</given-names></name></person-group>, 
+<article-title>The nuclear affairs of PTEN.</article-title> <source>J. Cell Sci.</source> 
+<volume>121</volume>, 
+<fpage>249</fpage>&#x2013;<lpage>253</lpage> (<year>2008</year>).</citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Gil</surname><given-names>A.</given-names></name><name><surname>Andr&#x00E9;s-Pons</surname><given-names>A.</given-names></name><name><surname>Fern&#x00E1;ndez</surname><given-names>E.</given-names></name><name><surname>Valiente</surname><given-names>M.</given-names></name><name><surname>Torres</surname><given-names>J.</given-names></name><name><surname>Cervera</surname><given-names>J.</given-names></name><name><surname>Pulido</surname><given-names>R.</given-names></name></person-group>, 
+<article-title>Nuclear localization of PTEN by a Ran-dependent mechanism enhances apoptosis: Involvement of an N-terminal nuclear localization domain and multiple nuclear exclusion motifs.</article-title> <source>Mol. Biol. Cell</source> 
+<volume>17</volume>, 
+<fpage>4002</fpage>&#x2013;<lpage>4013</lpage> (<year>2006</year>).</citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Salmena</surname><given-names>L.</given-names></name><name><surname>Carracedo</surname><given-names>A.</given-names></name><name><surname>Pandolfi</surname><given-names>P. P.</given-names></name></person-group>, 
+<article-title>Tenets of PTEN tumor suppression.</article-title> <source>Cell</source> 
+<volume>133</volume>, 
+<fpage>403</fpage>&#x2013;<lpage>414</lpage> (<year>2008</year>).</citation></ref>
+<ref id="R17"><label>17</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Howitt</surname><given-names>J.</given-names></name><name><surname>Lackovic</surname><given-names>J.</given-names></name><name><surname>Low</surname><given-names>L. H.</given-names></name><name><surname>Naguib</surname><given-names>A.</given-names></name><name><surname>Macintyre</surname><given-names>A.</given-names></name><name><surname>Goh</surname><given-names>C. P.</given-names></name><name><surname>Callaway</surname><given-names>J. K.</given-names></name><name><surname>Hammond</surname><given-names>V.</given-names></name><name><surname>Thomas</surname><given-names>T.</given-names></name><name><surname>Dixon</surname><given-names>M.</given-names></name><name><surname>Putz</surname><given-names>U.</given-names></name><name><surname>Silke</surname><given-names>J.</given-names></name><name><surname>Bartlett</surname><given-names>P.</given-names></name><name><surname>Yang</surname><given-names>B.</given-names></name><name><surname>Kumar</surname><given-names>S.</given-names></name><name><surname>Trotman</surname><given-names>L. C.</given-names></name><name><surname>Tan</surname><given-names>S. S.</given-names></name></person-group>, 
+<article-title>Ndfip1 regulates nuclear Pten import in vivo to promote neuronal survival following cerebral ischemia.</article-title> <source>J. Cell Biol.</source> 
+<volume>196</volume>, 
+<fpage>29</fpage>&#x2013;<lpage>36</lpage> (<year>2012</year>).</citation></ref>
+<ref id="R18"><label>18</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Trotman</surname><given-names>L. C.</given-names></name><name><surname>Wang</surname><given-names>X.</given-names></name><name><surname>Alimonti</surname><given-names>A.</given-names></name><name><surname>Chen</surname><given-names>Z.</given-names></name><name><surname>Teruya-Feldstein</surname><given-names>J.</given-names></name><name><surname>Yang</surname><given-names>H.</given-names></name><name><surname>Pavletich</surname><given-names>N. P.</given-names></name><name><surname>Carver</surname><given-names>B. S.</given-names></name><name><surname>Cordon-Cardo</surname><given-names>C.</given-names></name><name><surname>Erdjument-Bromage</surname><given-names>H.</given-names></name><name><surname>Tempst</surname><given-names>P.</given-names></name><name><surname>Chi</surname><given-names>S. G.</given-names></name><name><surname>Kim</surname><given-names>H. J.</given-names></name><name><surname>Misteli</surname><given-names>T.</given-names></name><name><surname>Jiang</surname><given-names>X.</given-names></name><name><surname>Pandolfi</surname><given-names>P. P.</given-names></name></person-group>, 
+<article-title>Ubiquitination regulates PTEN nuclear import and tumor suppression.</article-title> <source>Cell</source> 
+<volume>128</volume>, 
+<fpage>141</fpage>&#x2013;<lpage>156</lpage> (<year>2007</year>).</citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Chang</surname><given-names>C. J.</given-names></name><name><surname>Mulholland</surname><given-names>D. J.</given-names></name><name><surname>Valamehr</surname><given-names>B.</given-names></name><name><surname>Mosessian</surname><given-names>S.</given-names></name><name><surname>Sellers</surname><given-names>W. R.</given-names></name><name><surname>Wu</surname><given-names>H.</given-names></name></person-group>, 
+<article-title>PTEN nuclear localization is regulated by oxidative stress and mediates p53-dependent tumor suppression.</article-title> <source>Mol. Cell. Biol.</source> 
+<volume>28</volume>, 
+<fpage>3281</fpage>&#x2013;<lpage>3289</lpage> (<year>2008</year>).</citation></ref>
+<ref id="R20"><label>20</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Song</surname><given-names>M. S.</given-names></name><name><surname>Carracedo</surname><given-names>A.</given-names></name><name><surname>Salmena</surname><given-names>L.</given-names></name><name><surname>Song</surname><given-names>S. J.</given-names></name><name><surname>Egia</surname><given-names>A.</given-names></name><name><surname>Malumbres</surname><given-names>M.</given-names></name><name><surname>Pandolfi</surname><given-names>P. P.</given-names></name></person-group>,
+<article-title> Nuclear PTEN regulates the APC-CDH1 tumor-suppressive complex in a phosphatase-independent manner.</article-title> <source>Cell</source> 
+<volume>144</volume>, 
+<fpage>187</fpage>&#x2013;<lpage>199</lpage> (<year>2011</year>).</citation></ref>
+<ref id="R21"><label>21</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Andr&#x00E9;s-Pons</surname><given-names>A.</given-names></name><name><surname>Gil</surname><given-names>A.</given-names></name><name><surname>Oliver</surname><given-names>M. D.</given-names></name><name><surname>Sotelo</surname><given-names>N. S.</given-names></name><name><surname>Pulido</surname><given-names>R.</given-names></name></person-group>, 
+<article-title>Cytoplasmic p27Kip1 counteracts the pro-apoptotic function of the open conformation of PTEN by retention and destabilization of PTEN outside of the nucleus.</article-title> <source>Cell. Signal.</source> 
+<volume>24</volume>, 
+<fpage>577</fpage>&#x2013;<lpage>587</lpage> (<year>2012</year>).</citation></ref>
+<ref id="R22"><label>22</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Leslie</surname><given-names>N. R.</given-names></name><name><surname>Batty</surname><given-names>I. H.</given-names></name><name><surname>Maccario</surname><given-names>H.</given-names></name><name><surname>Davidson</surname><given-names>L.</given-names></name><name><surname>Downes</surname><given-names>C. P.</given-names></name></person-group>, 
+<article-title>Understanding PTEN regulation: PIP2, polarity and protein stability.</article-title> <source>Oncogene</source> 
+<volume>27</volume>, 
+<fpage>5464</fpage>&#x2013;<lpage>5476</lpage> (<year>2008</year>).</citation></ref>
+<ref id="R23"><label>23</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Tolkacheva</surname><given-names>T.</given-names></name><name><surname>Boddapati</surname><given-names>M.</given-names></name><name><surname>Sanfiz</surname><given-names>A.</given-names></name><name><surname>Tsuchida</surname><given-names>K.</given-names></name><name><surname>Kimmelman</surname><given-names>A. C.</given-names></name><name><surname>Chan</surname><given-names>A. M.</given-names></name></person-group>, 
+<article-title>Regulation of PTEN binding to MAGI-2 by two putative phosphorylation sites at threonine 382 and 383.</article-title> <source>Cancer Res.</source> 
+<volume>61</volume>, 
+<fpage>4985</fpage>&#x2013;<lpage>4989</lpage> (<year>2001</year>).</citation></ref>
+<ref id="R24"><label>24</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Takahashi</surname><given-names>Y.</given-names></name><name><surname>Morales</surname><given-names>F. C.</given-names></name><name><surname>Kreimann</surname><given-names>E. L.</given-names></name><name><surname>Georgescu</surname><given-names>M. M.</given-names></name></person-group>, 
+<article-title>PTEN tumor suppressor associates with NHERF proteins to attenuate PDGF receptor signaling.</article-title> <source>EMBO J.</source> 
+<volume>25</volume>, 
+<fpage>910</fpage>&#x2013;<lpage>920</lpage> (<year>2006</year>).</citation></ref>
+<ref id="R25"><label>25</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>von Stein</surname><given-names>W.</given-names></name><name><surname>Ramrath</surname><given-names>A.</given-names></name><name><surname>Grimm</surname><given-names>A.</given-names></name><name><surname>M&#x00FC;ller-Borg</surname><given-names>M.</given-names></name><name><surname>Wodarz</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Direct association of Bazooka/PAR-3 with the lipid phosphatase PTEN reveals a link between the PAR/aPKC complex and phosphoinositide signaling.</article-title> <source>Development</source> 
+<volume>132</volume>, 
+<fpage>1675</fpage>&#x2013;<lpage>1686</lpage> (<year>2005</year>).</citation></ref>
+<ref id="R26"><label>26</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Valiente</surname><given-names>M.</given-names></name><name><surname>Andr&#x00E9;s-Pons</surname><given-names>A.</given-names></name><name><surname>Gomar</surname><given-names>B.</given-names></name><name><surname>Torres</surname><given-names>J.</given-names></name><name><surname>Gil</surname><given-names>A.</given-names></name><name><surname>Tapparel</surname><given-names>C.</given-names></name><name><surname>Antonarakis</surname><given-names>S. E.</given-names></name><name><surname>Pulido</surname><given-names>R.</given-names></name></person-group>, 
+<article-title>Binding of PTEN to specific PDZ domains contributes to PTEN protein stability and phosphorylation by microtubule-associated serine/threonine kinases.</article-title> <source>J. Biol. Chem.</source> 
+<volume>280</volume>, 
+<fpage>28936</fpage>&#x2013;<lpage>28943</lpage> (<year>2005</year>).</citation></ref>
+<ref id="R27"><label>27</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Walden</surname><given-names>P. D.</given-names></name><name><surname>Millette</surname><given-names>C. F.</given-names></name></person-group>, 
+<article-title>Increased activity associated with the MAST205 protein kinase complex during mammalian spermiogenesis.</article-title> <source>Biol. Reprod.</source> 
+<volume>55</volume>, 
+<fpage>1039</fpage>&#x2013;<lpage>1044</lpage> (<year>1996</year>).</citation></ref>
+<ref id="R28"><label>28</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Walden</surname><given-names>P. D.</given-names></name><name><surname>Cowan</surname><given-names>N. J.</given-names></name></person-group>, 
+<article-title>A novel 205-kilodalton testis-specific serine/threonine protein kinase associated with microtubules of the spermatid manchette.</article-title> <source>Mol. Cell. Biol.</source> 
+<volume>13</volume>, 
+<fpage>7625</fpage>&#x2013;<lpage>7635</lpage> (<year>1993</year>).</citation></ref>
+<ref id="R29"><label>29</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Pawson</surname><given-names>T.</given-names></name><name><surname>Nash</surname><given-names>P.</given-names></name></person-group>, 
+<article-title>Assembly of cell regulatory systems through protein interaction domains.</article-title> <source>Science</source> 
+<volume>300</volume>, 
+<fpage>445</fpage>&#x2013;<lpage>452</lpage> (<year>2003</year>).</citation></ref>
+<ref id="R30"><label>30</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Garland</surname><given-names>P.</given-names></name><name><surname>Quraishe</surname><given-names>S.</given-names></name><name><surname>French</surname><given-names>P.</given-names></name><name><surname>O&#x2019;Connor</surname><given-names>V.</given-names></name></person-group>, 
+<article-title>Expression of the MAST family of serine/threonine kinases.</article-title> <source>Brain Res.</source> 
+<volume>1195</volume>, 
+<fpage>12</fpage>&#x2013;<lpage>19</lpage> (<year>2008</year>).</citation></ref>
+<ref id="R31"><label>31</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Lumeng</surname><given-names>C.</given-names></name><name><surname>Phelps</surname><given-names>S.</given-names></name><name><surname>Crawford</surname><given-names>G. E.</given-names></name><name><surname>Walden</surname><given-names>P. D.</given-names></name><name><surname>Barald</surname><given-names>K.</given-names></name><name><surname>Chamberlain</surname><given-names>J. S.</given-names></name></person-group>, 
+<article-title>Interactions between &#x03B2;2-syntrophin and a family of microtubule-associated serine/threonine kinases.</article-title> <source>Nat. Neurosci.</source> 
+<volume>2</volume>, 
+<fpage>611</fpage>&#x2013;<lpage>617</lpage> (<year>1999</year>).</citation></ref>
+<ref id="R32"><label>32</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Loh</surname><given-names>S. H.</given-names></name><name><surname>Francescut</surname><given-names>L.</given-names></name><name><surname>Lingor</surname><given-names>P.</given-names></name><name><surname>B&#x00E4;hr</surname><given-names>M.</given-names></name><name><surname>Nicotera</surname><given-names>P.</given-names></name></person-group>, 
+<article-title>Identification of new kinase clusters required for neurite outgrowth and retraction by a loss-of-function RNA interference screen.</article-title> <source>Cell Death Differ.</source> 
+<volume>15</volume>, 
+<fpage>283</fpage>&#x2013;<lpage>298</lpage> (<year>2008</year>).</citation></ref>
+<ref id="R33"><label>33</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Christie</surname><given-names>K. J.</given-names></name><name><surname>Webber</surname><given-names>C. A.</given-names></name><name><surname>Martinez</surname><given-names>J. A.</given-names></name><name><surname>Singh</surname><given-names>B.</given-names></name><name><surname>Zochodne</surname><given-names>D. W.</given-names></name></person-group>, 
+<article-title>PTEN inhibition to facilitate intrinsic regenerative outgrowth of adult peripheral axons.</article-title> <source>J. Neurosci.</source> 
+<volume>30</volume>, 
+<fpage>9306</fpage>&#x2013;<lpage>9315</lpage> (<year>2010</year>).</citation></ref>
+<ref id="R34"><label>34</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Terrien</surname><given-names>E.</given-names></name><name><surname>Simenel</surname><given-names>C.</given-names></name><name><surname>Prehaud</surname><given-names>C.</given-names></name><name><surname>Buc</surname><given-names>H.</given-names></name><name><surname>Delepierre</surname><given-names>M.</given-names></name><name><surname>Lafon</surname><given-names>M.</given-names></name><name><surname>Wolff</surname><given-names>N.</given-names></name></person-group>, 
+<article-title><sup>1</sup>H, <sup>13</sup>C and <sup>15</sup>N resonance assignments of the PDZ of microtubule-associated serine/threonine kinase 205 (MAST205) in complex with the C-terminal motif from the rabies virus glycoprotein.</article-title> <source>Biomol. NMR Assign.</source> 
+<volume>3</volume>, 
+<fpage>45</fpage>&#x2013;<lpage>48</lpage> (<year>2009</year>).</citation></ref>
+<ref id="R35"><label>35</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Pr&#x00E9;haud</surname><given-names>C.</given-names></name><name><surname>Wolff</surname><given-names>N.</given-names></name><name><surname>Terrien</surname><given-names>E.</given-names></name><name><surname>Lafage</surname><given-names>M.</given-names></name><name><surname>M&#x00E9;gret</surname><given-names>F.</given-names></name><name><surname>Babault</surname><given-names>N.</given-names></name><name><surname>Cordier</surname><given-names>F.</given-names></name><name><surname>Tan</surname><given-names>G. S.</given-names></name><name><surname>Maitrepierre</surname><given-names>E.</given-names></name><name><surname>M&#x00E9;nager</surname><given-names>P.</given-names></name><name><surname>Chopy</surname><given-names>D.</given-names></name><name><surname>Hoos</surname><given-names>S.</given-names></name><name><surname>England</surname><given-names>P.</given-names></name><name><surname>Delepierre</surname><given-names>M.</given-names></name><name><surname>Schnell</surname><given-names>M. J.</given-names></name><name><surname>Buc</surname><given-names>H.</given-names></name><name><surname>Lafon</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Attenuation of rabies virulence: Takeover by the cytoplasmic domain of its envelope protein.</article-title> <source>Sci. Signal.</source> 
+<volume>3</volume>, 
+<fpage>ra5</fpage> (<year>2010</year>).</citation></ref>
+<ref id="R36"><label>36</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Lafon</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Evasive strategies in rabies virus infection.</article-title> <source>Adv. Virus Res.</source> 
+<volume>79</volume>, 
+<fpage>33</fpage>&#x2013;<lpage>53</lpage> (<year>2011</year>).</citation></ref>
+<ref id="R37"><label>37</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Davey</surname><given-names>N. E.</given-names></name><name><surname>Trave</surname><given-names>G.</given-names></name><name><surname>Gibson</surname><given-names>T. J.</given-names></name></person-group>, 
+<article-title>How viruses hijack cell regulation.</article-title> <source>Trends Biochem. Sci.</source> 
+<volume>36</volume>, 
+<fpage>159</fpage>&#x2013;<lpage>169</lpage> (<year>2011</year>).</citation></ref>
+<ref id="R38"><label>38</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Javier</surname><given-names>R. T.</given-names></name><name><surname>Rice</surname><given-names>A. P.</given-names></name></person-group>, 
+<article-title>Emerging theme: Cellular PDZ proteins as common targets of pathogenic viruses.</article-title> <source>J. Virol.</source> 
+<volume>85</volume>, 
+<fpage>11544</fpage>&#x2013;<lpage>11556</lpage> (<year>2011</year>).</citation></ref>
+<ref id="R39"><label>39</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Stiffler</surname><given-names>M. A.</given-names></name><name><surname>Chen</surname><given-names>J. R.</given-names></name><name><surname>Grantcharova</surname><given-names>V. P.</given-names></name><name><surname>Lei</surname><given-names>Y.</given-names></name><name><surname>Fuchs</surname><given-names>D.</given-names></name><name><surname>Allen</surname><given-names>J. E.</given-names></name><name><surname>Zaslavskaia</surname><given-names>L. A.</given-names></name><name><surname>MacBeath</surname><given-names>G.</given-names></name></person-group>, 
+<article-title>PDZ domain binding selectivity is optimized across the mouse proteome.</article-title> <source>Science</source> 
+<volume>317</volume>, 
+<fpage>364</fpage>&#x2013;<lpage>369</lpage> (<year>2007</year>).</citation></ref>
+<ref id="R40"><label>40</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Tonikian</surname><given-names>R.</given-names></name><name><surname>Zhang</surname><given-names>Y.</given-names></name><name><surname>Sazinsky</surname><given-names>S. L.</given-names></name><name><surname>Currell</surname><given-names>B.</given-names></name><name><surname>Yeh</surname><given-names>J. H.</given-names></name><name><surname>Reva</surname><given-names>B.</given-names></name><name><surname>Held</surname><given-names>H. A.</given-names></name><name><surname>Appleton</surname><given-names>B. A.</given-names></name><name><surname>Evangelista</surname><given-names>M.</given-names></name><name><surname>Wu</surname><given-names>Y.</given-names></name><name><surname>Xin</surname><given-names>X.</given-names></name><name><surname>Chan</surname><given-names>A. C.</given-names></name><name><surname>Seshagiri</surname><given-names>S.</given-names></name><name><surname>Lasky</surname><given-names>L. A.</given-names></name><name><surname>Sander</surname><given-names>C.</given-names></name><name><surname>Boone</surname><given-names>C.</given-names></name><name><surname>Bader</surname><given-names>G. D.</given-names></name><name><surname>Sidhu</surname><given-names>S. S.</given-names></name></person-group>, 
+<article-title>A specificity map for the PDZ domain family.</article-title> <source>PLoS Biol.</source> 
+<volume>6</volume>, 
+<fpage>e239</fpage> (<year>2008</year>).</citation></ref>
+<ref id="R41"><label>41</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Babault</surname><given-names>N.</given-names></name><name><surname>Cordier</surname><given-names>F.</given-names></name><name><surname>Lafage</surname><given-names>M.</given-names></name><name><surname>Cockburn</surname><given-names>J.</given-names></name><name><surname>Haouz</surname><given-names>A.</given-names></name><name><surname>Prehaud</surname><given-names>C.</given-names></name><name><surname>Rey</surname><given-names>F. A.</given-names></name><name><surname>Delepierre</surname><given-names>M.</given-names></name><name><surname>Buc</surname><given-names>H.</given-names></name><name><surname>Lafon</surname><given-names>M.</given-names></name><name><surname>Wolff</surname><given-names>N.</given-names></name></person-group>, 
+<article-title>Peptides targeting the PDZ domain of PTPN4 are efficient inducers of glioblastoma cell death.</article-title> <source>Structure</source> 
+<volume>19</volume>, 
+<fpage>1518</fpage>&#x2013;<lpage>1524</lpage> (<year>2011</year>).</citation></ref>
+<ref id="R42"><label>42</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Feng</surname><given-names>W.</given-names></name><name><surname>Wu</surname><given-names>H.</given-names></name><name><surname>Chan</surname><given-names>L. N.</given-names></name><name><surname>Zhang</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Par-3-mediated junctional localization of the lipid phosphatase PTEN is required for cell polarity establishment.</article-title> <source>J. Biol. Chem.</source> 
+<volume>283</volume>, 
+<fpage>23440</fpage>&#x2013;<lpage>23449</lpage> (<year>2008</year>).</citation></ref>
+<ref id="R43"><label>43</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Chang</surname><given-names>B. H.</given-names></name><name><surname>Gujral</surname><given-names>T. S.</given-names></name><name><surname>Karp</surname><given-names>E. S.</given-names></name><name><surname>Bukhalid</surname><given-names>R.</given-names></name><name><surname>Grantcharova</surname><given-names>V. P.</given-names></name><name><surname>MacBeath</surname><given-names>G.</given-names></name></person-group>, 
+<article-title>A systematic family-wide investigation reveals that approximately 30% of mammalian PDZ domains engage in PDZ-PDZ interactions.</article-title> <source>Chem. Biol.</source> 
+<volume>18</volume>, 
+<fpage>1143</fpage>&#x2013;<lpage>1152</lpage> (<year>2011</year>).</citation></ref>
+<ref id="R44"><label>44</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Yano</surname><given-names>R.</given-names></name><name><surname>Yap</surname><given-names>C. C.</given-names></name><name><surname>Yamazaki</surname><given-names>Y.</given-names></name><name><surname>Muto</surname><given-names>Y.</given-names></name><name><surname>Kishida</surname><given-names>H.</given-names></name><name><surname>Okada</surname><given-names>D.</given-names></name><name><surname>Hashikawa</surname><given-names>T.</given-names></name></person-group>, 
+<article-title>Sast124, a novel splice variant of syntrophin-associated serine/threonine kinase (SAST), is specifically localized in the restricted brain regions.</article-title> <source>Neuroscience</source> 
+<volume>117</volume>, 
+<fpage>373</fpage>&#x2013;<lpage>381</lpage> (<year>2003</year>).</citation></ref>
+<ref id="R45"><label>45</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Lee</surname><given-names>J.</given-names></name><name><surname>Natarajan</surname><given-names>M.</given-names></name><name><surname>Nashine</surname><given-names>V. C.</given-names></name><name><surname>Socolich</surname><given-names>M.</given-names></name><name><surname>Vo</surname><given-names>T.</given-names></name><name><surname>Russ</surname><given-names>W. P.</given-names></name><name><surname>Benkovic</surname><given-names>S. J.</given-names></name><name><surname>Ranganathan</surname><given-names>R.</given-names></name></person-group>, 
+<article-title>Surface sites for engineering allosteric control in proteins.</article-title> <source>Science</source> 
+<volume>322</volume>, 
+<fpage>438</fpage>&#x2013;<lpage>442</lpage> (<year>2008</year>).</citation></ref>
+<ref id="R46"><label>46</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Peterson</surname><given-names>F. C.</given-names></name><name><surname>Penkert</surname><given-names>R. R.</given-names></name><name><surname>Volkman</surname><given-names>B. F.</given-names></name><name><surname>Prehoda</surname><given-names>K. E.</given-names></name></person-group>, 
+<article-title>Cdc42 regulates the Par6-PDZ domain through an allosteric CRIB-PDZ transition.</article-title> <source>Mol. Cell</source> 
+<volume>13</volume>, 
+<fpage>665</fpage>&#x2013;<lpage>676</lpage> (<year>2004</year>).</citation></ref>
+<ref id="R47"><label>47</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Gimm</surname><given-names>O.</given-names></name><name><surname>Perren</surname><given-names>A.</given-names></name><name><surname>Weng</surname><given-names>L. P.</given-names></name><name><surname>Marsh</surname><given-names>D. J.</given-names></name><name><surname>Yeh</surname><given-names>J. J.</given-names></name><name><surname>Ziebold</surname><given-names>U.</given-names></name><name><surname>Gil</surname><given-names>E.</given-names></name><name><surname>Hinze</surname><given-names>R.</given-names></name><name><surname>Delbridge</surname><given-names>L.</given-names></name><name><surname>Lees</surname><given-names>J. A.</given-names></name><name><surname>Mutter</surname><given-names>G. L.</given-names></name><name><surname>Robinson</surname><given-names>B. G.</given-names></name><name><surname>Komminoth</surname><given-names>P.</given-names></name><name><surname>Dralle</surname><given-names>H.</given-names></name><name><surname>Eng</surname><given-names>C.</given-names></name></person-group>, 
+<article-title>Differential nuclear and cytoplasmic expression of PTEN in normal thyroid tissue, and benign and malignant epithelial thyroid tumors.</article-title> <source>Am. J. Pathol.</source> 
+<volume>156</volume>, 
+<fpage>1693</fpage>&#x2013;<lpage>1700</lpage> (<year>2000</year>).</citation></ref>
+<ref id="R48"><label>48</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Song</surname><given-names>M. S.</given-names></name><name><surname>Carracedo</surname><given-names>A.</given-names></name><name><surname>Salmena</surname><given-names>L.</given-names></name><name><surname>Song</surname><given-names>S. J.</given-names></name><name><surname>Egia</surname><given-names>A.</given-names></name><name><surname>Malumbres</surname><given-names>M.</given-names></name><name><surname>Pandolfi</surname><given-names>P. P.</given-names></name></person-group>, 
+<article-title>Nuclear PTEN regulates the APC-CDH1 tumor-suppressive complex in a phosphatase-independent manner.</article-title> <source>Cell</source> 
+<volume>144</volume>, 
+<fpage>187</fpage>&#x2013;<lpage>199</lpage> (<year>2011</year>).</citation></ref>
+<ref id="R49"><label>49</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Fouladkou</surname><given-names>F.</given-names></name><name><surname>Landry</surname><given-names>T.</given-names></name><name><surname>Kawabe</surname><given-names>H.</given-names></name><name><surname>Neeb</surname><given-names>A.</given-names></name><name><surname>Lu</surname><given-names>C.</given-names></name><name><surname>Brose</surname><given-names>N.</given-names></name><name><surname>Stambolic</surname><given-names>V.</given-names></name><name><surname>Rotin</surname><given-names>D.</given-names></name></person-group>, 
+<article-title>The ubiquitin ligase Nedd4-1 is dispensable for the regulation of PTEN stability and localization.</article-title> <source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>105</volume>, 
+<fpage>8585</fpage>&#x2013;<lpage>8590</lpage> (<year>2008</year>).</citation></ref>
+<ref id="R50"><label>50</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ning</surname><given-names>K.</given-names></name><name><surname>Drepper</surname><given-names>C.</given-names></name><name><surname>Valori</surname><given-names>C. F.</given-names></name><name><surname>Ahsan</surname><given-names>M.</given-names></name><name><surname>Wyles</surname><given-names>M.</given-names></name><name><surname>Higginbottom</surname><given-names>A.</given-names></name><name><surname>Herrmann</surname><given-names>T.</given-names></name><name><surname>Shaw</surname><given-names>P.</given-names></name><name><surname>Azzouz</surname><given-names>M.</given-names></name><name><surname>Sendtner</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>PTEN depletion rescues axonal growth defect and improves survival in SMN-deficient motor neurons.</article-title> <source>Hum. Mol. Genet.</source> 
+<volume>19</volume>, 
+<fpage>3159</fpage>&#x2013;<lpage>3168</lpage> (<year>2010</year>).</citation></ref>
+<ref id="R51"><label>51</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>X.</given-names></name><name><surname>Shi</surname><given-names>Y.</given-names></name><name><surname>Wang</surname><given-names>J.</given-names></name><name><surname>Huang</surname><given-names>G.</given-names></name><name><surname>Jiang</surname><given-names>X.</given-names></name></person-group>, 
+<article-title>Crucial role of the C-terminus of PTEN in antagonizing NEDD4-1-mediated PTEN ubiquitination and degradation.</article-title> <source>Biochem. J.</source> 
+<volume>414</volume>, 
+<fpage>221</fpage>&#x2013;<lpage>229</lpage> (<year>2008</year>).</citation></ref>
+<ref id="R52"><label>52</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Okahara</surname><given-names>F.</given-names></name><name><surname>Ikawa</surname><given-names>H.</given-names></name><name><surname>Kanaho</surname><given-names>Y.</given-names></name><name><surname>Maehama</surname><given-names>T.</given-names></name></person-group>, 
+<article-title>Regulation of PTEN phosphorylation and stability by a tumor suppressor candidate protein.</article-title> <source>J. Biol. Chem.</source> 
+<volume>279</volume>, 
+<fpage>45300</fpage>&#x2013;<lpage>45303</lpage> (<year>2004</year>).</citation></ref>
+<ref id="R53"><label>53</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Torres</surname><given-names>J.</given-names></name><name><surname>Pulido</surname><given-names>R.</given-names></name></person-group>, 
+<article-title>The tumor suppressor PTEN is phosphorylated by the protein kinase CK2 at its C terminus. Implications for PTEN stability to proteasome-mediated degradation.</article-title> <source>J. Biol. Chem.</source> 
+<volume>276</volume>, 
+<fpage>993</fpage>&#x2013;<lpage>998</lpage> (<year>2001</year>).</citation></ref>
+<ref id="R54"><label>54</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Vazquez</surname><given-names>F.</given-names></name><name><surname>Ramaswamy</surname><given-names>S.</given-names></name><name><surname>Nakamura</surname><given-names>N.</given-names></name><name><surname>Sellers</surname><given-names>W. R.</given-names></name></person-group>, 
+<article-title>Phosphorylation of the PTEN tail regulates protein stability and function.</article-title> <source>Mol. Cell. Biol.</source> 
+<volume>20</volume>, 
+<fpage>5010</fpage>&#x2013;<lpage>5018</lpage> (<year>2000</year>).</citation></ref>
+<ref id="R55"><label>55</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Maccario</surname><given-names>H.</given-names></name><name><surname>Perera</surname><given-names>N. M.</given-names></name><name><surname>Davidson</surname><given-names>L.</given-names></name><name><surname>Downes</surname><given-names>C. P.</given-names></name><name><surname>Leslie</surname><given-names>N. R.</given-names></name></person-group>, 
+<article-title>PTEN is destabilized by phosphorylation on Thr<sup>366</sup>.</article-title> <source>Biochem. J.</source> 
+<volume>405</volume>, 
+<fpage>439</fpage>&#x2013;<lpage>444</lpage> (<year>2007</year>).</citation></ref>
+<ref id="R56"><label>56</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Rieping</surname><given-names>W.</given-names></name><name><surname>Habeck</surname><given-names>M.</given-names></name><name><surname>Bardiaux</surname><given-names>B.</given-names></name><name><surname>Bernard</surname><given-names>A.</given-names></name><name><surname>Malliavin</surname><given-names>T. E.</given-names></name><name><surname>Nilges</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>ARIA2: Automated NOE assignment and data integration in NMR structure calculation.</article-title> <source>Bioinformatics</source> 
+<volume>23</volume>, 
+<fpage>381</fpage>&#x2013;<lpage>382</lpage> (<year>2007</year>).</citation></ref>
+<ref id="R57"><label>57</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Br&#x00FC;nger</surname><given-names>A. T.</given-names></name><name><surname>Adams</surname><given-names>P. D.</given-names></name><name><surname>Clore</surname><given-names>G. M.</given-names></name><name><surname>DeLano</surname><given-names>W. L.</given-names></name><name><surname>Gros</surname><given-names>P.</given-names></name><name><surname>Grosse-Kunstleve</surname><given-names>R. W.</given-names></name><name><surname>Jiang</surname><given-names>J. S.</given-names></name><name><surname>Kuszewski</surname><given-names>J.</given-names></name><name><surname>Nilges</surname><given-names>M.</given-names></name><name><surname>Pannu</surname><given-names>N. S.</given-names></name><name><surname>Read</surname><given-names>R. J.</given-names></name><name><surname>Rice</surname><given-names>L. M.</given-names></name><name><surname>Simonson</surname><given-names>T.</given-names></name><name><surname>Warren</surname><given-names>G. L.</given-names></name></person-group>, 
+<article-title>Crystallography &amp; NMR system: A new software suite for macromolecular structure determination.</article-title> <source>Acta Crystallogr. D Biol. Crystallogr.</source> 
+<volume>54</volume>, 
+<fpage>905</fpage>&#x2013;<lpage>921</lpage> (<year>1998</year>).</citation></ref>
+<ref id="R58"><label>58</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Dominguez</surname><given-names>C.</given-names></name><name><surname>Boelens</surname><given-names>R.</given-names></name><name><surname>Bonvin</surname><given-names>A. M.</given-names></name></person-group>, 
+<article-title>HADDOCK: A protein&#x2013;protein docking approach based on biochemical or biophysical information.</article-title> <source>J. Am. Chem. Soc.</source> 
+<volume>125</volume>, 
+<fpage>1731</fpage>&#x2013;<lpage>1737</lpage> (<year>2003</year>).</citation></ref>
+<ref id="R59"><label>59</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Laskowski</surname><given-names>R. A.</given-names></name><name><surname>Moss</surname><given-names>D. S.</given-names></name><name><surname>Thornton</surname><given-names>J. M.</given-names></name></person-group>, 
+<article-title>Main-chain bond lengths and bond angles in protein structures.</article-title> <source>J. Mol. Biol.</source> 
+<volume>231</volume>, 
+<fpage>1049</fpage>&#x2013;<lpage>1067</lpage> (<year>1993</year>).</citation></ref>
+<ref id="R60"><label>60</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hooft</surname><given-names>R. W.</given-names></name><name><surname>Vriend</surname><given-names>G.</given-names></name><name><surname>Sander</surname><given-names>C.</given-names></name><name><surname>Abola</surname><given-names>E. E.</given-names></name></person-group>, 
+<article-title>Errors in protein structures.</article-title> <source>Nature</source> 
+<volume>381</volume>, 
+<fpage>272</fpage> (<year>1996</year>).</citation></ref>
+<ref id="R61"><label>61</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Brown</surname><given-names>P. H.</given-names></name><name><surname>Schuck</surname><given-names>P.</given-names></name></person-group>, 
+<article-title>Macromolecular size-and-shape distributions by sedimentation velocity analytical ultracentrifugation.</article-title> <source>Biophys. J.</source> 
+<volume>90</volume>, 
+<fpage>4651</fpage>&#x2013;<lpage>4661</lpage> (<year>2006</year>).</citation></ref>
+<ref id="R62"><label>62</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Vistica</surname><given-names>J.</given-names></name><name><surname>Dam</surname><given-names>J.</given-names></name><name><surname>Balbo</surname><given-names>A.</given-names></name><name><surname>Yikilmaz</surname><given-names>E.</given-names></name><name><surname>Mariuzza</surname><given-names>R. A.</given-names></name><name><surname>Rouault</surname><given-names>T. A.</given-names></name><name><surname>Schuck</surname><given-names>P.</given-names></name></person-group>, 
+<article-title>Sedimentation equilibrium analysis of protein interactions with global implicit mass conservation constraints and systematic noise decomposition.</article-title> <source>Anal. Biochem.</source> 
+<volume>326</volume>, 
+<fpage>234</fpage>&#x2013;<lpage>256</lpage> (<year>2004</year>).</citation></ref>
+<ref id="R63"><label>63</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Pr&#x00E9;haud</surname><given-names>C.</given-names></name><name><surname>Lay</surname><given-names>S.</given-names></name><name><surname>Dietzschold</surname><given-names>B.</given-names></name><name><surname>Lafon</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Glycoprotein of nonpathogenic rabies viruses is a key determinant of human cell apoptosis.</article-title> <source>J. Virol.</source> 
+<volume>77</volume>, 
+<fpage>10537</fpage>&#x2013;<lpage>10547</lpage> (<year>2003</year>).</citation></ref>
+<ref id="R64"><label>64</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Zufferey</surname><given-names>R.</given-names></name><name><surname>Nagy</surname><given-names>D.</given-names></name><name><surname>Mandel</surname><given-names>R. J.</given-names></name><name><surname>Naldini</surname><given-names>L.</given-names></name><name><surname>Trono</surname><given-names>D.</given-names></name></person-group>, 
+<article-title>Multiply attenuated lentiviral vector achieves efficient gene delivery in vivo.</article-title> <source>Nat. Biotechnol.</source> 
+<volume>15</volume>, 
+<fpage>871</fpage>&#x2013;<lpage>875</lpage> (<year>1997</year>).</citation></ref>
+<ref id="R65"><label>65</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Chopy</surname><given-names>D.</given-names></name><name><surname>Pothlichet</surname><given-names>J.</given-names></name><name><surname>Lafage</surname><given-names>M.</given-names></name><name><surname>M&#x00E9;gret</surname><given-names>F.</given-names></name><name><surname>Fiette</surname><given-names>L.</given-names></name><name><surname>Si-Tahar</surname><given-names>M.</given-names></name><name><surname>Lafon</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Ambivalent role of the innate immune response in rabies virus pathogenesis.</article-title> <source>J. Virol.</source> 
+<volume>85</volume>, 
+<fpage>6657</fpage>&#x2013;<lpage>6668</lpage> (<year>2011</year>).</citation></ref>
+<ref id="R66"><label>66</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Libeau</surname><given-names>G.</given-names></name><name><surname>Lafon</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Production of monoclonal antibodies against the Pasteur (P.V.) strain of rabies virus: Problems and results.</article-title> <source>Dev. Biol. Stand.</source> 
+<volume>57</volume>, 
+<fpage>213</fpage>&#x2013;<lpage>218</lpage> (<year>1984</year>).</citation></ref>
+</ref-list>
+<ack>
+<title>Acknowledgments</title><p>We thank P. Roux (Imagopole, Institut Pasteur), P. England, B. Raynal, S. Hoos, E. Frachon, and V. Bondet (Proteopole, Institut Pasteur) for their technical expertise. <bold>Funding:</bold> This work was supported by grants from the Institut Pasteur, Agence Nationale pour la Recherche, and Institut Carnot Pasteur Maladies Infectieuses. E.T. is a recipient of fellowships from the Minist&#x00E8;re de l&#x2019;Enseignement Sup&#x00E9;rieur et de la Recherche and the Fondation pour la Recherche M&#x00E9;dicale. <bold>Author contributions:</bold> E.T., A.C., M. Lafage, Z.K., C.P., C.S., M. Lafon, and N.W. designed and performed the experiments; E.T., A.C., C.P., F.C., H.B., M. Lafon, and N.W. analyzed the data; E.T., M.D., H.B., M. Lafon, and N.W. wrote the paper. <bold>Competing interests:</bold> C.P., M. Lafon, N.W., Z.K., and E.T. have filed European patent application no. 11 306 454.7 based on this work. Use of the lentiviruses from this study requires a materials transfer agreement (MTA). <bold>Data and materials availability:</bold> Atomic coordinates and NMR constraints have been deposited with the Protein Data Bank, with accession numbers 2KQF (for the MAST2-PDZ/Cyto13-att complex) and 2KYL (for the MAST2-PDZ/PTEN13-Cter complex).</p>
+</ack></back>
+</article>

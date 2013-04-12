@@ -1,0 +1,2 @@
+ 	"issuetitle"  : "{!{LINKTEXT}!}",
+ 	"titlelink"    : "{!{URL}!}"

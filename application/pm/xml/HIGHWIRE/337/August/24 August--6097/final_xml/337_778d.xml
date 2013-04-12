@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>twil</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Molecular Biology</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Blunt End Protection</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Riddihough</surname><given-names>Guy</given-names></name></contrib>
+</contrib-group>
+<pub-date pub-type="ppub">
+<day>17</day>
+<month>08</month>
+<year>2012</year>
+</pub-date>
+<volume>337</volume>
+<issue>6096</issue>
+<fpage seq="d">778</fpage>
+<lpage>778</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="twil.pdf" />
+<custom-meta-wrap>
+<custom-meta><meta-name>Editor</meta-name><meta-value>Kristen Mueller, Maria Cruz</meta-value></custom-meta>
+</custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<p>One of the problems with having linear chromosomes, as most eukaryotes have, is their ends. Naked DNA ends are recognized by the cell as breaks in the continuity of the genome and are repaired with all haste. Trying to &#x201C;repair&#x201D; the ends of chromosomes, however, could have devastating consequences for the cell (the fusion of whole chromosomes, for example). Instead, special structures at chromosome ends, known as telomeres, whose general features have been conserved across evolution, protect them from the attentions of the cell's DNA repair machinery. Telomeres generally have a single-stranded (ss)DNA overhang that binds to proteins that help disguise the DNA end.</p>
+<p>Surprisingly, Kazda <italic>et al.</italic> find that a substantial fraction of the telomeres in the plant <italic>Arabidopsis thaliana</italic> do not have canonical overhanging ssDNA ends. Rather, the chromosomes have blunt ends, which are probably a consequence of the replication of DNA. These blunt ends, which would be unable to bind the protective protein complex found on the other <italic>Arabidopsis</italic> telomeres, are bound by the Ku70/80 heterodimer, which is normally required for DNA repair but can also act to protect free DNA ends.</p>
+<p><italic>Genes Dev.</italic> <bold>26</bold>, 1703 (2012).</p>
+</body>
+</article>

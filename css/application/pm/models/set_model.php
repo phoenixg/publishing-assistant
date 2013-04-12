@@ -1,0 +1,1 @@
+<?phpclass Set_model extends Model {    function Set_model()    {        parent::Model();    }}?>
