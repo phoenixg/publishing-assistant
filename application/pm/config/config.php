@@ -11,7 +11,7 @@
 |	http://example.com/
 |
 */
-$config['base_url']	= "http://localhost/america/";
+$config['base_url']	= "http://localhost/publishing-assistant/";
 //$config['base_url']	= "http://localhost:8888/codeigniter";
 //$config['base_url']	= "http://development/CodeIgniter_2.0.0/";
 //$config['base_url'] = "http://eddev01.aaas.org/codeigniter-v2.1.2/";
