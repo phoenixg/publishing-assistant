@@ -78,12 +78,43 @@ class Appfeed extends CI_Controller {
    
    
    function make_config() {
-   
+    $form = array('STM'=>'STM');
+    $response = array();
+    foreach ($form as $appfeed_id) {
+      if ($appfeed_config = $this->_find_feed($appfeed_id)) { 
+        $this->appfeed_config = $appfeed_config;
+     
+        $this->Issue->init('stm');
+        $this->stm_issue=$this->Issue->get_issue_num();
+      
+        try {
+          $appfeed = $this->_create_test('stm');
+
+          $response[$appfeed_id] = $this->_save($appfeed_config, $appfeed);
+        } catch(Exception $e) {
+          $response[$appfeed_id] = false;
+        }
+      }
+    }
        
       
     }
    
-   
+  private function _create_test() {
+
+    $this->doc = new DOMDocument('1.0', 'utf-8');
+    $this->doc->formatOutput = true;
+    $this->feeds = $this->doc->createElement('files');
+    $file = $this->doc->createElement('file', 'filen');
+    $filename = $this->doc->createElement('filename', 'filename');
+    $issue = $this->doc->createElement('issue', $this->Issue->get_issue_num());
+  
+    $this->feeds->appendChild($file);
+    $this->feeds->appendChild($filename);
+    $this->feeds->appendChild($issue);
+
+    $this->doc->appendChild($this->feeds);
+  }
    
    
    
