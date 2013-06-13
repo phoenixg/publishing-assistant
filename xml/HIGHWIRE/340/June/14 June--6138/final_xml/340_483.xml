@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1232769</article-id>
+<article-id pub-id-type="doi">10.1126/science.1232769</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Report</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Reports</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>reports</subject></subj-group>
+<subj-group subj-group-type="field"><subject>ECOLOGY</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Zoology</subject><subject>Anthropology</subject><subject>Sociology</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Potent Social Learning and Conformity Shape a Wild Primate&#x2019;s Foraging Decisions</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>van de Waal</surname><given-names>Erica</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Borgeaud</surname><given-names>Christ&#x00E8;le</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib> <contrib contrib-type="author" corresp="yes"><name><surname>Whiten</surname><given-names>Andrew</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref ref-type="corresp" rid="cor1">*</xref></contrib>
+<aff id="aff1"><label>1</label>Centre for Social Learning and Cognitive Evolution, and Scottish Primate Research Group, School of Psychology and Neuroscience, University of St Andrews, St Andrews KY16 9JP, UK.</aff>
+<aff id="aff2"><label>2</label>Inkawu Vervet Project, Mawana Game Reserve, Swart Mfolozi, KwaZulu Natal 3115, South Africa.</aff>
+<aff id="aff3"><label>3</label>Institute of Biology, University of Neuch&#x00E2;tel, 2000 Neuch&#x00E2;tel, Switzerland.</aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>Corresponding author. E-mail: <email xlink:href="aw2@st-andrews.ac.uk">aw2@st-andrews.ac.uk</email></corresp></author-notes>
+<pub-date pub-type="ppub"><day>26</day><month>04</month><year>2013</year></pub-date>
+<volume>340</volume>
+<issue>6131</issue>
+<fpage>483</fpage>
+<lpage>485</lpage>
+<history><date date-type="received"><day>14</day><month>11</month><year>2012</year></date><date date-type="accepted"><day>21</day><month>02</month><year>2013</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="editor"><title>Animal Culture</title><p>Cultural transmission of information occurs when individuals learn from others with more experience or when individuals come to accept particular modes of behavior as the local norm. Such information transfer can be expected in highly social or long-lived species where contact and time for learning are maximized and are seen in humans (see the Perspective by <bold><related-article related-article-type="in-this-issue" vol="340" page="437" issue="6131">de Waal</related-article></bold>). Using a network-based diffusion analysis on a long-term data set that includes tens of thousands of observations of individual humpback whales, <bold>Allen <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="340" issue="6131" page="485">485</related-article>) show that an innovative feeding behavior has spread through social transmission since it first emerged in a single individual in 1980. The &#x201C;lobtail&#x201D; feeding has passed among associating individuals for more than three decades. <bold>Van de Waal <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="340" issue="6131" page="483">483</related-article>), on the other hand, used a controlled experimental approach in vervet monkeys to show that individuals learn what to eat from more experienced individuals within their social group. Not only did young animals learn from observing older animals, but immigrating males switched their food preference to that of their new group.</p></abstract>
+<abstract abstract-type="teaser"><p>A natural experiment reveals that wild vervet migrants adopt local norms when it comes to choosing foods. <named-content content-type="related-content">[Also see Perspective by <related-article related-article-type="in-this-issue" vol="340" page="437" issue="6131">de Waal</related-article>]</named-content></p></abstract>
+<abstract>
+<p>Conformity to local behavioral norms reflects the pervading role of culture in human life. Laboratory experiments have begun to suggest a role for conformity in animal social learning, but evidence from the wild remains circumstantial. Here, we show experimentally that wild vervet monkeys will abandon personal foraging preferences in favor of group norms new to them. Groups first learned to avoid the bitter-tasting alternative of two foods. Presentations of these options untreated months later revealed that all new infants na&#x00EF;ve to the foods adopted maternal preferences. Males who migrated between groups where the alternative food was eaten switched to the new local norm. Such powerful effects of social learning represent a more potent force than hitherto recognized in shaping group differences among wild animals.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Sacha Vignieri</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Harry Jach</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>Ever since pioneering studies on the diffusion of a new sweet-potato washing habit in Japanese macaques (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>) and milk-bottle opening in great tits (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>), accumulating field studies have suggested that the cultural transmission of behavior through social learning provides many animals with a &#x201C;second inheritance system&#x201D; (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>)<italic>.</italic> This system complements genetic inheritance and individual learning in shaping behavioral repertoires (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>, <xref ref-type="bibr" rid="R5"><italic>5</italic></xref>)<italic>.</italic> The scope and impact of this second system are important to delineate because exploiting the existing knowledge of others can potentially support efficient adaptation to local circumstances (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). It can also generate locally differentiated behavioral traditions, and indeed, much of the evidence for a role for animal culture in the wild derives from identifying local variations consistent with the existence of such traditions (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>&#x2013;<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>)<italic>.</italic> However, owing to their observational nature, these studies lack the experimental rigor to confirm whether putative cultural variations are socially learned. Experiments with captive populations, by contrast, have seeded different groups with models trained to act in different ways, such as opening an &#x201C;artificial fruit&#x201D; using either of two alternative techniques, then documenting the differential diffusion of these variants across groups (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>) and even between them (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>).</p>
+<p>These paradigms have now produced a substantial corpus of laboratory studies documenting cultural transmission in taxa as diverse as insects (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>), fish (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>), and apes (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>, <xref ref-type="bibr" rid="R14"><italic>14</italic></xref>). Such experiments in the wild remain scarce (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>, <xref ref-type="bibr" rid="R15"><italic>15</italic></xref>&#x2013;<xref ref-type="bibr" rid="R19"><italic>19</italic></xref>), however, because in natural populations, it is typically impractical to isolate individuals for differential training as models. The few field studies that have attempted to approximate this approach have generally produced evidence for weaker transmission of the seeded alternatives (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>&#x2013;<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>) than counterparts in captive populations (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>, <xref ref-type="bibr" rid="R11"><italic>11</italic></xref>, <xref ref-type="bibr" rid="R20"><italic>20</italic></xref>, <xref ref-type="bibr" rid="R21"><italic>21</italic></xref>).</p>
+<p>Here we introduce a different methodological approach, which has demonstrated two potent effects of social learning in the wild. Instead of seeding behavioral variants in single models, we seeded variants in four whole groups of wild vervet monkeys, <italic>Chlorocebus aethiops</italic>, totaling 109 individuals (<italic>22</italic>) (table S1 and fig. S1). We then investigated how two classes of individuals na&#x00EF;ve to the local group norm&#x2014;infants and immigrant males&#x2014;responded to the particular local preferences they were exposed to. To create initial preferences, we provisioned groups with two adjacent trays of maize corn, one with corn dyed blue, the other pink (<xref ref-type="fig" rid="F1">Fig. 1</xref>). One of these (pink in two groups, blue in two others) was made highly distasteful so that after three monthly training sessions, the distasteful alternative was rarely eaten or even tried (table S2 and figs. S3 and S4). After a period of more than 4 months in which a new cohort of identifiable infants matured sufficiently to take solid foods, we again offered the two colored foods with no distasteful treatments and tested (i) whether the na&#x00EF;ve infants would copy their mother&#x2019;s preference for the locally favored color over the now equally palatable alternative, and (ii) whether males migrating from a group trained to prefer one color to a second group where the alternative color was preferred would be influenced by the latter.</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption>
+<title>Experimental set-up illustrating preferential foraging.</title>
+<p>Maize corn dyed either pink or blue was provided intermittently in two adjacent containers. Photograph shows infant sitting on the color earlier made distasteful to its mother, as it eats the color currently preferred by its mother and the rest of the group.</p>
+</caption><graphic xlink:href="340_483_F1"></graphic></fig>
+<p>When the corn provisions were offered again after 4 to 6 months, a preference for the earlier palatable alternative was maintained across five test trials spanning 2 months, despite both colors now being palatable. Some of the previously distasteful food was tried and consumed (<xref ref-type="fig" rid="F2">Fig. 2</xref> and table S3B), but typically only by lower-ranking individuals when they were unable to access the preferred color (table S4), with the result that at least 73% of the corn eaten in any trial was of the trained color (<xref ref-type="fig" rid="F2">Fig. 2</xref>). This persistence of the induced preference over our five trials is important because new subjects joined the experiments up to trial 5.</p>
+<fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption>
+<title>Local food preference norms of four groups.</title>
+<p>Percentage of each color of food eaten in each group across the five test trials separated, respectively, by intervals of 1, 1, 2, and 4 weeks. Pink, pink dye; blue, blue dye. Full color bars, food color always palatable; white color bars, food color made unpalatable 4 to 6 months earlier. Letter codes represent the four groups (AK, Ankhase; BD, Baie Dankie; LT, Lemon Tree; NH, Noha).</p>
+</caption><graphic xlink:href="340_483_F2"></graphic></fig>
+<p>Of 27 infants na&#x00EF;ve to the corn provisions, 26 first ate the locally preferred color eaten by their mother, ignoring the directly adjacent alternative color (some even sat on the nonpreferred color corn, to eat the favored one: <xref ref-type="fig" rid="F1">Fig. 1</xref>). Just one infant&#x2019;s first choice was of the alternative-colored food. Its mother was of low rank and took a small amount of the nonpreferred food while higher-ranked individuals were monopolizing the preferred food. Accordingly, 27 of 27 infants first took the food they witnessed their mothers eat (for 26 of them, the one they would also see most eaten in their group). This represents a highly significant bias that unambiguously demonstrates copying of the local preference (binomial test, <italic>P</italic> &lt; 0.0001), despite the immediate availability of the alternative option. All 23 of such infants who were later recorded eating when their mothers were not at the box continued to match her preference, confirming that their preferred food choice was a result of social learning.</p>
+<p>Fifteen males immigrated into the study groups during the experiment (<xref ref-type="fig" rid="F3">Fig. 3</xref> and fig. S2). Ten were known to us and fortuitously moved to a group that preferred the alternative colored food to that eaten in their original group (<xref ref-type="fig" rid="F3">Fig. 3</xref> and fig. S2). The first choice of seven of these males, on approaching the food provisions after observing others feeding there, was for the locally preferred option new to them, contrasting markedly with the 11 resident males, none of whom chose their formerly distasteful option (choices 7 of 10 versus 0 of 11: Fisher&#x2019;s exact test, <italic>P</italic> = 0.001, Fig. 3). When each of the 10 migrants first fed with no monkey higher ranking than themselves present, their preference for the locally consumed color was even more pronounced (choices 9 of 10 versus 0 of 11: Fisher&#x2019;s exact test, <italic>P</italic> &lt; 0.0001). The single male (Lekker) who continued to eat the same color as in his original group was unique in immediately taking the top rank in his new group, a factor that may have influenced his behavior. Five additional males migrated into our groups from unknown origins and so were na&#x00EF;ve to both colors of corn. The first choice of all of these when no higher-ranking monkey was present was for the local norm. Conservatively testing the preference of all 15 migrant males for the local preference against a random choice confirms a significant positive bias (i.e., 14 of 15: binomial test, <italic>P</italic> = 0.001). Additional tests extending to later feeding on the different options are in the supplementary text and converge with the results above in demonstrating conformity in the migrants&#x2019; foraging decisions.</p>
+<fig id="F3" position="float" fig-type="figure"><label>Fig. 3</label><caption>
+<title>Males abandon food preference learned in home group in favor of local preference in new, adopted group.</title>
+<p>Columns show food color preference of each male in original group (origin) and contrasting first choice of food color in adopted new group (framing lines represent preference in adopted group). Asterisk (*) denotes choice of color eaten first once not outranked by residents of adopted group. ID, male identity code.</p>
+</caption><graphic xlink:href="340_483_F3"></graphic></fig>
+<p>Our demonstration of such strong conformity in wild primates has important implications for our conceptions of what is unique in human cultural transmission (<xref ref-type="bibr" rid="R23"><italic>23</italic></xref>&#x2013;<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>) as well as in evolutionary biology more broadly, concerning the roles of cultural versus genetic inheritance and individual learning in shaping adaptations. First, our results reveal a potent role for social learning in both infants and migrating adult primates, which for the latter group extends to social conformity, defined in human studies by the flexible subjugation of prior personal knowledge to the observed habits of a majority of the relevant new community (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>) (see supplementary text for more on definitions of conformity) (<xref ref-type="fig" rid="F3">Fig. 3</xref>). Laboratory studies have begun to suggest a role for such conformity in taxa ranging from <italic>Drosophila</italic> to chimpanzees (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>, <xref ref-type="bibr" rid="R14"><italic>14</italic></xref>, <xref ref-type="bibr" rid="R29"><italic>29</italic></xref>&#x2013;<xref ref-type="bibr" rid="R31"><italic>31</italic></xref>), but in the wild such evidence has remained minimal and circumstantial (<xref ref-type="bibr" rid="R32"><italic>32</italic></xref>&#x2013;<xref ref-type="bibr" rid="R34"><italic>34</italic></xref>).</p>
+<p>Theoretical work has suggested that reliance on such social information at the expense of personal information can be adaptive because it exploits the fruits of other individuals&#x2019; prior experience (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R23"><italic>23</italic></xref>, <xref ref-type="bibr" rid="R27"><italic>27</italic></xref>). The actions of both the na&#x00EF;ve infants and migrating males whom we studied is consistent with such a &#x201C;copy when uncertain&#x201D; strategy. The fitness of foraging decisions made by wild primates like those we studied will be governed by a host of complex factors that are inherently unknown to foragers, ranging from dietary constituents to plant toxins and competing needs such as predator vigilance: Exploiting the prior discoveries of local experts may be an optimal strategy, overriding opposing knowledge gained in a different habitat such as one&#x2019;s original group.</p>
+<p>A second implication of our results is methodological. We have simulated the effect on social learning of already well-established traditions by initially creating habits in whole groups, then recording the responses of infants and migrants na&#x00EF;ve to these habits. This has revealed very strong effects, contrasting with the relatively weak or nonexistent effects of seeding alternative behavior patterns in single individuals, found in other recent field experiments (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>&#x2013;<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>). Our new approach thus could be applied more widely to other taxa in the wild, as well as in captive studies.</p>
+<p>The final implication arises from the combination of the two already outlined. If copying the majority is indeed a more widespread strategy among wild, nonhuman animals than previously appreciated, the initial establishment of behavioral innovations may be a fragile process, in comparison to the transmission of already-common behaviors. If so, this argues not only for the extension of our group-training approach, but also for systematic comparisons between such experiments and those that instead seed new behaviors in individuals, in order to understand why some innovations are short-lived whereas others spread to become new traditions.</p>
+</body>
+<back><app-group><app>
+<title>Supplementary Materials</title><supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/340/6131/483/DC1">www.sciencemag.org/cgi/content/full/340/6131/483/DC1</ext-link></p>
+<p>Materials and Methods</p>
+<p>Supplementary Text</p>
+<p>Figs. S1 to S4</p>
+<p>Tables S1 to S4</p>
+    <p>References (<xref ref-type="bibr" rid="R35"><italic>35</italic></xref>&#x2013;<xref ref-type="bibr" rid="R39"><italic>39</italic></xref>)</p>
+<p>Databases</p>
+<p>Movies S1 and S2</p></supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kawamura</surname><given-names>S.</given-names></name></person-group>, 
+<article-title>The process of sub-culture propagation among Japanese macaques</article-title>. <source>Primates</source> 
+<volume>2</volume>, 
+<fpage>43</fpage> (<year>1959</year>). <pub-id pub-id-type="doi">10.1007/BF01666110</pub-id></citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hinde</surname><given-names>R. A.</given-names></name><name><surname>Fisher</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>Further observations on the opening of milk bottles by birds</article-title>. <source>Br. Birds</source> 
+<volume>44</volume>, 
+<fpage>393</fpage> (<year>1951</year>).</citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Whiten</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>The second inheritance system of chimpanzees and humans</article-title>. <source>Nature</source> 
+<volume>437</volume>, 
+<fpage>52</fpage> (<year>2005</year>). <pub-id pub-id-type="doi">10.1038/nature04023</pub-id><pub-id pub-id-type="pmid">16136127</pub-id></citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Slagsvold</surname><given-names>T.</given-names></name><name><surname>Wiebe</surname><given-names>K. L.</given-names></name></person-group>, 
+<article-title>Social learning in birds and its role in shaping a foraging niche</article-title>. <source>Phil. Trans. R. Soc. B.</source> 
+<volume>366</volume>, 
+<fpage>969</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1098/rstb.2010.0343</pub-id><pub-id pub-id-type="pmid">21357219</pub-id></citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Thornton</surname><given-names>A.</given-names></name><name><surname>Clutton-Brock</surname><given-names>T.</given-names></name></person-group>, 
+<article-title>Social learning and the development of individual and group behaviour in mammal societies</article-title>. <source>Phil. Trans. R. Soc. B.</source> 
+<volume>366</volume>, 
+<fpage>978</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1098/rstb.2010.0312</pub-id><pub-id pub-id-type="pmid">21357220</pub-id></citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Rendell</surname><given-names>L.</given-names></name><etal /></person-group>., 
+<article-title>Why copy others? Insights from the social learning strategies tournament</article-title>. <source>Science</source> 
+<volume>328</volume>, 
+<fpage>208</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1126/science.1184719</pub-id><pub-id pub-id-type="pmid">20378813</pub-id></citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Whiten</surname><given-names>A.</given-names></name><etal /></person-group>., 
+<article-title>Cultures in chimpanzees</article-title>. <source>Nature</source> 
+<volume>399</volume>, 
+<fpage>682</fpage> (<year>1999</year>). <pub-id pub-id-type="doi">10.1038/21415</pub-id><pub-id pub-id-type="pmid">10385119</pub-id></citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Rendell</surname><given-names>L.</given-names></name><name><surname>Whitehead</surname><given-names>H.</given-names></name></person-group>, 
+<article-title>Culture in whales and dolphins</article-title>. <source>Behav. Brain Sci.</source> 
+<volume>24</volume>, 
+<fpage>309</fpage>
+<lpage>, discussion 324</lpage> (<year>2001</year>). <pub-id pub-id-type="doi">10.1017/S0140525X0100396X</pub-id><pub-id pub-id-type="pmid">11530544</pub-id></citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>van Schaik</surname><given-names>C. P.</given-names></name><etal /></person-group>., 
+<article-title>Orangutan cultures and the evolution of material culture</article-title>. <source>Science</source> 
+<volume>299</volume>, 
+<fpage>102</fpage> (<year>2003</year>). <pub-id pub-id-type="doi">10.1126/science.1078004</pub-id><pub-id pub-id-type="pmid">12511649</pub-id></citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Whiten</surname><given-names>A.</given-names></name><name><surname>Mesoudi</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Review. Establishing an experimental science of culture: Animal social diffusion experiments</article-title>. <source>Phil. Trans. R. Soc. B.</source> 
+<volume>363</volume>, 
+<fpage>3477</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1098/rstb.2008.0134</pub-id><pub-id pub-id-type="pmid">18799418</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Whiten</surname><given-names>A.</given-names></name><etal /></person-group>., 
+<article-title>Transmission of multiple traditions within and between chimpanzee groups</article-title>. <source>Curr. Biol.</source> 
+<volume>17</volume>, 
+<fpage>1038</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1016/j.cub.2007.05.031</pub-id><pub-id pub-id-type="pmid">17555968</pub-id></citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Battesti</surname><given-names>M.</given-names></name><name><surname>Moreno</surname><given-names>C.</given-names></name><name><surname>Joly</surname><given-names>D.</given-names></name><name><surname>Mery</surname><given-names>F.</given-names></name></person-group>, 
+<article-title>Spread of social information and dynamics of social transmission within Drosophila groups</article-title>. <source>Curr. Biol.</source> 
+<volume>22</volume>, 
+<fpage>309</fpage> (<year>2012</year>). <pub-id pub-id-type="doi">10.1016/j.cub.2011.12.050</pub-id><pub-id pub-id-type="pmid">22264604</pub-id></citation></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Laland</surname><given-names>K. N.</given-names></name><name><surname>Atton</surname><given-names>N.</given-names></name><name><surname>Webster</surname><given-names>M. M.</given-names></name></person-group>, 
+<article-title>From fish to fashion: Experimental and theoretical insights into the evolution of culture</article-title>. <source>Phil. Trans. R. Soc. B.</source> 
+<volume>366</volume>, 
+<fpage>958</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1098/rstb.2010.0328</pub-id><pub-id pub-id-type="pmid">21357218</pub-id></citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Whiten</surname><given-names>A.</given-names></name><name><surname>Horner</surname><given-names>V.</given-names></name><name><surname>de Waal</surname><given-names>F. B.</given-names></name></person-group>, 
+<article-title>Conformity to cultural norms of tool use in chimpanzees</article-title>. <source>Nature</source> 
+<volume>437</volume>, 
+<fpage>737</fpage> (<year>2005</year>). <pub-id pub-id-type="doi">10.1038/nature04047</pub-id><pub-id pub-id-type="pmid">16113685</pub-id></citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Thornton</surname><given-names>A.</given-names></name><name><surname>Malapert</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Experimental evidence for social transmission of food acquisition techniques in wild meerkats</article-title>. <source>Anim. Behav.</source> 
+<volume>78</volume>, 
+<fpage>255</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1016/j.anbehav.2009.04.021</pub-id></citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>van de Waal</surname><given-names>E.</given-names></name><name><surname>Renevey</surname><given-names>N.</given-names></name><name><surname>Favre</surname><given-names>C. M.</given-names></name><name><surname>Bshary</surname><given-names>R.</given-names></name></person-group>, 
+<article-title>Selective attention to philopatric models causes directed social learning in wild vervet monkeys</article-title>. <source>Proc. Biol. Sci.</source> 
+<volume>277</volume>, 
+<fpage>2105</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1098/rspb.2009.2260</pub-id><pub-id pub-id-type="pmid">20236972</pub-id></citation></ref>
+<ref id="R17"><label>17</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kendal</surname><given-names>R. L.</given-names></name><etal /></person-group>., 
+<article-title>Evidence for social learning in wild lemurs (<italic>Lemur catta</italic>)</article-title>. <source>Learn. Behav.</source> 
+<volume>38</volume>, 
+<fpage>220</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.3758/LB.38.3.220</pub-id><pub-id pub-id-type="pmid">20628161</pub-id></citation></ref>
+<ref id="R18"><label>18</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Schnoell</surname><given-names>A. V.</given-names></name><name><surname>Fichtel</surname><given-names>C.</given-names></name></person-group>, 
+<article-title>Wild redfronted lemurs (<italic>Eulemur rufifrons</italic>) use social information to learn new foraging techniques</article-title>. <source>Anim. Cogn.</source> 
+<volume>15</volume>, 
+<fpage>505</fpage> (<year>2012</year>). <pub-id pub-id-type="doi">10.1007/s10071-012-0477-y</pub-id><pub-id pub-id-type="pmid">22426747</pub-id></citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kendal</surname><given-names>R. L.</given-names></name><name><surname>Galef</surname><given-names>B. G.</given-names></name><name><surname>van Schaik</surname><given-names>C. P.</given-names></name></person-group>, 
+<article-title> Social learning research outside the laboratory: How and why?</article-title> <source>Learn. Behav.</source> 
+<volume>38</volume>, 
+<fpage>187</fpage> (<year>2010</year>) <comment>(special issue)</comment>. <pub-id pub-id-type="doi">10.3758/LB.38.3.187</pub-id><pub-id pub-id-type="pmid">20628158</pub-id></citation></ref>
+<ref id="R20"><label>20</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Dindo</surname><given-names>M.</given-names></name><name><surname>Thierry</surname><given-names>B.</given-names></name><name><surname>Whiten</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Social diffusion of novel foraging methods in brown capuchin monkeys (<italic>Cebus apella</italic>)</article-title>. <source>Proc. Biol. Sci.</source> 
+<volume>275</volume>, 
+<fpage>187</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1098/rspb.2007.1318</pub-id><pub-id pub-id-type="pmid">17971322</pub-id></citation></ref>
+<ref id="R21"><label>21</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hopper</surname><given-names>L. M.</given-names></name><name><surname>Schapiro</surname><given-names>S. J.</given-names></name><name><surname>Lambeth</surname><given-names>S. P.</given-names></name><name><surname>Brosnan</surname><given-names>S. F.</given-names></name></person-group>, 
+<article-title>Chimpanzees&#x2019; socially maintained food preferences indicate both conservatism and conformity</article-title>. <source>Anim. Behav.</source> 
+<volume>81</volume>, 
+<fpage>1195</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1016/j.anbehav.2011.03.002</pub-id></citation></ref>
+<ref id="R22"><label>22</label><citation citation-type="other">Materials and methods are available as supplementary materials in <italic>Science</italic> Online.</citation></ref>
+<ref id="R23"><label>23</label><citation citation-type="book">P. J. Richerson, R. Boyd, <italic>Not by Genes Alone</italic> (Univ. of Chicago Press, Chicago, 2005).</citation></ref>
+<ref id="R24"><label>24</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Whiten</surname><given-names>A.</given-names></name><name><surname>Hinde</surname><given-names>R. A.</given-names></name><name><surname>Laland</surname><given-names>K. N.</given-names></name><name><surname>Stringer</surname><given-names>C. B.</given-names></name></person-group>, 
+<article-title>Culture evolves</article-title>. <source>Philos. Trans. R. Soc. B.</source> 
+<volume>366</volume>, 
+<fpage>938</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1098/rstb.2010.0372</pub-id><pub-id pub-id-type="pmid">21357216</pub-id></citation></ref>
+<ref id="R25"><label>25</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Dean</surname><given-names>L. G.</given-names></name><name><surname>Kendal</surname><given-names>R. L.</given-names></name><name><surname>Schapiro</surname><given-names>S. J.</given-names></name><name><surname>Thierry</surname><given-names>B.</given-names></name><name><surname>Laland</surname><given-names>K. N.</given-names></name></person-group>, 
+<article-title>Identification of the social and cognitive processes underlying human cumulative culture</article-title>. <source>Science</source> 
+<volume>335</volume>, 
+<fpage>1114</fpage> (<year>2012</year>). <pub-id pub-id-type="doi">10.1126/science.1213969</pub-id><pub-id pub-id-type="pmid">22383851</pub-id></citation></ref>
+<ref id="R26"><label>26</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Pagel</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Evolution: Adapted to culture</article-title>. <source>Nature</source> 
+<volume>482</volume>, 
+<fpage>297</fpage> (<year>2012</year>). <pub-id pub-id-type="doi">10.1038/482297a</pub-id><pub-id pub-id-type="pmid">22337031</pub-id></citation></ref>
+<ref id="R27"><label>27</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Henrich</surname><given-names>J.</given-names></name><name><surname>Boyd</surname><given-names>R.</given-names></name></person-group>, 
+<article-title>The evolution of conformist transmission and the emergence of between-group differences</article-title>. <source>Evol. Hum. Behav.</source> 
+<volume>19</volume>, 
+<fpage>215</fpage> (<year>1998</year>). <pub-id pub-id-type="doi">10.1016/S1090-5138(98)00018-X</pub-id></citation></ref>
+<ref id="R28"><label>28</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Asch</surname><given-names>S. E.</given-names></name></person-group>, 
+<article-title>Studies of independence and conformity. 1. A minority of one against a unanimous majority</article-title>. <source>Psychol. Monogr.</source> 
+<volume>70</volume>, 
+<fpage>1</fpage> (<year>1956</year>). <pub-id pub-id-type="doi">10.1037/h0093718</pub-id></citation></ref>
+<ref id="R29"><label>29</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Galef</surname><given-names>B. G.</given-names></name><name><surname>Whiskin</surname><given-names>E. E.</given-names></name></person-group>, 
+<article-title>&#x2018;Conformity&#x2019; in Norway rats?</article-title> <source>Anim. Behav.</source> 
+<volume>75</volume>, 
+<fpage>2035</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1016/j.anbehav.2007.11.012</pub-id></citation></ref>
+<ref id="R30"><label>30</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Pike</surname><given-names>T. W.</given-names></name><name><surname>Laland</surname><given-names>K. N.</given-names></name></person-group>, 
+<article-title>Conformist learning in nine-spined sticklebacks&#x2019; foraging decisions</article-title>. <source>Biol. Lett.</source> 
+<volume>6</volume>, 
+<fpage>466</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1098/rsbl.2009.1014</pub-id><pub-id pub-id-type="pmid">20129948</pub-id></citation></ref>
+<ref id="R31"><label>31</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Haun</surname><given-names>D. B. M.</given-names></name><name><surname>Rekers</surname><given-names>Y.</given-names></name><name><surname>Tomasello</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Majority-biased transmission in chimpanzees and human children, but not orangutans</article-title>. <source>Curr. Biol.</source> 
+<volume>22</volume>, 
+<fpage>727</fpage> (<year>2012</year>). <pub-id pub-id-type="doi">10.1016/j.cub.2012.03.006</pub-id><pub-id pub-id-type="pmid">22503497</pub-id></citation></ref>
+<ref id="R32"><label>32</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Claidi&#x00E8;re</surname><given-names>N.</given-names></name><name><surname>Whiten</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Integrating the study of conformity and culture in humans and nonhuman animals</article-title>. <source>Psychol. Bull.</source> 
+<volume>138</volume>, 
+<fpage>126</fpage> (<year>2012</year>). <pub-id pub-id-type="doi">10.1037/a0025868</pub-id><pub-id pub-id-type="pmid">22061691</pub-id></citation></ref>
+<ref id="R33"><label>33</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Perry</surname><given-names>S.</given-names></name></person-group>, 
+<article-title>Conformism in the food processing techniques of white-faced capuchin monkeys (<italic>Cebus capucinus</italic>)</article-title>. <source>Anim. Cogn.</source> 
+<volume>12</volume>, 
+<fpage>705</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1007/s10071-009-0230-3</pub-id><pub-id pub-id-type="pmid">19455357</pub-id></citation></ref>
+<ref id="R34"><label>34</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>van Schaik</surname><given-names>C. P.</given-names></name></person-group>, 
+<article-title>Animal culture: Chimpanzee conformity?</article-title> <source>Curr. Biol.</source> 
+<volume>22</volume>, 
+<fpage>R402</fpage> (<year>2012</year>). <pub-id pub-id-type="doi">10.1016/j.cub.2012.04.001</pub-id><pub-id pub-id-type="pmid">22625856</pub-id></citation></ref>
+<ref id="R35"><label>35</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kottek</surname><given-names>M.</given-names></name><name><surname>Grieser</surname><given-names>J.</given-names></name><name><surname>Beck</surname><given-names>C.</given-names></name><name><surname>Rudolf</surname><given-names>B.</given-names></name><name><surname>Rubel</surname><given-names>F.</given-names></name></person-group>, 
+<article-title>World Map of the K&#x00F6;ppen-Geiger climate classification updated</article-title>. <source>Meteorol. Z.</source> 
+<volume>15</volume>, 
+<fpage>259</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1127/0941-2948/2006/0130</pub-id></citation></ref>
+<ref id="R36"><label>36</label><citation citation-type="book">L. Mucina, M. Rutherford, <italic>The Vegetation of South Africa, Lesotho and Swaziland</italic> (Strelitzia 19. South African National Biodiversity Institute, Pretoria, 2006).</citation></ref>
+<ref id="R37"><label>37</label><citation citation-type="thesis">S. Mercier, <italic>Food Distribution and Home Range Use in Wild Vervet Monkeys </italic>(<italic>Cercopithecus aethiops pygerythrus</italic>)<italic>: Basic Data for the Study of Group Foraging Traditions</italic>, thesis, Univ. of Neuch&#x00E2;tel (2011).</citation></ref>
+<ref id="R38"><label>38</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Morgan</surname><given-names>T. J. H.</given-names></name><name><surname>Laland</surname><given-names>K. N.</given-names></name></person-group>, 
+<article-title>The biological basis of conformity</article-title>. <source>Front. Neurosci.</source> 
+<volume>6</volume>, 
+<fpage>87</fpage> (<year>2012</year>). <pub-id pub-id-type="doi">10.3389/fnins.2012.00087</pub-id></citation></ref>
+<ref id="R39"><label>39</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Haun</surname><given-names>D. B. M.</given-names></name><name><surname>van Leeuwen</surname><given-names>E. J. C.</given-names></name><name><surname>Edelson</surname><given-names>M. G.</given-names></name></person-group>, 
+<article-title>Majority influence in children and other animals</article-title>. <source>Dev. Cogn. Neurosci.</source> 
+<volume>3</volume>, 
+<fpage>61</fpage> (<year>2013</year>). <pub-id pub-id-type="doi">10.1016/j.dcn.2012.09.003</pub-id><pub-id pub-id-type="pmid">23245221</pub-id></citation></ref>
+</ref-list>
+<ack>
+<title>Acknowledgments</title><p>This project was supported by a Sinergia grant (CRSI33_133040) from the Swiss National Science Foundation to R. Bshary, C. P. van Schaik, and A.W. We are grateful to K. van der Walt for permission to conduct the study in his reserve and A. Driescher for support in the field. The study was registered with Ezemvelo KZN Wildlife in South Africa and gained approval from the Ethics Committee of the School of Psychology and Neuroscience, University of St Andrews. We are grateful to J. Arsenau, A. Brotz, S. Delley, K. Gordon, M. Mignini, Z. Mills, S. Salcedo, T. Sharky, A. Taucher, K. Vega, L. Violetti, and J. Watzek for assistance in data collection during experimental trials. We thank C. van Schaik, R. Bshary, N. Claidi&#x00E8;re, and E. Willems for comments on the manuscript. All data are publically available in the supplementary materials.</p>
+</ack></back>
+</article>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1232870</article-id>
+<article-id pub-id-type="doi">10.1126/science.1232870</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Report</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Reports</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>reports</subject></subj-group>
+<subj-group subj-group-type="field"><subject>ECOLOGY</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Sociology</subject><subject>Evolution</subject><subject>Atmospheric-Science</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Population Growth in a Wild Bird Is Buffered Against Phenological Mismatch</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Reed</surname><given-names>Thomas E.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="corresp" rid="cor1">*</xref></contrib> <contrib contrib-type="author"><name><surname>Gr&#x00F8;tan</surname><given-names>Vidar</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Jenouvrier</surname><given-names>Stephanie</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib> <contrib contrib-type="author"><name><surname>S&#x00E6;ther</surname><given-names>Bernt-Erik</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Visser</surname><given-names>Marcel E.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib>
+<aff id="aff1"><label>1</label>Department of Animal Ecology, Netherlands Institute of Ecology (NIOO-KNAW), Post Office Box 50, 6700AB Wageningen, Netherlands.</aff>
+<aff id="aff2"><label>2</label>Centre for Conservation Biology, Department of Biology, Norwegian University of Science and Technology, NO-7491, Trondheim, Norway.</aff>
+<aff id="aff3"><label>3</label>Woods Hole Oceanographic Institution, Woods Hole, MA 02543, USA.</aff>
+<aff id="aff4"><label>4</label>Centre d&#x2019;Etudes Biologiques de Chize, Centre National de la Recherche Scientifique, F-79360 Villiers en Bois, France.</aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>Corresponding author. E-mail: <email xlink:href="t.reed@nioo.knaw.nl">t.reed@nioo.knaw.nl</email></corresp></author-notes>
+<pub-date pub-type="ppub"><day>26</day><month>04</month><year>2013</year></pub-date>
+<volume>340</volume>
+<issue>6131</issue>
+<fpage>488</fpage>
+<lpage>491</lpage>
+<history><date date-type="received"><day>16</day><month>11</month><year>2012</year></date><date date-type="accepted"><day>21</day><month>02</month><year>2013</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="editor"><title>Balancing Act</title><p>Life cycles are strongly influenced by seasonal and interannual environmental and climate events. Such phenological timings are likely to shift as our climate changes, but species exist in communities, and not all species can be expected to shift in concert. <bold>Reed <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="340" issue="6131" page="488">488</related-article>) used long-term data on European great tits to reveal how the negative consequences of phenological mismatch can be buffered: Lower fitness in individuals subject to mismatch-driven reductions of food availability was balanced by reductions in competition. Thus, overall, the population is resilient and has not declined.</p></abstract>
+<abstract abstract-type="teaser"><p>Warmer springtimes have induced great tits to lay their eggs earlier without affecting long-term fitness.</p></abstract>
+<abstract>
+<p>Broad-scale environmental changes are altering patterns of natural selection in the wild, but few empirical studies have quantified the demographic cost of sustained directional selection in response to these changes. We tested whether population growth in a wild bird is negatively affected by climate change&#x2013;induced phenological mismatch, using almost four decades of individual-level life-history data from a great tit population. In this population, warmer springs have generated a mismatch between the annual breeding time and the seasonal food peak, intensifying directional selection for earlier laying dates. Interannual variation in population mismatch has not, however, affected population growth. We demonstrated a mechanism contributing to this uncoupling, whereby fitness losses associated with mismatch are counteracted by fitness gains due to relaxed competition. These findings imply that natural populations may be able to tolerate considerable maladaptation driven by shifting climatic conditions without undergoing immediate declines.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Sacha Vignieri</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Cara Tate</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>When environments change over time, individuals with extreme trait values can have higher fitness in the new environment, and thus directional selection toward that end of the phenotype distribution will occur (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). Given a heritable basis to trait variation, evolutionary responses may ensue (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>), but a major concern is that the rate of environmental change might outstrip the pace of evolutionary adaptation, thereby threatening the persistence of populations and species (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>, <xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). Theoretical models have explored this problem by framing the issue in terms of fitness landscapes, where environmental change causes the fitness optimum to shift through trait space (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>&#x2013;<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>), rendering the population less well-adapted to its environment as compared to the situation before the change. As the lag between mean phenotype and optimum phenotype increases, the strength of directional selection toward the optimum intensifies, but the population is also expected to accrue an increasing &#x201C;lag load,&#x201D; or demographic cost, in terms of reduced mean fitness (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>&#x2013;<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>). Despite the central importance of these concepts in ecoevolutionary theory and conservation biology (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>, <xref ref-type="bibr" rid="R11"><italic>11</italic></xref>, <xref ref-type="bibr" rid="R12"><italic>12</italic></xref>), empirical studies quantifying the demographic cost of selection in wild populations are lacking [but see (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>)].</p>
+<p>Climate change can disrupt preexisting synchrony between interacting species in the seasonal timing (i.e., phenology) of their life-history events (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>). For example, phenological mismatches between predators and prey are expected to affect both the demography of predator populations (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>) and selection pressures on traits affecting phenology (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>), providing an ideal opportunity to characterize the demographic cost of selection. We studied great tits (<italic>Parus major</italic>) in the Netherlands in relation to the phenology of their caterpillar food supply. This part of Western Europe has experienced substantial spring warming in recent decades related to global climate change (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>). Great tits rely on caterpillars to feed their chicks and strive to match their breeding time with the pronounced seasonal peak in caterpillar biomass, which enhances offspring survival (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>&#x2013;<xref ref-type="bibr" rid="R19"><italic>19</italic></xref>). Previous studies illustrated how climate change has produced a steadily increasing mismatch between great tit and caterpillar phenology in our study area, because the caterpillar food peak has advanced in response to rising spring temperatures at more than twice the rate of great tit laying dates (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>, <xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). When temperatures during the period after great tits have laid their eggs (late spring) are high, the mismatch is larger (by 2.96 &#x00B1; 0.43 days per 1&#x00B0;C increase, <italic>F</italic><sub>1,36</sub> = 47.40, <italic>P </italic>&lt; 0.001), because caterpillars develop faster under warmer conditions (<xref ref-type="bibr" rid="R19"><italic>19</italic></xref>) and hence the food peak is early relative to the great tit nestling phase. The greater this mismatch, the stronger is directional selection for earlier laying dates (linear regression slope = &#x2013;0.007 &#x00B1; 0.003, <italic>F</italic><sub>1,36</sub> = 5.066, <italic>P = </italic>0.031).</p>
+<p>If phenological mismatch has detrimental fitness consequences, we expect a negative relationship between annual population growth and population mismatch (<italic>PM</italic>); i.e., reduced population growth in years when breeding is late relative to the food peak. However, there were no statistically significant linear (<italic>F</italic><sub>1,36</sub> = 0.277, <italic>P </italic>= 0.602) nor quadratic (<italic>F</italic><sub>2,35</sub> = 0.179, <italic>P </italic>= 0.602) effects of <italic>PM</italic> on population growth (<xref ref-type="fig" rid="F1">Fig. 1A</xref>). Moreover, there was no relationship between population growth and directional selection strength (<xref ref-type="fig" rid="F1">Fig. 1B</xref>; linear regression: <italic>F</italic><sub>1,36</sub> = 0.040, <italic>P = </italic>0.842; quadratic regression: <italic>F</italic><sub>2,35</sub> = 0.956, <italic>P =</italic> 0.394), implying that mistiming (the deviation between mean laying dates and the moving fitness optimum) did not depress mean fitness. To explore this apparent uncoupling between population growth and <italic>PM</italic> in more detail using individual-level demographic data, we defined a fitness variable <italic>W<sub>i</sub></italic><sub>,&#x03C4;</sub> = <italic>R<sub>i</sub></italic><sub>,&#x03C4;</sub> + <italic>S<sub>i</sub></italic><sub>,&#x03C4;</sub>, where <italic>R<sub>i</sub></italic><sub>,&#x03C4;</sub> was the number of female recruits per breeding female per year and <italic>S<sub>i</sub></italic><sub>,&#x03C4;</sub> was a binary variable indicating survival to breed again the next year (<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>, <xref ref-type="bibr" rid="R21"><italic>21</italic></xref>). We then fitted a generalized linear mixed-effects model (GLMM) (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>) with <italic>W<sub>i</sub></italic><sub>,&#x03C4;</sub> as the response variable and used it to test whether interannual variation in absolute fitness (which is strongly positively correlated with population growth, fig. S1) was associated with variation in <italic>PM</italic>. There were no statistically significant linear or quadratic effects of <italic>PM</italic>, even after controlling for the effects of interannual variation in beech nuts [a key winter food source (<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>)], breeding population size, and age structure (<xref ref-type="table" rid="T1">Table 1</xref>). This confirmed that between-year variation in phenological mismatch did not explain the observed variation in annual mean fitness and thus did not influence population growth.</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption>
+<p><bold>Population growth as a function of (A) annual population mismatch and (B) annual standardized selection gradient. </bold>(A) Positive values on the <italic>y</italic> axis indicate population increase, negative values indicate population decrease. Positive values on the <italic>x</italic> axis indicate years when mean breeding time is later than the food peak, negative values the opposite. (B) Positive selection gradients indicate selection for later laying dates, negative gradients indicate selection for earlier laying.</p>
+</caption><graphic xlink:href="340_488_F1"></graphic></fig>
+<table-wrap id="T1" position="float"><label>Table 1</label><caption>
+<p><bold>Results of the GLMM on fitness contributions to population growth (<italic>W<sub>i</sub></italic><sub>,&#x03C4;</sub>).</bold> All explanatory variables were mean- and variance-standardized before model fitting, hence effect sizes are directly comparable. None of the two-way interactions were significant (<italic>P &gt; </italic>0.05). A GLMM with Poisson errors and log-link function was used; estimates are on a log scale. Random effects were as follows: female identity variance component = &lt;0.001; year variance component = 0.046. Number of observations = 4177; groups: female identity = 2616; year = 38.</p>
+</caption>
+<table frame="above" rules="groups">
+<col width="40.41%" />
+<col width="15.68%" />
+<col width="13.01%" />
+<col width="14.09%" />
+<col width="16.81%" />
+<thead>
+<tr>
+<td valign="top" align="left" scope="row"></td>
+<td valign="top" align="center"><bold>Estimate</bold></td>
+<td valign="top" align="center"><bold>Standard error</bold></td>
+<td valign="top" align="center"><bold><italic>z</italic> value</bold></td>
+<td valign="top" align="center"><bold>Probability (&gt;|<italic>z</italic>|)</bold></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5" valign="top" align="center" scope="col"><italic>Significant fixed effects</italic></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Intercept</td>
+<td valign="top" align="center">&#x2013;0.615</td>
+<td valign="top" align="center">0.044</td>
+<td valign="top" align="center">&#x2013;14.001</td>
+<td valign="top" align="center">&lt;0.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Breeding density</td>
+<td valign="top" align="center">&#x2013;0.220</td>
+<td valign="top" align="center">0.046</td>
+<td valign="top" align="center">&#x2013;4.738</td>
+<td valign="top" align="center">&lt;0.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Beech crop</td>
+<td valign="top" align="center">0.185</td>
+<td valign="top" align="center">0.043</td>
+<td valign="top" align="center">4.354</td>
+<td valign="top" align="center">&lt;0.001</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Age structure</td>
+<td valign="top" align="center">&#x2013;0.094</td>
+<td valign="top" align="center">0.044</td>
+<td valign="top" align="center">&#x2013;2.159</td>
+<td valign="top" align="center">0.031</td>
+</tr>
+<tr>
+<td colspan="5" valign="top" align="center" scope="col"><italic>Nonsignificant fixed effects</italic></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Population mismatch</td>
+<td valign="top" align="center">&#x2013;0.054</td>
+<td valign="top" align="center">0.042</td>
+<td valign="top" align="center">&#x2013;1.260</td>
+<td valign="top" align="center">0.208</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Population mismatch<sup>2</sup></td>
+<td valign="top" align="center">0.040</td>
+<td valign="top" align="center">0.032</td>
+<td valign="top" align="center">1.254</td>
+<td valign="top" align="center">0.210</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Beech crop<sup>2</sup></td>
+<td valign="top" align="center">&#x2013;0.032</td>
+<td valign="top" align="center">0.054</td>
+<td valign="top" align="center">&#x2013;0.585</td>
+<td valign="top" align="center">0.558</td>
+</tr>
+</tbody></table></table-wrap>
+<p>These results present a conundrum: Why is population growth not lower in years when a large fraction of females lays too late? There are two reasons. The first is simply that the food peak is typically much narrower than the distribution of laying dates, and hence reproductive fitness cannot be high for all females each year. In years when the mean laying date was early relative to the food peak (negative <italic>PM</italic> years), early females produced fewer fledglings (<xref ref-type="fig" rid="F2">Fig. 2A</xref>) and fewer recruits (<xref ref-type="fig" rid="F2">Fig. 2B</xref>) than late females, whereas intermediate females had the highest reproductive output. In years when mean laying date was relatively late (positive <italic>PM</italic> years), late females had lower reproductive output than intermediate females, who in turn performed more poorly than the earliest females (<xref ref-type="fig" rid="F2">Fig. 2, A and B</xref>). Thus, the overall pattern of fecundity selection has shifted from stabilizing to directional as the population breeds increasingly late relative to the food peak, but average reproductive output has not been depressed appreciably. The patterns for viability selection (<xref ref-type="fig" rid="F2">Fig. 2C</xref>) are similar, except that in negative <italic>PM</italic> years the latest females have the highest survival, whereas in positive <italic>PM</italic> years they have the lowest survival, potentially because they pay higher energetic costs when provisioning their broods under conditions of food shortage (<xref ref-type="bibr" rid="R22"><italic>22</italic></xref>).</p>
+<fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption>
+<p><bold>Fitness components plotted against individual mismatch. </bold>(<bold>A</bold>) Mean number of fledglings, (<bold>B</bold>) mean number of female recruits, and (<bold>C</bold>) mean adult female survival per year plotted against individual mismatch. For illustrative purposes, data were grouped into negative mismatch years (<italic>n</italic> = 17 years, open circles), when the mean breeding time was earlier than the food peak, and positive mismatch years (<italic>n</italic> = 21 years, solid circles), when mean breeding time was later. Data were also binned along the <italic>x</italic> axis into three equally spaced categories, corresponding to early, intermediate, and late breeders. Error bars are SEM.</p>
+</caption><graphic xlink:href="340_488_F2"></graphic></fig>
+<p>The second reason is that reduced annual fledgling production associated with phenological mismatch (<xref ref-type="bibr" rid="R23"><italic>23</italic></xref>) is counterbalanced by improved post-independence survival of offspring, due to relaxed competition. The survival of juveniles is strongly density-dependent in our study population (<xref ref-type="bibr" rid="R23"><italic>23</italic></xref>, <xref ref-type="bibr" rid="R24"><italic>24</italic></xref>); consequently, the total number of new recruits to the breeding population each year is, in fact, unrelated to the number of fledglings produced the previous year (fig. S2). Fewer fledglings in years of strong mismatch, therefore, do not necessarily lead to fewer recruits overall (fig. S2), even though breeding time still determines which females produce the most recruits. Of the two explanations, this latter buffering mechanism is the most general, because density-dependent compensation (DDC) is a widespread phenomenon in natural populations. For example, sustainable harvesting of wildlife and fish populations is typically based on the premise that increased mortality due to harvest will be partially or fully offset by decreased natural mortality (or increased fecundity) after harvest because of reduced competition for food or territories (<xref ref-type="bibr" rid="R25"><italic>25</italic></xref>, <xref ref-type="bibr" rid="R26"><italic>26</italic></xref>). Our proposed mechanism is analogous, except that nestling mortality due to phenological mismatch (rather than harvest) reduces cohort size at the end of the breeding season, which in turn increases per-capita recruitment rates (fig. S2).</p>
+<p>The first mechanism implies that if <italic>PM</italic> were to increase further, directional selection would continue to intensify and mean fitness would eventually decrease (in the absence of an evolutionary response). The second mechanism implies, however, that the reduction in mean fitness would be much stronger if not for DDC. To illustrate the interaction between the two mechanisms, we simulated the stochastic population dynamics using the observed relationships between recruitment/survival and mismatch (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>), and projected the population forward in time under the same three scenarios of climate change as described in (<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>). For each scenario, predicted changes in <italic>PM</italic> were first calculated using output from models of great tit and caterpillar phenology described in (<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>) and then used as inputs to the current simulation model. The simulations showed that a gradual decline in population size would result if <italic>PM</italic> increases over the next century (assuming no evolutionary response and the same DDC in recruitment rates as observed in the historical data), with the decline being strongest under the most extreme scenario of climate change (<xref ref-type="fig" rid="F3">Fig. 3A</xref>). When DDC in recruitment rates was &#x2018;turned off&#x2019; in the simulations, the rate of population decline for each scenario became substantially stronger (<xref ref-type="fig" rid="F3">Fig. 3B</xref>). This demonstrates that DDC modulates the impacts of mismatch on population growth by partially buffering the population from otherwise more rapid declines.</p>
+<fig id="F3" position="float" fig-type="figure"><label>Fig. 3</label><caption>
+<title>Simulation model results when recruitment was (A) density-dependent and (B) density-independent.</title>
+<p>Results of the simulation model, in which stochastic population dynamics were projected under a control scenario of no climate change (black = no temporal trend in <italic>PM</italic>) and three scenarios of climate change (blue = mild, red = moderate, and green = strong). In (A), the observed relationship between recruitment and breeding density was used, whereas in (B) the slope of this relationship was set to zero (i.e., density dependence was &#x201C;turned off&#x201D;). Shown are median population sizes across 1000 simulations. The small inset graphs show inputted trends in <italic>PM</italic> corresponding to each climate change scenario.</p>
+</caption><graphic xlink:href="340_488_F3"></graphic></fig>
+<p>We found that increasing phenological mismatch driven by climate change had little effect on population growth rates over a study period of almost four decades, despite intensifying directional selection on laying dates. Population numbers therefore remained stable even though late spring temperatures increased by 3.7&#x00B0;C (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>). Density dependence within the life cycle partially buffered population growth rate against the negative effects of environmental change, in effect dampening the demographic cost of directional selection. Indeed, theory suggests that the magnitude of the lag load will depend on the form and strength of density regulation, as well as the magnitude of stochastic environmental fluctuations (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>). The DDC mechanism we describe here is therefore likely to be of general importance in a wide range of species. For example, Wilson and Arcese (<xref ref-type="bibr" rid="R29"><italic>29</italic></xref>) found that the population growth of song sparrows was not affected by year-to-year variation in the timing of breeding, despite the latter being strongly correlated with climate. They suggested, but did not demonstrate explicitly, that DDC in recruitment rates could explain this uncoupling. Similar buffering mechanisms might also play a role in dampening the effects of climate change on density-regulated mammal populations, although reductions in mean fitness may be unavoidable when large phenological changes occur (<xref ref-type="bibr" rid="R30"><italic>30</italic></xref>). Further studies characterizing the lag load in wild populations with different life histories will be crucial to understanding and predicting climate change impacts on population dynamics. Evolutionary adaptation will be critical for persistence in the long run (<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>), but our results imply that considerable directional selection might be demographically tolerable on decadal time scales without immediate population declines, effectively buying time for microevolution to restore adaptation.</p>
+</body>
+<back><app-group><app>
+<title>Supplementary Materials</title><supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/340/6131/488/DC1">www.sciencemag.org/cgi/content/full/340/6131/488/DC1</ext-link></p>
+<p>Materials and Methods</p>
+<p>Figs. S1 and S2</p>
+    <p>References (<xref ref-type="bibr" rid="R31"><italic>31</italic></xref>&#x2013;<xref ref-type="bibr" rid="R33"><italic>33</italic></xref>)</p></supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kingsolver</surname><given-names>J. G.</given-names></name><name><surname>Pfennig</surname><given-names>D. W.</given-names></name></person-group>, 
+<article-title>Patterns and power of phenotypic selection in nature</article-title>. <source>Bioscience</source> 
+<volume>57</volume>, 
+<fpage>561</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1641/B570706</pub-id></citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="book">D. S. Falconer, T. F. C. Mackay, <italic>Introduction to Quantitative Genetics</italic> (Longmans Green, Harlow, Essex, UK, ed. 4, 1996).</citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Visser</surname><given-names>M. E.</given-names></name></person-group>, 
+<article-title>Keeping up with a warming world; assessing the rate of adaptation to climate change</article-title>. <source>Proc. Biol. Sci.</source> 
+<volume>275</volume>, 
+<fpage>649</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1098/rspb.2007.0997</pub-id><pub-id pub-id-type="pmid">18211875</pub-id></citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Chevin</surname><given-names>L. M.</given-names></name><name><surname>Lande</surname><given-names>R.</given-names></name><name><surname>Mace</surname><given-names>G. M.</given-names></name></person-group>, 
+<article-title>Adaptation, plasticity, and extinction in a changing environment: Towards a predictive theory</article-title>. <source>PLoS Biol.</source> 
+<volume>8</volume>, 
+<fpage>e1000357</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1371/journal.pbio.1000357</pub-id><pub-id pub-id-type="pmid">20463950</pub-id></citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="book">M. Lynch, R. Lande, in <italic>Biotic Interactions and Global Change,</italic> P. M. Kareiva, J. G. Kingsolver, R. B. Huey, Eds. (Sinauer, Sunderland, MA, 1993), pp. 234&#x2013;250.</citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>B&#x00FC;rger</surname><given-names>R.</given-names></name><name><surname>Lynch</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Evolution and extinction in a changing environment: A quantitative-genetic analysis</article-title>. <source>Evolution</source> 
+<volume>49</volume>, 
+<fpage>151</fpage> (<year>1995</year>). <pub-id pub-id-type="doi">10.2307/2410301</pub-id></citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hellmann</surname><given-names>J. J.</given-names></name><name><surname>Pineda-Krch</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Constraints and reinforcement on adaptation under climate change: Selection of genetically correlated traits</article-title>. <source>Biol. Conserv.</source> 
+<volume>137</volume>, 
+<fpage>599</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1016/j.biocon.2007.03.018</pub-id></citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Lande</surname><given-names>R.</given-names></name></person-group>, 
+<article-title>Expected relative fitness and the adaptive topography of fluctuating selection</article-title>. <source>Evolution</source> 
+<volume>61</volume>, 
+<fpage>1835</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1111/j.1558-5646.2007.00170.x</pub-id><pub-id pub-id-type="pmid">17683427</pub-id></citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Lande</surname><given-names>R.</given-names></name><name><surname>Shannon</surname><given-names>S.</given-names></name></person-group>, 
+<article-title>The role of genetic variation in adaptation and population persistence in a changing environment</article-title>. <source>Evolution</source> 
+<volume>50</volume>, 
+<fpage>434</fpage> (<year>1996</year>). <pub-id pub-id-type="doi">10.2307/2410812</pub-id></citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Gomulkiewicz</surname><given-names>R.</given-names></name><name><surname>Holt</surname><given-names>R. D.</given-names></name></person-group>, 
+<article-title>When does evolution by natural selection prevent extinction?</article-title> <source>Evolution</source> 
+<volume>49</volume>, 
+<fpage>201</fpage> (<year>1995</year>). <pub-id pub-id-type="doi">10.2307/2410305</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kinnison</surname><given-names>M. T.</given-names></name><name><surname>Hairston</surname><given-names>N. G.</given-names></name></person-group>, 
+<article-title>Eco-evolutionary conservation biology: Contemporary evolution and the dynamics of persistence</article-title>. <source>Funct. Ecol.</source> 
+<volume>21</volume>, 
+<fpage>444</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1111/j.1365-2435.2007.01278.x</pub-id></citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="book">R. B&#x00FC;rger, C. Krall, in <italic>Evolutionary Conservation Biology,</italic> R. Ferriere, U. Dieckmann, D. Couvet, Eds. (Cambridge Univ. Press, Cambridge, 2004), pp. 171&#x2013;187.</citation></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hairston</surname><given-names>N. G.</given-names><suffix>Jr.</suffix></name><name><surname>Ellner</surname><given-names>S. P.</given-names></name><name><surname>Geber</surname><given-names>M. A.</given-names></name><name><surname>Yoshida</surname><given-names>T.</given-names></name><name><surname>Fox</surname><given-names>J. A.</given-names></name></person-group>, 
+<article-title>Rapid evolution and the convergence of ecological and evolutionary time</article-title>. <source>Ecol. Lett.</source> 
+<volume>8</volume>, 
+<fpage>1114</fpage> (<year>2005</year>). <pub-id pub-id-type="doi">10.1111/j.1461-0248.2005.00812.x</pub-id></citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Visser</surname><given-names>M. E.</given-names></name><name><surname>Both</surname><given-names>C.</given-names></name></person-group>, 
+<article-title>Shifts in phenology due to global climate change: The need for a yardstick</article-title>. <source>Proc. Biol. Sci.</source> 
+<volume>272</volume>, 
+<fpage>2561</fpage> (<year>2005</year>). <pub-id pub-id-type="doi">10.1098/rspb.2005.3356</pub-id><pub-id pub-id-type="pmid">16321776</pub-id></citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Miller-Rushing</surname><given-names>A. J.</given-names></name><name><surname>Hoye</surname><given-names>T. T.</given-names></name><name><surname>Inouye</surname><given-names>D. W.</given-names></name><name><surname>Post</surname><given-names>E.</given-names></name></person-group>, 
+<article-title>The effects of phenological mismatches on demography</article-title>. <source>Philos. Trans. R. Soc. London Ser. B</source> 
+<volume>365</volume>, 
+<fpage>3177</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1098/rstb.2010.0148</pub-id></citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Visser</surname><given-names>M. E.</given-names></name><name><surname>van Noordwijk</surname><given-names>A. J.</given-names></name><name><surname>Tinbergen</surname><given-names>J. M.</given-names></name><name><surname>Lessells</surname><given-names>C. M.</given-names></name></person-group>, 
+<article-title>Warmer springs lead to mistimed reproduction in great tits (Parus major)</article-title>. <source>Proc. R. Soc. London B Biol. Sci.</source> 
+<volume>265</volume>, 
+<fpage>1867</fpage> (<year>1998</year>). <pub-id pub-id-type="doi">10.1098/rspb.1998.0514</pub-id></citation></ref>
+<ref id="R17"><label>17</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Visser</surname><given-names>M. E.</given-names></name><name><surname>Holleman</surname><given-names>L. J. M.</given-names></name><name><surname>Gienapp</surname><given-names>P.</given-names></name></person-group>, 
+<article-title>Shifts in caterpillar biomass phenology due to climate change and its impact on the breeding biology of an insectivorous bird</article-title>. <source>Oecologia</source> 
+<volume>147</volume>, 
+<fpage>164</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1007/s00442-005-0299-6</pub-id><pub-id pub-id-type="pmid">16328547</pub-id></citation></ref>
+<ref id="R18"><label>18</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Charmantier</surname><given-names>A.</given-names></name><etal /></person-group>., 
+<article-title>Adaptive phenotypic plasticity in response to climate change in a wild bird population</article-title>. <source>Science</source> 
+<volume>320</volume>, 
+<fpage>800</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1126/science.1157174</pub-id><pub-id pub-id-type="pmid">18467590</pub-id></citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>van Noordwijk</surname><given-names>A. J.</given-names></name><name><surname>McCleery</surname><given-names>R. H.</given-names></name><name><surname>Perrins</surname><given-names>C. M.</given-names></name></person-group>, 
+<article-title>Selection for the timing of great tit breeding in relation to caterpillar growth and temperature</article-title>. <source>J. Anim. Ecol.</source> 
+<volume>64</volume>, 
+<fpage>451</fpage> (<year>1995</year>). <pub-id pub-id-type="doi">10.2307/5648</pub-id></citation></ref>
+<ref id="R20"><label>20</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Gr&#x00F8;tan</surname><given-names>V.</given-names></name><etal /></person-group>., 
+<article-title>Spatial and temporal variation in the relative contribution of density dependence, climate variation and migration to fluctuations in the size of great tit populations</article-title>. <source>J. Anim. Ecol.</source> 
+<volume>78</volume>, 
+<fpage>447</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1111/j.1365-2656.2008.01488.x</pub-id><pub-id pub-id-type="pmid">19302127</pub-id></citation></ref>
+<ref id="R21"><note><label>21</label>
+<p>Materials and methods are available as supplementary materials on <italic>Science</italic> Online.</p></note></ref>
+<ref id="R22"><label>22</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Thomas</surname><given-names>D. W.</given-names></name><name><surname>Blondel</surname><given-names>J.</given-names></name><name><surname>Perret</surname><given-names>P.</given-names></name><name><surname>Lambrechts</surname><given-names>M. M.</given-names></name><name><surname>Speakman</surname><given-names>J. R.</given-names></name></person-group>, 
+<article-title>Energetic and fitness costs of mismatching resource supply and demand in seasonally breeding birds</article-title>. <source>Science</source> 
+<volume>291</volume>, 
+<fpage>2598</fpage> (<year>2001</year>). <pub-id pub-id-type="doi">10.1126/science.1057487</pub-id><pub-id pub-id-type="pmid">11283370</pub-id></citation></ref>
+<ref id="R23"><label>23</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Reed</surname><given-names>T. E.</given-names></name><name><surname>Jenouvrier</surname><given-names>S.</given-names></name><name><surname>Visser</surname><given-names>M. E.</given-names></name></person-group>, 
+<article-title>Phenological mismatch strongly affects individual fitness but not population demography in a woodland passerine</article-title>. <source>J. Anim. Ecol.</source> 
+<volume>82</volume>, 
+<fpage>131</fpage> (<year>2013</year>). <pub-id pub-id-type="doi">10.1111/j.1365-2656.2012.02020.x</pub-id><pub-id pub-id-type="pmid">22862682</pub-id></citation></ref>
+<ref id="R24"><label>24</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Both</surname><given-names>C.</given-names></name><name><surname>Visser</surname><given-names>M. E.</given-names></name><name><surname>Verboven</surname><given-names>N.</given-names></name></person-group>, 
+<article-title>Density-dependent recruitment rates in great tits: the importance of being heavier</article-title>. <source>Proc. R. Soc. London B Biol. Sci.</source> 
+<volume>266</volume>, 
+<fpage>465</fpage> (<year>1999</year>). <pub-id pub-id-type="doi">10.1098/rspb.1999.0660</pub-id></citation></ref>
+<ref id="R25"><label>25</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Boyce</surname><given-names>M. S.</given-names></name><name><surname>Sinclair</surname><given-names>A.</given-names></name><name><surname>White</surname><given-names>G. C.</given-names></name></person-group>, 
+<article-title>Seasonal compensation of predation and harvesting</article-title>. <source>Oikos</source> 
+<volume>87</volume>, 
+<fpage>419</fpage> (<year>1999</year>). <pub-id pub-id-type="doi">10.2307/3546808</pub-id></citation></ref>
+<ref id="R26"><label>26</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Rose</surname><given-names>K. A.</given-names></name><name><surname>Cowan</surname><given-names>J. H.</given-names></name><name><surname>Winemiller</surname><given-names>K. O.</given-names></name><name><surname>Myers</surname><given-names>R. A.</given-names></name><name><surname>Hilborn</surname><given-names>R.</given-names></name></person-group>, 
+<article-title>Compensatory density dependence in fish populations: importance, controversy, understanding and prognosis</article-title>. <source>Fish Fish.</source> 
+<volume>2</volume>, 
+<fpage>293</fpage> (<year>2001</year>). <pub-id pub-id-type="doi">10.1046/j.1467-2960.2001.00056.x</pub-id></citation></ref>
+<ref id="R27"><label>27</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Gienapp</surname><given-names>P.</given-names></name><etal /></person-group>., 
+<article-title>Predicting demographically sustainable rates of adaptation: Can great tit breeding time keep pace with climate change?</article-title> <source>Philos. Trans. R. Soc. London Ser. B</source> 
+<volume>368</volume>, 
+<fpage>20120289</fpage> (<year>2013</year>). <pub-id pub-id-type="doi">10.1098/rstb.2012.0289</pub-id><pub-id pub-id-type="pmid">23209174</pub-id></citation></ref>
+<ref id="R28"><label>28</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Lande</surname><given-names>R.</given-names></name><name><surname>Engen</surname><given-names>S.</given-names></name><name><surname>Saether</surname><given-names>B. E.</given-names></name></person-group>, 
+<article-title>An evolutionary maximum principle for density-dependent population dynamics in a fluctuating environment</article-title>. <source>Philos. Trans. R. Soc. London Ser. B</source> 
+<volume>364</volume>, 
+<fpage>1511</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1098/rstb.2009.0017</pub-id></citation></ref>
+<ref id="R29"><label>29</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Wilson</surname><given-names>S.</given-names></name><name><surname>Arcese</surname><given-names>P.</given-names></name></person-group>, 
+<article-title>El Ni&#x00F1;o drives timing of breeding but not population growth in the song sparrow (<italic>Melospiza melodia</italic>)</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>100</volume>, 
+<fpage>11139</fpage> (<year>2003</year>). <pub-id pub-id-type="doi">10.1073/pnas.1931407100</pub-id><pub-id pub-id-type="pmid">12960365</pub-id></citation></ref>
+<ref id="R30"><label>30</label><citation citation-type="journal"><person-group person-group-type="author"><name>
+    <surname>Lane</surname><given-names>J. E.</given-names>
+</name><name>
+    <surname>Kruuk</surname><given-names>L. E. B.</given-names>
+</name><name>
+    <surname>Charmantier</surname><given-names>A.</given-names>
+</name><name>
+    <surname>Murie</surname><given-names>J. O.</given-names>
+</name><name>
+    <surname>Dobson</surname><given-names>F. S.</given-names>
+</name></person-group>, <source>Nature</source> <volume>489</volume>, <fpage>554</fpage> (<year>2012</year>).</citation></ref>
+<ref id="R31"><label>31</label><citation citation-type="book">A. Gosler, <italic>The Great Tit</italic> (Hamlyn, London, 1993).</citation></ref>
+<ref id="R32"><label>32</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Bauchau</surname><given-names>V.</given-names></name><name><surname>Van Noordwijk</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Comparison of survival estimates obtained from three different methods of recapture in the same population of the great tit</article-title>. <source>J. Appl. Stat.</source> 
+<volume>22</volume>, 
+<fpage>1031</fpage> (<year>1995</year>). <pub-id pub-id-type="doi">10.1080/02664769524775</pub-id></citation></ref>
+<ref id="R33"><label>33</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Schielzeth</surname><given-names>H.</given-names></name></person-group>, 
+<article-title>Simple means to improve the interpretability of regression coefficients</article-title>. <source>Methods Ecol. Evol.</source> 
+<volume>1</volume>, 
+<fpage>103</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1111/j.2041-21s0X.2010.00012.x</pub-id></citation></ref>
+</ref-list>
+<ack>
+<title>Acknowledgments</title><p>Stichting Nationaal Park De Hoge Veluwe kindly gave permission to work in their woodlands. The authors thank the many fieldworkers who have contributed to data collection over the years. M. Kinnison, R. Waples, K. Lessells, and P. Gienapp provided valuable comments. M.E.V. is supported by a Netherlands Organisation for Scientific Research&#x2013;VICI grant. M.E.V. supervised the long-term population study; T.E.R., M.E.V., B.-E.S., V.G., and S.J. conceived the questions and analyses; T.E.R. and V.G. analyzed the data; and T.E.R. and M.E.V. wrote the paper. Data, results, and the R code for the simulation model are available on Dryad (<ext-link ext-link-type="uri" xlink:href="http://datadryad.org">http://datadryad.org</ext-link>).</p>
+</ack></back>
+</article>

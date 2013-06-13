@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1236304</article-id>
+<article-id pub-id-type="doi">10.1126/science.1236304</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Perspective</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Perspectives</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>perspective</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Geophysics</subject></subj-group>
+<subj-group subj-group-type="field"><subject>GEOCHEM PHYS</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Applied-Physics</subject><subject>Materials-Science</subject><subject>Physics</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Melting Earth's Core</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Fei</surname><given-names>Yingwei</given-names></name></contrib>
+<aff>Geophysical Laboratory, Carnegie Institution of Washington, 5251 Broad Branch Road, NW, Washington, DC 20015, USA.</aff>
+</contrib-group>
+<author-notes>
+<corresp>E-mail: <email>fei@gl.ciw.edu</email></corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<day>26</day>
+<month>04</month>
+<year>2013</year>
+</pub-date>
+<volume>340</volume>
+<issue>6131</issue>
+<fpage>442</fpage>
+<lpage>443</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>Studies of melting iron at extreme temperature and pressure provide a better understanding of the temperature of Earth's core. <named-content content-type="related-content">[Also see Report by <related-article related-article-type="in-this-issue" vol="340" page="464" issue="6131">Anzellini <italic>et al.</italic></related-article>]</named-content></p>
+</abstract>
+<abstract abstract-type="excerpt">
+<p>Earth's predominantly iron core is under extreme pressures that range from 136 to 364 GPa (100 GPa &#x223C; 1 million atm). The core consists of an outer layer that is molten and a solid inner core. The temperature of the core region can be estimated if the melting temperature of iron under such extreme pressures can be determined. Pressures and temperatures corresponding to the conditions at the core can be generated in the laboratory by using two gem-quality single-crystal diamonds coupled with laser heating (see the figure). The challenge, however, is how to accurately determine the melting point under such extremes. On page 464 of this issue, Anzellini <italic>et al.</italic> (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>) use fast in situ synchrotron x-ray diffraction to study melting in the laser-heated diamond-anvil cell. The accurate determination of the melting temperature of iron provides an important constraint on the core temperature, which is essential to understanding how the dynamic Earth works, including its heat budget, generation of its magnetic field, and the thermal evolution of the planet.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Ian Osborne</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Harry Jach</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>Earth's predominantly iron core is under extreme pressures that range from 136 to 364 GPa (100 GPa &#x223C; 1 million atm). The core consists of an outer layer that is molten and a solid inner core. The temperature of the core region can be estimated if the melting temperature of iron under such extreme pressures can be determined. Pressures and temperatures corresponding to the conditions at the core can be generated in the laboratory by using two gem-quality single-crystal diamonds coupled with laser heating (see the figure). The challenge, however, is how to accurately determine the melting point under such extremes. On page <related-article related-article-type="in-this-issue" vol="340" page="464" issue="6131">464</related-article> of this issue, Anzellini <italic>et al.</italic> (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>) use fast in situ synchrotron x-ray diffraction to study melting in the laser-heated diamond-anvil cell. The accurate determination of the melting temperature of iron provides an important constraint on the core temperature, which is essential to understanding how the dynamic Earth works, including its heat budget, generation of its magnetic field, and the thermal evolution of the planet.</p>
+<p>The primary experimental methods used to induce the melting of iron at extreme pressures are dynamic shock compression with a light-gas gun (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>) and static compression in the diamond-anvil cell with laser heating (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>, <xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). Along the pressure-temperature path of shock-compression experiments, melting is detected as an abrupt decrease in the sound velocity with increasing shock pressure, but the shock-temperature determination is dependent on having an accurate thermodynamic model. By contrast, the temperature of melting in the laser-heated diamond-anvil cell can be directly determined from the thermal radiation spectrum. In addition to considerable uncertainties in temperature determination from the dynamic and static techniques, the data also present an unresolved inconsistency, with the melting temperature of iron determined by shock compression lying appreciably higher than those from static measurements. The discrepancy in the estimated temperature of the inner core boundary (ICB) at 330 GPa is as large as 2000 K, which could influence the conclusions of dynamic and thermal evolution models. Theoretical melting curves also show wide variations and, thus, are not sufficient to resolve the discrepancy (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>).</p>
+<p>Melting experiments at core pressures are challenging. Determinations of the melting temperature of iron by the static method have been limited to pressures below 200 GPa, which corresponds to only the top one-quarter of the core (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>, <xref ref-type="bibr" rid="R3"><italic>3</italic></xref>, <xref ref-type="bibr" rid="R4"><italic>4</italic></xref>, <xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). Accurate determination of the melting curve requires not only reliable measurements of pressure and temperature, but also objective, reproducible melting criteria. Anzellini <italic>et al.</italic> provide a valuable addition to the melting criteria at high pressure by coupling static compression with fast in situ synchrotron x-ray diffraction measurements. The fast x-ray diffraction technique provides continuous monitoring of the changes in iron as a function of temperature. Using the onset of a diffuse x-ray diffraction ring alone as the melting criterion could lead to an overestimation of the melting temperature, but the combined observations of the increase in the lattice parameters and the appearance of the diffuse diffraction peak provide an unambiguous determination of the melting point (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). The melting temperatures determined with this new technique are appreciably higher than previous static-compression measurements (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>), and slightly higher than previous in situ measurements at about 100 GPa (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>), and are in agreement with the shock wave dynamic shock-compression measurements and recent quantum Monte Carlo simulations (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>) and ab initio calculations (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>).</p>
+<p>The results reported by Anzellini <italic>et al.</italic> provide an independent measure toward resolving the discrepancy in the measured melting curve of iron at high pressure, but additional experiments based on other techniques are needed to ultimately address the issue. For instance, combining the fast in situ x-ray diffraction approach with ex situ chemical and textural characterizations of the quenched samples could be a powerful way to accurately determine the melting point and address the question of possible chemical contaminations or reactions during the experiments. Such an approach is necessary for constraining the temperature of the core because the iron-dominated core also contains some nickel and about 10 weight % of light elements such as sulfur, silicon, oxygen, carbon, and hydrogen (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>), which likely depress the melting curve of pure iron. Such a combination could also provide information about element partitioning between the coexisting solid and liquid phases. It is now possible to precisely mill a 20-&#x00B5;m laser-heated spot with a focused ion beam and, in turn, obtain high-resolution scanning electron microscope images of the heated spot and the chemical compositions of the coexisting phases with a highly efficient silicon drift detector, thus providing an unambiguous melting criterion. This integrated approach will yield a maximum amount of data from a core simulation experiment, resulting in a more complete understanding of the temperature and composition of Earth's core.</p>
+<fig id="F1" position="float">
+<caption>
+<title>Probing extremes.</title>
+<p>Melting Earth's core in the laboratory by using laser-heating technique in the diamond-anvil cell. The laser-heated diamond-anvil cell is used to simulate the conditions at Earth's core. Melting of core materials can be detected by in situ synchrotron x-ray diffraction and textural examination of the quenched samples.</p>
+</caption>
+<graphic xlink:href="340_442_F1"></graphic>
+</fig>
+<p>The work by Anzellini <italic>et al.</italic> represents an advance in melting temperature determination at ultrahigh pressure, with critical information about the structure and density of the solid phase right before melting. The ultimate challenge for determining the temperature of the core is to obtain not only the melting temperatures of iron but also the light-element partitioning between liquid and solid iron at 330 GPa. This can only be achieved by further improving techniques that generate stable, simultaneous high pressures and temperatures corresponding to the conditions at the ICB, along with in situ x-ray diffraction and spectroscopic observations and ex situ characterizations of chemical composition and melting texture.</p>
+</body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Anzellini</surname><given-names>S.</given-names></name><name><surname>Dewaele</surname><given-names>A.</given-names></name><name><surname>Mezouar</surname><given-names>M.</given-names></name><name><surname>Loubeyre</surname><given-names>P.</given-names></name><name><surname>Morard</surname><given-names>G.</given-names></name></person-group>, <source>Science</source> <volume>340</volume>, <fpage>464</fpage> (<year>2013</year>).</citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Brown</surname><given-names>J. M.</given-names></name><name><surname>McQueen</surname><given-names>R. G.</given-names></name></person-group>, <source>J. Geophys. Res.</source> <volume>91</volume>, <fpage>7485</fpage> (<year>1986</year>).</citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Boehler</surname><given-names>R.</given-names></name></person-group>, <source>Nature</source> <volume>363</volume>, <fpage>534</fpage> (<year>1993</year>).</citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hemley</surname><given-names>R. J.</given-names></name><name><surname>Mao</surname><given-names>H. K.</given-names></name></person-group>, <source>Int. Geol. Rev.</source> <volume>43</volume>, <fpage>1</fpage> (<year>2001</year>).</citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Komabayashi</surname><given-names>T.</given-names></name><name><surname>Fei</surname><given-names>Y.</given-names></name></person-group>, <source>J. Geophys. Res.</source> <volume>115</volume>, <fpage>B03202</fpage> (<year>2010</year>).</citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Williams</surname><given-names>Q.</given-names></name><name><surname>Jeanloz</surname><given-names>R.</given-names></name><name><surname>Bass</surname><given-names>J.</given-names></name><name><surname>Svendsen</surname><given-names>B.</given-names></name><name><surname>Ahrens</surname><given-names>T. J.</given-names></name></person-group>, <source>Science</source> <volume>236</volume>, <fpage>181</fpage> (<year>1987</year>).</citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Sola</surname><given-names>E.</given-names></name><name><surname>Alf&#x00E8;</surname><given-names>D.</given-names></name></person-group>, <source>Phys. Rev. Lett.</source> <volume>103</volume>, <fpage>078501</fpage> (<year>2009</year>).</citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Alf&#x00E8;</surname><given-names>D.</given-names></name><name><surname>Price</surname><given-names>G. D.</given-names></name><name><surname>Gillan</surname><given-names>M. J.</given-names></name></person-group>, <source>Phys. Rev. B</source> <volume>65</volume>, <fpage>165118</fpage> (<year>2002</year>).</citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Birch</surname><given-names>F.</given-names></name></person-group>, <source>J. Geophys. Res.</source> <volume>69</volume>, <fpage>4377</fpage> (<year>1964</year>).</citation>
+</ref>
+</ref-list>
+</back>
+</article>

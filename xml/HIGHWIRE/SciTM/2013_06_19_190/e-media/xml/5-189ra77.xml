@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">STM</journal-id>
+<journal-title>Science Translational Medicine</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Sci. Transl. Med.</abbrev-journal-title>
+<issn pub-type="ppub">1946-6234</issn><issn pub-type="epub">1946-6242</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">3005615</article-id>
+<article-id pub-id-type="doi">10.1126/scitranslmed.3005615</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Research Article</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>STM r-articles</subject></subj-group>
+<subj-group subj-group-type="field"><subject>MEDICINE</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Alzheimer&#x2019;s Disease</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Increased in Vivo Amyloid-&#x03B2;42 Production, Exchange, and Loss in Presenilin Mutation Carriers</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Potter</surname><given-names>Rachel</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="fn" rid="afn1">*</xref></contrib> <contrib contrib-type="author"><name><surname>Patterson</surname><given-names>Bruce W.</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref ref-type="fn" rid="afn1">*</xref></contrib> <contrib contrib-type="author"><name><surname>Elbert</surname><given-names>Donald L.</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Ovod</surname><given-names>Vitaliy</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Kasten</surname><given-names>Tom</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Sigurdson</surname><given-names>Wendy</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Mawuenyega</surname><given-names>Kwasi</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Blazey</surname><given-names>Tyler</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref><xref ref-type="aff" rid="aff5"><sup>5</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Goate</surname><given-names>Alison</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref><xref ref-type="aff" rid="aff6"><sup>6</sup></xref><xref ref-type="aff" rid="aff7"><sup>7</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Chott</surname><given-names>Robert</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Yarasheski</surname><given-names>Kevin E.</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Holtzman</surname><given-names>David M.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff4"><sup>4</sup></xref><xref ref-type="aff" rid="aff6"><sup>6</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Morris</surname><given-names>John C.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff4"><sup>4</sup></xref><xref ref-type="aff" rid="aff6"><sup>6</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Benzinger</surname><given-names>Tammie L. S.</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref><xref ref-type="aff" rid="aff5"><sup>5</sup></xref><xref ref-type="aff" rid="aff8"><sup>8</sup></xref></contrib> <contrib contrib-type="author" corresp="yes"><name><surname>Bateman</surname><given-names>Randall J.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff4"><sup>4</sup></xref><xref ref-type="aff" rid="aff6"><sup>6</sup></xref><xref ref-type="corresp" rid="cor1">&#x2020;</xref></contrib>
+<aff id="aff1"><label>1</label>Department of Neurology, Washington University School of Medicine, 660 South Euclid Avenue, St. Louis, MO 63110, USA.</aff>
+<aff id="aff2"><label>2</label>Department of Medicine, Washington University School of Medicine, St. Louis, MO 63110, USA.</aff>
+<aff id="aff3"><label>3</label>Department of Biomedical Engineering, Washington University in St. Louis, One Brookings Drive, St. Louis, MO 63130, USA.</aff>
+<aff id="aff4"><label>4</label>Knight Alzheimer&#x2019;s Disease Research Center, Washington University School of Medicine, St. Louis, MO 63110, USA.</aff>
+<aff id="aff5"><label>5</label>Department of Radiology, Washington University School of Medicine, St. Louis, MO 63110, USA.</aff>
+<aff id="aff6"><label>6</label>Hope Center for Neurological Disorders, Washington University School of Medicine, St. Louis, MO 63110, USA.</aff>
+<aff id="aff7"><label>7</label>Department of Psychiatry, Washington University School of Medicine, St. Louis, MO 63110, USA.</aff>
+<aff id="aff8"><label>8</label>Department of Neurological Surgery, Washington University School of Medicine, St. Louis, MO 63110, USA.</aff>
+</contrib-group>
+<author-notes>
+<fn id="afn1"><label>*</label>
+<p>These authors contributed equally to this work.</p></fn>
+<corresp id="cor1"><label>&#x2020;</label>Corresponding author. E-mail: <email xlink:href="batemanr@wustl.edu">batemanr@wustl.edu</email></corresp></author-notes>
+<pub-date pub-type="ppub"><day>12</day><month>06</month><year>2013</year></pub-date>
+<volume>5</volume>
+<issue>189</issue>
+<fpage>189ra77</fpage>
+<lpage>189ra77</lpage><history><date date-type="received"><day>31</day><month>12</month><year>2012</year></date><date date-type="accepted"><day>24</day><month>05</month><year>2013</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>A&#x03B2;42 kinetics are altered in the central nervous system of patients with autosomal dominant Alzheimer&#x2019;s disease.</p>
+</abstract>
+<abstract abstract-type="editor">
+<title>A&#x03B2;42: A Cycle of Gain and Loss</title>
+<p>The amyloid hypothesis of Alzheimer&#x2019;s disease (AD) proposes that increased production or impaired clearance of A&#x03B2;42 peptide causes deposition of amyloid in plaques, nerve destruction, and ultimately AD dementia. Animal model studies based on human autosomal dominant mutations have shown that increasing the production of A&#x03B2; peptides, especially A&#x03B2;42, can recapitulate amyloidosis. Potter <italic>et al.</italic> have now used a stable isotope labeling kinetics (SILK) approach to measure A&#x03B2; isoform kinetics to test specific hypotheses regarding the production rates of the A&#x03B2;38, A&#x03B2;40, and A&#x03B2;42 peptides in individuals carrying autosomal dominant AD mutations and related noncarriers. The authors found an increased A&#x03B2;42 production rate in AD mutation carriers that was ~25% higher than that in noncarriers. In addition to increased production rates, the authors unexpectedly found altered A&#x03B2;42 kinetics in mutation carriers that indicated both a reversible exchange pool and increased irreversible loss. Future studies could quantify the effects of proposed disease-modifying drugs to normalize altered A&#x03B2; kinetics and provide a metric to gauge target engagement for therapeutic trials.</p>
+</abstract>
+<abstract>
+<p>Alzheimer&#x2019;s disease (AD) is hypothesized to be caused by an overproduction or reduced clearance of amyloid-&#x03B2; (A&#x03B2;) peptide. Autosomal dominant AD (ADAD) caused by mutations in the presenilin (<italic>PSEN</italic>) gene have been postulated to result from increased production of A&#x03B2;42 compared to A&#x03B2;40 in the central nervous system (CNS). This has been demonstrated in rodent models of ADAD but not in human mutation carriers. We used compartmental modeling of stable isotope labeling kinetic (SILK) studies in human carriers of <italic>PSEN</italic> mutations and related noncarriers to evaluate the pathophysiological effects of <italic>PSEN1</italic> and <italic>PSEN2</italic> mutations on the production and turnover of A&#x03B2; isoforms. We compared these findings by mutation status and amount of fibrillar amyloid deposition as measured by positron emission tomography (PET) using the amyloid tracer Pittsburgh compound B (PIB). CNS A&#x03B2;42 to A&#x03B2;40 production rates were 24% higher in mutation carriers compared to noncarriers, and this was independent of fibrillar amyloid deposits quantified by PET PIB imaging. The fractional turnover rate of soluble A&#x03B2;42 relative to A&#x03B2;40 was 65% faster in mutation carriers and correlated with amyloid deposition, consistent with increased deposition of A&#x03B2;42 into plaques, leading to reduced recovery of A&#x03B2;42 in cerebrospinal fluid (CSF). Reversible exchange of A&#x03B2;42 peptides with preexisting unlabeled peptide was observed in the presence of plaques. These findings support the hypothesis that A&#x03B2;42 is overproduced in the CNS of humans with <italic>PSEN</italic> mutations that cause AD, and demonstrate that soluble A&#x03B2;42 turnover and exchange processes are altered in the presence of amyloid plaques, causing a reduction in A&#x03B2;42 concentrations in the CSF.</p>
+</abstract>
+<custom-meta-wrap>
+<custom-meta><meta-name>Editor</meta-name><meta-value>Orla Smith</meta-value></custom-meta>
+<custom-meta><meta-name>Copyeditor</meta-name><meta-value>SPI</meta-value></custom-meta>
+</custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<sec sec-type="introduction" disp-level="1">
+<title>Introduction</title>
+<p>The pathogenic causes of Alzheimer&#x2019;s disease (AD) are not fully understood, partly due to the difficulty in demonstrating the steps that lead to dementia in humans. However, rare autosomal dominant AD (ADAD) can be predicted with nearly 100% certainty in individuals with specific mutations in the genes encoding presenilin 1 (<italic>PSEN1</italic>), presenilin 2 (<italic>PSEN2</italic>), or the amyloid precursor protein (APP) (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). Recent findings suggest that a series of pathophysiological changes occur in the brains of ADAD mutation carriers decades before clinical dementia manifests (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>). The amyloid hypothesis (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>) predicts that AD is caused by increased production or decreased clearance of amyloid-&#x03B2; (A&#x03B2;) in the brain, resulting in amyloidosis and a pathological hallmark of AD, amyloid plaques. A&#x03B2; is produced from the C-terminal fragment of APP by cleavage of APP by &#x03B2;-secretase to form C99, followed by cleavage of C99 by <italic>PSEN1</italic> or <italic>PSEN2</italic>, the enzymatic components of &#x03B3;-secretase (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). The principal peptide produced by &#x03B3;-secretase is a 40&#x2013;amino acid peptide (A&#x03B2;40), but this enzymatic cleavage lacks specificity and peptides ranging in length from 38 to 43 amino acids are produced (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>). A&#x03B2;42 has attracted considerable attention because it has greater amyloidogenic properties and is the principal component of amyloid plaques (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). In support of the amyloid hypothesis, an APP mutation that reduces A&#x03B2; production is associated with a strong protective effect against AD (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>), whereas duplication of <italic>APP</italic> or mutations that are thought to increase total A&#x03B2; species or A&#x03B2;42 relative to A&#x03B2;40 cause dominantly inherited AD (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>&#x2013;<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>). In cell culture and in plasma from human ADAD participants, <italic>PSEN</italic> mutations have been reported to increase the A&#x03B2;42/A&#x03B2;40 ratio (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>&#x2013;<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>), which is hypothesized to increase the risk of amyloidosis (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>). However, others have found that neither the A&#x03B2;42/A&#x03B2;40 ratio nor A&#x03B2;42 concentrations are increased in vitro (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>). Furthermore, findings of reduced A&#x03B2;42 concentrations in the cerebrospinal fluid (CSF) of ADAD participants (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>, <xref ref-type="bibr" rid="R17"><italic>17</italic></xref>) do not directly support the hypothesis that increased A&#x03B2;42 production is an etiological mechanism in dominantly inherited AD.</p>
+<p>We previously used stable isotope labeling kinetics (SILK) to examine the turnover kinetics of A&#x03B2; in sporadic late-onset AD (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>). Both sporadic AD and ADAD are associated with lower CSF A&#x03B2;42 concentrations and A&#x03B2;42/A&#x03B2;40 ratios (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>, <xref ref-type="bibr" rid="R17"><italic>17</italic></xref>, <xref ref-type="bibr" rid="R19"><italic>19</italic></xref>&#x2013;<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>). However, <italic>PSEN</italic> mutations in ADAD are hypothesized to cause increased A&#x03B2;42 production (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>, <xref ref-type="bibr" rid="R12"><italic>12</italic></xref>, <xref ref-type="bibr" rid="R22"><italic>22</italic></xref>), although direct evidence for increased in vivo production of A&#x03B2;42 in humans has not been reported.</p>
+<p>We hypothesized that the central nervous system (CNS) A&#x03B2;42/A&#x03B2;40 production rate ratio is increased in <italic>PSEN1</italic> and <italic>PSEN2</italic> mutation carriers compared to noncarriers. To address this hypothesis, we performed in vivo SILK studies in participants with ADAD mutations and sibling noncarrier controls. A comprehensive compartmental model was developed to determine steady-state metabolic kinetic parameters including fractional turnover rates (FTRs) and production rates of A&#x03B2;38, A&#x03B2;40, and A&#x03B2;42 for each participant. The A&#x03B2; kinetic parameters were compared to the presence of a <italic>PSEN</italic> mutation and insoluble amyloid deposition, which was measured by positron emission tomography (PET) imaging of Pittsburgh compound B (PIB).</p>
+</sec>
+<sec sec-type="results" disp-level="1">
+<title>Results</title>
+<p>SILK was performed in 11 individuals who carry mutations in <italic>PSEN</italic> associated with ADAD and in 12 sibling control persons who do not carry <italic>PSEN</italic> mutations. PIB-PET imaging (<xref ref-type="bibr" rid="R23"><italic>23</italic></xref>) showed virtually no detectable amyloidosis in all noncarriers and in four of the mutation carriers (denoted PIB<sup>&#x2212;</sup>), and considerable amyloidosis in seven mutation carriers (denoted PIB<sup>+</sup>) (<xref ref-type="fig" rid="F1">Fig. 1A</xref>). A mean cortical binding potential (MCBP) score was calculated from the PET images to obtain a continuous quantitative covariate for statistical analyses.</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption>
+<title>PET images and isotopic enrichment time course profiles of CSF A&#x03B2; peptides.</title>
+<p>(<bold>A</bold>) Composite PET images showing [<sup>11</sup>C]PIB binding in participants who are noncarriers of <italic>PSEN</italic> mutations (left column), and <italic>PSEN</italic> mutation carriers who lack (PIB<sup>&#x2212;</sup>, middle column) or have (PIB<sup>+</sup>, right column) evidence of amyloidosis. (<bold>B</bold> and <bold>C</bold>) Average A&#x03B2; isotopic kinetic time course profiles in CSF showing the A&#x03B2;42/A&#x03B2;40, A&#x03B2;38/40, and A&#x03B2;42/A&#x03B2;38 isotopic enrichment ratios [B, middle panel: A&#x03B2;38/40 (blue circles), A&#x03B2;42/A&#x03B2;38 (green squares), and A&#x03B2;42/A&#x03B2;40 (red triangles)] and as enrichment ratios normalized to plasma leucine plateau enrichments [C, lower panel: A&#x03B2;38 (blue circles), A&#x03B2;40 (green squares), and A&#x03B2;42 (red triangles)]. A&#x03B2;38 and A&#x03B2;40 present similar labeling profiles in all subject groups, whereas A&#x03B2;42 kinetics deviate from A&#x03B2;38 and A&#x03B2;40 only in mutation carriers, as evident in the A&#x03B2;42/A&#x03B2;40 and A&#x03B2;42/A&#x03B2;38 ratio profiles. Data points represent the means &#x00B1; SD for group-averaged values, and the solid lines represent the model fits to the data using the model in <xref ref-type="fig" rid="F2">Fig. 2</xref>.</p>
+</caption><graphic xlink:href="5-189ra77-F1"></graphic></fig>
+<sec disp-level="2">
+<title>Differential A&#x03B2; isoform kinetics by mutation and amyloid deposition</title>
+<p>Plasma leucine enrichment approximated a constant plateau during the 9-hour intravenous <sup>13</sup>C<sub>6</sub>-leucine infusion, and then rapidly decreased after the infusion was stopped (fig. S1). The <sup>13</sup>C<sub>6</sub>-leucine isotopic enrichments of A&#x03B2;38, A&#x03B2;40, and A&#x03B2;42 recovered from CSF were compared between mutation carriers, with or without amyloidosis, and nonmutation carriers to address the relationship between A&#x03B2; isoform metabolic kinetics, mutation status, and amyloid deposition.</p>
+<p>To compare A&#x03B2; isoform kinetics, we plotted ratios of labeled A&#x03B2; isoform enrichments in the CSF so that a ratio of 1 indicates the same isotopic enrichment and kinetics between A&#x03B2; isoforms. The A&#x03B2;38/A&#x03B2;40 labeling ratio was about 1 from 5 to 36 hours in all participant groups (<xref ref-type="fig" rid="F1">Fig. 1B</xref>, no significant group by time interaction), indicating similar kinetics between A&#x03B2;38 and A&#x03B2;40. Similarly, the A&#x03B2;42/A&#x03B2;40 and A&#x03B2;42/A&#x03B2;38 labeling ratios were nearly constant at 1 over time in noncarriers. However, in mutation carriers, the A&#x03B2;42/A&#x03B2;40 and A&#x03B2;42/A&#x03B2;38 labeling ratios were elevated during early time points and decreased at later time points (<xref ref-type="fig" rid="F1">Fig. 1B</xref>) in relation to plaque status. Repeated-measures analysis of variance (ANOVA) revealed a significant group by time interaction for both the A&#x03B2;42/A&#x03B2;40 and A&#x03B2;42/A&#x03B2;38 labeling ratios (<italic>P</italic> &lt; 0.0001), with a significant linear contrast (<italic>P</italic> &lt; 0.01) between groups at &#x2264;9 hours and at &#x2265;18 hours, showing an increasing magnitude of effect (noncarrier &lt; mutation carrier PIB<sup>&#x2212;</sup> &lt; mutation carrier PIB<sup>+</sup>). The A&#x03B2; isoform enrichment mismatch was more pronounced in participants with amyloid deposition (PIB<sup>+</sup>), caused by an earlier and lower A&#x03B2;42 peak with a flatter terminal tail compared to A&#x03B2;38 and A&#x03B2;40 (<xref ref-type="fig" rid="F1">Fig. 1C</xref>). The time to reach peak <sup>13</sup>C labeling in each A&#x03B2; isoform was measured for each participant. The A&#x03B2;38/A&#x03B2;40 peak time ratio was not different between mutation carrier and noncarrier groups (1.01 &#x00B1; 0.01 versus 1.00 &#x00B1; 0.01, respectively). In contrast, A&#x03B2;42 peaked at the same time as did A&#x03B2;40 in the noncarrier group (A&#x03B2;42/A&#x03B2;40 peak time ratio = 1.01 &#x00B1; 0.03), whereas A&#x03B2;42 peaked significantly earlier than did A&#x03B2;40 in the mutation group (peak time ratio = 0.93 &#x00B1; 0.05; <italic>P</italic> = 0.015, for mutation effect; <italic>P</italic> &lt; 0.001, for PIB MCBP score).</p>
+</sec>
+<sec disp-level="2">
+<title>A multicompartment model to describe A&#x03B2; isoform kinetics</title>
+<p>A comprehensive compartmental model was developed to quantify steady-state A&#x03B2; isoform kinetic parameters for each participant data set. The model incorporated the plasma leucine, A&#x03B2; enrichment time course profiles, and the CSF A&#x03B2; isoform concentrations for each subject (schematically depicted in <xref ref-type="fig" rid="F2">Fig. 2</xref>). Figures S2 to S5 show curve fits for each A&#x03B2; isoform time course for each participant. A reversible exchange compartment was necessary to fit the sigmoidal decay of many labeling curves, especially A&#x03B2;42 in PIB<sup>+</sup> participants. The model included an irreversible loss of each soluble A&#x03B2; isoform that was not recovered in CSF. The rate constants for transfer between compartments in the model were optimized for each participant, and mean values for each parameter are summarized in <xref ref-type="table" rid="T1">Table 1</xref>. The model describes three fundamental processes that affect A&#x03B2; kinetics&#x2014;production, reversible exchange, and irreversible loss&#x2014;and accounts for the effect of these processes on CSF A&#x03B2; concentrations.</p>
+<fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption>
+<title>Schematic diagram of compartmental model of A&#x03B2;38, A&#x03B2;40, and A&#x03B2;42 metabolism.</title>
+<p>Small solid black triangles depict sampling sites for plasma leucine and CSF A&#x03B2; peptides. Production of A&#x03B2; peptides is signified by yellow arrows, exchange by blue arrows, and irreversible loss by red arrows. The model incorporated the labeling time course of plasma <sup>13</sup>C<sub>6</sub>-leucine, APP production and processing to C99 peptide, and A&#x03B2;38, A&#x03B2;40, or A&#x03B2;42 production from C99. The labeled A&#x03B2;38, A&#x03B2;40, and A&#x03B2;42 that are sampled in CSF are presumed to be soluble within the &#x201C;brain&#x201D; compartment. The soluble A&#x03B2; peptides may exchange with other unlabeled A&#x03B2; structures, may be transported to CSF, or may be lost because of other processes (for example, transport to blood, plaque deposition, or cellular degradation). Transport through CSF is modeled as a three-compartment time delay.</p>
+</caption><graphic xlink:href="5-189ra77-F2"></graphic></fig>
+<table-wrap id="T1" position="float"><label>Table 1</label><caption>
+<title>Complete list of model parameters.</title>
+<p>All units are first-order rate constants with units of pools/hour, except for scaling factors (SFs), which are unitless, and <italic>k</italic><sub>APP</sub>, which is a zero-order rate constant for APP production (ng/hour). Note that <italic>k</italic><sub>C99</sub> = <italic>k</italic><sub>delay</sub>; <italic>k</italic><sub>A&#x03B2;38</sub> + <italic>k</italic><sub>A&#x03B2;40</sub> + <italic>k</italic><sub>A&#x03B2;42</sub> = <italic>v</italic><sub>C99</sub>; and <italic>k</italic><sub>A&#x03B2;38</sub> + <italic>k</italic><sub>A&#x03B2;40</sub> + <italic>k</italic><sub>A&#x03B2;42</sub> + <italic>v</italic><sub>C99</sub> = <italic>k</italic><sub>delay</sub>. Values are means &#x00B1; SD.</p>
+</caption>
+<table frame="hsides">
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<thead>
+<tr>
+<td valign="middle" align="left" scope="col"><bold>Parameter</bold></td>
+<td valign="middle" align="center" scope="col"><bold>Noncarriers</bold></td>
+<td valign="top" align="center" scope="col"><bold>Mutation carrier</bold><break/><bold>PIB<sup>&#x2212;</sup></bold></td>
+<td valign="top" align="center" scope="col"><bold>Mutation carrier</bold><break/><bold>PIB<sup>+</sup></bold></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" scope="row"><italic>k</italic><sub>APP</sub></td>
+<td valign="top" align="center">1171 &#x00B1; 227</td>
+<td valign="top" align="center">1304 &#x00B1; 602</td>
+<td valign="top" align="center">1291 &#x00B1; 324</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row"><italic>k</italic><sub>C99</sub></td>
+<td valign="top" align="center">0.666 &#x00B1; 0.112</td>
+<td valign="top" align="center">0.553 &#x00B1; 0.083</td>
+<td valign="top" align="center">0.695 &#x00B1; 0.096</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row"><italic>k</italic><sub>A&#x03B2;38</sub></td>
+<td valign="top" align="center">0.062 &#x00B1; 0.010</td>
+<td valign="top" align="center">0.055 &#x00B1; 0.016</td>
+<td valign="top" align="center">0.059 &#x00B1; 0.008</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row"><italic>k</italic><sub>A&#x03B2;40</sub></td>
+<td valign="top" align="center">0.238 &#x00B1; 0.041</td>
+<td valign="top" align="center">0.187 &#x00B1; 0.023</td>
+<td valign="top" align="center">0.247 &#x00B1; 0.037</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row"><italic>k</italic><sub>A&#x03B2;42</sub></td>
+<td valign="top" align="center">0.033 &#x00B1; 0.006</td>
+<td valign="top" align="center">0.034 &#x00B1; 0.007</td>
+<td valign="top" align="center">0.041 &#x00B1; 0.006</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row"><italic>v</italic><sub>C99</sub></td>
+<td valign="top" align="center">0.333 &#x00B1; 0.056</td>
+<td valign="top" align="center">0.276 &#x00B1; 0.041</td>
+<td valign="top" align="center">0.347 &#x00B1; 0.048</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row"><italic>v</italic><sub>38</sub></td>
+<td valign="top" align="center">0.069 &#x00B1; 0.023</td>
+<td valign="top" align="center">0.075 &#x00B1; 0.027</td>
+<td valign="top" align="center">0.054 &#x00B1; 0.015</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row"><italic>v</italic><sub>40</sub></td>
+<td valign="top" align="center">0.074 &#x00B1; 0.023</td>
+<td valign="top" align="center">0.082 &#x00B1; 0.037</td>
+<td valign="top" align="center">0.050 &#x00B1; 0.013</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row"><italic>v</italic><sub>42</sub></td>
+<td valign="top" align="center">0.064 &#x00B1; 0.014</td>
+<td valign="top" align="center">0.126 &#x00B1; 0.072</td>
+<td valign="top" align="center">0.120 &#x00B1; 0.037</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row"><italic>k</italic><sub>CSF</sub></td>
+<td valign="top" align="center">0.074 &#x00B1; 0.023</td>
+<td valign="top" align="center">0.082 &#x00B1; 0.037</td>
+<td valign="top" align="center">0.050 &#x00B1; 0.013</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row"><italic>k</italic><sub>ex38</sub></td>
+<td valign="top" align="center">0.020 &#x00B1; 0.038</td>
+<td valign="top" align="center">0.000 &#x00B1; 0.000</td>
+<td valign="top" align="center">0.000 &#x00B1; 0.000</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row"><italic>k</italic><sub>ex40</sub></td>
+<td valign="top" align="center">0.016 &#x00B1; 0.032</td>
+<td valign="top" align="center">0.009 &#x00B1; 0.018</td>
+<td valign="top" align="center">0.000 &#x00B1; 0.000</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row"><italic>k</italic><sub>ex42</sub></td>
+<td valign="top" align="center">0.010 &#x00B1; 0.021</td>
+<td valign="top" align="center">0.041 &#x00B1; 0.045</td>
+<td valign="top" align="center">0.120 &#x00B1; 0.107</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row"><italic>k</italic><sub>ret</sub></td>
+<td valign="top" align="center">0.1</td>
+<td valign="top" align="center">0.1</td>
+<td valign="top" align="center">0.1</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row"><italic>k</italic><sub>delay</sub></td>
+<td valign="top" align="center">0.666 &#x00B1; 0.112</td>
+<td valign="top" align="center">0.553 &#x00B1; 0.083</td>
+<td valign="top" align="center">0.695 &#x00B1; 0.096</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">SF<sub>38</sub></td>
+<td valign="top" align="center">0.937 &#x00B1; 0.066</td>
+<td valign="top" align="center">0.885 &#x00B1; 0.063</td>
+<td valign="top" align="center">0.979 &#x00B1; 0.092</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">SF<sub>40</sub></td>
+<td valign="top" align="center">0.933 &#x00B1; 0.043</td>
+<td valign="top" align="center">0.916 &#x00B1; 0.078</td>
+<td valign="top" align="center">0.977 &#x00B1; 0.130</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">SF<sub>42</sub></td>
+<td valign="top" align="center">0.972 &#x00B1; 0.102</td>
+<td valign="top" align="center">0.879 &#x00B1; 0.021</td>
+<td valign="top" align="center">0.912 &#x00B1; 0.151</td>
+</tr>
+</tbody></table></table-wrap>
+</sec>
+<sec disp-level="2">
+<title>Increased A&#x03B2;42 and A&#x03B2;42/A&#x03B2;40 production with PSEN mutations regardless of amyloid deposition</title>
+<p>The mutation carriers had an 18% higher absolute A&#x03B2;42 production rate (<italic>P</italic> &lt; 0.05, for mutation effect) and a 24% higher A&#x03B2;42/A&#x03B2;40 production rate ratio (<italic>P</italic> &lt; 0.0001, for mutation effect) than the nonmutation carriers, whereas amyloid load as measured by PIB-PET did not have a significant effect on A&#x03B2;42 production rate (<xref ref-type="table" rid="T2">Table 2</xref>, <xref ref-type="fig" rid="F3">Fig. 3A</xref>, and fig. S5). There were no differences in A&#x03B2;38 or A&#x03B2;40 absolute production rates or the A&#x03B2;38/A&#x03B2;40 production rate ratio between carrier and noncarrier groups (<xref ref-type="table" rid="T2">Table 2</xref>).</p>
+<table-wrap id="T2" position="float"><label>Table 2</label><caption>
+<title>CSF A&#x03B2; isoform concentrations and selected model kinetic parameters.</title>
+<p>Parameters were determined on the basis of the best fit to a compartmental model of A&#x03B2; turnover and production. Outcomes were compared by mutation status using ANOVA after adjusting for fibrillar amyloid deposition by treating PIB MCBP score as a covariate. Kinetic parameters are identified with terminology (<xref ref-type="fig" rid="F2">Fig. 2</xref>). <italic>P</italic> &lt; 0.05, in bold. IP, immunoprecipitation.</p>
+</caption>
+<table frame="hsides">
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<col width="%"/>
+<thead>
+<tr>
+<td valign="top" align="left" scope="col"></td>
+<td valign="top" align="center" scope="col"><bold>Noncarriers (<italic>n</italic> = 12)</bold></td>
+<td valign="top" align="center" scope="col"><bold>Mutation carriers (<italic>n</italic> = 11)</bold></td>
+<td colspan="2" valign="top" align="center" scope="colgroup"><bold><italic>P</italic>*</bold></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" scope="row">Production rate, ng/hour (for example,<break/>C99 pool size &#x00D7; <italic>k</italic><sub>A&#x03B2;42</sub>)</td>
+<td valign="top" align="center"></td>
+<td valign="top" align="center"></td>
+<td valign="top" align="center">Mutation status</td>
+<td valign="top" align="center">PIB MCBP score</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">A&#x03B2;38</td>
+<td valign="top" align="center">106 (41)</td>
+<td valign="top" align="center">111 (50)</td>
+<td valign="top" align="center">0.603</td>
+<td valign="top" align="center">0.571</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">A&#x03B2;40</td>
+<td valign="top" align="center">418 &#x00B1; 83</td>
+<td valign="top" align="center">452 &#x00B1; 138</td>
+<td valign="top" align="center">0.621</td>
+<td valign="top" align="center">0.901</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">A&#x03B2;42</td>
+<td valign="top" align="center">57 (19)</td>
+<td valign="top" align="center">67 (35)</td>
+<td valign="top" align="center"><bold>0.038</bold></td>
+<td valign="top" align="center">0.769</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">A&#x03B2;38/A&#x03B2;40 ratio</td>
+<td valign="top" align="center">0.267 (0.021)</td>
+<td valign="top" align="center">0.252 (0.052)</td>
+<td valign="top" align="center">0.692</td>
+<td valign="top" align="center">0.179</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">A&#x03B2;42/A&#x03B2;40 ratio</td>
+<td valign="top" align="center">0.140 &#x00B1; 0.011</td>
+<td valign="top" align="center">0.174 &#x00B1; 0.020</td>
+<td valign="top" align="center"><bold>9 &#x00D7; 10</bold><sup><bold>&#x2212;5</bold></sup></td>
+<td valign="top" align="center">0.312</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Percentage of flux going to exchange (%)<sup>&#x2020;</sup></td>
+<td valign="top" align="center"></td>
+<td valign="top" align="center"></td>
+<td valign="top" align="center">Mutation status</td>
+<td valign="top" align="center">PIB status</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">A&#x03B2;38</td>
+<td valign="top" align="center">9.8 &#x00B1; 16.6</td>
+<td valign="top" align="center">0<sup>&#x2021;</sup></td>
+<td valign="top" align="center">0.190</td>
+<td valign="top" align="center">0.376</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">A&#x03B2;40</td>
+<td valign="top" align="center">7.8 &#x00B1; 13.9</td>
+<td valign="top" align="center">1.2 &#x00B1; 4.1</td>
+<td valign="top" align="center">0.316</td>
+<td valign="top" align="center">0.249</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">A&#x03B2;42</td>
+<td valign="top" align="center">5.8 &#x00B1; 11.5</td>
+<td valign="top" align="center">50.8 &#x00B1; 57.6</td>
+<td valign="top" align="center"><bold>0.004</bold></td>
+<td valign="top" align="center"><bold>0.001</bold></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Permanent loss of soluble A&#x03B2; to all fates (FTR)<break/>(pools per hour) (for example, <italic>v</italic><sub>42</sub> + <italic>k</italic><sub>CSF</sub>)</td>
+<td valign="top" align="center"></td>
+<td valign="top" align="center"></td>
+<td valign="top" align="center">Mutation status</td>
+<td valign="top" align="center">PIB MCBP score</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">A&#x03B2;38</td>
+<td valign="top" align="center">0.144 &#x00B1; 0.046</td>
+<td valign="top" align="center">0.124 &#x00B1; 0.049</td>
+<td valign="top" align="center">0.802</td>
+<td valign="top" align="center">0.054</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">A&#x03B2;40</td>
+<td valign="top" align="center">0.156 (0.055)</td>
+<td valign="top" align="center">0.109 (0.035)</td>
+<td valign="top" align="center">0.990</td>
+<td valign="top" align="center"><bold>0.024</bold></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">A&#x03B2;42</td>
+<td valign="top" align="center">0.147 (0.049)</td>
+<td valign="top" align="center">0.198 (0.086)</td>
+<td valign="top" align="center">0.065</td>
+<td valign="top" align="center">0.548</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">A&#x03B2;38/A&#x03B2;40 ratio</td>
+<td valign="top" align="center">0.964 &#x00B1; 0.038</td>
+<td valign="top" align="center">1.013 &#x00B1; 0.047</td>
+<td valign="top" align="center">0.157</td>
+<td valign="top" align="center">0.115</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">A&#x03B2;42/A&#x03B2;40 ratio</td>
+<td valign="top" align="center">0.942 &#x00B1; 0.080</td>
+<td valign="top" align="center">1.553 &#x00B1; 0.382</td>
+<td valign="top" align="center"><bold>0.0016</bold></td>
+<td valign="top" align="center"><bold>0.0003</bold></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">CSF concentration by IP-MS (ng/ml)</td>
+<td valign="top" align="center"></td>
+<td valign="top" align="center"></td>
+<td valign="top" align="center">Mutation status</td>
+<td valign="top" align="center">PIB MCBP score</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">A&#x03B2;38</td>
+<td valign="top" align="center">2.05 (0.69)</td>
+<td valign="top" align="center">1.82 (1.00)</td>
+<td valign="top" align="center">0.296</td>
+<td valign="top" align="center">0.105</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">A&#x03B2;40</td>
+<td valign="top" align="center">7.15 &#x00B1; 1.80</td>
+<td valign="top" align="center">7.79 &#x00B1; 1.89</td>
+<td valign="top" align="center">0.199</td>
+<td valign="top" align="center">0.272</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">A&#x03B2;42</td>
+<td valign="top" align="center">1.01 (0.39)</td>
+<td valign="top" align="center">0.80 (0.52)</td>
+<td valign="top" align="center">0.537</td>
+<td valign="top" align="center"><bold>0.007</bold></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">A&#x03B2;38/A&#x03B2;40 ratio</td>
+<td valign="top" align="center">0.272 &#x00B1; 0.014</td>
+<td valign="top" align="center">0.256 &#x00B1; 0.053</td>
+<td valign="top" align="center">0.803</td>
+<td valign="top" align="center">0.068</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">A&#x03B2;42/A&#x03B2;40 ratio</td>
+<td valign="top" align="center">0.149 &#x00B1; 0.013</td>
+<td valign="top" align="center">0.121 &#x00B1; 0.042</td>
+<td valign="top" align="center">0.720</td>
+<td valign="top" align="center"><bold>0.003</bold></td>
+</tr>
+</tbody></table><table-wrap-foot>
+<p>*<italic>P</italic> values by ANOVA based on mutation status with PIB MCBP score as a covariate.&#x2020;Analyzed by nonparametric Mann-Whitney <italic>U</italic> test because of nonnormal distribution, based on mutation status and PIB status (rather than PIB MCBP score).&#x2021;No exchange observed in any subject.</p></table-wrap-foot></table-wrap>
+<fig id="F3" position="float" fig-type="figure"><label>Fig. 3</label><caption>
+<title>A &#x03B2; concentrations and selected kinetic parameters.</title>
+<p>(<bold>A</bold> to <bold>C</bold>) Parameters for A&#x03B2; production rate (A), FTR (B), and baseline CSF concentrations (C) are shown for each group by mutation status and without (PIB<sup>&#x2212;</sup>) or with (PIB<sup>+</sup>) evidence of amyloid deposition. Each parameter was measured for A&#x03B2;38 (first column), A&#x03B2;40 (second column), A&#x03B2;42 (third column), and the A&#x03B2;42/A&#x03B2;40 ratio (fourth column), and compared by mutation status and amyloid deposition. Error bars indicate 95% confidence intervals. Mutation status compared when amyloid deposition did not affect magnitude or significance. *<italic>P</italic> &lt; 0.05, **<italic>P</italic> &lt; 0.01, ***<italic>P</italic> &lt; 0.001, ANOVA based on mutation status with PIB MCBP score as a covariate. Blue circles, noncarriers; green squares, mutation carrier PIB<sup>&#x2212;</sup> (MC PIB<sup>&#x2212;</sup>); red triangles, mutation carrier PIB<sup>+</sup> (MC PIB<sup>+</sup>). Each point represents one participant.</p>
+</caption><graphic xlink:href="5-189ra77-F3"></graphic></fig>
+</sec>
+<sec disp-level="2">
+<title>Exchange process required to fit A&#x03B2; kinetic curves</title>
+<p>To optimally fit the shape and peak magnitude of A&#x03B2; isoform enrichment time courses, a compartment was required to model reversible exchange of newly synthesized labeled A&#x03B2; peptides with a preexisting pool of unlabeled A&#x03B2; (<xref ref-type="fig" rid="F2">Fig. 2</xref>). The exchange process was of minimal magnitude in nonmutation carriers, in which only ~10% of the flux of newly synthesized A&#x03B2;38, A&#x03B2;40, or A&#x03B2;42 underwent exchange (<xref ref-type="table" rid="T2">Table 2</xref>). The percent of A&#x03B2;38 and A&#x03B2;40 that underwent exchange was not significantly different between mutation carriers and noncarriers. However, the exchange for A&#x03B2;42 was significantly greater in carriers compared to the noncarriers (51 &#x00B1; 58% versus 6 &#x00B1; 12% of flux, respectively; <italic>P</italic> = 0.004, for mutation effect; <italic>P</italic> = 0.001, for PIB status) (<xref ref-type="table" rid="T2">Table 2</xref>). The exchange process for A&#x03B2;42, combined with a faster turnover rate of A&#x03B2;42 (see below), provided an excellent fit to the entire shape of the A&#x03B2;42 enrichment time course in all groups including mutation carriers with amyloid deposition (mean <italic>R</italic><sup>2</sup> for all participants of 0.994, 0.995, and 0.987 for A&#x03B2;38, A&#x03B2;40, and A&#x03B2;42, respectively).</p>
+</sec>
+<sec disp-level="2">
+<title>Higher irreversible loss of A&#x03B2;42 in amyloid deposition</title>
+<p>The FTR (pools per hour) of soluble A&#x03B2; is the rate constant for irreversible loss of soluble A&#x03B2; to all metabolic fates; this process is kinetically distinct from reversible exchange. The physiology of the system suggests that the FTR includes irreversible losses to the CSF or bloodstream, degradation, and deposition into amyloid plaques. The A&#x03B2;40 FTR was significantly slower in PIB<sup>+</sup> compared to PIB<sup>&#x2212;</sup> participants (<italic>P</italic> = 0.024, for PIB MCBP score) and trended toward significance for A&#x03B2;38 (<italic>P</italic> = 0.054, for PIB MCBP score), but neither was affected by mutation status (<xref ref-type="table" rid="T2">Table 2</xref> and <xref ref-type="fig" rid="F3">Fig. 3B</xref>). This decreased turnover rate correlated with the extent of amyloidosis measured by PET PIB. In contrast, A&#x03B2;42 FTR trended toward an increase in mutation carriers (<italic>P</italic> = 0.065, for mutation effect) independent of amyloid load (<xref ref-type="table" rid="T2">Table 2</xref> and <xref ref-type="fig" rid="F3">Fig. 3B</xref>). The A&#x03B2;38/A&#x03B2;40 FTR ratio was not significantly different between noncarrier and mutation carrier groups, but the A&#x03B2;42/A&#x03B2;40 FTR ratio was 65% higher in mutation carriers (<italic>P</italic> &lt; 0.002, for both mutation status and PIB MCBP score) (<xref ref-type="table" rid="T2">Table 2</xref> and <xref ref-type="fig" rid="F3">Fig. 3B</xref>).</p>
+</sec>
+<sec disp-level="2">
+<title>Decreased CSF A&#x03B2;42 concentrations only during amyloid deposition</title>
+<p>The measured basal concentrations of CSF A&#x03B2; isoforms were compared by mutation status and PIB MCBP score (<xref ref-type="table" rid="T2">Table 2</xref> and <xref ref-type="fig" rid="F3">Fig. 3C</xref>). The A&#x03B2;42 CSF concentration and the A&#x03B2;42/A&#x03B2;40 CSF concentration ratio were significantly reduced in association with amyloid deposition (<italic>P</italic> = 0.003, for PIB MCBP score; not significant by mutation status), whereas there were no differences between groups for the CSF A&#x03B2;38, A&#x03B2;40, or A&#x03B2;38/A&#x03B2;40 concentration ratio (<xref ref-type="table" rid="T2">Table 2</xref>).</p>
+</sec>
+</sec>
+<sec sec-type="discussion" disp-level="1">
+<title>Discussion</title>
+<p>Our study of in vivo CNS A&#x03B2; isoform kinetics in participants with <italic>PSEN</italic> mutations confirms the hypothesis that the production rate of A&#x03B2;42 is increased relative to A&#x03B2;40 in humans with <italic>PSEN</italic> mutations associated with ADAD, and also revealed increased exchange of soluble A&#x03B2;42 and increased irreversible loss of soluble A&#x03B2;42 associated with the presence of fibrillar amyloid plaques. The finding of increased A&#x03B2;42 production was predicted by some in vitro studies (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>, <xref ref-type="bibr" rid="R12"><italic>12</italic></xref>) and evidence of altered &#x03B3;-secretase function in carriers of <italic>PSEN1</italic> or <italic>PSEN2</italic> ADAD mutations (<xref ref-type="bibr" rid="R24"><italic>24</italic></xref>). Here, we directly quantify increased A&#x03B2;42 production in vivo in humans because of mutations that cause ADAD, and confirm that such mutations increase CNS A&#x03B2;42 production rates in vivo. The ratio of A&#x03B2;42 to A&#x03B2;40 production rates was greater than 15% for almost all mutation carriers (average, 17.4%), whereas noncarriers were less than 15% (average, 14%), suggesting tight physiological control that is disrupted in the presence of a mutation. There was a ~25% relative increase in A&#x03B2;42 to A&#x03B2;40 production rate in mutation carriers, which correlates with the 40% decrease in A&#x03B2; production because of a mutation that is protective for the development of AD (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>). Changes in the A&#x03B2;42 to A&#x03B2;40 production rate ratio are likely to have a large impact on the rate of A&#x03B2;42 deposition into plaques because in vitro studies have demonstrated that even relatively small changes in the A&#x03B2;42/A&#x03B2;40 ratio significantly affect aggregation kinetics and morphology (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>) that could promote plaque formation. The A&#x03B2;42/A&#x03B2;40 ratio and the total amount of A&#x03B2;42 have been hypothesized to affect the age of onset of ADAD (<xref ref-type="bibr" rid="R25"><italic>25</italic></xref>). Some <italic>PSEN</italic> mutations in cultured cells in vitro have been reported to decrease A&#x03B2;40 production or loss of overall A&#x03B2; production (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>); however, our in vivo SILK studies did not confirm decreased A&#x03B2;40 or total A&#x03B2; production.</p>
+<p>Our finding of a faster irreversible FTR of soluble A&#x03B2;42 relative to A&#x03B2;38 or A&#x03B2;40 in the presence of <italic>PSEN</italic> mutations or plaques was not anticipated. This faster relative FTR was a primary factor causing the A&#x03B2;42 isotopic enrichment curve to peak earlier than A&#x03B2;38 or A&#x03B2;40 in the presence of amyloidosis (<xref ref-type="fig" rid="F1">Fig. 1</xref>). We cannot determine the physiological mechanisms that underlie this irreversible FTR, but it includes all losses of soluble A&#x03B2; peptides including transport into CSF or plasma, proteolytic degradation, and deposition into amyloid plaques. The rate constant for transport to CSF is likely to be similar for all A&#x03B2; isoforms because the transport of soluble A&#x03B2; isoforms to CSF is driven by fluid flow (<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>). Therefore, the faster relative FTR of A&#x03B2;42 in the presence of plaques implies a greater loss of A&#x03B2;42 from the system to fates other than CSF. Although we cannot identify the specific fates of peptides permanently lost from the system, our observations are consistent with increased deposition of A&#x03B2;42 into amyloid plaques (<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>, <xref ref-type="bibr" rid="R28"><italic>28</italic></xref>) relative to A&#x03B2;38 and A&#x03B2;40, which subsequently causes increased A&#x03B2;42 in brain plaques (<xref ref-type="bibr" rid="R29"><italic>29</italic></xref>), as shown in video S1, and a reduction in the amount of A&#x03B2;42 recovered in CSF (<xref ref-type="bibr" rid="R30"><italic>30</italic></xref>). Our finding of increased irreversible FTR of A&#x03B2;42 in subjects with <italic>PSEN</italic> mutations but no amyloid load suggests that increased A&#x03B2;42 deposition may be occurring in these subjects, and SILK studies of A&#x03B2;42 turnover kinetics may provide a sensitive window into altered processes before amyloidosis is detectable by PET PIB.</p>
+<p>Another unanticipated finding was a reversible exchange process whereby a portion of newly synthesized (that is, isotopically labeled) peptides exchange with preexisting unlabeled A&#x03B2;. The structures of the preexisting unlabeled A&#x03B2; cannot be determined from this tracer study, but they could potentially consist of oligomers or aggregates (<xref ref-type="bibr" rid="R31"><italic>31</italic></xref>, <xref ref-type="bibr" rid="R32"><italic>32</italic></xref>) or may reflect reversible binding of A&#x03B2;42 to the surface of amyloid plaques before structural alterations cause permanent assimilation into plaques (<xref ref-type="bibr" rid="R33"><italic>33</italic></xref>, <xref ref-type="bibr" rid="R34"><italic>34</italic></xref>).</p>
+<p>We previously reported that late-onset AD was associated with a slower clearance rate for A&#x03B2;40 and A&#x03B2;42 based on a monoexponential slope applied to the terminal phase (24 to 36 hours) of the SILK enrichment time course (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>). The present study used a compartmental model to fit the SILK enrichment time courses over the full experimental period (0 to 36 hours) in a manner consistent with known physiological processes (<xref ref-type="bibr" rid="R35"><italic>35</italic></xref>). This compartmental model confirms the previous report that the FTR is slower for A&#x03B2;40 with increased insoluble amyloid plaque deposition (<xref ref-type="table" rid="T2">Table 2</xref>). The exchange process described by our compartmental model was minimal for A&#x03B2;38 and A&#x03B2;40 in the presence or absence of amyloid plaques (<xref ref-type="table" rid="T2">Table 2</xref>), and thus, the terminal tail approximates a monoexponential shape for these isoforms. The observation that the irreversible FTRs of A&#x03B2;38 and A&#x03B2;40 are negatively correlated with PIB MCBP score (<xref ref-type="table" rid="T2">Table 2</xref>) suggests that the presence of plaques substantially alters physiological processes (for example, fluid flow perfusion through brain tissue) and thus retards the transfer of soluble A&#x03B2; peptide from the brain to CSF. An outcome of this decreased transport to the CSF may be loss of the normal physiological diurnal pattern of CSF A&#x03B2; concentrations (<xref ref-type="bibr" rid="R36"><italic>36</italic></xref>, <xref ref-type="bibr" rid="R37"><italic>37</italic></xref>).</p>
+<p>Several caveats about the compartmental model limit the ability to completely resolve the system. Flow processes likely dictate the rate at which A&#x03B2; peptides transit from brain to the lumbar space. These processes are approximated here as a sequential series of compartments. More elaborate models that account for brain and subarachnoid space anatomy and flow may allow more accurate determination of the rates of A&#x03B2; peptide irreversible loss and production. The current data set is also not rich enough to identify the rates of production and irreversible loss of APP and C99. Additional kinetic data relevant to the production and irreversible loss of APP and C99 would improve the estimation of A&#x03B2; production and irreversible loss rate constants. Also, measurement of concentrations of various A&#x03B2; peptides has a large impact on the estimates of the production rate constants for the A&#x03B2; peptides.</p>
+<p>The present study also confirms that the terminal slope of the A&#x03B2;42 enrichment curve is slower in the presence of plaques. We observed that A&#x03B2;42 irreversible FTR was increased in the presence of <italic>PSEN</italic> mutations independent of plaque load. The SILK tracer technique thus reveals abnormalities in A&#x03B2;42 before plaques are detectable by PET PIB. Indeed, three of the four mutation carriers who did not have detectable amyloid plaques by PET PIB had features of A&#x03B2;42 kinetics that were more similar to mutation carriers with amyloid plaques than to noncarriers, including A&#x03B2;42/A&#x03B2;40 FTR ratio &gt;1.1, and evidence of A&#x03B2;42 exchange (fig. S2). These features strongly suggest that plaque development or some form of A&#x03B2; aggregation has been initiated in these individuals, but fibrillar plaque load has not reached the threshold of PET PIB detection. In contrast, only one mutation carrier who was PET PIB&#x2013;negative had no evidence of A&#x03B2;42 exchange. This participant also had the highest A&#x03B2;42/A&#x03B2;40 CSF concentration ratio (0.215; fig. S4) of all participants in our study (compare to figs. S2 and S3; this ratio was 27% higher than the next highest concentration ratio observed in individual participants, 0.169), demonstrating that elevated A&#x03B2;42/A&#x03B2;40 CSF concentration ratios are only observed in ADAD persons in the absence of amyloid plaques. Because amyloid deposition in the caudate may be one of the earliest deposition events, we evaluated caudate PIB as a sensitive measure of amyloid deposition. The caudate PIB and MCBP PIB were highly correlated with each other with a Pearson correlation coefficient of 0.94 (<italic>P</italic> = 5 &#x00D7; 10<sup>&#x2212;11</sup>); no kinetic parameters changed significance with amyloidosis as measured by caudate PIB.</p>
+<p>Our findings offer a context for the recent report that CSF A&#x03B2;42 concentration is elevated in ADAD individuals decades before predicted age for onset of clinical symptoms of dementia, and then drops below normal as plaques develop (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>, <xref ref-type="bibr" rid="R38"><italic>38</italic></xref>) (see <xref ref-type="fig" rid="F4">Fig. 4</xref> for schematic of proposed process). Our finding of increased A&#x03B2;42 production in mutation carriers regardless of the amount of amyloid deposition indicates that increased A&#x03B2;42 production precedes amyloid deposition, and likely occurs decades before the onset of dementia and is possibly present throughout life. The long delay in the emergence of plaque deposits of A&#x03B2;42 even in the presence of overproduction of A&#x03B2;42 suggests the presence of an initial slow process (for example, initial A&#x03B2; nucleation event in which monomeric A&#x03B2; forms small aggregates) followed by a growth phase of A&#x03B2; polymerization (<xref ref-type="bibr" rid="R39"><italic>39</italic></xref>). We therefore hypothesize that A&#x03B2;42 production rate (solid gold line, <xref ref-type="fig" rid="F4">Fig. 4</xref>) remains above &#x201C;normal&#x201D; (solid black line) throughout life because of their <italic>PSEN</italic> genotype. ADAD individuals have an increased irreversible loss of soluble A&#x03B2;42 (FTR solid red line, <xref ref-type="fig" rid="F4">Fig. 4</xref>) that tracks or precedes PET-detectable amyloid deposition, consistent with a faster removal of soluble A&#x03B2;42 as it is deposited into plaques. This results in a decreased recovery of A&#x03B2;42 in the CSF, accounting for the decrease in CSF A&#x03B2;42 concentration (solid blue line, <xref ref-type="fig" rid="F4">Fig. 4</xref>) as plaque development proceeds (solid green line, <xref ref-type="fig" rid="F4">Fig. 4</xref>). The physiological identity of the pool(s) in exchange with newly labeled soluble A&#x03B2;42 identified by SILK (dotted black lines, <xref ref-type="fig" rid="F4">Fig. 4</xref>) cannot be determined in this study. If exchange occurs with micelles or oligomers, exchange may precede PET-detectable amyloid deposition (dotted line 1, <xref ref-type="fig" rid="F4">Fig. 4</xref>). If exchange is with plaque surfaces, it may track or even lag behind amyloid deposition (dotted lines 2 and 3, <xref ref-type="fig" rid="F4">Fig. 4</xref>). Future studies with greater numbers of participants or longitudinal designs will be required to resolve this question.</p>
+<fig id="F4" position="float" fig-type="figure"><label>Fig. 4</label><caption>
+<title>Potential scheme for the time course of plaque deposition in ADAD.</title>
+<p>The solid black line signifies normal for each measure. The production rate of A&#x03B2;42 relative to A&#x03B2;40 (gold) remains constant throughout life before and during plaque deposition (production rate was different by mutation status but not by amyloid deposition). CSF concentration of A&#x03B2;42 (blue) starts elevated above normal because of overproduction and then decreases to below normal because of an increase in the FTR (red) of A&#x03B2;42 relative to A&#x03B2;40. As the amount of amyloid plaques increases over time (green), the extent of A&#x03B2;42 exchange (dotted) may precede (for example, if due to oligomer formation), follow closely, or lag behind amyloid deposition (for example, if due to reversible interaction with amyloid plaques).</p>
+</caption><graphic xlink:href="5-189ra77-F4"></graphic></fig>
+<p>Although ADAD represents less than 1% of all AD cases, it has been informative for elucidating the pathophysiology of AD and can manifest as late-onset AD indistinguishable from the more idiopathic forms (<xref ref-type="bibr" rid="R40"><italic>40</italic></xref>). The findings of this study further support the amyloid hypothesis and provide quantitative estimates of lifelong increases in A&#x03B2;42 production that may cause AD in humans. Further, these results indicate profound changes in A&#x03B2; kinetics in the presence of amyloid plaques. With increased understanding of the pathogenic causes of AD and the quantitative changes associated with AD pathology, it is hoped that better tests and directed therapeutics can be developed in the future.</p>
+</sec>
+<sec sec-type="materials|methods" disp-level="1">
+<title>Materials and Methods</title>
+<sec disp-level="2">
+<title>Study design</title>
+<p>This study took place at the Washington University School of Medicine in St. Louis and was approved by the Human Research Protection Office. All participants completed informed written consent. Two groups of volunteers were enrolled in the study: (i) ADAD mutation carriers either with (<italic>n</italic> = 7) or without (<italic>n</italic> = 4) amyloid deposition and (ii) related family members at risk for carrying a mutation but who do not carry ADAD mutations (<italic>n</italic> = 12).</p>
+<p>Binding of [<sup>11</sup>C]PIB-PET was used to test for deposition of amyloid plaques in the brain (<xref ref-type="bibr" rid="R23"><italic>23</italic></xref>). Binding potentials using the cerebellum as a reference region were determined for the prefrontal cortex, precuneus, lateral temporal cortex, and gyrus rectus. The PIB MCBP score was determined by averaging these binding potentials together. A PIB MCBP score of 0.18 was considered evidence of amyloid deposition (PIB<sup>+</sup>), and a PIB MCBP score of less than 0.18 was considered to be amyloid deposition&#x2013;negative (PIB<sup>&#x2212;</sup>). The highest PIB MCBP score in noncarriers was 0.12.</p>
+</sec>
+<sec disp-level="2">
+<title>Participant demographics</title>
+<p>Twenty-three participants from nine pedigrees (<italic>PSEN1</italic> Ala79Val, Leu226Arg, His163Arg, Met146Leu, Met139Ile, Gly217Arg, Ala246Glu, and <italic>PSEN2</italic> Asn141Ile) completed A&#x03B2; SILK studies. Twelve (52%) of the participants were male. The average age of mutation carriers was 43.2 &#x00B1; 12.7, and that of noncarriers was 47.7 &#x00B1; 14.8 (<italic>P</italic> &gt; 0.05). Eight <italic>PSEN1</italic> mutation carriers and three <italic>PSEN2</italic> mutation carriers were included in the analysis with sibling controls. Two mutation carriers were rated as having prodromal dementia and one with mild dementia. Eight mutation carriers were cognitively asymptomatic, as were all noncarriers. Seven mutation carriers were PIB<sup>+</sup>, and four of the mutation carriers and all noncarriers were PIB<sup>&#x2212;</sup>; the average PIB MCBP score was significantly different between groups, 0.03 &#x00B1; 0.04 versus 0.43 &#x00B1; 0.45 for noncarriers and mutation carriers, respectively (<italic>P</italic> = 0.005). At least one APOE &#x03B5;4 allele was present in 33% (<italic>n</italic> = 4) of the noncarrier group, 25% of the mutation carrier PIB<sup>&#x2212;</sup> group, and 28% of the mutation carrier PIB<sup>+</sup> group (<italic>P</italic> &gt; 0.05).</p>
+</sec>
+<sec disp-level="2">
+<title>Sample collection</title>
+<p>The SILK clinical study followed the procedure previously described (<xref ref-type="bibr" rid="R41"><italic>41</italic></xref>). Briefly, intravenous and intrathecal lumbar catheters were placed between 7:30 and 9:00 a.m., and the collection of samples was started between 8:00 and 9:30 a.m. After initial CSF and plasma baseline samples were collected, participants were infused with a bolus of <sc>l</sc>-[U-<sup>13</sup>C<sub>6</sub>]leucine (3 mg/kg) for 10 min, followed by 2 mg/kg per hour for the remainder of the first 9 hours. For the 36 hours of the study, 6 ml of CSF was obtained every hour; afterward, the catheters were removed, and participants remained on bed rest for 12 hours. Aliquots of CSF were frozen at &#x2212;80&#x00B0;C immediately in 1-ml polypropylene tubes after being collected. Venous blood samples (12 ml) were obtained at hourly intervals from 1 to 13 hours and then at 17 and 36 hours, and plasma was stored at &#x2212;80&#x00B0;C for the determination of plasma leucine enrichment.</p>
+</sec>
+<sec disp-level="2">
+<title>Analysis of CSF samples</title>
+<p>All procedures relating to clinical studies, sample processing, and sample analysis were performed blinded to mutation, clinical, and amyloid status. At each hour of collection, 1 ml of CSF was thawed, and A&#x03B2; was immunopurified and isotopic enrichment of A&#x03B2; isoforms was measured with liquid chromatography&#x2013;mass spectrometry (MS) similar to previous studies (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>), except for dedicated measurement of A&#x03B2;38, A&#x03B2;40, and A&#x03B2;42 C-terminal peptides.</p>
+</sec>
+<sec disp-level="2">
+<title>Measurements of A&#x03B2;38, A&#x03B2;40, and A&#x03B2;42 C-terminal peptides</title>
+<p>A mid-domain antibody (HJ5.1, anti&#x2013;A&#x03B2;<sub>13&#x2013;28</sub>) was covalently bound to CNBr Sepharose beads and stored in a 50% slurry of 0.02% phosphate-buffered saline/azide at 4&#x00B0;C. The immunopurification mixture was composed of 800 &#x03BC;l of CSF; 20 &#x03BC;l of a solution containing <sup>12</sup>C<sup>15</sup>N A&#x03B2;40, A&#x03B2;42, and A&#x03B2;38 for quantification by internal standard; and 12.5 &#x03BC;l of 100&#x00D7; protease inhibitor, 110 &#x03BC;l of 5 M guanidine, and 30 &#x03BC;l of antibody-bead slurry. Beads were rotated in an Eppendorf Axygen tube for 2 hours at room temperature and rinsed with 0.5 M guanidine followed by two rinses of 25 mM ammonium bicarbonate. All liquid was removed by aspiration, and then neat formic acid was added to elute A&#x03B2; from the antibody-bead complex. The formic acid supernatant was transferred to a new polypropylene tube and dried in a vacuum dryer (Labconco CentriVap). The sample was reconstituted with 25 &#x03BC;l of 25 mM ammonium bicarbonate and digested with 2.5 ng of Lys-N overnight at 37&#x00B0;C. This solution was dried in the speed vacuum and resuspended in 10% formic acid and 20% dimethyl sulfoxide. Three microliters of this sample was injected into a nanoACQUITY Ultra Performance Liquid Chromatography system and then analyzed by a XEVO TQ-S mass spectrometer (Waters). MassLynx V4.1 was used to quantify the MS data. For determination of plasma <sup>13</sup>C<sub>6</sub>-leucine enrichment, amino acids were recovered from plasma with cation exchange chromatography and converted to <italic>N</italic>-heptafluorobutyryl <italic>n</italic>-propyl ester derivatives, and isotopic enrichment [mass/charge ratio (<italic>m/z</italic>) 349 and 355] was measured with gas chromatography (GC)&#x2013;negative chemical ionization&#x2013;MS (Agilent 6890N Gas Chromatograph and Agilent 5973N Mass Selective Detector) as described (<xref ref-type="bibr" rid="R42"><italic>42</italic></xref>). The GC-MS instrument response was calibrated with gravimetric standards of known isotope enrichment.</p>
+</sec>
+<sec disp-level="2">
+<title>Compartmental model for A&#x03B2;38, A&#x03B2;40, and A&#x03B2;42 kinetics</title>
+<p>A comprehensive steady-state compartmental model that accounts for the full time course of A&#x03B2;38, A&#x03B2;40, and A&#x03B2;42 enrichments and CSF concentrations was developed; a diagram of the model is shown in <xref ref-type="fig" rid="F2">Fig. 2</xref>. The model consists of a series of interconnected compartments with first-order rate constants that describe the transfer of labeled species between compartments. Modeling was performed with SAAM II (Resource for Kinetic Analysis, University of Washington, Seattle, WA). The model consists of three parallel arms, one for each A&#x03B2; isoform. The enrichments of plasma leucine and CSF A&#x03B2; peptides were measured at frequent time intervals (indicated by solid triangles). Plasma leucine is used as the tracer precursor for CSF A&#x03B2; peptides because we have shown that, given a sufficiently long infusion, CSF A&#x03B2; enrichments essentially match that of plasma leucine in monkeys (<xref ref-type="bibr" rid="R43"><italic>43</italic></xref>). A &#x201C;forcing function&#x201D; was used to describe the time course of plasma <sup>13</sup>C<sub>6</sub>-leucine enrichment with a linear interpolation between measured samples.</p>
+<p>Preliminary modeling revealed that the isotopic enrichment time course for each A&#x03B2; isoform could be optimally described by a single compartment coupled with a long time delay that consisted of five subcompartments. On the basis of known physiology, two of these delay compartments (representing APP and C99 peptides) were placed in front of the compartments that represent the brain &#x201C;soluble&#x201D; A&#x03B2; peptides because in vivo tracer studies in mice show that APP and C99 have relatively long half-lives (~3 hours) (<xref ref-type="bibr" rid="R44"><italic>44</italic></xref>) that should contribute to the overall time delay before labeled A&#x03B2; is detected at the lumbar sampling site. The remaining three delay compartments were placed after the soluble A&#x03B2; compartments to represent perfusion of labeled peptides through brain tissue and heterogeneous CSF fluid transport processes. Given that preliminary modeling indicated that a single time delay process could be identified within the data, the turnover rates for APP, C99, and each of the three CSF delay compartments were set to a single adjustable parameter that affects the overall time delay.</p>
+<p>The model takes into consideration that some of the C99 and soluble A&#x03B2; peptides are metabolized to fates other than A&#x03B2; peptides that appear at the CSF sampling site. The physiological nature of these other losses for soluble A&#x03B2; peptides is unknown but includes all processes that remove soluble peptides irreversibly, for example, deposition into plaques, cellular uptake, and proteolytic degradation. A compartment in exchange with the soluble A&#x03B2; peptide was necessary to optimally fit the sigmoid shape of the CSF A&#x03B2; enrichment time courses after the peak enrichment, particularly for A&#x03B2;42 in the mutation carrier PIB<sup>+</sup> group; this exchange process was added for an isoform only if it improved the Akaike information criteria (AIC) of the fit as provided by SAAM II. A scaling factor was applied to each of the A&#x03B2; isoform enrichments if it improved the AIC to account for small amounts of isotopic dilution between plasma leucine and the biosynthetic precursor pool (generally &lt;5%) or to correct for minor calibration errors (generally &lt;10%) in the measurement of isotope enrichments of plasma leucine or A&#x03B2; peptides.</p>
+<p>On the basis of the optimized kinetic parameters that describe the shape and magnitude of the CSF A&#x03B2; enrichment time course, the model determines the rate constant (pools per hour) for production of each A&#x03B2; peptide from their common C99 precursor to accurately project the measured baseline CSF A&#x03B2; peptide concentrations. The model projects the steady-state masses (ng) within and the flux rates (ng/hour) between all compartments for each A&#x03B2; isoform.</p>
+</sec>
+<sec disp-level="2">
+<title>Statistical analyses</title>
+<p>Ratios of isotopic enrichments between peptides at all time points were analyzed by repeated-measures ANOVA. When the time by group interaction was significant, enrichment ratios at individual time points were analyzed by ANOVA with a linear contrast to test for significant group effects. ANOVA was performed with a mutation status main affect, adjusting for PIB MCBP score as a covariate. Variables were tested for normal distribution by Shapiro-Wilk criterion; variables that were not normally distributed were log-transformed before performing ANOVA. The distribution of rate constants describing the exchange process revealed by the model was analyzed by Mann-Whitney <italic>U</italic> test because log transformation did not normalize the distribution. Statistics were performed with IBM SPSS version 20. A <italic>P</italic> value of &lt;0.05 was considered to be statistically significant. Unless otherwise noted, results shown are mean &#x00B1; SD for normally distributed variables or as median with interquartile range for nonnormally distributed variables. Graph generations were performed in GraphPad Prism version 5.01 for Windows (GraphPad Software).</p>
+</sec>
+<sec disp-level="2">
+<title>Movie methods</title>
+<p>A video illustrating the isotope labeling model for soluble A&#x03B2;42 and A&#x03B2;40 was created with Matplotlib (<xref ref-type="bibr" rid="R41"><italic>41</italic></xref>). Compartments for soluble, exchange, and irreversible loss (plaque) are shown over the MNI152 template image included as part of the FMRIB Software Library (<xref ref-type="bibr" rid="R42"><italic>42</italic></xref>). The location of the fibrillar plaque compartment in the illustration was determined by thresholding the average PIB image for PIB<sup>+</sup> mutation carriers. The growth of the soluble, exchange, and irreversible loss compartments followed the normalized production rates for each peptide. Note that the sizes of the A&#x03B2; compartments are greatly exaggerated for visualization purposes.</p>
+</sec>
+</sec>
+</body>
+<back><app-group><app>
+<title>Supplementary Materials</title><supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencetranslationalmedicine.org/cgi/content/full/5/189/189ra77/DC1">www.sciencetranslationalmedicine.org/cgi/content/full/5/189/189ra77/DC1</ext-link></p>
+<p>Fig. S1. Time course of plasma leucine isotopic enrichment.</p>
+<p>Fig. S2. Isotopic enrichment time courses of CSF A&#x03B2; peptides in individual nonmutation carrier participants.</p>
+<p>Fig. S3. Isotopic enrichment time courses of CSF A&#x03B2; peptides in mutation carrier participants with amyloid plaques (PIB<sup>+</sup>).</p>
+<p>Fig. S4. Isotopic enrichment time courses of CSF A&#x03B2; peptides in mutation carrier participants without amyloid plaques (PIB<sup>&#x2212;</sup>).</p>
+<p>Fig. S5. Whisker box plot and scatter plot of concentrations and selected kinetic parameters.</p>
+<p>Video S1. Animated illustration of isotope labeling time course and amyloid deposition.</p></supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Bateman</surname><given-names>R. J.</given-names></name><name><surname>Aisen</surname><given-names>P. S.</given-names></name><name><surname>De Strooper</surname><given-names>B.</given-names></name><name><surname>Fox</surname><given-names>N. C.</given-names></name><name><surname>Lemere</surname><given-names>C. A.</given-names></name><name><surname>Ringman</surname><given-names>J. M.</given-names></name><name><surname>Salloway</surname><given-names>S.</given-names></name><name><surname>Sperling</surname><given-names>R. A.</given-names></name><name><surname>Windisch</surname><given-names>M.</given-names></name><name><surname>Xiong</surname><given-names>C.</given-names></name></person-group>, 
+<article-title>Autosomal-dominant Alzheimer&#x2019;s disease: A review and proposal for the prevention of Alzheimer&#x2019;s disease.</article-title> <source>Alzheimers Res. Ther.</source> 
+<volume>3</volume>, 
+<fpage>1</fpage> (<year>2011</year>).</citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Bateman</surname><given-names>R. J.</given-names></name><name><surname>Xiong</surname><given-names>C.</given-names></name><name><surname>Benzinger</surname><given-names>T. L. S.</given-names></name><name><surname>Fagan</surname><given-names>A. M.</given-names></name><name><surname>Goate</surname><given-names>A.</given-names></name><name><surname>Fox</surname><given-names>N. C.</given-names></name><name><surname>Marcus</surname><given-names>D. S.</given-names></name><name><surname>Cairns</surname><given-names>N. J.</given-names></name><name><surname>Xie</surname><given-names>X.</given-names></name><name><surname>Blazey</surname><given-names>T. M.</given-names></name><name><surname>Holtzman</surname><given-names>D. M.</given-names></name><name><surname>Santacruz</surname><given-names>A.</given-names></name><name><surname>Buckles</surname><given-names>V.</given-names></name><name><surname>Oliver</surname><given-names>A.</given-names></name><name><surname>Moulder</surname><given-names>K.</given-names></name><name><surname>Aisen</surname><given-names>P. S.</given-names></name><name><surname>Ghetti</surname><given-names>B.</given-names></name><name><surname>Klunk</surname><given-names>W. E.</given-names></name><name><surname>McDade</surname><given-names>E.</given-names></name><name><surname>Martins</surname><given-names>R. N.</given-names></name><name><surname>Masters</surname><given-names>C. L.</given-names></name><name><surname>Mayeux</surname><given-names>R.</given-names></name><name><surname>Ringman</surname><given-names>J. M.</given-names></name><name><surname>Rossor</surname><given-names>M. N.</given-names></name><name><surname>Schofield</surname><given-names>P. R.</given-names></name><name><surname>Sperling</surname><given-names>R. A.</given-names></name><name><surname>Salloway</surname><given-names>S.</given-names></name><name><surname>Morris</surname><given-names>J. C.</given-names></name></person-group>, 
+<article-title>Clinical and biomarker changes in dominantly inherited Alzheimer&#x2019;s disease.</article-title> <source>N. Engl. J. Med.</source> 
+<volume>367</volume>, 
+<fpage>795</fpage>&#x2013;<lpage>804</lpage> (<year>2012</year>).</citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hardy</surname><given-names>J.</given-names></name><name><surname>Selkoe</surname><given-names>D. J.</given-names></name></person-group>, 
+<article-title>The amyloid hypothesis of Alzheimer&#x2019;s disease: Progress and problems on the road to therapeutics.</article-title> <source>Science</source> 
+<volume>297</volume>, 
+<fpage>353</fpage>&#x2013;<lpage>356</lpage> (<year>2002</year>).</citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Haass</surname><given-names>C.</given-names></name><name><surname>De Strooper</surname><given-names>B.</given-names></name></person-group>, 
+<article-title>The presenilins in Alzheimer&#x2019;s disease&#x2014;Proteolysis holds the key.</article-title> <source>Science</source> 
+<volume>286</volume>, 
+<fpage>916</fpage>&#x2013;<lpage>919</lpage> (<year>1999</year>).</citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>R.</given-names></name><name><surname>Sweeney</surname><given-names>D.</given-names></name><name><surname>Gandy</surname><given-names>S. E.</given-names></name><name><surname>Sisodia</surname><given-names>S. S.</given-names></name></person-group>, 
+<article-title>The profile of soluble amyloid &#x03B2; protein in cultured cell media. Detection and quantification of amyloid &#x03B2; protein and variants by immunoprecipitation-mass spectrometry.</article-title> <source>J. Biol. Chem.</source> 
+<volume>271</volume>, 
+<fpage>31894</fpage>&#x2013;<lpage>31902</lpage> (<year>1996</year>).</citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Miller</surname><given-names>D. L.</given-names></name><name><surname>Papayannopoulos</surname><given-names>I. A.</given-names></name><name><surname>Styles</surname><given-names>J.</given-names></name><name><surname>Bobin</surname><given-names>S. A.</given-names></name><name><surname>Lin</surname><given-names>Y. Y.</given-names></name><name><surname>Biemann</surname><given-names>K.</given-names></name><name><surname>Iqbal</surname><given-names>K.</given-names></name></person-group>, 
+<article-title>Peptide compositions of the cerebrovascular and senile plaque core amyloid deposits of Alzheimer&#x2019;s disease.</article-title> <source>Arch. Biochem. Biophys.</source> 
+<volume>301</volume>, 
+<fpage>41</fpage>&#x2013;<lpage>52</lpage> (<year>1993</year>).</citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Jonsson</surname><given-names>T.</given-names></name><name><surname>Atwal</surname><given-names>J. K.</given-names></name><name><surname>Steinberg</surname><given-names>S.</given-names></name><name><surname>Snaedal</surname><given-names>J.</given-names></name><name><surname>Jonsson</surname><given-names>P. V.</given-names></name><name><surname>Bjornsson</surname><given-names>S.</given-names></name><name><surname>Stefansson</surname><given-names>H.</given-names></name><name><surname>Sulem</surname><given-names>P.</given-names></name><name><surname>Gudbjartsson</surname><given-names>D.</given-names></name><name><surname>Maloney</surname><given-names>J.</given-names></name><name><surname>Hoyte</surname><given-names>K.</given-names></name><name><surname>Gustafson</surname><given-names>A.</given-names></name><name><surname>Liu</surname><given-names>Y.</given-names></name><name><surname>Lu</surname><given-names>Y.</given-names></name><name><surname>Bhangale</surname><given-names>T.</given-names></name><name><surname>Graham</surname><given-names>R. R.</given-names></name><name><surname>Huttenlocher</surname><given-names>J.</given-names></name><name><surname>Bjornsdottir</surname><given-names>G.</given-names></name><name><surname>Andreassen</surname><given-names>O. A.</given-names></name><name><surname>J&#x00F6;nsson</surname><given-names>E. G.</given-names></name><name><surname>Palotie</surname><given-names>A.</given-names></name><name><surname>Behrens</surname><given-names>T. W.</given-names></name><name><surname>Magnusson</surname><given-names>O. T.</given-names></name><name><surname>Kong</surname><given-names>A.</given-names></name><name><surname>Thorsteinsdottir</surname><given-names>U.</given-names></name><name><surname>Watts</surname><given-names>R. J.</given-names></name><name><surname>Stefansson</surname><given-names>K.</given-names></name></person-group>, 
+<article-title>A mutation in APP protects against Alzheimer&#x2019;s disease and age-related cognitive decline.</article-title> <source>Nature</source> 
+<volume>488</volume>, 
+<fpage>96</fpage>&#x2013;<lpage>99</lpage> (<year>2012</year>).</citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Rovelet-Lecrux</surname><given-names>A.</given-names></name><name><surname>Hannequin</surname><given-names>D.</given-names></name><name><surname>Raux</surname><given-names>G.</given-names></name><name><surname>Meur</surname><given-names>N. L.</given-names></name><name><surname>Laquerri&#x00E8;re</surname><given-names>A.</given-names></name><name><surname>Vital</surname><given-names>A.</given-names></name><name><surname>Dumanchin</surname><given-names>C.</given-names></name><name><surname>Feuillette</surname><given-names>S.</given-names></name><name><surname>Brice</surname><given-names>A.</given-names></name><name><surname>Vercelletto</surname><given-names>M.</given-names></name><name><surname>Dubas</surname><given-names>F.</given-names></name><name><surname>Frebourg</surname><given-names>T.</given-names></name><name><surname>Campion</surname><given-names>D.</given-names></name></person-group>, 
+<article-title>APP locus duplication causes autosomal dominant early-onset Alzheimer disease with cerebral amyloid angiopathy.</article-title> <source>Nat. Genet.</source> 
+<volume>38</volume>, 
+<fpage>24</fpage>&#x2013;<lpage>26</lpage> (<year>2006</year>).</citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Goate</surname><given-names>A.</given-names></name><name><surname>Chartier-Harlin</surname><given-names>M.-C.</given-names></name><name><surname>Mullan</surname><given-names>M.</given-names></name><name><surname>Brown</surname><given-names>J.</given-names></name><name><surname>Crawford</surname><given-names>F.</given-names></name><name><surname>Fidani</surname><given-names>L.</given-names></name><name><surname>Giuffra</surname><given-names>L.</given-names></name><name><surname>Haynes</surname><given-names>A.</given-names></name><name><surname>Irving</surname><given-names>N.</given-names></name><name><surname>James</surname><given-names>L.</given-names></name><name><surname>Mant</surname><given-names>R.</given-names></name><name><surname>Newton</surname><given-names>P.</given-names></name><name><surname>Rooke</surname><given-names>K.</given-names></name><name><surname>Roques</surname><given-names>P.</given-names></name><name><surname>Talbot</surname><given-names>C.</given-names></name><name><surname>Pericak-Vance</surname><given-names>M.</given-names></name><name><surname>Roses</surname><given-names>A.</given-names></name><name><surname>Williamson</surname><given-names>R.</given-names></name><name><surname>Rossor</surname><given-names>M.</given-names></name><name><surname>Owen</surname><given-names>M.</given-names></name><name><surname>Hardy</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>Segregation of a missense mutation in the amyloid precursor protein gene with familial Alzheimer&#x2019;s disease.</article-title> <source>Nature</source> 
+<volume>349</volume>, 
+<fpage>704</fpage>&#x2013;<lpage>706</lpage> (<year>1991</year>).</citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Levy-Lahad</surname><given-names>E.</given-names></name><name><surname>Wijsman</surname><given-names>E. M.</given-names></name><name><surname>Nemens</surname><given-names>E.</given-names></name><name><surname>Anderson</surname><given-names>L.</given-names></name><name><surname>Goddard</surname><given-names>K. A.</given-names></name><name><surname>Weber</surname><given-names>J. L.</given-names></name><name><surname>Bird</surname><given-names>T. D.</given-names></name><name><surname>Schellenberg</surname><given-names>G. D.</given-names></name></person-group>, 
+<article-title>A familial Alzheimer&#x2019;s disease locus on chromosome 1.</article-title> <source>Science</source> 
+<volume>269</volume>, 
+<fpage>970</fpage>&#x2013;<lpage>973</lpage> (<year>1995</year>).</citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Scheuner</surname><given-names>D.</given-names></name><name><surname>Eckman</surname><given-names>C.</given-names></name><name><surname>Jensen</surname><given-names>M.</given-names></name><name><surname>Song</surname><given-names>X.</given-names></name><name><surname>Citron</surname><given-names>M.</given-names></name><name><surname>Suzuki</surname><given-names>N.</given-names></name><name><surname>Bird</surname><given-names>T. D.</given-names></name><name><surname>Hardy</surname><given-names>J.</given-names></name><name><surname>Hutton</surname><given-names>M.</given-names></name><name><surname>Kukull</surname><given-names>W.</given-names></name><name><surname>Larson</surname><given-names>E.</given-names></name><name><surname>Levy-Lahad</surname><given-names>E.</given-names></name><name><surname>Viitanen</surname><given-names>M.</given-names></name><name><surname>Peskind</surname><given-names>E.</given-names></name><name><surname>Poorkaj</surname><given-names>P.</given-names></name><name><surname>Schellenberg</surname><given-names>G.</given-names></name><name><surname>Tanzi</surname><given-names>R.</given-names></name><name><surname>Wasco</surname><given-names>W.</given-names></name><name><surname>Lannfelt</surname><given-names>L.</given-names></name><name><surname>Selkoe</surname><given-names>D.</given-names></name><name><surname>Younkin</surname><given-names>S.</given-names></name></person-group>, 
+<article-title>Secreted amyloid &#x03B2;-protein similar to that in the senile plaques of Alzheimer&#x2019;s disease is increased in vivo by the presenilin 1 and 2 and <italic>APP</italic> mutations linked to familial Alzheimer&#x2019;s disease.</article-title> <source>Nat. Med.</source> 
+<volume>2</volume>, 
+<fpage>864</fpage>&#x2013;<lpage>870</lpage> (<year>1996</year>).</citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Borchelt</surname><given-names>D. R.</given-names></name><name><surname>Thinakaran</surname><given-names>G.</given-names></name><name><surname>Eckman</surname><given-names>C. B.</given-names></name><name><surname>Lee</surname><given-names>M. K.</given-names></name><name><surname>Davenport</surname><given-names>F.</given-names></name><name><surname>Ratovitsky</surname><given-names>T.</given-names></name><name><surname>Prada</surname><given-names>C.-M.</given-names></name><name><surname>Kim</surname><given-names>G.</given-names></name><name><surname>Seekins</surname><given-names>S.</given-names></name><name><surname>Yager</surname><given-names>D.</given-names></name><name><surname>Slunt</surname><given-names>H. H.</given-names></name><name><surname>Wang</surname><given-names>R.</given-names></name><name><surname>Seeger</surname><given-names>M.</given-names></name><name><surname>Levey</surname><given-names>A. I.</given-names></name><name><surname>Gandy</surname><given-names>S. E.</given-names></name><name><surname>Copeland</surname><given-names>N. G.</given-names></name><name><surname>Jenkins</surname><given-names>N. A.</given-names></name><name><surname>Price</surname><given-names>D. L.</given-names></name><name><surname>Younkin</surname><given-names>S. G.</given-names></name><name><surname>Sisodia</surname><given-names>S. S.</given-names></name></person-group>, 
+<article-title>Familial Alzheimer&#x2019;s disease&#x2013;linked presenilin 1 variants elevate A&#x03B2;1&#x2013;42/1&#x2013;40 ratio in vitro and in vivo.</article-title> <source>Neuron</source> 
+<volume>17</volume>, 
+<fpage>1005</fpage>&#x2013;<lpage>1013</lpage> (<year>1996</year>).</citation></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ringman</surname><given-names>J. M.</given-names></name><name><surname>Younkin</surname><given-names>S. G.</given-names></name><name><surname>Pratico</surname><given-names>D.</given-names></name><name><surname>Seltzer</surname><given-names>W.</given-names></name><name><surname>Cole</surname><given-names>G. M.</given-names></name><name><surname>Geschwind</surname><given-names>D. H.</given-names></name><name><surname>Rodriguez-Agudelo</surname><given-names>Y.</given-names></name><name><surname>Schaffer</surname><given-names>B.</given-names></name><name><surname>Fein</surname><given-names>J.</given-names></name><name><surname>Sokolow</surname><given-names>S.</given-names></name><name><surname>Rosario</surname><given-names>E. R.</given-names></name><name><surname>Gylys</surname><given-names>K. H.</given-names></name><name><surname>Varpetian</surname><given-names>A.</given-names></name><name><surname>Medina</surname><given-names>L. D.</given-names></name><name><surname>Cummings</surname><given-names>J. L.</given-names></name></person-group>, 
+<article-title>Biochemical markers in persons with preclinical familial Alzheimer disease.</article-title> <source>Neurology</source> 
+<volume>71</volume>, 
+<fpage>85</fpage>&#x2013;<lpage>92</lpage> (<year>2008</year>).</citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kauwe</surname><given-names>J. S.</given-names></name><name><surname>Jacquart</surname><given-names>S.</given-names></name><name><surname>Chakraverty</surname><given-names>S.</given-names></name><name><surname>Wang</surname><given-names>J.</given-names></name><name><surname>Mayo</surname><given-names>K.</given-names></name><name><surname>Fagan</surname><given-names>A. M.</given-names></name><name><surname>Holtzman</surname><given-names>D. M.</given-names></name><name><surname>Morris</surname><given-names>J. C.</given-names></name><name><surname>Goate</surname><given-names>A. M.</given-names></name></person-group>, 
+<article-title>Extreme cerebrospinal fluid amyloid &#x03B2; levels identify family with late-onset Alzheimer&#x2019;s disease presenilin 1 mutation.</article-title> <source>Ann. Neurol.</source> 
+<volume>61</volume>, 
+<fpage>446</fpage>&#x2013;<lpage>453</lpage> (<year>2007</year>).</citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kuperstein</surname><given-names>I.</given-names></name><name><surname>Broersen</surname><given-names>K.</given-names></name><name><surname>Benilova</surname><given-names>I.</given-names></name><name><surname>Rozenski</surname><given-names>J.</given-names></name><name><surname>Jonckheere</surname><given-names>W.</given-names></name><name><surname>Debulpaep</surname><given-names>M.</given-names></name><name><surname>Vandersteen</surname><given-names>A.</given-names></name><name><surname>Segers-Nolten</surname><given-names>I.</given-names></name><name><surname>Van Der Werf</surname><given-names>K.</given-names></name><name><surname>Subramaniam</surname><given-names>V.</given-names></name><name><surname>Braeken</surname><given-names>D.</given-names></name><name><surname>Callewaert</surname><given-names>G.</given-names></name><name><surname>Bartic</surname><given-names>C.</given-names></name><name><surname>D&#x2019;Hooge</surname><given-names>R.</given-names></name><name><surname>Martins</surname><given-names>I. C.</given-names></name><name><surname>Rousseau</surname><given-names>F.</given-names></name><name><surname>Schymkowitz</surname><given-names>J.</given-names></name><name><surname>De Strooper</surname><given-names>B.</given-names></name></person-group>, 
+<article-title>Neurotoxicity of Alzheimer&#x2019;s disease A&#x03B2; peptides is induced by small changes in the A&#x03B2;<sub>42</sub> to A&#x03B2;<sub>40</sub> ratio.</article-title> <source>EMBO J.</source> 
+<volume>29</volume>, 
+<fpage>3408</fpage>&#x2013;<lpage>3420</lpage> (<year>2010</year>).</citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Shioi</surname><given-names>J.</given-names></name><name><surname>Georgakopoulos</surname><given-names>A.</given-names></name><name><surname>Mehta</surname><given-names>P.</given-names></name><name><surname>Kouchi</surname><given-names>Z.</given-names></name><name><surname>Litterst</surname><given-names>C. M.</given-names></name><name><surname>Baki</surname><given-names>L.</given-names></name><name><surname>Robakis</surname><given-names>N. K.</given-names></name></person-group>, 
+<article-title>FAD mutants unable to increase neurotoxic A&#x03B2; 42 suggest that mutation effects on neurodegeneration may be independent of effects on A</article-title>&#x03B2;. <source>J. Neurochem.</source> 
+<volume>101</volume>, 
+<fpage>674</fpage>&#x2013;<lpage>681</lpage> (<year>2007</year>).</citation></ref>
+<ref id="R17"><label>17</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Moonis</surname><given-names>M.</given-names></name><name><surname>Swearer</surname><given-names>J. M.</given-names></name><name><surname>Dayaw</surname><given-names>M. P.</given-names></name><name><surname>St George-Hyslop</surname><given-names>P.</given-names></name><name><surname>Rogaeva</surname><given-names>E.</given-names></name><name><surname>Kawarai</surname><given-names>T.</given-names></name><name><surname>Pollen</surname><given-names>D. A.</given-names></name></person-group>, 
+<article-title>Familial Alzheimer disease: Decreases in CSF A&#x03B2;<sub>42</sub> levels precede cognitive decline.</article-title> <source>Neurology</source> 
+<volume>65</volume>, 
+<fpage>323</fpage>&#x2013;<lpage>325</lpage> (<year>2005</year>).</citation></ref>
+<ref id="R18"><label>18</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Mawuenyega</surname><given-names>K. G.</given-names></name><name><surname>Sigurdson</surname><given-names>W.</given-names></name><name><surname>Ovod</surname><given-names>V.</given-names></name><name><surname>Munsell</surname><given-names>L.</given-names></name><name><surname>Kasten</surname><given-names>T.</given-names></name><name><surname>Morris</surname><given-names>J. C.</given-names></name><name><surname>Yarasheski</surname><given-names>K. E.</given-names></name><name><surname>Bateman</surname><given-names>R. J.</given-names></name></person-group>, 
+<article-title>Decreased clearance of CNS &#x03B2;-amyloid in Alzheimer&#x2019;s disease.</article-title> <source>Science</source> 
+<volume>330</volume>, 
+<fpage>1774</fpage> (<year>2010</year>).</citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Andreasen</surname><given-names>N.</given-names></name><name><surname>Hesse</surname><given-names>C.</given-names></name><name><surname>Davidsson</surname><given-names>P.</given-names></name><name><surname>Minthon</surname><given-names>L.</given-names></name><name><surname>Wallin</surname><given-names>A.</given-names></name><name><surname>Winblad</surname><given-names>B.</given-names></name><name><surname>Vanderstichele</surname><given-names>H.</given-names></name><name><surname>Vanmechelen</surname><given-names>E.</given-names></name><name><surname>Blennow</surname><given-names>K.</given-names></name></person-group>, 
+<article-title>Cerebrospinal fluid &#x03B2;-amyloid(1-42) in Alzheimer disease: Differences between early- and late-onset Alzheimer disease and stability during the course of disease.</article-title> <source>Arch. Neurol.</source> 
+<volume>56</volume>, 
+<fpage>673</fpage>&#x2013;<lpage>680</lpage> (<year>1999</year>).</citation></ref>
+<ref id="R20"><label>20</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Fagan</surname><given-names>A. M.</given-names></name><name><surname>Mintun</surname><given-names>M. A.</given-names></name><name><surname>Mach</surname><given-names>R. H.</given-names></name><name><surname>Lee</surname><given-names>S. Y.</given-names></name><name><surname>Dence</surname><given-names>C. S.</given-names></name><name><surname>Shah</surname><given-names>A. R.</given-names></name><name><surname>LaRossa</surname><given-names>G. N.</given-names></name><name><surname>Spinner</surname><given-names>M. L.</given-names></name><name><surname>Klunk</surname><given-names>W. E.</given-names></name><name><surname>Mathis</surname><given-names>C. A.</given-names></name><name><surname>DeKosky</surname><given-names>S. T.</given-names></name><name><surname>Morris</surname><given-names>J. C.</given-names></name><name><surname>Holtzman</surname><given-names>D. M.</given-names></name></person-group>, 
+<article-title>Inverse relation between in vivo amyloid imaging load and cerebrospinal fluid A&#x03B2;<sub>42</sub> in humans.</article-title> <source>Ann. Neurol.</source> 
+<volume>59</volume>, 
+<fpage>512</fpage>&#x2013;<lpage>519</lpage> (<year>2006</year>).</citation></ref>
+<ref id="R21"><label>21</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Nikisch</surname><given-names>G.</given-names></name><name><surname>Hertel</surname><given-names>A.</given-names></name><name><surname>Kiessling</surname><given-names>B.</given-names></name><name><surname>Wagner</surname><given-names>T.</given-names></name><name><surname>Krasz</surname><given-names>D.</given-names></name><name><surname>Hofmann</surname><given-names>E.</given-names></name><name><surname>Wiedemann</surname><given-names>G.</given-names></name></person-group>, 
+<article-title>Three-year follow-up of a patient with early-onset Alzheimer&#x2019;s disease with presenilin-2 N141I mutation&#x2014;Case report and review of the literature.</article-title> <source>Eur. J. Med. Res.</source> 
+<volume>13</volume>, 
+<fpage>579</fpage>&#x2013;<lpage>584</lpage> (<year>2008</year>).</citation></ref>
+<ref id="R22"><label>22</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>De Strooper</surname><given-names>B.</given-names></name></person-group>, 
+<article-title>Loss-of-function presenilin mutations in Alzheimer disease. Talking Point on the role of presenilin mutations in Alzheimer disease.</article-title> <source>EMBO Rep.</source> 
+<volume>8</volume>, 
+<fpage>141</fpage>&#x2013;<lpage>146</lpage> (<year>2007</year>).</citation></ref>
+<ref id="R23"><label>23</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Mintun</surname><given-names>M. A.</given-names></name><name><surname>Larossa</surname><given-names>G. N.</given-names></name><name><surname>Sheline</surname><given-names>Y. I.</given-names></name><name><surname>Dence</surname><given-names>C. S.</given-names></name><name><surname>Lee</surname><given-names>S. Y.</given-names></name><name><surname>Mach</surname><given-names>R. H.</given-names></name><name><surname>Klunk</surname><given-names>W. E.</given-names></name><name><surname>Mathis</surname><given-names>C. A.</given-names></name><name><surname>DeKosky</surname><given-names>S. T.</given-names></name><name><surname>Morris</surname><given-names>J. C.</given-names></name></person-group>, 
+<article-title>[<sup>11</sup>C]PIB in a nondemented population: Potential antecedent marker of Alzheimer disease.</article-title> <source>Neurology</source> 
+<volume>67</volume>, 
+<fpage>446</fpage>&#x2013;<lpage>452</lpage> (<year>2006</year>).</citation></ref>
+<ref id="R24"><label>24</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ch&#x00E1;vez-Guti&#x00E9;rrez</surname><given-names>L.</given-names></name><name><surname>Bammens</surname><given-names>L.</given-names></name><name><surname>Benilova</surname><given-names>I.</given-names></name><name><surname>Vandersteen</surname><given-names>A.</given-names></name><name><surname>Benurwar</surname><given-names>M.</given-names></name><name><surname>Borgers</surname><given-names>M.</given-names></name><name><surname>Lismont</surname><given-names>S.</given-names></name><name><surname>Zhou</surname><given-names>L.</given-names></name><name><surname>Van Cleynenbreugel</surname><given-names>S.</given-names></name><name><surname>Esselmann</surname><given-names>H.</given-names></name><name><surname>Wiltfang</surname><given-names>J.</given-names></name><name><surname>Serneels</surname><given-names>L.</given-names></name><name><surname>Karran</surname><given-names>E.</given-names></name><name><surname>Gijsen</surname><given-names>H.</given-names></name><name><surname>Schymkowitz</surname><given-names>J.</given-names></name><name><surname>Rousseau</surname><given-names>F.</given-names></name><name><surname>Broersen</surname><given-names>K.</given-names></name><name><surname>De Strooper</surname><given-names>B.</given-names></name></person-group>, 
+<article-title>The mechanism of &#x03B3;-secretase dysfunction in familial Alzheimer disease.</article-title> <source>EMBO J.</source> 
+<volume>31</volume>, 
+<fpage>2261</fpage>&#x2013;<lpage>2274</lpage> (<year>2012</year>).</citation></ref>
+<ref id="R25"><label>25</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kumar-Singh</surname><given-names>S.</given-names></name><name><surname>Theuns</surname><given-names>J.</given-names></name><name><surname>Van Broeck</surname><given-names>B.</given-names></name><name><surname>Pirici</surname><given-names>D.</given-names></name><name><surname>Vennekens</surname><given-names>K.</given-names></name><name><surname>Corsmit</surname><given-names>E.</given-names></name><name><surname>Cruts</surname><given-names>M.</given-names></name><name><surname>Dermaut</surname><given-names>B.</given-names></name><name><surname>Wang</surname><given-names>R.</given-names></name><name><surname>Van Broeckhoven</surname><given-names>C.</given-names></name></person-group>, 
+<article-title>Mean age-of-onset of familial Alzheimer disease caused by presenilin mutations correlates with both increased A&#x03B2;42 and decreased A&#x03B2;40.</article-title> <source>Hum. Mutat.</source> 
+<volume>27</volume>, 
+<fpage>686</fpage>&#x2013;<lpage>695</lpage> (<year>2006</year>).</citation></ref>
+<ref id="R26"><label>26</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Iliff</surname><given-names>J. J.</given-names></name><name><surname>Wang</surname><given-names>M.</given-names></name><name><surname>Liao</surname><given-names>Y.</given-names></name><name><surname>Plogg</surname><given-names>B. A.</given-names></name><name><surname>Peng</surname><given-names>W.</given-names></name><name><surname>Gundersen</surname><given-names>G. A.</given-names></name><name><surname>Benveniste</surname><given-names>H.</given-names></name><name><surname>Vates</surname><given-names>G. E.</given-names></name><name><surname>Deane</surname><given-names>R.</given-names></name><name><surname>Goldman</surname><given-names>S. A.</given-names></name><name><surname>Nagelhus</surname><given-names>E. A.</given-names></name><name><surname>Nedergaard</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>A paravascular pathway facilitates CSF flow through the brain parenchyma and the clearance of interstitial solutes, including amyloid </article-title>&#x03B2;. <source>Sci. Transl. Med.</source> 
+<volume>4</volume>, 
+<fpage>147ra111</fpage> (<year>2012</year>).</citation></ref>
+<ref id="R27"><label>27</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Cirrito</surname><given-names>J. R.</given-names></name><name><surname>May</surname><given-names>P. C.</given-names></name><name><surname>O&#x2019;Dell</surname><given-names>M. A.</given-names></name><name><surname>Taylor</surname><given-names>J. W.</given-names></name><name><surname>Parsadanian</surname><given-names>M.</given-names></name><name><surname>Cramer</surname><given-names>J. W.</given-names></name><name><surname>Audia</surname><given-names>J. E.</given-names></name><name><surname>Nissen</surname><given-names>J. S.</given-names></name><name><surname>Bales</surname><given-names>K. R.</given-names></name><name><surname>Paul</surname><given-names>S. M.</given-names></name><name><surname>DeMattos</surname><given-names>R. B.</given-names></name><name><surname>Holtzman</surname><given-names>D. M.</given-names></name></person-group>, 
+<article-title>In vivo assessment of brain interstitial fluid with microdialysis reveals plaque-associated changes in amyloid-&#x03B2; metabolism and half-life.</article-title> <source>J. Neurosci.</source> 
+<volume>23</volume>, 
+<fpage>8844</fpage>&#x2013;<lpage>8853</lpage> (<year>2003</year>).</citation></ref>
+<ref id="R28"><label>28</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hong</surname><given-names>S.</given-names></name><name><surname>Quintero-Monzon</surname><given-names>O.</given-names></name><name><surname>Ostaszewski</surname><given-names>B. L.</given-names></name><name><surname>Podlisny</surname><given-names>D. R.</given-names></name><name><surname>Cavanaugh</surname><given-names>W. T.</given-names></name><name><surname>Yang</surname><given-names>T.</given-names></name><name><surname>Holtzman</surname><given-names>D. M.</given-names></name><name><surname>Cirrito</surname><given-names>J. R.</given-names></name><name><surname>Selkoe</surname><given-names>D. J.</given-names></name></person-group>, 
+<article-title>Dynamic analysis of amyloid &#x03B2;-protein in behaving mice reveals opposing changes in ISF versus parenchymal A&#x03B2; during age-related plaque formation.</article-title> <source>J. Neurosci.</source> 
+<volume>31</volume>, 
+<fpage>15861</fpage>&#x2013;<lpage>15869</lpage> (<year>2011</year>).</citation></ref>
+<ref id="R29"><label>29</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Iwatsubo</surname><given-names>T.</given-names></name><name><surname>Odaka</surname><given-names>A.</given-names></name><name><surname>Suzuki</surname><given-names>N.</given-names></name><name><surname>Mizusawa</surname><given-names>H.</given-names></name><name><surname>Nukina</surname><given-names>N.</given-names></name><name><surname>Ihara</surname><given-names>Y.</given-names></name></person-group>, 
+<article-title>Visualization of A&#x03B2;42(43) and A&#x03B2;40 in senile plaques with end-specific A &#x03B2; monoclonals: Evidence that an initially deposited species is A &#x03B2; 42(43).</article-title> <source>Neuron</source> 
+<volume>13</volume>, 
+<fpage>45</fpage>&#x2013;<lpage>53</lpage> (<year>1994</year>).</citation></ref>
+<ref id="R30"><label>30</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Grimmer</surname><given-names>T.</given-names></name><name><surname>Riemenschneider</surname><given-names>M.</given-names></name><name><surname>F&#x00F6;rstl</surname><given-names>H.</given-names></name><name><surname>Henriksen</surname><given-names>G.</given-names></name><name><surname>Klunk</surname><given-names>W. E.</given-names></name><name><surname>Mathis</surname><given-names>C. A.</given-names></name><name><surname>Shiga</surname><given-names>T.</given-names></name><name><surname>Wester</surname><given-names>H. J.</given-names></name><name><surname>Kurz</surname><given-names>A.</given-names></name><name><surname>Drzezga</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Beta amyloid in Alzheimer&#x2019;s disease: Increased deposition in brain is reflected in reduced concentration in cerebrospinal fluid.</article-title> <source>Biol. Psychiatry</source> 
+<volume>65</volume>, 
+<fpage>927</fpage>&#x2013;<lpage>934</lpage> (<year>2009</year>).</citation></ref>
+<ref id="R31"><label>31</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Lambert</surname><given-names>M. P.</given-names></name><name><surname>Barlow</surname><given-names>A. K.</given-names></name><name><surname>Chromy</surname><given-names>B. A.</given-names></name><name><surname>Edwards</surname><given-names>C.</given-names></name><name><surname>Freed</surname><given-names>R.</given-names></name><name><surname>Liosatos</surname><given-names>M.</given-names></name><name><surname>Morgan</surname><given-names>T. E.</given-names></name><name><surname>Rozovsky</surname><given-names>I.</given-names></name><name><surname>Trommer</surname><given-names>B.</given-names></name><name><surname>Viola</surname><given-names>K. L.</given-names></name><name><surname>Wals</surname><given-names>P.</given-names></name><name><surname>Zhang</surname><given-names>C.</given-names></name><name><surname>Finch</surname><given-names>C. E.</given-names></name><name><surname>Krafft</surname><given-names>G. A.</given-names></name><name><surname>Klein</surname><given-names>W. L.</given-names></name></person-group>, 
+<article-title>Diffusible, nonfibrillar ligands derived from A&#x03B2;<sub>1&#x2013;42</sub> are potent central nervous system neurotoxins.</article-title> <source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>95</volume>, 
+<fpage>6448</fpage>&#x2013;<lpage>6453</lpage> (<year>1998</year>).</citation></ref>
+<ref id="R32"><label>32</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kayed</surname><given-names>R.</given-names></name><name><surname>Head</surname><given-names>E.</given-names></name><name><surname>Thompson</surname><given-names>J. L.</given-names></name><name><surname>McIntire</surname><given-names>T. M.</given-names></name><name><surname>Milton</surname><given-names>S. C.</given-names></name><name><surname>Cotman</surname><given-names>C. W.</given-names></name><name><surname>Glabe</surname><given-names>C. G.</given-names></name></person-group>, 
+<article-title>Common structure of soluble amyloid oligomers implies common mechanism of pathogenesis.</article-title> <source>Science</source> 
+<volume>300</volume>, 
+<fpage>486</fpage>&#x2013;<lpage>489</lpage> (<year>2003</year>).</citation></ref>
+<ref id="R33"><label>33</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Esler</surname><given-names>W. P.</given-names></name><name><surname>Stimson</surname><given-names>E. R.</given-names></name><name><surname>Jennings</surname><given-names>J. M.</given-names></name><name><surname>Vinters</surname><given-names>H. V.</given-names></name><name><surname>Ghilardi</surname><given-names>J. R.</given-names></name><name><surname>Lee</surname><given-names>J. P.</given-names></name><name><surname>Mantyh</surname><given-names>P. W.</given-names></name><name><surname>Maggio</surname><given-names>J. E.</given-names></name></person-group>, 
+<article-title>Alzheimer&#x2019;s disease amyloid propagation by a template-dependent dock-lock mechanism.</article-title> <source>Biochemistry</source> 
+<volume>39</volume>, 
+<fpage>6288</fpage>&#x2013;<lpage>6295</lpage> (<year>2000</year>).</citation></ref>
+<ref id="R34"><label>34</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Knowles</surname><given-names>T. P. J.</given-names></name><name><surname>Waudby</surname><given-names>C. A.</given-names></name><name><surname>Devlin</surname><given-names>G. L.</given-names></name><name><surname>Cohen</surname><given-names>S. I. A.</given-names></name><name><surname>Aguzzi</surname><given-names>A.</given-names></name><name><surname>Vendruscolo</surname><given-names>M.</given-names></name><name><surname>Terentjev</surname><given-names>E. M.</given-names></name><name><surname>Welland</surname><given-names>M. E.</given-names></name><name><surname>Dobson</surname><given-names>C. M.</given-names></name></person-group>, 
+<article-title>An analytical solution to the kinetics of breakable filament assembly.</article-title> <source>Science</source> 
+<volume>326</volume>, 
+<fpage>1533</fpage>&#x2013;<lpage>1537</lpage> (<year>2009</year>).</citation></ref>
+<ref id="R35"><label>35</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Elbert</surname><given-names>D. L.</given-names></name><name><surname>Patterson</surname><given-names>B. W.</given-names></name><name><surname>Ercole</surname><given-names>L.</given-names></name><name><surname>Ovod</surname><given-names>V.</given-names></name><name><surname>Kasten</surname><given-names>T.</given-names></name><name><surname>Mawuenyega</surname><given-names>K.</given-names></name><name><surname>Yarasheski</surname><given-names>K.</given-names></name><name><surname>Morris</surname><given-names>J. C.</given-names></name><name><surname>Benzinger</surname><given-names>T.</given-names></name><name><surname>Holtzman</surname><given-names>D. M.</given-names></name><name><surname>Bateman</surname><given-names>R. J.</given-names></name></person-group>, 
+<article-title>Reply to: Fractional synthesis and clearance rates for amyloid </article-title>&#x03B2;. <source>Nat. Med.</source> 
+<volume>17</volume>, 
+<fpage>1178</fpage>&#x2013;<lpage>1179</lpage> (<year>2011</year>).</citation></ref>
+<ref id="R36"><label>36</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Huang</surname><given-names>Y.</given-names></name><name><surname>Potter</surname><given-names>R.</given-names></name><name><surname>Sigurdson</surname><given-names>W.</given-names></name><name><surname>Santacruz</surname><given-names>A.</given-names></name><name><surname>Shih</surname><given-names>S.</given-names></name><name><surname>Ju</surname><given-names>Y. E.</given-names></name><name><surname>Kasten</surname><given-names>T.</given-names></name><name><surname>Morris</surname><given-names>J. C.</given-names></name><name><surname>Mintun</surname><given-names>M.</given-names></name><name><surname>Duntley</surname><given-names>S.</given-names></name><name><surname>Bateman</surname><given-names>R. J.</given-names></name></person-group>, 
+<article-title>Effects of age and amyloid deposition on A&#x03B2; dynamics in the human central nervous system.</article-title> <source>Arch. Neurol.</source> 
+<volume>69</volume>, 
+<fpage>51</fpage>&#x2013;<lpage>58</lpage> (<year>2011</year>).</citation></ref>
+<ref id="R37"><label>37</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Roh</surname><given-names>J. H.</given-names></name><name><surname>Huang</surname><given-names>Y.</given-names></name><name><surname>Bero</surname><given-names>A. W.</given-names></name><name><surname>Kasten</surname><given-names>T.</given-names></name><name><surname>Stewart</surname><given-names>F. R.</given-names></name><name><surname>Bateman</surname><given-names>R. J.</given-names></name><name><surname>Holtzman</surname><given-names>D. M.</given-names></name></person-group>, 
+<article-title>Disruption of the sleep-wake cycle and diurnal fluctuation of &#x03B2;-amyloid in mice with Alzheimer&#x2019;s disease pathology.</article-title> <source>Sci. Transl. Med.</source> 
+<volume>4</volume>, 
+<fpage>150ra122</fpage> (<year>2012</year>).</citation></ref>
+<ref id="R38"><label>38</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Reiman</surname><given-names>E. M.</given-names></name><name><surname>Quiroz</surname><given-names>Y. T.</given-names></name><name><surname>Fleisher</surname><given-names>A. S.</given-names></name><name><surname>Chen</surname><given-names>K.</given-names></name><name><surname>Velez-Pardo</surname><given-names>C.</given-names></name><name><surname>Jimenez-Del-Rio</surname><given-names>M.</given-names></name><name><surname>Fagan</surname><given-names>A. M.</given-names></name><name><surname>Shah</surname><given-names>A. R.</given-names></name><name><surname>Alvarez</surname><given-names>S.</given-names></name><name><surname>Arbelaez</surname><given-names>A.</given-names></name><name><surname>Giraldo</surname><given-names>M.</given-names></name><name><surname>Acosta-Baena</surname><given-names>N.</given-names></name><name><surname>Sperling</surname><given-names>R. A.</given-names></name><name><surname>Dickerson</surname><given-names>B.</given-names></name><name><surname>Stern</surname><given-names>C. E.</given-names></name><name><surname>Tirado</surname><given-names>V.</given-names></name><name><surname>Munoz</surname><given-names>C.</given-names></name><name><surname>Reiman</surname><given-names>R. A.</given-names></name><name><surname>Huentelman</surname><given-names>M. J.</given-names></name><name><surname>Alexander</surname><given-names>G. E.</given-names></name><name><surname>Langbaum</surname><given-names>J. B. S.</given-names></name><name><surname>Kosik</surname><given-names>K. S.</given-names></name><name><surname>Tariot</surname><given-names>P. N.</given-names></name><name><surname>Lopera</surname><given-names>F.</given-names></name></person-group>, 
+<article-title>Brain imaging and fluid biomarker analysis in young adults at genetic risk for autosomal dominant Alzheimer&#x2019;s disease in the presenilin 1 E280A kindred: A case-control study.</article-title> <source>Lancet Neurol.</source> 
+<volume>11</volume>, 
+<fpage>1048</fpage>&#x2013;<lpage>1056</lpage> (<year>2012</year>).</citation></ref>
+<ref id="R39"><label>39</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Harper</surname><given-names>J. D.</given-names></name><name><surname>Lansbury</surname><given-names>P. T.</given-names><suffix>Jr.</suffix></name></person-group>, 
+<article-title>Models of amyloid seeding in Alzheimer&#x2019;s disease and scrapie: Mechanistic truths and physiological consequences of the time-dependent solubility of amyloid proteins.</article-title> <source>Annu. Rev. Biochem.</source> 
+<volume>66</volume>, 
+<fpage>385</fpage>&#x2013;<lpage>407</lpage> (<year>1997</year>).</citation></ref>
+<ref id="R40"><label>40</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Cruchaga</surname><given-names>C.</given-names></name><name><surname>Chakraverty</surname><given-names>S.</given-names></name><name><surname>Mayo</surname><given-names>K.</given-names></name><name><surname>Vallania</surname><given-names>F. L.</given-names></name><name><surname>Mitra</surname><given-names>R. D.</given-names></name><name><surname>Faber</surname><given-names>K.</given-names></name><name><surname>Williamson</surname><given-names>J.</given-names></name><name><surname>Bird</surname><given-names>T.</given-names></name><name><surname>Diaz-Arrastia</surname><given-names>R.</given-names></name><name><surname>Foroud</surname><given-names>T. M.</given-names></name><name><surname>Boeve</surname><given-names>B. F.</given-names></name><name><surname>Graff-Radford</surname><given-names>N. R.</given-names></name><name><surname>St Jean</surname><given-names>P.</given-names></name><name><surname>Lawson</surname><given-names>M.</given-names></name><name><surname>Ehm</surname><given-names>M. G.</given-names></name><name><surname>Mayeux</surname><given-names>R.</given-names></name><name><surname>Goate</surname><given-names>A. M.</given-names></name></person-group>; <person-group person-group-type="author"><collab>NIA-LOAD/NCRAD Family Study Consortium</collab></person-group>, 
+<article-title>Rare variants in <italic>APP</italic>, <italic>PSEN1</italic> and <italic>PSEN2</italic> increase risk for AD in late-onset Alzheimer&#x2019;s disease families.</article-title> <source>PLoS One</source> 
+<volume>7</volume>, 
+<fpage>e31039</fpage> (<year>2012</year>).</citation></ref>
+<ref id="R41"><label>41</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Bateman</surname><given-names>R. J.</given-names></name><name><surname>Munsell</surname><given-names>L. Y.</given-names></name><name><surname>Morris</surname><given-names>J. C.</given-names></name><name><surname>Swarm</surname><given-names>R.</given-names></name><name><surname>Yarasheski</surname><given-names>K. E.</given-names></name><name><surname>Holtzman</surname><given-names>D. M.</given-names></name></person-group>, 
+<article-title>Human amyloid-&#x03B2; synthesis and clearance rates as measured in cerebrospinal fluid in vivo.</article-title> <source>Nat. Med.</source> 
+<volume>12</volume>, 
+<fpage>856</fpage>&#x2013;<lpage>861</lpage> (<year>2006</year>).</citation></ref>
+<ref id="R42"><label>42</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Reeds</surname><given-names>D. N.</given-names></name><name><surname>Cade</surname><given-names>W. T.</given-names></name><name><surname>Patterson</surname><given-names>B. W.</given-names></name><name><surname>Powderly</surname><given-names>W. G.</given-names></name><name><surname>Klein</surname><given-names>S.</given-names></name><name><surname>Yarasheski</surname><given-names>K. E.</given-names></name></person-group>, 
+<article-title>Whole-body proteolysis rate is elevated in HIV-associated insulin resistance.</article-title> <source>Diabetes</source> 
+<volume>55</volume>, 
+<fpage>2849</fpage>&#x2013;<lpage>2855</lpage> (<year>2006</year>).</citation></ref>
+<ref id="R43"><label>43</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Cook</surname><given-names>J. J.</given-names></name><name><surname>Wildsmith</surname><given-names>K. R.</given-names></name><name><surname>Gilberto</surname><given-names>D. B.</given-names></name><name><surname>Holahan</surname><given-names>M. A.</given-names></name><name><surname>Kinney</surname><given-names>G. G.</given-names></name><name><surname>Mathers</surname><given-names>P. D.</given-names></name><name><surname>Michener</surname><given-names>M. S.</given-names></name><name><surname>Price</surname><given-names>E. A.</given-names></name><name><surname>Shearman</surname><given-names>M. S.</given-names></name><name><surname>Simon</surname><given-names>A. J.</given-names></name><name><surname>Wang</surname><given-names>J. X.</given-names></name><name><surname>Wu</surname><given-names>G.</given-names></name><name><surname>Yarasheski</surname><given-names>K. E.</given-names></name><name><surname>Bateman</surname><given-names>R. J.</given-names></name></person-group>, 
+<article-title>Acute &#x03B3;-secretase inhibition of nonhuman primate CNS shifts amyloid precursor protein (APP) metabolism from amyloid-&#x03B2; production to alternative APP fragments without amyloid-&#x03B2; rebound.</article-title> <source>J. Neurosci.</source> 
+<volume>30</volume>, 
+<fpage>6743</fpage>&#x2013;<lpage>6750</lpage> (<year>2010</year>).</citation></ref>
+<ref id="R44"><label>44</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Savage</surname><given-names>M. J.</given-names></name><name><surname>Trusko</surname><given-names>S. P.</given-names></name><name><surname>Howland</surname><given-names>D. S.</given-names></name><name><surname>Pinsker</surname><given-names>L. R.</given-names></name><name><surname>Mistretta</surname><given-names>S.</given-names></name><name><surname>Reaume</surname><given-names>A. G.</given-names></name><name><surname>Greenberg</surname><given-names>B. D.</given-names></name><name><surname>Siman</surname><given-names>R.</given-names></name><name><surname>Scott</surname><given-names>R. W.</given-names></name></person-group>, 
+<article-title>Turnover of amyloid &#x03B2;-protein in mouse brain and acute reduction of its level by phorbol ester.</article-title> <source>J. Neurosci.</source> 
+<volume>18</volume>, 
+<fpage>1743</fpage>&#x2013;<lpage>1752</lpage> (<year>1998</year>).</citation></ref>
+</ref-list>
+<ack>
+<title>Acknowledgments</title><p>We thank the participants and their families for their contributions to this study and the Clinical Core of the Adult Children Study for clinical assessments of the participants. <bold>Funding:</bold> This work was supported by funding from the National Institute on Aging as a supplement, the Familial Adult Children Study (5P01AG026276-S1 to R.J.B.), to the Antecedent Biomarkers in AD: The Adult Children Study (5P01 AG026272 to J.C.M.). Additional support came from R01-NS065667 (R.J.B.), UL1 RR024992, P41 GM103422, P30 DK056341 (Nutrition Obesity Research Center, B.W.P.), P60 DK020579, and an anonymous foundation. <bold>Author contributions:</bold> R.J.B. designed the study and obtained funding. D.M.H., A.G., and J.C.M. assisted in the design of the study. W.S., R.J.B., and R.P. recruited and enrolled participants and performed tracer infusion studies. R.P., R.C., and T.K. performed laboratory protocol development, sample preparation, and processing. K.M. and V.O. developed MS methods, and V.O. measured samples by MS. B.W.P. and D.L.E. developed and performed kinetic modeling and statistical analyses. R.C. and K.E.Y. analyzed leucine samples. T.B., T.L.S.B., R.J.B., D.L.E., and B.W.P. developed images and videos. R.J.B. and R.P. wrote an initial draft of the paper. The final paper was prepared by B.W.P., D.L.E., and R.J.B., which all authors reviewed and approved. <bold>Competing interests:</bold> R.J.B. and D.M.H. are co-inventors on U.S. Patent 7,892,845 &#x201C;Methods for measuring the metabolism of neurally derived biomolecules in vivo.&#x201D; Washington University, with R.J.B. and D.M.H. as co-inventors, has also submitted the U.S. nonprovisional patent application &#x201C;Methods for measuring the metabolism of CNS derived biomolecules in vivo,&#x201D; serial #12/267,974. R.J.B., D.L.E., and B.W.P. are co-inventors on U.S. Provisional Application 61/728,692 &#x201C;Methods of diagnosing amyloid pathologies using analysis of amyloid-beta enrichment kinetics.&#x201D; R.J.B. has consulted for Pfizer, DZNE, Probiodrug AG, Medscape, and EnVivo (SAB) and has research grants with AstraZeneca, Merck, and Eli Lilly in the past year. Washington University, R.J.B., and D.M.H. have a financial interest in C2N Diagnostics, which uses the SILK methodology in human studies. B.W.P. provides turnover kinetics consultation services for C2N Diagnostics. C2N Diagnostics did not support this work. D.M.H. has consulted for Pfizer, AstraZeneca, and Bristol-Myers Squibb in the last 12 months. His laboratory has received grants from Eli Lilly, AstraZeneca, Pfizer, and C2N Diagnostics that are not related to the content in this manuscript. T.B. has served on an advisory board for Eli Lilly and has received research funding from Avid Radiopharmaceuticals. These relationships are not related to the content in the manuscript. A.G. has received research funding during the last 12 months from Pfizer, Genentech, AstraZeneca, and iPierian and has served as a consultant for Amgen. These relationships are not related to the content in the manuscript. J.C.M. serves on scientific advisory boards for Eisai, Esteve, Janssen Alzheimer Immunotherapy Program, GlaxoSmithKline, Novartis, and Pfizer. The other authors declare that they have no competing interests.</p>
+</ack></back>
+</article>

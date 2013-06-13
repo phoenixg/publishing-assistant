@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1224362</article-id>
+<article-id pub-id-type="doi">10.1126/science.1224362</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Perspective</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Perspectives</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>perspective</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Plant Science</subject></subj-group>
+<subj-group subj-group-type="field"><subject>BOTANY</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Defining the Plant Germ Line&#x2014;Nature or Nurture?</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Whipple</surname><given-names>Clinton</given-names></name></contrib>
+<aff id="aff1">Department of Biology, Brigham Young University, Provo, UT 84602, USA.</aff>
+</contrib-group>
+<author-notes>
+<corresp>E-mail: <email>whipple@byu.edu</email></corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<day>20</day>
+<month>07</month>
+<year>2012</year>
+</pub-date>
+<volume>337</volume>
+<issue>6092</issue>
+<fpage>301</fpage>
+<lpage>302</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>Cellular redox state affects cell fate determination during germline development in plants.</p>
+</abstract>
+<abstract abstract-type="excerpt">
+<p>Teasing apart environmental from inherent or genetic causes in human development is notoriously difficult. Although both likely play important roles, we tend to favor one or the other to explain why we turn out the way we do. A similar nature-nurture tension is at play in the acquisition of cell fates during development. A fertilized zygote must not only divide, but its daughter cells must acquire distinct identities. Are cell fates determined by lineage, such that a mother cell can only give rise to daughter cells of a certain type, or can daughter cells adopt multiple identities depending on their environment? On page 345 in this issue, Kelliher and Walbot (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>) show that germline cell identity in maize (corn) is specified by cellular redox potential (the oxidation-reduction state of a cell) under the influence of the environment, and not by cell lineage, as previously thought.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Lisa D. Chong</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Harry Jach</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>Teasing apart environmental from inherent or genetic causes in human development is notoriously difficult. Although both likely play important roles, we tend to favor one or the other to explain why we turn out the way we do. A similar nature-nurture tension is at play in the acquisition of cell fates during development. A fertilized zygote must not only divide, but its daughter cells must acquire distinct identities. Are cell fates determined by lineage, such that a mother cell can only give rise to daughter cells of a certain type, or can daughter cells adopt multiple identities depending on their environment? On page <related-article related-article-type="in-this-issue" vol="337" page="345" issue="6092">345</related-article> in this issue, Kelliher and Walbot (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>) show that germline cell identity in maize (corn) is specified by cellular redox potential (the oxidation-reduction state of a cell) under the influence of the environment, and not by cell lineage, as previously thought.</p>
+<p>Whereas the animal germ line is established early in development and maintained as a segregated lineage until maturity (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>), plants can specify multiple germ lines late in development. Challenging the view that the plant male germ line is also lineage controlled (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>), Kelliher and Walbot carefully followed cell division and fate in male reproductive organs, or anthers. By manipulating the redox state of normal and mutant anthers, the authors show that a series of environmental and cellular signals establish the male germ line (see the figure). In the first step, <italic>male sterile converted anther 1</italic> (<italic>msca1</italic>) gene activity and the low redox potential of early anther induces a germline fate. Subsequently, these germline cells secrete a signaling molecule, MULTIPLE ARCHESPORIAL CELLS 1 (MAC1), which both stops further germline proliferation and causes neighboring cells to become supportive tissue. Modulating O<sub>2</sub> levels revealed that a hypoxic environment can induce any cell of the early anther to differentiate as germ line. Because maize anther development is initiated within tightly enclosing leaves that block gas exchange, the authors propose a model in which a hypoxic environment inside the leaves creates a natural redox gradient, diminishing toward the center of the anther. Internal cells respond to a low redox potential by differentiating as germ line.</p>
+<p>The study by Kelliher and Walbot adds to a growing body of evidence connecting modulation of cellular redox state and developmental decisions in plants. The maize <italic>msca1</italic> gene encodes a glutaredoxin protein involved in redox homeostasis. In the model plant <italic>Arabidopsis thaliana</italic>, the <italic>ROXY</italic> genes also encode glutaredoxins that regulate floral organ number and germline development (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). Both <italic>ROXY</italic> and <italic>msca1</italic> belong to a plant-specific class of glutaredoxins that modify regulatory proteins in the cell, including developmental regulators (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>). Another recent study emphasizes the role of redox homeostasis in root meristem development (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). All these examples from plants are intimately associated with developmental decisions in the germ line or in meristem tissue (undifferentiated tissue as at the tip of a shoot or root), all of which comprise stem cell niches. Thus, cell redox state is emerging as a factor regulating the plant stem cell niche, similar to what has been described in animals (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>).</p>
+<fig id="F1" position="float">
+<caption>
+<title>Establishing the germ line.</title>
+<p>(<bold>A</bold>) A cross section of an anther (male reproductive organ) shows lobes where somatic cells establish germline niches. Centrally located germline archesporial cells undergo meiosis. Two layers of parietal cells surround the germ line and become supportive tissue. (<bold>B</bold>) A cellular gradient is created by naturally decreasing O<sub>2</sub> concentration and the activity of the glutaredoxin MSCA1. Central cells have sufficiently low redox potential to become archesporial. (<bold>C</bold>) The newly specified archesporial cell releases the small protein MAC1, which signals adjacent cells to divide and form supportive tissue.</p>
+</caption>
+<graphic xlink:href="337_301_F1"></graphic>
+<attrib>CREDIT: B. STRAUCH/<italic>SCIENCE</italic></attrib>
+</fig>
+<p>Although the determinants of the germ line in maize, including <italic>mac1</italic> and <italic>msca1</italic>, are still being characterized, more is known in <italic>Arabidopsis</italic> where a similar signaling module allows adjacent cell layers to communicate and maintain the stem cell niche (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>&#x2013;<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>). The findings of Kelliher and Walbot show that maize employs a conserved mechanism, which is not surprising. More unexpected is the striking resemblance to the signaling module that maintains the plant shoot meristem in which a secreted peptide binds to receptors in adjacent cell layers (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). The protective leaves that usually cover vegetative meristems may promote a hypoxic environment near the meristem. If this is true, then manipulation of redox state could have a similar effect on the vegetative meristem. Further studies on the role of redox homeostasis in vegetative meristem development may provide answers.</p>
+<p>Perhaps the most intriguing implication of the study by Kelliher and Walbot is that a naturally arising redox gradient can serve as a developmental signal. It remains to be seen if a similar mechanism is at work in plants such as <italic>Arabidopsis</italic> that develop their flowers outside of enclosing leaves. Indeed, maize and other grasses are not typical of most land plants whose developing reproductive structures are much more exposed, potentially making it difficult to maintain the proposed redox gradient. Maybe future germline cells modulate their own redox state, as has been described in root meristem differentiation (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). If redox state is directly regulated by the cell, a patterning mechanism is still required to distinguish the cells that will initiate this regulation. Does <italic>msca1</italic> respond to a naturally arising redox gradient, or does it directly participate in lowering the redox state? Distinguishing nature from nurture may not be so easy after all.</p>
+</body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Kelliher</surname><given-names>T.</given-names></name><name><surname>Walbot</surname><given-names>V.</given-names></name></person-group>, <source>Science</source> <volume>337</volume>, <fpage>345</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Juliano</surname><given-names>C.</given-names></name><name><surname>Wessel</surname><given-names>G.</given-names></name></person-group>, <source>Science</source> <volume>329</volume>, <fpage>640</fpage> (<year>2010</year>).</citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hord</surname><given-names>C. L. H.</given-names></name><name><surname>Ma</surname><given-names>H.</given-names></name></person-group>, <source>Plant Cell Monogr.</source> <volume>9</volume>, <fpage>361</fpage> (<year>2007</year>).</citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Xing</surname><given-names>S.</given-names></name><name><surname>Zachgo</surname><given-names>S.</given-names></name></person-group>, <source>Plant J.</source> <volume>53</volume>, <fpage>790</fpage> (<year>2008</year>).</citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>S.</given-names></name><etal/></person-group>., <source>Plant Cell</source> <volume>21</volume>, <fpage>429</fpage> (<year>2009</year>).</citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Tsukagoshi</surname><given-names>H.</given-names></name><etal/></person-group>., <source>Cell</source> <volume>143</volume>, <fpage>606</fpage> (<year>2010</year>).</citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Keith</surname><given-names>B.</given-names></name><name><surname>Simon</surname><given-names>M. C.</given-names></name></person-group>, <source>Cell</source> <volume>129</volume>, <fpage>465</fpage> (<year>2007</year>).</citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>S. L.</given-names></name><etal/></person-group>., <source>Plant Cell</source> <volume>15</volume>, <fpage>2792</fpage> (<year>2003</year>).</citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hord</surname><given-names>C. L.</given-names></name><etal/></person-group>., <source>Plant Cell</source> <volume>18</volume>, <fpage>1667</fpage> (<year>2006</year>).</citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Schiefthaler</surname><given-names>U.</given-names></name><etal/></person-group>., <source>Proc. Natl. Acad. Sci. U.S.A.</source> <volume>96</volume>, <fpage>11664</fpage> (<year>1999</year>).</citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>W. C.</given-names></name><etal/></person-group>., <source>Genes Dev.</source> <volume>13</volume>, <fpage>2108</fpage> (<year>1999</year>).</citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Schoof</surname><given-names>H.</given-names></name><etal/></person-group>., <source>Cell</source> <volume>100</volume>, <fpage>635</fpage> (<year>2000</year>).</citation>
+</ref>
+</ref-list>
+</back>
+</article>

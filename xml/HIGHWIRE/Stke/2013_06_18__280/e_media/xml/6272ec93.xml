@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">sigtrans</journal-id>
+<journal-title>Science Signaling</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Sci. Signal.</abbrev-journal-title>
+    <issn pub-type="epub">1937-9145</issn><issn pub-type="ppub">1945-0877</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">2004262</article-id>
+<article-id pub-id-type="doi">10.1126/scisignal.2004262</article-id>
+<article-categories><subj-group subj-group-type="article-type"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>STKE Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="field"><subject>MEDICINE</subject><subject>CELL BIOL</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Cancer</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>TPL2, a MAPKKK That Suppresses Lung Cancer</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Ferrarelli</surname><given-names>Leslie K.</given-names></name></contrib>
+<aff id="aff1"><italic>Science Signaling</italic>, AAAS, Washington, DC 20005, USA</aff>
+</contrib-group>
+<pub-date pub-type="ppub"><day>23</day><month>04</month><year>2013</year></pub-date>
+<volume>6</volume>
+<issue>272</issue>
+<fpage>ec93</fpage>
+<lpage>ec93</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>The kinase TPL2 suppresses lung carcinogenesis by promoting the stability of p53.</p>
+</abstract>
+<abstract>
+<p>Tumor progression locus 2 (TPL2), also known as COT (cancer Osaka thyroid) and MAP3K8 (mitogen-activated kinase kinase kinase 8), is a kinase involved in the inflammatory immune response, but reports on its roles in cancer development are conflicting. Gkirtzimanaki <italic>et al</italic>. found that TPL2 may be a tumor suppressor in lung tissue. <italic>TPL2</italic> expression was decreased in a large sample of human lung carcinomas, and low expression correlated with increased proliferative index and decreased patient survival. Compared with wild-type mice,<italic> TPL2<sup>&#x2013;/&#x2013;</sup></italic> mice exposed to the carcinogen urethane showed increased proliferation of hyperplastic lesions, earlier development of adenocarcinomas, increased bronchiolar invasion, and decreased expression of p53 target genes <italic>bax</italic> and <italic>cdkn1a</italic>. Lung tumors isolated from wild-type mice showed decreased expression of <italic>TPL2</italic> compared with normal bronchial epithelium. No differences in immune cell infiltration and inflammatory cytokine secretion were observed in lungs or spleens of <italic>TPL2<sup>&#x2013;/&#x2013;</sup></italic> and wild-type mice, indicating an immune- and inflammation-independent oncogenic response to <italic>TPL2</italic> deletion. In human lung cancer tissue with a low amount of TPL2, Gkirtzimanaki <italic>et al</italic>. found loss of heterozygosity of <italic>TPL2</italic>, activating mutations of <italic>Ras</italic>, or increased abundance of microRNA (miR)&#x2013;370, the locus of which was hypomethylated. Transfection with miR-370 (but not miR-328) or mutant H-Ras or K-Ras decreased TPL2 abundance in A549 and H1299 lung cancer cells, suggesting potential causes of TPL2 loss in lung cancer. Transfection of H-Ras mutant A549 cells or K-Ras mutant 208F fibroblasts with TPL2 reduced cell proliferation and increased apoptosis, effects that were impaired by treatment with pan-caspase inhibitors or p53-targeted siRNA. In cisplatin-treated cells, TPL2 knockdown decreased both the phosphorylation of JNK (c-Jun N-terminal kinase) and the abundance of nucleophosmin (NPM), which has binding sites for c-Jun in its promoter and stabilizes p53 by inhibiting its interaction with the ubiquitin ligase MDM2. Overexpression of TPL2 in H-Ras mutant A549 cells increased JNK phosphorylation and NPM and p53 abundance, all of which were diminished by pretreatment with a JNK inhibitor. The findings suggest that TPL2 promotes p53-mediated tumor suppression in lung cells through a JNK-NPM pathway.</p>
+<p>K. Gkirtzimanaki, K. K. Gkouskou, U. Oleksiewicz, G. Nikolaidis, D. Vyrla, M. Liontos, V. Pelekanou, D. C. Kanellis, K. Evangelou, E. N. Stathopoulos, J. K. Field, P. N. Tsichlis, V. Gorgoulis, T. Liloglou, A. G. Eliopoulos, TPL2 kinase is a suppressor of lung carcinogenesis. <italic>Proc. Natl. Acad. Sci. U.S.A.</italic> <bold>110</bold>, E1470&#x2013;E1479 (2013). <ext-link ext-link-type="uri" xlink:href="http://stke.sciencemag.org/cgi/content/abstract/pnas;110/16/E1470">[Abstract]</ext-link> <ext-link ext-link-type="uri" xlink:href="http://stke.sciencemag.org/cgi/content/full/pnas;110/16/E1470">[Full Text]</ext-link> </p>
+</abstract>
+</article-meta>
+</front>
+</article>

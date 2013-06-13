@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1224286</article-id>
+<article-id pub-id-type="doi">10.1126/science.1224286</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Report</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Reports</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>reports</subject></subj-group>
+<subj-group subj-group-type="field"><subject>EVOLUTION</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>A Mechanism of Extreme Growth and Reliable Signaling in Sexually Selected Ornaments and Weapons</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Emlen</surname><given-names>Douglas J.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="corresp" rid="cor1">*</xref></contrib> <contrib contrib-type="author"><name><surname>Warren</surname><given-names>Ian A.</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Johns</surname><given-names>Annika</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Dworkin</surname><given-names>Ian</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Lavine</surname><given-names>Laura Corley</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib>
+<aff id="aff1"><label>1</label>Division of Biological Sciences, The University of Montana, 104 Health Science Building, Missoula, MT 59812, USA.</aff>
+<aff id="aff2"><label>2</label>Department of Entomology, Washington State University, Pullman, WA 99164&#x2013;6382, USA.</aff>
+<aff id="aff3"><label>3</label>Department of Zoology, Michigan State University, East Lansing, MI 48824, USA.</aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>To whom correspondence should be addressed. E-mail: <email xlink:href="doug.emlen@mso.umt.edu">doug.emlen@mso.umt.edu</email></corresp></author-notes>
+<pub-date pub-type="ppub"><day>17</day><month>08</month><year>2012</year></pub-date>
+<volume>337</volume>
+<issue>6096</issue>
+<fpage>860</fpage>
+<lpage>864</lpage>
+<history><date date-type="received"><day>04</day><month>05</month><year>2012</year></date><date date-type="accepted"><day>15</day><month>06</month><year>2012</year></date><date date-type="epub"><day>26</day><month>07</month><year>2012</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="editor"><title>Truthful Embellishments</title><p>Exaggerated ornaments such as beetle horns, deer antlers, and extreme tail lengths in birds are typically assumed to be subject to sexual selection because they signal the quality of an individual's breeding status&#x2014;but how? <bold>Emlen <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="337" page="860">860</related-article>, published online 26 July) present a general mechanistic model for the evolution of exaggerated traits, proposing that sensitivity to the insulin response pathway can explain variation among individuals. The exaggerated size of such ornaments and their increased variability between individuals are a result of sexual selection for traits that are honest signals of the fitness of the individual.</p></abstract>
+<abstract abstract-type="teaser"><p>Rhinoceros beetle horns, a sexually selected weapon, are more sensitive to nutrition and reliably indicate male quality.</p></abstract>
+<abstract>
+<p>Many male animals wield ornaments or weapons of exaggerated proportions. We propose that increased cellular sensitivity to signaling through the insulin/insulin-like growth factor (IGF) pathway may be responsible for the extreme growth of these structures. We document how rhinoceros beetle horns, a sexually selected weapon, are more sensitive to nutrition and more responsive to perturbation of the insulin/IGF pathway than other body structures. We then illustrate how enhanced sensitivity to insulin/IGF signaling in a growing ornament or weapon would cause heightened condition sensitivity and increased variability in expression among individuals&#x2014;critical properties of reliable signals of male quality. The possibility that reliable signaling arises as a by-product of the growth mechanism may explain why trait exaggeration has evolved so many different times in the context of sexual selection.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Laura Zahn</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Harry Jach</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>The most elaborate male ornaments and weapons of sexual selection grow to exaggerated proportions (<xref ref-type="fig" rid="F1">Fig. 1</xref>), especially in the largest and best-conditioned individuals. The size and conspicuousness of these traits make them likely candidates for intraspecific signals, used either by males to assess the size, condition, or status of rival males, or by females to assess the relative genetic quality of potential mates (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>, <xref ref-type="bibr" rid="R2"><italic>2</italic></xref>). Not only are exaggerated traits easy to observe, they are unusually reliable signals of individual male quality (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>&#x2013;<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>), as their growth tends to be more sensitive to the nutritional histories and physiological conditions of individuals than is the growth of other traits (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>&#x2013;<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>). Exaggerated structures also tend to be more variable in their expression than other morphological structures (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>&#x2013;<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>). Hypervariability in trait size can amplify otherwise subtle differences in the body size or condition of males, further enhancing the utility of these traits as signals. Combined, these structural characteristics&#x2014;extreme size, heightened condition sensitivity, and hypervariability among individuals&#x2014;are the foundation for &#x201C;handicap&#x201D; and &#x201C;good genes&#x201D; models of sexual selection and a central tenet of modern theories of sexual selection and animal communication (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>&#x2013;<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>, <xref ref-type="bibr" rid="R11"><italic>11</italic></xref>&#x2013;<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>). We offer a developmental explanation for this phenomenon. We suggest that the evolution of trait exaggeration involves increased sensitivity to insulin/IGF signaling within a growing structure, and we show why such a change in mechanism should also confer both heightened condition sensitivity and hypervariablity to expression of the trait (<xref ref-type="fig" rid="F1">Fig. 1B</xref>).</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption>
+<p>(<bold>A</bold>) Exaggerated growth of weapons and ornaments of sexual selection. Clockwise from top left: Rhinoceros beetle horns (<italic>Trypoxylus dichotomus</italic>); long-tailed widowbird tail (<italic>Euplectes progne</italic>); elk antlers (<italic>Cervus elaphus</italic>); stag beetle mandibles (<italic>Lucanus cervus</italic>); fiddler crab chela (<italic>Uca tetragonon</italic>). (<bold>B</bold>) Proposed mechanism for the evolution of trait exaggeration through increased cellular sensitivity to insulin/IGF signaling (shown for the disc-like appendage primordia of insects). Individual nutritional state and physiological condition are reflected in circulating concentrations of insulin-like peptides and IGFs, which modulate the rate of growth of each of the trait primordia. Traits whose cells are sensitive (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>) to these signals [e.g., wings (green)] exhibit greater nutrition-dependent phenotypic plasticity and among-individual variability than other traits whose cells are less sensitive to these signals [e.g., genitalia (red)]. An increase in the sensitivity of cells within a particular trait [e.g., horns (blue); see text] would lead to disproportionately rapid growth of that trait in the largest, best-condition individuals (i.e., exaggerated trait size) and smaller trait sizes in low-condition individuals.</p>
+</caption><graphic xlink:href="337_860_F1"></graphic></fig>
+<p>Insulin and IGFs are essential regulators of tissue growth and body size (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>). Circulating concentrations of insulin and IGFs are sensitive to nutrition, as well as stress and infection, and the insulin/IGF pathway has emerged as the central mechanism integrating physiological condition with growth in multicellular animal taxa. Insulin and IGF levels within a growing animal reflect the nutritional state and physiological condition of that individual, and circulating concentrations of these signals modulate tissue growth via the insulin receptor pathway in a graded, or dose-dependent, manner. Within an individual, growth will speed up or slow down in response to changes in nutritional or physiological state because of the action of this pathway. Across individuals, growth will differ between high-condition and low-condition individuals, resulting in population-level variation in body and trait sizes. Low-condition individuals have lower levels of these signals than higher-condition individuals, and as a result, they experience slower rates and lower overall amounts of tissue growth.</p>
+<p>As long as the various organs and body parts (e.g., legs, eyes, wings) exhibit similar sensitivities to insulin/IGF signaling (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>), their sizes will scale proportionally from individual to individual (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>&#x2013;<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>). But some traits deviate in their responsiveness to these signals, profoundly affecting the amount and nature of their growth. Genitalia are insensitive to circulating insulin/IGF signals in <italic>Drosophila</italic> (<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>, <xref ref-type="bibr" rid="R21"><italic>21</italic></xref>). As a result, their growth is unresponsive to environmental conditions, such as nutrition, and genitalia size is largely invariant among individuals. In contrast, wings exhibit sensitivity to insulin/IGF signaling typical of the rest of the body; wing growth is sensitive to larval nutrition, and wing sizes scale isometrically with among-individual variation in body size (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>).</p>
+<boxed-text content-type="FeaturedItem">
+<title>On <italic>Science</italic> VideoLab</title>
+<p><inline-graphic xlink:href="337_860_F4" /></p>
+<p>Related video in the <ext-link ext-link-type="uri" xlink:href="http://video.sciencemag.org/VideoLab/beetles/"><italic>Science</italic> Video Portal</ext-link></p>
+</boxed-text>
+<p>We predicted that increased sensitivity to the insulin/IGF pathway might be a mechanism leading to the evolution of extreme growth in showy ornaments and weapons of sexual selection. In our model, individual males differ in their physiological state as a result of differences in their status, nutritional state, competitive ability, and/or health (parasite or pathogen loads), which translate into among-individual variation in circulating concentrations of insulin/IGF signals (<xref ref-type="fig" rid="F1">Fig. 1B</xref>). During their respective periods of growth, the adult structures in these animals would be exposed to insulin/IGF signals, and the sensitivity of cells within each growing structure to these signals would determine both how and by how much each trait grew. Just as wings are more sensitive to insulin/IGF signaling than genitalia in <italic>Drosophila</italic> (<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>, <xref ref-type="bibr" rid="R21"><italic>21</italic></xref>), so we predicted that exaggerated ornaments or weapons of sexual selection would be even more sensitive to insulin/IGF signaling than wings or other non&#x2013;sexually selected body parts (<xref ref-type="fig" rid="F1">Fig. 1B</xref>).</p>
+<p>Male rhinoceros beetles (<italic>Trypoxylus dichotomus</italic>) wield a forked horn on their heads. During growth, horns in this species are more sensitive to larval nutrition than other body parts (wings, genitalia), and among adult males, horn size is hypervariable, ranging from tiny bumps to exaggerated structures two-thirds the length of a male&#x2019;s body (<xref ref-type="bibr" rid="R22"><italic>22</italic></xref>). We tested whether growing rhinoceros beetle horns were more sensitive to insulin/IGF signaling than wings or genitalia using RNA interference to perturb transcription of the insulin receptor (<italic>InR</italic>) gene. Developing larvae were injected with a 398&#x2013;base pair fragment of double-stranded RNA (dsRNA) of <italic>T. dichotomus InR</italic> as they commenced their transition from larval feeding to gut purge (the onset of the prepupal period and the beginning of metamorphosis). At this time, all growth in overall body size had ceased, but adult structures (including genitalia, wings, and horns) were still growing. Thus, any effects of manipulation of insulin/IGF signaling would be visible as reductions to genitalia, wing, or horn size relative to overall body size. If the evolution of exaggerated horn size resulted in part from an increase in cellular sensitivity to insulin/IGF signaling, then horns should be more sensitive than wings to perturbation of the activity of this pathway. We also predicted that genitalia would be relatively insensitive to pathway perturbation [sensu (<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>,<italic> </italic><xref ref-type="bibr" rid="R21"><italic>21</italic></xref>)].</p>
+<p>Injections significantly reduced <italic>InR</italic> transcript abundances for 48 hours near the end of the period of trait growth (i.e., before <italic>InR</italic> transcript abundance normally drops in these tissues; <xref ref-type="fig" rid="F2">Fig. 2, A to C</xref>). After metamorphosis was completed, we compared morphologies of treated and control animals. Genitalia did not respond to experimental perturbation of <italic>InR</italic> pathway activity (Wald statistic = 0.1245, df = 1, <italic>P</italic> = 0.724; <xref ref-type="fig" rid="F2">Fig. 2D</xref>). Wings, which exhibit nutrition-sensitive growth patterns typical of most metric traits (e.g., eyes, legs, elytra), showed a significant reduction in size of ~ 2% (Wald statistic = 8.976, df = 1, <italic>P</italic> = 0.003; <xref ref-type="fig" rid="F2">Fig. 2E</xref>). In contrast, male horns, the structures most sensitive to nutrition, were reduced by ~16% relative to controls (Wald statistic = 68.37, 1 df, <italic>P</italic> &lt; 0.0001; <xref ref-type="fig" rid="F2">Fig. 2, F and G</xref>). Using response to <italic>InR</italic> knockdown as a metric, we found that male horns were eight times as sensitive to insulin/IGF signaling as wings, consistent with our model for the evolution of disproportionate or exaggerated weapon size from enhanced tissue-specific sensitivity to the insulin/IGF pathway.</p>
+<fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption>
+<p>Effect of <italic>insulin receptor</italic> (<italic>InR</italic>) knockdown on growth of adult structures in rhinoceros beetles. (<bold>A</bold> to <bold>C</bold>) Relative transcript abundances for the <italic>insulin receptor</italic> (<italic>InR</italic>) gene in genitalia (A), wings (B), and horns (C), measured 24, 48, 72, and 96 hours after the onset of the prepupal period in control (open bars) and ds<italic>InR</italic>-injected (solid bars) animals. Injection with dsRNA significantly reduced transcript abundances for 48 hours after injection in all three tissues. (<bold>D</bold> to <bold>F</bold>) Effects of ds<italic>InR</italic> knockdown on trait growth. Genitalia were insensitive (D); wings responded significantly but moderately to interrupted insulin/IGF signaling (E) (average reduction in wing length = 2%); and horns responded markedly (F), with an average reduction in horn length of 16%. (<bold>G</bold>) Head and thorax shown in two orientations (top and bottom) for same-sized control (left) and ds<italic>InR</italic>-injected (right) males.</p>
+</caption><graphic xlink:href="337_860_F2"></graphic></fig>
+<p>A growing body of research now implicates insulin/IGF signaling in the development of extreme animal structures (<xref ref-type="bibr" rid="R23"><italic>23</italic></xref>). Insulin/IGF signaling is an ancient and conserved physiological pathway that has coupled rates of cell proliferation with available nutrients for at least 500 million years, and we suggest that this pathway has been co-opted repeatedly in lineages experiencing strong sexual selection to yield disproportionate growth in signaling structures. The insulin/IGF pathway would likely have controlled the rate of growth of these structures already; increased cellular sensitivity to these signals would therefore be an easy route to the evolution of accelerated growth if the structure came under directional sexual selection for increased size.</p>
+<p>But such a route to exaggeration would only generate exaggerated trait sizes in high-condition individuals because low-condition individuals would have low circulating concentrations of insulin/IGF signals and attenuated rates of tissue and body growth. The same mechanism stimulating increased trait growth in high-quality individuals would also repress trait growth in low-quality individuals (<xref ref-type="fig" rid="F1">Fig. 1B</xref>). This means that whenever exaggerated ornament or weapon size arises due to an increase in trait-specific sensitivity to insulin/IGF signaling, then the exaggerated trait should also show enhanced (or &#x201C;heightened&#x201D;) condition-sensitive expression and higher relative variability in trait size between low- and high-condition individuals (as compared to other, nonexaggerated, traits). Signal reliability would be an intrinsic property of these structures because of the developmental mechanism regulating their growth.</p>
+<p>Theoretical considerations of sexual selection and animal signaling argue that escalated evolution of signals is most likely when signals are reliable, and it is difficult or impossible for low-quality males to &#x201C;cheat&#x201D; by producing full-sized structures (<xref ref-type="fig" rid="F3">Fig. 3</xref>). Signal reliability can be evolutionarily stable under two sets of conditions: Either the signal is sufficiently costly to produce or wield that it is not cost-effective for low-quality individuals to cheat (&#x201C;handicap&#x201D; signals), or the signal is intrinsically unfakable (&#x201C;index&#x201D; signals, &#x201C;good genes&#x201D; signals) (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>&#x2013;<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>, <xref ref-type="bibr" rid="R11"><italic>11</italic></xref>&#x2013;<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>, <xref ref-type="bibr" rid="R24"><italic>24</italic></xref>&#x2013;<xref ref-type="bibr" rid="R33"><italic>33</italic></xref>). The largest ornaments and weapons are generally assumed to be handicap signals of male quality, such that the cost of these structures enforces signal reliability (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>&#x2013;<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>, <xref ref-type="bibr" rid="R24"><italic>24</italic></xref>&#x2013;<xref ref-type="bibr" rid="R33"><italic>33</italic></xref>). However, for even the largest structures, the process of escalation must have started when these structures were small, and at that early stage, these costs would likely have been minimal. Moreover, several recent studies of exaggerated male ornaments and weapons have failed to find appreciable costs (<xref ref-type="bibr" rid="R34"><italic>34</italic></xref>, <xref ref-type="bibr" rid="R35"><italic>35</italic></xref>), forcing a reconsideration of the question, why don&#x2019;t low-quality males cheat?</p>
+<fig id="F3" position="float" fig-type="figure"><label>Fig. 3</label><caption>
+<p>Sexual selection models whose relevance is affected by the proximate mechanism responsible for trait exaggeration.</p>
+</caption><graphic xlink:href="337_860_F3"></graphic></fig>
+<p>We suggest that exaggerated animal structures may be unfakable signals of quality because of the developmental mechanism responsible for their accelerated growth. If true, then our hypothesis of &#x201C;intrinsic reliability&#x201D; could help explain why so many different signal traits embark on an evolutionary trajectory of bigger and bigger size. We suggest that whenever receivers responded to variation in insulin/IGF-sensitive structures, they fared relatively well due to the intrinsic reliability of these traits as signals of underlying male quality. As these traits became larger under selection, their utility as signals would have increased, enhancing the benefits to receivers and accelerating the rate of signal evolution still further. Once these structures become large enough to be costly, they may also act as handicap signals, and costs could contribute to signal reliability (<xref ref-type="fig" rid="F3">Fig. 3</xref>). However, as long as the traits exhibit heightened sensitivity to insulin/IGF signals, costs may not be necessary for signal reliability (<xref ref-type="bibr" rid="R36"><italic>36</italic></xref>). This means that subsequent evolution of compensatory structures alleviating costs to the signaling males (<xref ref-type="bibr" rid="R37"><italic>37</italic></xref>) need not undermine the reliability of these traits as signals and could explain why some exaggerated sexually selected structures function as reliable signals even when no discernable costs are apparent (<xref ref-type="bibr" rid="R34"><italic>34</italic></xref>, <xref ref-type="bibr" rid="R35"><italic>35</italic></xref>).</p>
+</body>
+<back><app-group><app>
+<title>Supplementary Materials</title><supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/science.1224286/DC1">www.sciencemag.org/cgi/content/full/science.1224286/DC1</ext-link></p>
+<p>Materials and Methods</p>
+<p>Supplementary Text</p>
+<p>Figs. S1 to S3</p>
+<p>Tables S1 and S2</p>
+<p>References (<xref ref-type="bibr" rid="R38"><italic>38</italic></xref><italic>&#x2013;</italic><xref ref-type="bibr" rid="R90"><italic>90</italic></xref>)</p></supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="book">C. Darwin, <italic>The Descent of Man and Selection in Relation to Sex</italic> (Random House, Modern Library, New York, 1871).</citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="book">J. W. Bradbury, S. L. Vehrencamp, <italic>Principles of Animal Communication</italic> (Sinauer, Sunderland, MA, 2011).</citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="book">J. Maynard Smith, D. Harper, <italic>Animal Signals</italic> (Oxford Univ. Press, Oxford, 2004).</citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="book">W. A. Searcy, S. Nowicki, <italic>The Evolution of Animal Communication: Reliability and Deception in Signaling Systems</italic> (Princeton Univ. Press, Princeton, NJ, 2005).</citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Cotton</surname><given-names>S.</given-names></name><name><surname>Fowler</surname><given-names>K.</given-names></name><name><surname>Pomiankowski</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Condition dependence of sexual ornament size and variation in the stalk-eyed fly <italic>Cyrtodiopsis dalmanni</italic> (Diptera: Diopsidae)</article-title>. <source>Evolution</source> 
+<volume>58</volume>, 
+<fpage>1038</fpage> (<year>2004</year>).<pub-id pub-id-type="pmid">15212384</pub-id></citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Bonduriansky</surname><given-names>R.</given-names></name><name><surname>Rowe</surname><given-names>L.</given-names></name></person-group>, 
+<article-title>Sexual selection, genetic architecture, and the condition dependence of body shape in the sexually dimorphic fly <italic>Prochyliza xanthostoma</italic> (Piophilidae)</article-title>. <source>Evolution</source> 
+<volume>59</volume>, 
+<fpage>138</fpage> (<year>2005</year>).<pub-id pub-id-type="pmid">15792234</pub-id></citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Knell</surname><given-names>R. J.</given-names></name><name><surname>Fruhauf</surname><given-names>N.</given-names></name><name><surname>Norris</surname><given-names>K. A.</given-names></name></person-group>, 
+<article-title>Conditional expression of a sexually selected trait in the stalk-eyed fly <italic>Diasemopsis aethiopica</italic></article-title>. <source>Ecol. Ent.</source> 
+<volume>24</volume>, 
+<fpage>323</fpage> (<year>1999</year>). <pub-id pub-id-type="doi">10.1046/j.1365-2311.1999.00200.x</pub-id></citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Alatalo</surname><given-names>R. V.</given-names></name><name><surname>H&#x00F6;glund</surname><given-names>J.</given-names></name><name><surname>Lundberg</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Patterns of variation in tail ornament size in birds</article-title>. <source>Biol. J. Linn. Soc. Lond.</source> 
+<volume>34</volume>, 
+<fpage>363</fpage> (<year>1988</year>). <pub-id pub-id-type="doi">10.1111/j.1095-8312.1988.tb01969.x</pub-id></citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Fitzpatrick</surname><given-names>S.</given-names></name></person-group>, 
+<article-title>Patterns of morphometric variation in birds&#x2019; tails: Length, shape and variability</article-title>. <source>Biol. J. Linn. Soc. Lond.</source> 
+<volume>62</volume>, 
+<fpage>145</fpage> (<year>1997</year>). <pub-id pub-id-type="doi">10.1111/j.1095-8312.1997.tb01619.x</pub-id></citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Cuervo</surname><given-names>J. J.</given-names></name><name><surname>M&#x00F8;ller</surname><given-names>A. P.</given-names></name></person-group>, 
+<article-title>The allometric pattern of sexually size dimorphic feather ornaments and factors affecting allometry</article-title>. <source>J. Evol. Biol.</source> 
+<volume>22</volume>, 
+<fpage>1503</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1111/j.1420-9101.2009.01758.x</pub-id><pub-id pub-id-type="pmid">19467133</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Johnstone</surname><given-names>R. A.</given-names></name></person-group>, 
+<article-title>Sexual selection, honest advertisement and the handicap principle: Reviewing the evidence</article-title>. <source>Biol. Rev. Camb. Philos. Soc.</source> 
+<volume>70</volume>, 
+<fpage>1</fpage> (<year>1995</year>). <pub-id pub-id-type="doi">10.1111/j.1469-185X.1995.tb01439.x</pub-id><pub-id pub-id-type="pmid">7718697</pub-id></citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Rowe</surname><given-names>L.</given-names></name><name><surname>Houle</surname><given-names>D.</given-names></name></person-group>, 
+<article-title>The lek paradox and the capture of genetic variance by condition-dependent traits</article-title>. <source>Proc. Biol. Sci.</source> 
+<volume>263</volume>, 
+<fpage>1415</fpage> (<year>1996</year>). <pub-id pub-id-type="doi">10.1098/rspb.1996.0207</pub-id></citation></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Iwasa</surname><given-names>Y.</given-names></name><name><surname>Pomiankowski</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Good parent and good genes models of handicap evolution</article-title>. <source>J. Theor. Biol.</source> 
+<volume>200</volume>, 
+<fpage>97</fpage> (<year>1999</year>). <pub-id pub-id-type="doi">10.1006/jtbi.1999.0979</pub-id><pub-id pub-id-type="pmid">10479542</pub-id></citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Cotton</surname><given-names>S.</given-names></name><name><surname>Fowler</surname><given-names>K.</given-names></name><name><surname>Pomiankowski</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Do sexual ornaments demonstrate heightened condition-dependent expression as predicted by the handicap hypothesis?</article-title> <source>Proc. Biol. Sci.</source> 
+<volume>271</volume>, 
+<fpage>771</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1098/rspb.2004.2688</pub-id><pub-id pub-id-type="pmid">15255094</pub-id></citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Bonduriansky</surname><given-names>R.</given-names></name></person-group>, 
+<article-title>The evolution of condition-dependent sexual dimorphism</article-title>. <source>Am. Nat.</source> 
+<volume>169</volume>, 
+<fpage>9</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1086/510214</pub-id><pub-id pub-id-type="pmid">17206580</pub-id></citation></ref>
+<ref id="R16"><note><label>16</label>
+<p>A more complete description of this pathway and references are provided in the supplementary materials.</p></note></ref>
+<ref id="R17"><note><label>17</label>
+<p>For this study, we define tissue sensitivity as the extent to which variations in the level of hormone signal influence the rate of cell proliferation via activity of the insulin/IGF pathway. Insensitive tissues grow to roughly the same final size regardless of circulating insulin/IGF concentrations, whereas the amounts of growth of sensitive tissues are strongly regulated by signal levels. Tissue sensitivity is often equated with receptor density. However, in this case, altered expression of any number of downstream genes in the pathway could change the responsiveness of a tissue to insulin/IGF signals. Indeed, in the best-studied example to date, reduced insulin sensitivity in a specific tissue (genitalia) in <italic>Drosophila</italic>, resulted from lowered levels of expression of a &#x201C;downstream&#x201D; element of the insulin-signaling pathway, <italic>FOXO</italic>, and not from tissue differences in expression of the insulin receptor (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>).</p></note></ref>
+<ref id="R18"><label>18</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Shingleton</surname><given-names>A. W.</given-names></name><name><surname>Frankino</surname><given-names>W. A.</given-names></name><name><surname>Flatt</surname><given-names>T.</given-names></name><name><surname>Nijhout</surname><given-names>H. F.</given-names></name><name><surname>Emlen</surname><given-names>D. J.</given-names></name></person-group>, 
+<article-title>Size and shape: The developmental regulation of static allometry in insects</article-title>. <source>Bioessays</source> 
+<volume>29</volume>, 
+<fpage>536</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1002/bies.20584</pub-id><pub-id pub-id-type="pmid">17508394</pub-id></citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Shingleton</surname><given-names>A. W.</given-names></name><name><surname>Mirth</surname><given-names>C. K.</given-names></name><name><surname>Bates</surname><given-names>P. W.</given-names></name></person-group>, 
+<article-title>Developmental model of static allometry in holometabolous insects</article-title>. <source>Proc. Biol. Sci.</source> 
+<volume>275</volume>, 
+<fpage>1875</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1098/rspb.2008.0227</pub-id><pub-id pub-id-type="pmid">18460425</pub-id></citation></ref>
+<ref id="R20"><label>20</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Shingleton</surname><given-names>A. W.</given-names></name><name><surname>Das</surname><given-names>J.</given-names></name><name><surname>Vinicius</surname><given-names>L.</given-names></name><name><surname>Stern</surname><given-names>D. L.</given-names></name></person-group>, 
+<article-title>The temporal requirements for insulin signaling during development in <italic>Drosophila</italic></article-title>. <source>PLoS Biol.</source> 
+<volume>3</volume>, 
+<fpage>e289</fpage> (<year>2005</year>). <pub-id pub-id-type="doi">10.1371/journal.pbio.0030289</pub-id><pub-id pub-id-type="pmid">16086608</pub-id></citation></ref>
+<ref id="R21"><label>21</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Tang</surname><given-names>H. Y.</given-names></name><name><surname>Smith-Caldas</surname><given-names>M. S. B.</given-names></name><name><surname>Driscoll</surname><given-names>M. V.</given-names></name><name><surname>Salhadar</surname><given-names>S.</given-names></name><name><surname>Shingleton</surname><given-names>A. W.</given-names></name></person-group>, 
+<article-title><italic>FOXO</italic> regulates organ-specific phenotypic plasticity in <italic>Drosophila</italic></article-title>. <source>PLoS Genet.</source> 
+<volume>7</volume>, 
+<fpage>e1002373</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1371/journal.pgen.1002373</pub-id><pub-id pub-id-type="pmid">22102829</pub-id></citation></ref>
+<ref id="R22"><note><label>22</label>
+<p>Results, as well as all methods for this paper, are in the supplementary materials.</p></note></ref>
+<ref id="R23"><note><label>23</label>
+<p>A description of these studies is in the supplementary materials.</p></note></ref>
+<ref id="R24"><label>24</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Zahavi</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Mate selection-a selection for a handicap</article-title>. <source>J. Theor. Biol.</source> 
+<volume>53</volume>, 
+<fpage>205</fpage> (<year>1975</year>). <pub-id pub-id-type="doi">10.1016/0022-5193(75)90111-3</pub-id><pub-id pub-id-type="pmid">1195756</pub-id></citation></ref>
+<ref id="R25"><label>25</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Grafen</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Biological signals as handicaps</article-title>. <source>J. Theor. Biol.</source> 
+<volume>144</volume>, 
+<fpage>517</fpage> (<year>1990</year>). <pub-id pub-id-type="doi">10.1016/S0022-5193(05)80088-8</pub-id><pub-id pub-id-type="pmid">2402153</pub-id></citation></ref>
+<ref id="R26"><label>26</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Andersson</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Evolution of condition-dependent sex ornaments and mating preferences: Sexual selection based on viability differences</article-title>. <source>Evolution</source> 
+<volume>40</volume>, 
+<fpage>804</fpage> (<year>1986</year>). <pub-id pub-id-type="doi">10.2307/2408465</pub-id></citation></ref>
+<ref id="R27"><label>27</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Lorch</surname><given-names>P. D.</given-names></name><name><surname>Proulx</surname><given-names>S.</given-names></name><name><surname>Rowe</surname><given-names>L.</given-names></name><name><surname>Day</surname><given-names>T.</given-names></name></person-group>, 
+<article-title>Condition-dependent sexual selection can accelerate adaptation</article-title>. <source>Evol. Ecol. Res.</source> 
+<volume>5</volume>, 
+<fpage>867</fpage> (<year>2003</year>).</citation></ref>
+<ref id="R28"><label>28</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Tomkins</surname><given-names>J. L.</given-names></name><name><surname>Radwan</surname><given-names>J.</given-names></name><name><surname>Kotiaho</surname><given-names>J. S.</given-names></name><name><surname>Tregenza</surname><given-names>T.</given-names></name></person-group>, 
+<article-title>Genic capture and resolving the lek paradox</article-title>. <source>Trends Ecol. Evol.</source> 
+<volume>19</volume>, 
+<fpage>323</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1016/j.tree.2004.03.029</pub-id><pub-id pub-id-type="pmid">16701278</pub-id></citation></ref>
+<ref id="R29"><label>29</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Parker</surname><given-names>G. A.</given-names></name></person-group>, 
+<article-title>Assessment strategy and the evolution of fighting behaviour</article-title>. <source>J. Theor. Biol.</source> 
+<volume>47</volume>, 
+<fpage>223</fpage> (<year>1974</year>). <pub-id pub-id-type="doi">10.1016/0022-5193(74)90111-8</pub-id><pub-id pub-id-type="pmid">4477626</pub-id></citation></ref>
+<ref id="R30"><label>30</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Enquist</surname><given-names>M.</given-names></name><name><surname>Leimar</surname><given-names>O.</given-names></name></person-group>, 
+<article-title>Evolution of fighting behavior: Decision rules and assessment of relative strength</article-title>. <source>J. Theor. Biol.</source> 
+<volume>102</volume>, 
+<fpage>387</fpage> (<year>1983</year>). <pub-id pub-id-type="doi">10.1016/0022-5193(83)90376-4</pub-id></citation></ref>
+<ref id="R31"><label>31</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Pomiankowski</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>The handicap principle does work&#x2014;sometimes</article-title>. <source>Proc. R. Soc. Lond. B Biol. Sci.</source> 
+<volume>231</volume>, 
+<fpage>123</fpage> (<year>1987</year>). <pub-id pub-id-type="doi">10.1098/rspb.1987.0038</pub-id></citation></ref>
+<ref id="R32"><label>32</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Bonduriansky</surname><given-names>R.</given-names></name><name><surname>Day</surname><given-names>T.</given-names></name></person-group>, 
+<article-title>The evolution of static allometry in sexually selected traits</article-title>. <source>Evolution</source> 
+<volume>57</volume>, 
+<fpage>2450</fpage> (<year>2003</year>).<pub-id pub-id-type="pmid">14686522</pub-id></citation></ref>
+<ref id="R33"><label>33</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kodric-Brown</surname><given-names>A.</given-names></name><name><surname>Sibly</surname><given-names>R. M.</given-names></name><name><surname>Brown</surname><given-names>J. H.</given-names></name></person-group>, 
+<article-title>The allometry of ornaments and weapons</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>103</volume>, 
+<fpage>8733</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1073/pnas.0602994103</pub-id><pub-id pub-id-type="pmid">16731616</pub-id></citation></ref>
+<ref id="R34"><label>34</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kotiaho</surname><given-names>J. S.</given-names></name></person-group>, 
+<article-title>Costs of sexual traits: A mismatch between theoretical considerations and empirical evidence</article-title>. <source>Biol. Rev. Camb. Philos. Soc.</source> 
+<volume>76</volume>, 
+<fpage>365</fpage> (<year>2001</year>). <pub-id pub-id-type="doi">10.1017/S1464793101005711</pub-id><pub-id pub-id-type="pmid">11569789</pub-id></citation></ref>
+<ref id="R35"><label>35</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Husak</surname><given-names>J. F.</given-names></name><name><surname>Swallow</surname><given-names>J. G.</given-names></name></person-group>, 
+<article-title>Compensatory traits and the evolution of male ornaments</article-title>. <source>Behaviour</source> 
+<volume>148</volume>, 
+<fpage>1</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1163/000579510X541265</pub-id></citation></ref>
+<ref id="R36"><note><label>36</label>
+<p>In principle, selection on poor-quality males to cheat could lead to evolutionary modifications to the underlying developmental mechanism that buffered expression of the exaggerated trait from the influence of male condition (i.e., that decreased sensitivity to insulin/IGF signals). In this event, the condition sensitivity of trait expression and among-male variability in trait size would decrease (as in male genitalia of these beetles), reducing the reliability of the size of the trait as a signal of male quality. We are aware of no instances in which exaggerated sexually selected signal traits presently display condition insensitivity and/or reduced among-individual variation. This could be because once the traits become exaggerated, their costs reinforce signal honesty and select against cheating males. Or it could reflect the fact that once subsequent insensitivity to insulin/IGF evolves in an exaggerated trait, its reliability as a signal diminishes, favoring receivers who ignore the trait and focus instead on other signals.</p></note></ref>
+<ref id="R37"><label>37</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Oufiero</surname><given-names>C. E.</given-names></name><name><surname>Garland</surname><given-names>T.</given-names><suffix>Jr.</suffix></name></person-group>, 
+<article-title>Evaluating performance costs of sexually selected traits</article-title>. <source>Funct. Ecol.</source> 
+<volume>21</volume>, 
+<fpage>676</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1111/j.1365-2435.2007.01259.x</pub-id></citation></ref>
+<ref id="R38"><label>38</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Saltiel</surname><given-names>A. R.</given-names></name><name><surname>Kahn</surname><given-names>C. R.</given-names></name></person-group>, 
+<article-title>Insulin signalling and the regulation of glucose and lipid metabolism</article-title>. <source>Nature</source> 
+<volume>414</volume>, 
+<fpage>799</fpage> (<year>2001</year>). <pub-id pub-id-type="doi">10.1038/414799a</pub-id><pub-id pub-id-type="pmid">11742412</pub-id></citation></ref>
+<ref id="R39"><label>39</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Tatar</surname><given-names>M.</given-names></name><name><surname>Bartke</surname><given-names>A.</given-names></name><name><surname>Antebi</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>The endocrine regulation of aging by insulin-like signals</article-title>. <source>Science</source> 
+<volume>299</volume>, 
+<fpage>1346</fpage> (<year>2003</year>). <pub-id pub-id-type="doi">10.1126/science.1081447</pub-id><pub-id pub-id-type="pmid">12610294</pub-id></citation></ref>
+<ref id="R40"><label>40</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Fontana</surname><given-names>L.</given-names></name><name><surname>Partridge</surname><given-names>L.</given-names></name><name><surname>Longo</surname><given-names>V. D.</given-names></name></person-group>, 
+<article-title>Extending healthy life span&#x2014;from yeast to humans</article-title>. <source>Science</source> 
+<volume>328</volume>, 
+<fpage>321</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1126/science.1172539</pub-id><pub-id pub-id-type="pmid">20395504</pub-id></citation></ref>
+<ref id="R41"><label>41</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Edgar</surname><given-names>B. A.</given-names></name></person-group>, 
+<article-title>How flies get their size: Genetics meets physiology</article-title>. <source>Nat. Rev. Genet.</source> 
+<volume>7</volume>, 
+<fpage>907</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1038/nrg1989</pub-id><pub-id pub-id-type="pmid">17139322</pub-id></citation></ref>
+<ref id="R42"><label>42</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Nakae</surname><given-names>J.</given-names></name><name><surname>Kido</surname><given-names>Y.</given-names></name><name><surname>Accili</surname><given-names>D.</given-names></name></person-group>, 
+<article-title>Distinct and overlapping functions of insulin and IGF-I receptors</article-title>. <source>Endocr. Rev.</source> 
+<volume>22</volume>, 
+<fpage>818</fpage> (<year>2001</year>). <pub-id pub-id-type="doi">10.1210/er.22.6.818</pub-id><pub-id pub-id-type="pmid">11739335</pub-id></citation></ref>
+<ref id="R43"><label>43</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Oldham</surname><given-names>S.</given-names></name><name><surname>Hafen</surname><given-names>E.</given-names></name></person-group>, 
+<article-title>Insulin/IGF and target of rapamycin signaling: A TOR de force in growth control</article-title>. <source>Trends Cell Biol.</source> 
+<volume>13</volume>, 
+<fpage>79</fpage> (<year>2003</year>). <pub-id pub-id-type="doi">10.1016/S0962-8924(02)00042-9</pub-id><pub-id pub-id-type="pmid">12559758</pub-id></citation></ref>
+<ref id="R44"><label>44</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Johnston</surname><given-names>L. A.</given-names></name><name><surname>Gallant</surname><given-names>P.</given-names></name></person-group>, 
+<article-title>Control of growth and organ size in <italic>Drosophila</italic></article-title>. <source>Bioessays</source> 
+<volume>24</volume>, 
+<fpage>54</fpage> (<year>2002</year>). <pub-id pub-id-type="doi">10.1002/bies.10021</pub-id><pub-id pub-id-type="pmid">11782950</pub-id></citation></ref>
+<ref id="R45"><label>45</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Teleman</surname><given-names>A. A.</given-names></name></person-group>, 
+<article-title>Molecular mechanisms of metabolic regulation by insulin in <italic>Drosophila</italic></article-title>. <source>Biochem. J.</source> 
+<volume>425</volume>, 
+<fpage>13</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1042/BJ20091181</pub-id><pub-id pub-id-type="pmid">20001959</pub-id></citation></ref>
+<ref id="R46"><label>46</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Claeys</surname><given-names>I.</given-names></name><etal /></person-group>., 
+<article-title>Insulin-related peptides and their conserved signal transduction pathway</article-title>. <source>Peptides</source> 
+<volume>23</volume>, 
+<fpage>807</fpage> (<year>2002</year>). <pub-id pub-id-type="doi">10.1016/S0196-9781(01)00666-0</pub-id><pub-id pub-id-type="pmid">11897402</pub-id></citation></ref>
+<ref id="R47"><label>47</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Wu</surname><given-names>Q.</given-names></name><name><surname>Brown</surname><given-names>M. R.</given-names></name></person-group>, 
+<article-title>Signaling and function of insulin-like peptides in insects</article-title>. <source>Annu. Rev. Entomol.</source> 
+<volume>51</volume>, 
+<fpage>1</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1146/annurev.ento.51.110104.151011</pub-id><pub-id pub-id-type="pmid">16332201</pub-id></citation></ref>
+<ref id="R48"><label>48</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Baker</surname><given-names>J.</given-names></name><name><surname>Liu</surname><given-names>J.-P.</given-names></name><name><surname>Robertson</surname><given-names>E. J.</given-names></name><name><surname>Efstratiadis</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Role of insulin-like growth factors in embryonic and postnatal growth</article-title>. <source>Cell</source> 
+<volume>75</volume>, 
+<fpage>73</fpage> (<year>1993</year>).<pub-id pub-id-type="pmid">8402902</pub-id></citation></ref>
+<ref id="R49"><label>49</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>McMurtry</surname><given-names>J. P.</given-names></name><name><surname>Francis</surname><given-names>G. L.</given-names></name><name><surname>Upton</surname><given-names>Z.</given-names></name></person-group>, 
+<article-title>Insulin-like growth factors in poultry</article-title>. <source>Domest. Anim. Endocrinol.</source> 
+<volume>14</volume>, 
+<fpage>199</fpage> (<year>1997</year>). <pub-id pub-id-type="doi">10.1016/S0739-7240(97)00019-2</pub-id><pub-id pub-id-type="pmid">9260060</pub-id></citation></ref>
+<ref id="R50"><label>50</label><citation citation-type="book">T. Ventura <italic>et al</italic>., Expression of an androgenic gland-specific insulin-like peptide during the course of prawn sexual and morphotypic differentiation. <italic>ISRN Endocr</italic>. Article ID 476283 (2011).</citation></ref>
+<ref id="R51"><label>51</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Weinkove</surname><given-names>D.</given-names></name><name><surname>Leevers</surname><given-names>S. J.</given-names></name></person-group>, 
+<article-title>The genetic control of organ growth: Insights from <italic>Drosophila</italic></article-title>. <source>Curr. Opin. Genet. Dev.</source> 
+<volume>10</volume>, 
+<fpage>75</fpage> (<year>2000</year>). <pub-id pub-id-type="doi">10.1016/S0959-437X(99)00042-8</pub-id><pub-id pub-id-type="pmid">10679387</pub-id></citation></ref>
+<ref id="R52"><label>52</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Puig</surname><given-names>O.</given-names></name><name><surname>Tjian</surname><given-names>R.</given-names></name></person-group>, 
+<article-title>Transcriptional feedback control of insulin receptor by <italic>dFOXO/FOXO1</italic></article-title>. <source>Genes Dev.</source> 
+<volume>19</volume>, 
+<fpage>2435</fpage> (<year>2005</year>). <pub-id pub-id-type="doi">10.1101/gad.1340505</pub-id><pub-id pub-id-type="pmid">16230533</pub-id></citation></ref>
+<ref id="R53"><label>53</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ikeya</surname><given-names>T.</given-names></name><name><surname>Galic</surname><given-names>M.</given-names></name><name><surname>Belawat</surname><given-names>P.</given-names></name><name><surname>Nairz</surname><given-names>K.</given-names></name><name><surname>Hafen</surname><given-names>E.</given-names></name></person-group>, 
+<article-title>Nutrient-dependent expression of insulin-like peptides from neuroendocrine cells in the CNS contributes to growth regulation in <italic>Drosophila</italic></article-title>. <source>Curr. Biol.</source> 
+<volume>12</volume>, 
+<fpage>1293</fpage> (<year>2002</year>). <pub-id pub-id-type="doi">10.1016/S0960-9822(02)01043-6</pub-id><pub-id pub-id-type="pmid">12176357</pub-id></citation></ref>
+<ref id="R54"><label>54</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Brogiolo</surname><given-names>W.</given-names></name><etal /></person-group>., 
+<article-title>An evolutionarily conserved function of the <italic>Drosophila</italic> insulin receptor and insulin-like peptides in growth control</article-title>. <source>Curr. Biol.</source> 
+<volume>11</volume>, 
+<fpage>213</fpage> (<year>2001</year>). <pub-id pub-id-type="doi">10.1016/S0960-9822(01)00068-9</pub-id><pub-id pub-id-type="pmid">11250149</pub-id></citation></ref>
+<ref id="R55"><label>55</label><citation citation-type="confproc">P. J. Bryant, Growth factors controlling imaginal disc growth in <italic>Drosophila. Nov. Found. Symp.</italic> <bold>237</bold>, 182 (2001).</citation></ref>
+<ref id="R56"><label>56</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Lupu</surname><given-names>F.</given-names></name><name><surname>Terwilliger</surname><given-names>J. D.</given-names></name><name><surname>Lee</surname><given-names>K.</given-names></name><name><surname>Segre</surname><given-names>G. V.</given-names></name><name><surname>Efstratiadis</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Roles of growth hormone and insulin-like growth factor 1 in mouse postnatal growth</article-title>. <source>Dev. Biol.</source> 
+<volume>229</volume>, 
+<fpage>141</fpage> (<year>2001</year>). <pub-id pub-id-type="doi">10.1006/dbio.2000.9975</pub-id><pub-id pub-id-type="pmid">11133160</pub-id></citation></ref>
+<ref id="R57"><label>57</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Karpac</surname><given-names>J.</given-names></name><name><surname>Jasper</surname><given-names>H.</given-names></name></person-group>, 
+<article-title>Insulin and JNK: Optimizing metabolic homeostasis and lifespan</article-title>. <source>Trends Endocrinol. Metab.</source> 
+<volume>20</volume>, 
+<fpage>100</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1016/j.tem.2008.11.004</pub-id><pub-id pub-id-type="pmid">19251431</pub-id></citation></ref>
+<ref id="R58"><label>58</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Dionne</surname><given-names>M. S.</given-names></name><name><surname>Pham</surname><given-names>L. N.</given-names></name><name><surname>Shirasu-Hiza</surname><given-names>M.</given-names></name><name><surname>Schneider</surname><given-names>D. S.</given-names></name></person-group>, 
+<article-title><italic>Akt</italic> and <italic>FOXO</italic> dysregulation contribute to infection-induced wasting in <italic>Drosophila</italic></article-title>. <source>Curr. Biol.</source> 
+<volume>16</volume>, 
+<fpage>1977</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1016/j.cub.2006.08.052</pub-id><pub-id pub-id-type="pmid">17055976</pub-id></citation></ref>
+<ref id="R59"><label>59</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>DiAngelo</surname><given-names>J. R.</given-names></name><name><surname>Bland</surname><given-names>M. L.</given-names></name><name><surname>Bambina</surname><given-names>S.</given-names></name><name><surname>Cherry</surname><given-names>S.</given-names></name><name><surname>Birnbaum</surname><given-names>M. J.</given-names></name></person-group>, 
+<article-title>The immune response attenuates growth and nutrient storage in <italic>Drosophila</italic> by reducing insulin signaling</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>106</volume>, 
+<fpage>20853</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1073/pnas.0906749106</pub-id><pub-id pub-id-type="pmid">19861550</pub-id></citation></ref>
+<ref id="R60"><label>60</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Shingleton</surname><given-names>A. W.</given-names></name><name><surname>Estep</surname><given-names>C. M.</given-names></name><name><surname>Driscoll</surname><given-names>M. V.</given-names></name><name><surname>Dworkin</surname><given-names>I.</given-names></name></person-group>, 
+<article-title>Many ways to be small: Different environmental regulators of size generate distinct scaling relationships in <italic>Drosophila melanogaster</italic></article-title>. <source>Proc. Biol. Sci.</source> 
+<volume>276</volume>, 
+<fpage>2625</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1098/rspb.2008.1796</pub-id><pub-id pub-id-type="pmid">19386657</pub-id></citation></ref>
+<ref id="R61"><label>61</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Shea</surname><given-names>B. T.</given-names></name><name><surname>Hammer</surname><given-names>R. E.</given-names></name><name><surname>Brinster</surname><given-names>R. L.</given-names></name></person-group>, 
+<article-title>Growth allometry of the organs in giant transgenic mice</article-title>. <source>Endocrinology</source> 
+<volume>121</volume>, 
+<fpage>1924</fpage> (<year>1987</year>). <pub-id pub-id-type="doi">10.1210/endo-121-6-1924</pub-id><pub-id pub-id-type="pmid">3678132</pub-id></citation></ref>
+<ref id="R62"><label>62</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Leevers</surname><given-names>S. J.</given-names></name><name><surname>Weinkove</surname><given-names>D.</given-names></name><name><surname>MacDougall</surname><given-names>L. K.</given-names></name><name><surname>Hafen</surname><given-names>E.</given-names></name><name><surname>Waterfield</surname><given-names>M. D.</given-names></name></person-group>, 
+<article-title>The <italic>Drosophila</italic> phosphoinositide 3-kinase Dp110 promotes cell growth</article-title>. <source>EMBO J.</source> 
+<volume>15</volume>, 
+<fpage>6584</fpage> (<year>1996</year>).<pub-id pub-id-type="pmid">8978685</pub-id></citation></ref>
+<ref id="R63"><label>63</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Huang</surname><given-names>H.</given-names></name><etal /></person-group>., 
+<article-title>PTEN affects cell size, cell proliferation and apoptosis during <italic>Drosophila</italic> eye development</article-title>. <source>Development</source> 
+<volume>126</volume>, 
+<fpage>5365</fpage> (<year>1999</year>).<pub-id pub-id-type="pmid">10556061</pub-id></citation></ref>
+<ref id="R64"><label>64</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Weinkove</surname><given-names>D.</given-names></name><name><surname>Neufeld</surname><given-names>T. P.</given-names></name><name><surname>Twardzik</surname><given-names>T.</given-names></name><name><surname>Waterfield</surname><given-names>M. D.</given-names></name><name><surname>Leevers</surname><given-names>S. J.</given-names></name></person-group>, 
+<article-title>Regulation of imaginal disc cell size, cell number and organ size by <italic>Drosophila</italic> class I<sub>A</sub> phosphoinositide 3-kinase and its adaptor</article-title>. <source>Curr. Biol.</source> 
+<volume>9</volume>, 
+<fpage>1019</fpage> (<year>1999</year>). <pub-id pub-id-type="doi">10.1016/S0960-9822(99)80450-3</pub-id><pub-id pub-id-type="pmid">10508611</pub-id></citation></ref>
+<ref id="R65"><label>65</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Beckman</surname><given-names>B. R.</given-names></name><name><surname>Shimizu</surname><given-names>M.</given-names></name><name><surname>Gadberry</surname><given-names>B. A.</given-names></name><name><surname>Cooper</surname><given-names>K. A.</given-names></name></person-group>, 
+<article-title>Response of the somatotropic axis of juvenile coho salmon to alterations in plane of nutrition with an analysis of the relationships among growth rate and circulating IGF-I and 41 kDa IGFBP</article-title>. <source>Gen. Comp. Endocrinol.</source> 
+<volume>135</volume>, 
+<fpage>334</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1016/j.ygcen.2003.10.013</pub-id><pub-id pub-id-type="pmid">14723885</pub-id></citation></ref>
+<ref id="R66"><label>66</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Charniaux-Cotton</surname><given-names>H.</given-names></name><name><surname>Zerbib</surname><given-names>C.</given-names></name><name><surname>Meusy</surname><given-names>J. J.</given-names></name></person-group>, 
+<article-title>Monographie de la glande androg&#x00E8;ne des Crusac&#x00E9;s sup&#x00E9;rieurs</article-title>. <source>Crustaceana</source> 
+<volume>10</volume>, 
+<fpage>113</fpage> (<year>1966</year>). <pub-id pub-id-type="doi">10.1163/156854066X00658</pub-id></citation></ref>
+<ref id="R67"><label>67</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Nagamine</surname><given-names>C.</given-names></name><name><surname>Knight</surname><given-names>A. W.</given-names></name><name><surname>Maggenti</surname><given-names>A.</given-names></name><name><surname>Paxman</surname><given-names>G.</given-names></name></person-group>, 
+<article-title>Masculinization of female <italic>Macrobrachium rosenbergii</italic> (de Man) (Decapoda, Palaemonidae) by androgenic gland implantation</article-title>. <source>Gen. Comp. Endocrinol.</source> 
+<volume>41</volume>, 
+<fpage>442</fpage> (<year>1980</year>). <pub-id pub-id-type="doi">10.1016/0016-6480(80)90049-0</pub-id><pub-id pub-id-type="pmid">7190950</pub-id></citation></ref>
+<ref id="R68"><label>68</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Emlen</surname><given-names>D. J.</given-names></name><name><surname>Szafran</surname><given-names>Q.</given-names></name><name><surname>Corley</surname><given-names>L. S.</given-names></name><name><surname>Dworkin</surname><given-names>I.</given-names></name></person-group>, 
+<article-title>Insulin signaling and limb-patterning: Candidate pathways for the origin and evolutionary diversification of beetle &#x2018;horns&#x2019;</article-title>. <source>Heredity</source> 
+<volume>97</volume>, 
+<fpage>179</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1038/sj.hdy.6800868</pub-id><pub-id pub-id-type="pmid">16850039</pub-id></citation></ref>
+<ref id="R69"><label>69</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Suttie</surname><given-names>J. M.</given-names></name><etal /></person-group>., 
+<article-title>Insulin-like growth factor 1 (IGF-1) antler-stimulating hormone?</article-title> <source>Endocrinology</source> 
+<volume>116</volume>, 
+<fpage>846</fpage> (<year>1985</year>). <pub-id pub-id-type="doi">10.1210/endo-116-2-846</pub-id><pub-id pub-id-type="pmid">3881250</pub-id></citation></ref>
+<ref id="R70"><label>70</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Suttie</surname><given-names>J. M.</given-names></name><name><surname>Corson</surname><given-names>I. D.</given-names></name><name><surname>Gluckman</surname><given-names>P. D.</given-names></name><name><surname>Fennessy</surname><given-names>P. F.</given-names></name></person-group>, 
+<article-title>Insulin-like growth factor 1, growth and body composition in red deer stags</article-title>. <source>Anim. Prod.</source> 
+<volume>53</volume>, 
+<fpage>237</fpage> (<year>1991</year>). <pub-id pub-id-type="doi">10.1017/S0003356100020171</pub-id></citation></ref>
+<ref id="R71"><label>71</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Elliott</surname><given-names>J. L.</given-names></name><name><surname>Oldham</surname><given-names>J. M.</given-names></name><name><surname>Asher</surname><given-names>G. W.</given-names></name><name><surname>Molan</surname><given-names>P. C.</given-names></name><name><surname>Bass</surname><given-names>J. J.</given-names></name></person-group>, 
+<article-title>Effect of testosterone on binding of insulin-like growth factor-I (IGF-I) and IGF-II in growing antlers of fallow deer (<italic>Dama dama</italic>)</article-title>. <source>Growth Regul.</source> 
+<volume>6</volume>, 
+<fpage>214</fpage> (<year>1996</year>).<pub-id pub-id-type="pmid">8971550</pub-id></citation></ref>
+<ref id="R72"><label>72</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Gu</surname><given-names>L.</given-names></name><etal /></person-group>., 
+<article-title>Expression and localization of insulin-like growth factor-I in four parts of the red deer antler</article-title>. <source>Growth Factors</source> 
+<volume>25</volume>, 
+<fpage>264</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1080/08977190701773187</pub-id><pub-id pub-id-type="pmid">18092234</pub-id></citation></ref>
+<ref id="R73"><label>73</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Sadighi</surname><given-names>M.</given-names></name><name><surname>Haines</surname><given-names>S. R.</given-names></name><name><surname>Skottner</surname><given-names>A.</given-names></name><name><surname>Harris</surname><given-names>A. J.</given-names></name><name><surname>Suttie</surname><given-names>J. M.</given-names></name></person-group>, 
+<article-title>Effects of insulin-like growth factor-I (IGF-I) and IGF-II on the growth of antler cells in vitro</article-title>. <source>J. Endocrinol.</source> 
+<volume>143</volume>, 
+<fpage>461</fpage> (<year>1994</year>). <pub-id pub-id-type="doi">10.1677/joe.0.1430461</pub-id><pub-id pub-id-type="pmid">7836891</pub-id></citation></ref>
+<ref id="R74"><label>74</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Price</surname><given-names>J. S.</given-names></name><name><surname>Oyajobi</surname><given-names>B. O.</given-names></name><name><surname>Oreffo</surname><given-names>R. O. C.</given-names></name><name><surname>Russell</surname><given-names>R. G.</given-names></name></person-group>, 
+<article-title>Cells cultured from the growing tip of red deer antler express alkaline phosphatase and proliferate in response to insulin-like growth factor-I.</article-title> <source>J. Endocrinol.</source> 
+<volume>143</volume>, 
+<fpage>R9</fpage> (<year>1994</year>). <pub-id pub-id-type="doi">10.1677/joe.0.143R009</pub-id></citation></ref>
+<ref id="R75"><label>75</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Emlen</surname><given-names>D. J.</given-names></name></person-group>, 
+<article-title>Environmental control of horn length dimorphism in the beetle <italic>Onthophagus acuminathus</italic> (Coleoptera: Scarabaeidae)</article-title>. <source>Proc. Biol. Sci.</source> 
+<volume>256</volume>, 
+<fpage>131</fpage> (<year>1994</year>). <pub-id pub-id-type="doi">10.1098/rspb.1994.0060</pub-id></citation></ref>
+<ref id="R76"><label>76</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Iguchi</surname><given-names>Y.</given-names></name></person-group>, 
+<article-title>Horn dimorphism in <italic>Allomyrina dichotoma septentrionalis</italic> (Coleoptera: Scarabaeidae) affected by larval nutrition</article-title>. <source>Ann. Entomol. Soc. Am.</source> 
+<volume>91</volume>, 
+<fpage>845</fpage> (<year>1998</year>).</citation></ref>
+<ref id="R77"><label>77</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hunt</surname><given-names>J.</given-names></name><name><surname>Simmons</surname><given-names>L. W.</given-names></name></person-group>, 
+<article-title>Maternal and paternal effects on offspring phenotype in the dung beetle <italic>Onthophagus taurus</italic></article-title>. <source>Evolution</source> 
+<volume>54</volume>, 
+<fpage>936</fpage> (<year>2000</year>).<pub-id pub-id-type="pmid">10937266</pub-id></citation></ref>
+<ref id="R78"><label>78</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Karino</surname><given-names>K.</given-names></name><name><surname>Seki</surname><given-names>N.</given-names></name><name><surname>Chiba</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Larval nutritional environment determines adult size in Japanese horned beetles <italic>Allomyrina dichotoma</italic></article-title>. <source>Ecol. Res.</source> 
+<volume>19</volume>, 
+<fpage>663</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1111/j.1440-1703.2004.00681.x</pub-id></citation></ref>
+<ref id="R79"><label>79</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Karino</surname><given-names>K.</given-names></name><name><surname>Niiyama</surname><given-names>H.</given-names></name><name><surname>Chiba</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Horn length is the determining factor in the outcomes of escalated fights among male Japanese horned beetles, <italic>Allomyrina dichotoma</italic> L. (Coleoptera: Scarabaeidae)</article-title>. <source>J. Insect Behav.</source> 
+<volume>18</volume>, 
+<fpage>805</fpage> (<year>2005</year>). <pub-id pub-id-type="doi">10.1007/s10905-005-8741-5</pub-id></citation></ref>
+<ref id="R80"><label>80</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hongo</surname><given-names>Y.</given-names></name></person-group>, 
+<article-title>Evolution of male dimorphic allometry in a population of the Japanese horned beetle <italic>Trypoxylus dichotomus septentrionalis</italic></article-title>. <source>Behav. Ecol. Sociobiol.</source> 
+<volume>62</volume>, 
+<fpage>245</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1007/s00265-007-0459-2</pub-id></citation></ref>
+<ref id="R81"><label>81</label><citation citation-type="book">J. Lai, K. Shin-Ping, <italic>For the Love of Rhinoceros and Stag Beetles</italic> (Morning Star, Taiwan, 2008).</citation></ref>
+<ref id="R82"><label>82</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Abramoff</surname><given-names>M. D.</given-names></name><name><surname>Magalhaes</surname><given-names>P. J.</given-names></name><name><surname>Ram</surname><given-names>S. J.</given-names></name></person-group>, 
+<article-title>Image Processing with ImageJ</article-title>. <source>Biophotonics Int.</source> 
+<volume>11</volume>, 
+<fpage>36</fpage> (<year>2004</year>).</citation></ref>
+<ref id="R83"><label>83</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Roovers</surname><given-names>E.</given-names></name><etal /></person-group>., 
+<article-title>Characterization of a putative molluscan insulin-related peptide receptor</article-title>. <source>Gene</source> 
+<volume>162</volume>, 
+<fpage>181</fpage> (<year>1995</year>). <pub-id pub-id-type="doi">10.1016/0378-1119(95)00323-X</pub-id><pub-id pub-id-type="pmid">7557427</pub-id></citation></ref>
+<ref id="R84"><label>84</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Tomoyasu</surname><given-names>Y.</given-names></name><name><surname>Denell</surname><given-names>R. E.</given-names></name></person-group>, 
+<article-title>Larval RNAi in <italic>Tribolium</italic> (Coleoptera) for analyzing adult development</article-title>. <source>Dev. Genes Evol.</source> 
+<volume>214</volume>, 
+<fpage>575</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1007/s00427-004-0434-0</pub-id><pub-id pub-id-type="pmid">15365833</pub-id></citation></ref>
+<ref id="R85"><label>85</label><citation citation-type="book">J. Sambrook, W. R. Russel, <italic>Molecular Cloning, A Laboratory Manual</italic> (Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, 2001).</citation></ref>
+<ref id="R86"><label>86</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hellemans</surname><given-names>J.</given-names></name><name><surname>Mortier</surname><given-names>G.</given-names></name><name><surname>De Paepe</surname><given-names>A.</given-names></name><name><surname>Speleman</surname><given-names>F.</given-names></name><name><surname>Vandesompele</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>qBase relative quantification framework and software for management and automated analysis of real-time quantitative PCR data</article-title>. <source>Genome Biol.</source> 
+<volume>8</volume>, 
+<fpage>R19</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1186/gb-2007-8-2-r19</pub-id><pub-id pub-id-type="pmid">17291332</pub-id></citation></ref>
+<ref id="R87"><label>87</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Marzluff</surname><given-names>W. F.</given-names></name><name><surname>Wagner</surname><given-names>E. J.</given-names></name><name><surname>Duronio</surname><given-names>R. J.</given-names></name></person-group>, 
+<article-title>Metabolism and regulation of canonical histone mRNAs: Life without a poly(A) tail</article-title>. <source>Nat. Rev. Genet.</source> 
+<volume>9</volume>, 
+<fpage>843</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1038/nrg2438</pub-id><pub-id pub-id-type="pmid">18927579</pub-id></citation></ref>
+<ref id="R88"><label>88</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Warton</surname><given-names>D. I.</given-names></name><name><surname>Wright</surname><given-names>I. J.</given-names></name><name><surname>Falster</surname><given-names>D. S.</given-names></name><name><surname>Westoby</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Bivariate line-fitting methods for allometry</article-title>. <source>Biol. Rev. Camb. Philos. Soc.</source> 
+<volume>81</volume>, 
+<fpage>259</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1017/S1464793106007007</pub-id><pub-id pub-id-type="pmid">16573844</pub-id></citation></ref>
+<ref id="R89"><label>89</label><citation citation-type="book">R. J. Nelson, <italic>Introduction to Behavioral Endocrinology</italic> (Sinauer, Sunderland, MA, 2011).</citation></ref>
+<ref id="R90"><label>90</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Mirth</surname><given-names>C.</given-names></name><name><surname>Truman</surname><given-names>J. W.</given-names></name><name><surname>Riddiford</surname><given-names>L. M.</given-names></name></person-group>, 
+<article-title>The role of the prothoracic gland in determining critical weight for metamorphosis in <italic>Drosophila melanogaster</italic></article-title>. <source>Curr. Biol.</source> 
+<volume>15</volume>, 
+<fpage>1796</fpage> (<year>2005</year>). <pub-id pub-id-type="doi">10.1016/j.cub.2005.09.017</pub-id><pub-id pub-id-type="pmid">16182527</pub-id></citation></ref>
+</ref-list>
+<ack>
+<title>Acknowledgments</title><p>We thank C. E. Allen, C. Breuner, K. L. Bright, S. T. Emlen, E. McCullough, A. Perkins, A. Shingleton, and three anonymous reviewers for helpful comments on the manuscript; Y. Hongo, H. Gotoh, and N. Kubota for help purchasing beetles; E. Paul (Echo Medical Media) for artwork on Figs. 1B, 2, and 3; and the National Science Foundation (IOS-0919781, IOS-0919730, and IOS-0920142) for funding. Images in Fig. 1A used under license from Shutterstock.com (rhinoceros beetle, NH; widowbird, Simon_g; elk, W. Aston; stag beetle, H. Larsson; fiddler crab, Manamana). Sequences are deposited in GenBank (accession nos. JX141307 to JX141311).</p>
+</ack></back>
+</article>

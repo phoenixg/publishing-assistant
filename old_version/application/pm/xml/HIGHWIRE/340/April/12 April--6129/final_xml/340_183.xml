@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1228729</article-id>
+<article-id pub-id-type="doi">10.1126/science.1228729</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Report</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Reports</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>reports</subject></subj-group>
+<subj-group subj-group-type="field"><subject>ATMOS</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Atmospheric-Science</subject><subject>Materials-Science</subject><subject>Earth-Science</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Speleothems Reveal 500,000-Year History of Siberian Permafrost</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Vaks</surname><given-names>A.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="corresp" rid="cor1">*</xref></contrib> <contrib contrib-type="author"><name><surname>Gutareva</surname><given-names>O. S.</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Breitenbach</surname><given-names>S. F. M.</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Avirmed</surname><given-names>E.</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Mason</surname><given-names>A. J.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Thomas</surname><given-names>A. L.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Osinzev</surname><given-names>A. V.</given-names></name><xref ref-type="aff" rid="aff5"><sup>5</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Kononov</surname><given-names>A. M.</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Henderson</surname><given-names>G. M.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib>
+<aff id="aff1"><label>1</label>Department of Earth Sciences, University of Oxford, Oxford OX1 3AN, UK.</aff>
+<aff id="aff2"><label>2</label>Institute of Earth&#x2019;s Crust, Russian Academy of Sciences, Siberian Branch, 128 Lermontova Street, Irkutsk 664033, Russia.</aff>
+<aff id="aff3"><label>3</label>Swiss Federal Institute of Technology Z&#x00FC;rich (ETH Z&#x00FC;rich), CH-8092 Z&#x00FC;rich, Switzerland.</aff>
+<aff id="aff4"><label>4</label>Institute of Geography, Mongolian Academy of Sciences, 210620 UlaanBaatar, Mongolia.</aff>
+<aff id="aff5"><label>5</label>Arabica Speleological Club, Mamin-Sibiryak Street, Box 350, Irkutsk 554082, Russia.</aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>Corresponding author. E-mail: <email xlink:href="anton.vaks@earth.ox.ac.uk">anton.vaks@earth.ox.ac.uk</email></corresp></author-notes>
+<pub-date pub-type="ppub"><day>12</day><month>04</month><year>2013</year></pub-date>
+<volume>340</volume>
+<issue>6129</issue>
+<fpage>183</fpage>
+<lpage>186</lpage>
+<history><date date-type="received"><day>13</day><month>08</month><year>2012</year></date><date date-type="accepted"><day>06</day><month>02</month><year>2013</year></date><date date-type="epub"><day>21</day><month>02</month><year>2013</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="editor"><title>Permafrost Thaw Predictions</title><p>Permafrost contains twice as much carbon as the atmosphere which could have serious consequences if it were to be released by widespread thawing. <bold>Vaks <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="340" issue="6129" page="183">183</related-article>, published online 21 February) present a 450,000 year-long record of speleothem growth at selected locations in Siberia, which traces changes in the extent of permafrost over that time period. The authors conclude that conditions only slightly warmer than those of today would cause widespread thawing of continuous permafrost as far north as 60&#x00B0;N.</p></abstract>
+<abstract abstract-type="teaser"><p>Siberian caves recorded the history of permafrost occurrence during the past 450,000 years.</p></abstract>
+<abstract>
+<p>Soils in permafrost regions contain twice as much carbon as the atmosphere, and permafrost has an important influence on the natural and built environment at high northern latitudes. The response of permafrost to warming climate is uncertain and occurs on time scales longer than those assessed by direct observation. We dated periods of speleothem growth in a north-south transect of caves in Siberia to reconstruct the history of permafrost in past climate states. Speleothem growth is restricted to full interglacial conditions in all studied caves. In the northernmost cave (at 60&#x00B0;N), no growth has occurred since Marine Isotopic Stage (MIS) 11. Growth at that time indicates that global climates only slightly warmer than today are sufficient to thaw extensive regions of permafrost.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>H. Jesse Smith</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Harry Jach</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>Permafrost regions (in which the ground is frozen throughout the year) cover 24% of the Northern Hemisphere land surface and hold ~1700 Gt of organic carbon. When it thaws, permafrost releases CO<sub>2</sub> and CH<sub>4</sub>, turning a long-term carbon sink into a source and enhancing the greenhouse effect (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>, <xref ref-type="bibr" rid="R2"><italic>2</italic></xref>). Permafrost degradation also intensifies thermo-karst development, coastline erosion, and liquefaction of ground previously cemented by ice. The latter endangers infrastructure, including major Siberian oil and gas facilities (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>). An ability to predict the extent of future permafrost degradation is desirable.</p>
+<p>Assessing the response of permafrost to changing climate can be difficult. Instrumental records during the past 20 years indicate substantial warming and thawing of local permafrost conditions (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>), but permafrost at regional scales is slow to respond to warming, and instrumental records are insufficient to capture the long-term behavior. To understand the long-term response of permafrost to climate change requires knowledge of past permafrost conditions. Dating of organic material (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>) or ground ice (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>) can indicate the age of existing permafrost but cannot reveal the longer-term history of permafrost.</p>
+<p>Here, we used cave carbonates (speleothems) as a tool to date past permafrost and its relationship to global climate. Vadose speleothems (stalactites, stalagmites, and flowstones) form when meteoric waters (i.e., originating from atmospheric precipitation) seep through the vadose zone into caves. Cave temperatures usually approximate the local mean annual air temperature (MAAT) because of buffering by the surrounding rock (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>). When cave temperatures drop below 0&#x00B0;C, waters freeze and speleothem growth ceases. Speleothems found in modern permafrost regions are therefore relicts from warmer periods before permafrost formed (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>&#x2013;<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>). Absence of water also prevents speleothem growth in arid settings, so speleothem growth episodes in modern deserts are proxies for past wet periods (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>). Because speleothems can be robustly and precisely dated with U-Th techniques, they provide a detailed history of periods when liquid water was available and when both permafrost and desert conditions were absent.</p>
+<p>We reconstructed the history of Siberian permafrost (and the aridity of the Gobi Desert) during the past ~500,000 years, by means of U-Th dating of speleothems in six caves along a north-south transect in northern Asia from Eastern Siberia at 60.2&#x00B0;N to the Gobi Desert at 42.5&#x00B0;N (<xref ref-type="fig" rid="F1">Fig. 1</xref>). The northernmost cave, Lenskaya Ledyanaya, sits today on the boundary of continuous permafrost with MAAT substantially below 0&#x00B0;C (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). The permafrost type changes toward the southwest to discontinuous, sporadic, and then permafrost-free conditions (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>) (<xref ref-type="fig" rid="F1">Fig. 1</xref>). Annual precipitation in this Siberian region is 400 to 600 mm/year, falling mainly during summer. To the south, in the Gobi, MAAT ranges from +2&#x00B0;C to +8&#x00B0;C and little precipitation falls (80 to 200 mm/year) (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>).</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption>
+<title>Map showing the extent of permafrost types in eastern Siberia, the Gobi Desert, and locations of studied caves.</title>
+<p>Caves are indicated as black circles. [Permafrost data are from (<xref ref-type="bibr" rid="R30"><italic>30</italic></xref>)].</p>
+</caption><graphic xlink:href="340_183_F1"></graphic></fig>
+<p>Speleothem thickness provides an indication of long-term liquid water availability along the transect. Only 8 cm of growth is seen in the northernmost cave, increasing to ~70 cm in the caves of southern Siberia and decreasing again to less than 30 cm in the Gobi. As expected, southern Siberia is more suitable for speleothem growth than the cold north or the dry south. All recovered speleothems show a texture of calcium carbonate layers alternating with growth hiatuses (see supplementary materials).</p>
+<p>Thirty-six speleothems were collected from the caves, and 111 U-Th ages were determined (<xref ref-type="fig" rid="F2">Fig. 2A</xref>). In each speleothem, at least one sample was taken from the outermost layer and from each section of growth (i.e., between hiatuses) inward, until the limits of the U-Th chronology were reached (age ~500,000 years) to assess all periods of growth. A full description of the samples and their subsampling and dating is given in the supplementary materials.</p>
+<fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption>
+<title>Comparison of speleothems&#x2019; growth periods in Siberia and Mongolia with other paleoclimate records of the past 500,000 years.</title>
+<p>Gray vertical bars indicate periods of growth in Okhotnichya and Botovskaya caves. (<bold>A</bold>) Distribution of speleothem U-Th ages [in thousands of years (kyr); &#x00B1;2&#x03C3;] in time and space; <italic>n</italic> = total number of U-Th age determinations per cave, including those beyond the U-Th range. (<bold>B</bold>) Benthic &#x03B4;<sup>18</sup>O stack (<xref ref-type="bibr" rid="R31"><italic>31</italic></xref>) with MIS numbers. (<bold>C</bold>) Concentration of biogenic silica in Lake Baikal sediments (<xref ref-type="bibr" rid="R24"><italic>24</italic></xref>). (<bold>D</bold>) Pacific Warm Pool Mg/Ca SST, with the pre-industrial Late Holocene SST shown by red horizontal fragmented line (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>, <xref ref-type="bibr" rid="R22"><italic>22</italic></xref>). (<bold>E</bold> and <bold>F</bold>) CH<sub>4</sub> and CO<sub>2</sub> records, respectively, of EPICA Dome C (<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>, <xref ref-type="bibr" rid="R27"><italic>27</italic></xref>). (<bold>G</bold>) Summer insolation at 55&#x00B0;N (<xref ref-type="bibr" rid="R29"><italic>29</italic></xref>). Speleothems with ages exceeding 500,000 years (within &#x00B1;2&#x03C3; range) are not shown in (A) but are accounted for in <italic>n</italic>. Two samples, SLL9-2-A+B and SOP-32-B, are not included because they reflect a mixture of material from different layers; see table S1.</p>
+</caption><graphic xlink:href="340_183_F2"></graphic></fig>
+<p>The youngest speleothem growth in the region of modern continuous permafrost (i.e., at 60&#x00B0;N) occurred during interglacial Marine Isotopic Stage 11 (MIS-11), contrasting with the center of the transect where speleothems grew during all interglacials (<xref ref-type="fig" rid="F2">Fig. 2, A and B</xref>). Age ranges in southern Siberia also demonstrate that the duration of speleothem deposition in MIS-11 was longer than during subsequent interglacials. These observations indicate that permafrost thawing during MIS-11 was more extensive than at any other point during the last 450,000 years and extended northward of 60&#x00B0;N, significantly further north than the present limit of continuous permafrost. Some similar thawing may also have occurred at MIS-13 in this most northerly cave. The absence of any observed speleothem growth since MIS-11 in the northerly Lenskaya Ledyanaya cave, despite dating the outer edges of eight speleothems, suggests the permanent presence of permafrost at this latitude since the end of MIS-11. Speleothem growth in this cave occurred during early MIS-11, ruling out the possibility that the unusual length of MIS-11 caused the permafrost thawing.</p>
+<p>MIS-11 was also characterized by wetter conditions in the Mongolian Gobi Desert, as shown by two ages from Shar-Khana Cave speleothems (<xref ref-type="fig" rid="F2">Fig. 2A</xref>), which contrast with the absence of growth during subsequent interglacials. The existence of a humid event in the Gobi during early MIS-11 is supported by mollusk assemblages from the Chinese Loess Plateau (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>) and by the dominance of input into Lake Baikal via the Selenga River during MIS-11 (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>).</p>
+<p>The degradation of permafrost at 60&#x00B0;N during MIS-11 allows an assessment of the warming required globally to cause such extensive change in the permafrost boundary. There is compelling evidence that MIS-11 was the warmest of recent interglacials, including the presence of boreal forest on South Greenland at that time (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>), the absence of ice-rafted debris in the North Atlantic (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>), increased sea levels (<xref ref-type="bibr" rid="R19"><italic>19</italic></xref>), and higher sea surface temperatures (SSTs) in the tropical Pacific (<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>&#x2013;<xref ref-type="bibr" rid="R22"><italic>22</italic></xref>). Mg/Ca reconstructions (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>, <xref ref-type="bibr" rid="R22"><italic>22</italic></xref>) indicate that the SST of the Pacific Warm Pool (PWP) reached &gt;30&#x00B0;C in early MIS-11, compared to 29.5&#x00B0;C in MIS-5.5 and ~28.5&#x00B0;C during the pre-industrial Late Holocene (<xref ref-type="fig" rid="F2">Fig. 2D</xref>). This tropical heat was transported poleward (<xref ref-type="bibr" rid="R23"><italic>23</italic></xref>), and there is evidence of unusual warmth in Siberia during MIS-11, evidenced by the high fraction of biogenic silica in the sediments of Lake Baikal (<xref ref-type="bibr" rid="R24"><italic>24</italic></xref>) (<xref ref-type="fig" rid="F2">Fig. 2C</xref>) and high spruce pollen content in Lake El&#x2019;gygytgyn, suggesting local temperatures 4&#x00B0; to 5&#x00B0;C above the present (<xref ref-type="bibr" rid="R25"><italic>25</italic></xref>). When PWP temperatures reached 30&#x00B0;C, this appears to have caused more pronounced warming of northern continents and to have led to substantial northward migration of the permafrost boundary.</p>
+<p>Periods of Siberian speleothem growth since MIS-11 suggest a close link between greenhouse warming (hence global temperatures) and permafrost extent. After a brief hiatus in growth after MIS-11 (from 370,000 to 355,000 years ago), coinciding with a minimum in atmospheric CO<sub>2</sub> and in PWP SST during MIS-10 (<xref ref-type="fig" rid="F2">Fig. 2, D and F</xref>), large thicknesses of speleothem grew in Southern Siberia during MIS-9 as greenhouse gases returned to higher values. Speleothems also grew actively during MIS-5.5 and the Holocene (&gt;5 cm) when CO<sub>2</sub> levels were high. In contrast, growth during MIS-7, a period of lower CO<sub>2</sub> and cooler global conditions, is minimal (maximum 1.5 cm in any studied cave), and no growth is observed during MIS-5.4 to 5.1. Conditions during MIS-7 were at the very limit for growth in southern Siberia: Speleothems grew during MIS-7.3 and 7.1 in Okhotnichya Cave (52&#x00B0;N) but only during MIS-7.1 just to the north at Botovskaya Cave (55&#x00B0;N). No growth occurred during MIS-7.5 at either cave despite higher concentrations of CO<sub>2</sub> and CH<sub>4</sub> than later in MIS-7 (<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>, <xref ref-type="bibr" rid="R27"><italic>27</italic></xref>) and high PWP SST (<xref ref-type="fig" rid="F2">Fig. 2, D to F</xref>) (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>, <xref ref-type="bibr" rid="R22"><italic>22</italic></xref>). Lake Baikal biogenic silica (<xref ref-type="bibr" rid="R24"><italic>24</italic></xref>) and the percentage of arboreal pollen in Lake El&#x2019;gygytgyn sediments (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>) are also lower during MIS-7.5 than during MIS-7.3 and 7.1. Lower local summer insolation during MIS-7.5 (<xref ref-type="fig" rid="F2">Fig. 2G</xref>) (<xref ref-type="bibr" rid="R29"><italic>29</italic></xref>) suggests a role for local insolation in overprinting a Siberian climate dominantly controlled by global greenhouse gas levels.</p>
+<p>U-Th dating of Siberian speleothem growth during recent interglacials allows detailed comparison of permafrost history with other aspects of the global climate system (<xref ref-type="fig" rid="F3">Fig. 3</xref>). During MIS-5.5, speleothems started growing between 128,700 and 127,300 years ago, and this growth ended between 119,200 and 118,100 years ago (as determined from Bayesian analysis of U-Th data using OxCal-4.1; see supplementary materials). The permafrost thawing initiated when insolation was close to its maximum and greenhouse gases had just reached maximum values. Holocene permafrost degradation at our sites lags maximum insolation and greenhouse gas concentrations slightly, and starts between 10,000 and 9800 years ago. This lag may be due to the time required for permafrost to thaw at the slightly lower insolation and CO<sub>2</sub> levels of the Holocene (relative to MIS-5.5).</p>
+<fig id="F3" position="float" fig-type="figure"><label>Fig. 3</label><caption>
+<title>Comparison of MIS-5.5 and Holocene speleothems&#x2019; growth periods with other paleoclimate records.</title>
+<p>Gray vertical bars indicate periods of growth. (<bold>A</bold>)<bold> </bold>Siberian speleothem growth periods during the Holocene and MIS-5.5. (<bold>B</bold>) East Asian monsoon records from Hulu and Sanbao caves (<xref ref-type="bibr" rid="R32"><italic>32</italic></xref>). (<bold>C</bold>) GICC05 &#x03B4;<sup>18</sup>O (<xref ref-type="bibr" rid="R33"><italic>33</italic></xref>, <xref ref-type="bibr" rid="R34"><italic>34</italic></xref>). (<bold>D</bold> and <bold>E</bold>) CH<sub>4</sub> and CO<sub>2</sub> records, respectively, of EPICA Dome C (<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>, <xref ref-type="bibr" rid="R27"><italic>27</italic></xref>). (<bold>F</bold>) Summer insolation at 55&#x00B0;N (<xref ref-type="bibr" rid="R29"><italic>29</italic></xref>).</p>
+</caption><graphic xlink:href="340_183_F3"></graphic></fig>
+<p>Overall, dated periods of speleothem growth allow an assessment of the relationship between global temperature and permafrost extent. PWP SST was 0.5&#x00B0; to 1.0&#x00B0;C higher during MIS-5.5 and ~1.5&#x00B0;C higher during early MIS-11 relative to the pre-industrial Late Holocene (<xref ref-type="fig" rid="F2">Fig. 2D</xref>) (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>, <xref ref-type="bibr" rid="R22"><italic>22</italic></xref>). Using PWP SST as a surrogate for global temperature (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>) suggests that an increase in global temperatures by 0.5&#x00B0; to 1.0&#x00B0;C will degrade only noncontinuous permafrost in southern Siberia, with the Gobi Desert remaining arid. Warming of ~1.5&#x00B0;C (i.e., as in MIS-11) may cause a substantial thaw of continuous permafrost as far north as 60&#x00B0;N and may create wetter conditions in the Gobi Desert. Such warming is therefore expected to markedly change the environment of continental Asia and can potentially lead to substantial release of carbon trapped in the permafrost into the atmosphere.</p>
+</body>
+<back><app-group><app>
+<title>Supplementary Materials</title><supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/science.1228729/DC1">www.sciencemag.org/cgi/content/full/science.1228729/DC1</ext-link></p>
+<p>Materials and Methods</p>
+<p>Supplementary Text</p>
+<p>Figs. S1 to S16</p>
+<p>Tables S1 to S3</p>
+<p>References</p></supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Grosse</surname><given-names>G.</given-names></name><etal /></person-group>., 
+<article-title>Vulnerability and feedbacks of permafrost to climate change</article-title>. <source>EOS</source> 
+<volume>92</volume>, 
+<fpage>73</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1029/2011EO090001</pub-id></citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Schuur</surname><given-names>E. A. G.</given-names></name><etal /></person-group>., 
+<article-title>Vulnerability of permafrost carbon to climate change: Implications for the global carbon cycle</article-title>. <source>Bioscience</source> 
+<volume>58</volume>, 
+<fpage>701</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1641/B580807</pub-id></citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Anisimov</surname><given-names>O.</given-names></name><name><surname>Reneva</surname><given-names>S.</given-names></name></person-group>, 
+<article-title>Permafrost and changing climate: the Russian perspective</article-title>. <source>AMBIO</source> 
+<volume>35</volume>, 
+<fpage>169</fpage> (<year>2006</year>).<pub-id pub-id-type="doi">10.1641/B580807</pub-id></citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Romanovsky</surname><given-names>V. E.</given-names></name><name><surname>Smith</surname><given-names>S. L.</given-names></name><name><surname>Christiansen</surname><given-names>H. H.</given-names></name></person-group>, <source>Permafr. Periglac. Proc.</source> 
+<volume>21</volume>, 
+<fpage>106</fpage> (<year>2010</year>).</citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Vasil&#x2019;chuk</surname><given-names>Y. K.</given-names></name><name><surname>Kim</surname><given-names>J.-C.</given-names></name><name><surname>Vasil&#x2019;chuk</surname><given-names>A. C.</given-names></name></person-group>, 
+<article-title>AMS14C dating and stable isotope plots of Late Pleistocene ice-wedge ice</article-title>. <source>Nucl. Instrum. Methods Phys. Res. B</source> 
+<volume>223&#x2013;224</volume>, 
+<fpage>650</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1016/j.nimb.2004.04.120</pub-id></citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Gilichinsky</surname><given-names>D. A.</given-names></name><etal /></person-group>., 
+<article-title>Dating of syngenetic ice wedges in permafrost with <sup>36</sup>Cl</article-title>. <source>Quat. Sci. Rev.</source> 
+<volume>26</volume>, 
+<fpage>1547</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1016/j.quascirev.2007.04.004</pub-id></citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="book">H. P. Schwarcz, in <italic>Handbook of Environmental Isotope Geochemistry</italic>, P. Fritz, J. C. Fontes, Eds. (Elsevier, Amsterdam, 1986), vol. 2, pp. 271&#x2013;300.</citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Cliff</surname><given-names>R. A.</given-names></name><name><surname>Sp&#x00F6;tl</surname><given-names>C.</given-names></name><name><surname>Mangini</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>U-Pb dating of speleothems from Spannagel Cave, Austrian Alps: A high resolution comparison with U-series ages</article-title>. <source>Quat. Geochronol.</source> 
+<volume>5</volume>, 
+<fpage>452</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1016/j.quageo.2009.12.002</pub-id></citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Lauriol</surname><given-names>B.</given-names></name><name><surname>Ford</surname><given-names>D. C.</given-names></name><name><surname>Cinq-Mars</surname><given-names>J.</given-names></name><name><surname>Morris</surname><given-names>W. A.</given-names></name></person-group>, 
+<article-title>The chronology of speleothem deposition in northern Yukon and its relationships to permafrost</article-title>. <source>Can. J. Earth Sci.</source> 
+<volume>34</volume>, 
+<fpage>902</fpage> (<year>1997</year>). <pub-id pub-id-type="doi">10.1139/e17-075</pub-id></citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Lauritzen</surname><given-names>S. E.</given-names></name></person-group>, 
+<article-title>High-resolution paleotemperature proxy record for the last interglaciation based on Norwegian speleothems</article-title>. <source>Quat. Res.</source> 
+<volume>43</volume>, 
+<fpage>133</fpage> (<year>1995</year>). <pub-id pub-id-type="doi">10.1006/qres.1995.1015</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Vaks</surname><given-names>A.</given-names></name><name><surname>Bar-Matthews</surname><given-names>M.</given-names></name><name><surname>Matthews</surname><given-names>A.</given-names></name><name><surname>Ayalon</surname><given-names>A.</given-names></name><name><surname>Frumkin</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Middle-Late Quaternary paleoclimate of northern margins of the Saharan-Arabian Desert: Reconstruction from speleothems of Negev Desert, Israel</article-title>. <source>Quat. Sci. Rev.</source> 
+<volume>29</volume>, 
+<fpage>2647</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1016/j.quascirev.2010.06.014</pub-id></citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="book"><italic>Philip&#x2019;s Modern School Atlas, 95th Edition</italic> (Philip&#x2019;s/Octopus, London, 2007).</citation></ref>
+<ref id="R13"><label>13</label><citation citation-type="book">A. Jones <italic>et al</italic>., Eds., <italic>Soil Atlas of the Northern Circumpolar Region</italic> (Publication Office of the European Union, Luxembourg, 2010).</citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="book">D. Dorjotov, N. Orshikh, T. Oyunchimeg, <italic>Geographic Atlas of Mongolian Republic</italic> (Mongolian Institute of Geodesy and Cartography, Ulaanbaatar, 2004). [in Mongolian]</citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Wu</surname><given-names>N.</given-names></name><etal /></person-group>., 
+<article-title>Climatic conditions recorded by terrestrial mollusc assemblages in the Chinese Loess Plateau during marine Oxygen Isotope Stages 12&#x2013;10</article-title>. <source>Quat. Sci. Rev.</source> 
+<volume>26</volume>, 
+<fpage>1884</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1016/j.quascirev.2007.04.006</pub-id></citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Mackay</surname><given-names>A. W.</given-names></name><etal /></person-group>., 
+<article-title>Reconstructing hydrological variability in Lake Baikal during MIS 11: An application of oxygen isotope analysis of diatom silica</article-title>. <source>J. Quat. Sci.</source> 
+<volume>23</volume>, 
+<fpage>365</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1002/jqs.1174</pub-id></citation></ref>
+<ref id="R17"><label>17</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>de Vernal</surname><given-names>A.</given-names></name><name><surname>Hillaire-Marcel</surname><given-names>C.</given-names></name></person-group>, 
+<article-title>Natural variability of Greenland climate, vegetation, and ice volume during the past million years</article-title>. <source>Science</source> 
+<volume>320</volume>, 
+<fpage>1622</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1126/science.1153929</pub-id><pub-id pub-id-type="pmid">18566284</pub-id></citation></ref>
+<ref id="R18"><label>18</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>McManus</surname><given-names>J. F.</given-names></name><name><surname>Oppo</surname><given-names>D. W.</given-names></name><name><surname>Cullen</surname><given-names>J. L.</given-names></name></person-group>, 
+<article-title>A 0.5-million-year record of millennial-scale climate variability in the north atlantic</article-title>. <source>Science</source> 
+<volume>283</volume>, 
+<fpage>971</fpage> (<year>1999</year>). <pub-id pub-id-type="doi">10.1126/science.283.5404.971</pub-id><pub-id pub-id-type="pmid">9974387</pub-id></citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Raymo</surname><given-names>M. E.</given-names></name><name><surname>Mitrovica</surname><given-names>J. X.</given-names></name></person-group>, 
+<article-title>Collapse of polar ice sheets during the stage 11 interglacial</article-title>. <source>Nature</source> 
+<volume>483</volume>, 
+<fpage>453</fpage> (<year>2012</year>). <pub-id pub-id-type="doi">10.1038/nature10891</pub-id><pub-id pub-id-type="pmid">22419155</pub-id></citation></ref>
+<ref id="R20"><label>20</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ortlieb</surname><given-names>L.</given-names></name><name><surname>Diaz</surname><given-names>A.</given-names></name><name><surname>Guzman</surname><given-names>N.</given-names></name></person-group>, 
+<article-title>A warm interglacial episode during oxygen isotope stage 11 in northern Chile</article-title>. <source>Quat. Sci. Rev.</source> 
+<volume>15</volume>, 
+<fpage>857</fpage> (<year>1996</year>). <pub-id pub-id-type="doi">10.1016/S0277-3791(96)00062-5</pub-id></citation></ref>
+<ref id="R21"><label>21</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hansen</surname><given-names>J.</given-names></name><etal /></person-group>., 
+<article-title>Global temperature change</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>103</volume>, 
+<fpage>14288</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1073/pnas.0606291103</pub-id><pub-id pub-id-type="pmid">17001018</pub-id></citation></ref>
+<ref id="R22"><label>22</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Medina-Elizalde</surname><given-names>M.</given-names></name><name><surname>Lea</surname><given-names>D. W.</given-names></name></person-group>, 
+<article-title>The mid-Pleistocene transition in the tropical Pacific</article-title>. <source>Science</source> 
+<volume>310</volume>, 
+<fpage>1009</fpage> (<year>2005</year>). <pub-id pub-id-type="doi">10.1126/science.1115933</pub-id><pub-id pub-id-type="pmid">16223985</pub-id></citation></ref>
+<ref id="R23"><label>23</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Dickson</surname><given-names>A. J.</given-names></name><etal /></person-group>., 
+<article-title>Oceanic forcing of the Marine Isotope Stage 11 interglacial</article-title>. <source>Nat. Geosci.</source> 
+<volume>2</volume>, 
+<fpage>428</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1038/ngeo527</pub-id></citation></ref>
+<ref id="R24"><label>24</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Prokopenko</surname><given-names>A. A.</given-names></name><etal /></person-group>., 
+<article-title>Biogenic silica record of the Lake Baikal response to climatic forcing during the Brunhes</article-title>. <source>Quat. Res.</source> 
+<volume>55</volume>, 
+<fpage>123</fpage> (<year>2001</year>). <pub-id pub-id-type="doi">10.1006/qres.2000.2212</pub-id></citation></ref>
+<ref id="R25"><label>25</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Melles</surname><given-names>M.</given-names></name><etal /></person-group>., 
+<article-title>2.8 million years of Arctic climate change from Lake El&#x2019;gygytgyn, NE Russia</article-title>. <source>Science</source> 
+<volume>337</volume>, 
+<fpage>315</fpage> (<year>2012</year>). <pub-id pub-id-type="doi">10.1126/science.1222135</pub-id><pub-id pub-id-type="pmid">22722254</pub-id></citation></ref>
+<ref id="R26"><label>26</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Loulergue</surname><given-names>L.</given-names></name><etal /></person-group>., 
+<article-title>Orbital and millennial-scale features of atmospheric CH<sub>4</sub> over the past 800,000 years</article-title>. <source>Nature</source> 
+<volume>453</volume>, 
+<fpage>383</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1038/nature06950</pub-id><pub-id pub-id-type="pmid">18480822</pub-id></citation></ref>
+<ref id="R27"><label>27</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>L&#x00FC;thi</surname><given-names>D.</given-names></name><etal /></person-group>., 
+<article-title>High-resolution carbon dioxide concentration record 650,000-800,000 years before present</article-title>. <source>Nature</source> 
+<volume>453</volume>, 
+<fpage>379</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1038/nature06949</pub-id><pub-id pub-id-type="pmid">18480821</pub-id></citation></ref>
+<ref id="R28"><label>28</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Nowaczyk</surname><given-names>N. R.</given-names></name><etal /></person-group>., 
+<article-title>Magnetostratigraphic results from impact crater Lake El&#x2019;gygytgyn, northeastern Siberia: A 300 kyr long high-resolution terrestrial palaeoclimatic record from the Arctic</article-title>. <source>Geophys. J. Int.</source> 
+<volume>150</volume>, 
+<fpage>109</fpage> (<year>2002</year>). <pub-id pub-id-type="doi">10.1046/j.1365-246X.2002.01625.x</pub-id></citation></ref>
+<ref id="R29"><label>29</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Laskar</surname><given-names>J.</given-names></name><etal /></person-group>., 
+<article-title>A long-term numerical solution for the insolation quantities of the Earth</article-title>. <source>Astron. Astrophys.</source> 
+<volume>428</volume>, 
+<fpage>261</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1051/0004-6361:20041335</pub-id></citation></ref>
+<ref id="R30"><label>30</label><citation citation-type="book">J. Brown, O. J. Ferrians Jr., J. A. Heginbottom, E. S. Melnikov, <italic>Circum-Arctic Map of Permafrost and Ground Ice Conditions</italic> (National Snow and Ice Data Center/World Data Center for Glaciology, Boulder, CO, 2001).</citation></ref>
+<ref id="R31"><label>31</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Lisiecki</surname><given-names>L. E.</given-names></name><name><surname>Raymo</surname><given-names>M. E.</given-names></name></person-group>, 
+<article-title>A Pliocene-Pleistocene stack of 57 globally distributed benthic &#x03B4;<sup>18</sup>O records</article-title>. <source>Paleoceanography</source> 
+<volume>20</volume>, 
+<fpage>PA1003</fpage> (<year>2005</year>). <pub-id pub-id-type="doi">10.1029/2004PA001071</pub-id></citation></ref>
+<ref id="R32"><label>32</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>Y.</given-names></name><etal /></person-group>., 
+<article-title>Millennial- and orbital-scale changes in the East Asian monsoon over the past 224,000 years</article-title>. <source>Nature</source> 
+<volume>451</volume>, 
+<fpage>1090</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1038/nature06692</pub-id><pub-id pub-id-type="pmid">18305541</pub-id></citation></ref>
+<ref id="R33"><label>33</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Rasmussen</surname><given-names>S. O.</given-names></name><etal /></person-group>., 
+<article-title>A new Greenland ice core chronology for the last glacial termination</article-title>. <source>J. Geophys. Res.</source> 
+<volume>111</volume>, 
+<fpage>D06102</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1029/2005JD006079</pub-id></citation></ref>
+<ref id="R34"><note><label>34</label>
+<p>See references 16 to 19 in the supplementary materials.</p></note></ref>
+</ref-list>
+<ack>
+<title>Acknowledgments</title><p>This article is dedicated to the memory of Prof. Y. Trzhcinski, who during the last months of his life made a big effort to establish the cooperation between the University of Oxford and Institute of Earth&#x2019;s Crust (IEC) in Irkutsk. We thank D. Sokolnikov and other &#x201C;Arabica&#x201D; members, E. Kozireva (IEC), V. Alexioglo, and V. Balaev from Lensk for their help during the fieldwork in Siberia; the Mongolian Speleological Society for their help with the fieldwork in Mongolia; J. Fritz and L. Zehnder (ETH Z&#x00FC;rich) for preparing Fig. 1 and for assistance with XRD analyses, respectively; and C. Day, V. Ersek, L. Zanna, P. Holdship, O. Green, S. Wyatt, Y. Nakajima, P. Pousada Solino, J. Cox, S. Usher, M. Chung, and others from University of Oxford for the help with the laboratory work, administration and computing issues, obtainment of funding, and fruitful discussions. Supported by NERC Fellowship NE/G013829/1, Royal Society grant JP080831, and Russian Foundation for Basic Research joint grant 09-05-92605 KO_a.</p>
+</ack></back>
+</article>

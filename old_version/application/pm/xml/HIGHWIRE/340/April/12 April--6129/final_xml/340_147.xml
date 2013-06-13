@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="other" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">122970</article-id>
+<article-id pub-id-type="doi">10.1126/science.122970</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Policy Forum</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Policy Forum</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>p-forum</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Agriculture</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Medicine</subject><subject>Botany</subject><subject>Economics</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Right-Sizing Stem-Rust Research</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Pardey</surname><given-names>P. G.</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="aff" rid="aff2">2</xref><xref ref-type="aff" rid="aff3">3</xref><xref ref-type="aff" rid="aff4">4</xref><xref ref-type="corresp" rid="cor1">*</xref></contrib>
+<contrib contrib-type="author"><name><surname>Beddow</surname><given-names>J. M.</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="aff" rid="aff2">2</xref><xref ref-type="aff" rid="aff3">3</xref></contrib>
+<contrib contrib-type="author"><name><surname>Kriticos</surname><given-names>D. J.</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="aff" rid="aff3">3</xref><xref ref-type="aff" rid="aff5">5</xref></contrib>
+<contrib contrib-type="author"><name><surname>Hurley</surname><given-names>T. M.</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="aff" rid="aff2">2</xref><xref ref-type="aff" rid="aff3">3</xref></contrib>
+<contrib contrib-type="author"><name><surname>Park</surname><given-names>R. F.</given-names></name><xref ref-type="aff" rid="aff6">6</xref></contrib>
+<contrib contrib-type="author"><name><surname>Duveiller</surname><given-names>E.</given-names></name><xref ref-type="aff" rid="aff7">7</xref></contrib>
+<contrib contrib-type="author"><name><surname>Sutherst</surname><given-names>R. W.</given-names></name><xref ref-type="aff" rid="aff8">8</xref></contrib>
+<contrib contrib-type="author"><name><surname>Burdon</surname><given-names>J. J.</given-names></name><xref ref-type="aff" rid="aff3">3</xref></contrib>
+<contrib contrib-type="author"><name><surname>Hodson</surname><given-names>D.</given-names></name><xref ref-type="aff" rid="aff7">7</xref></contrib>
+<aff id="aff1"><label>1</label>International Science and Technology Practice and Policy Center, Department of Applied Economics, University of Minnesota, St. Paul, MN 55108, USA.</aff>
+<aff id="aff2"><label>2</label>Stakman-Borlaug Cereal Rust Center, University of Minnesota, St. Paul, MN 55108, USA.</aff>
+<aff id="aff3"><label>3</label>Commonwealth Scientific and Industrial Research Organization, Canberra, ACT 3190, Australia.</aff>
+<aff id="aff4"><label>4</label>Department of Agricultural Economics, Extension and Rural Development, University of Pretoria, Pretoria 0028 South Africa.</aff>
+<aff id="aff5"><label>5</label>E. H. Graham Center, Charles Sturt University Wagga Wagga, New South Wales 2678, Australia.</aff>
+<aff id="aff6"><label>6</label>Australian Cereal Rust Control Program, Plant Breeding Institute, University of Sydney, Eveleigh New South Wales 2015, Australia.</aff>
+<aff id="aff7"><label>7</label>International Maize and Wheat Improvement Center (CIMMYT), El Bat&#x00E1;n, CP 56130, M&#x00E9;xico.</aff>
+<aff id="aff8"><label>8</label>Centre of Excellence for Environmental Decisions, University of Queensland, St. Lucia, Queensland 4072, Australia.</aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>Corresponding author. <email>ppardey@umn.edu</email></corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<day>12</day>
+<month>04</month>
+<year>2013</year>
+</pub-date>
+<volume>340</volume>
+<issue>6129</issue>
+<fpage>147</fpage>
+<lpage>148</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>Is increased support needed for wheat disease research to avert crop losses from current and future strains?</p>
+</abstract>
+<abstract abstract-type="excerpt">
+<p>Stem rust caused by <italic>Puccinia graminis</italic> f. sp. <italic>tritici</italic> is a potentially devastating fungal disease that can kill wheat plants and small grain cereals but more typically reduces foliage, root growth, and grain yields [e.g., (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>, <xref ref-type="bibr" rid="R2"><italic>2</italic></xref>)]. After years of success in keeping the disease at bay, new virulent races (collectively referred to as &#x201C;Ug99&#x201D;) have emerged, with the potential to infect much of the world&apos;s wheat (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>). Despite, or because of, the success of past research, these programs saw an eventual rundown in support (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). We estimate global wheat losses over the past 50 years absent investments in research to limit impacts of stem rust and discuss how this can inform decisions about &#x201C;right-sizing&#x201D; research investments.</p>
+</abstract>
+</article-meta>
+</front>
+<body>
+<p>Stem rust caused by <italic>Puccinia graminis</italic> f. sp. <italic>tritici</italic> is a potentially devastating fungal disease that can kill wheat plants and small grain cereals but more typically reduces foliage, root growth, and grain yields [e.g., (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>, <xref ref-type="bibr" rid="R2"><italic>2</italic></xref>)]. After years of success in keeping the disease at bay, new virulent races (collectively referred to as &#x201C;Ug99&#x201D;) have emerged, with the potential to infect much of the world&apos;s wheat (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>). Despite, or because of, the success of past research, these programs saw an eventual rundown in support (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). We estimate global wheat losses over the past 50 years absent investments in research to limit impacts of stem rust and discuss how this can inform decisions about &#x201C;right-sizing&#x201D; research investments.</p>
+<p>Potential annual stem-rust losses have been previously estimated by extrapolating reported losses from limited time periods and locations to broader spatial and temporal scales: $1.4 billion for developing countries (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>); up to $3 billion for North Africa, the Middle East, and South Asia (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>); and from $7.6 to $53.7 billion globally [derived from (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>), see (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>) and supplementary material (SM)]. However, global estimates derived from such &#x201C;point-based&#x201D; methods are misconceived and overstated, failing to account for the intrinsic variability of disease-induced crop losses over space and time.</p>
+<p>From 1918 to 1960, U.S. wheat losses averaged 2.5% per year; losses dropped to less than an eighth of that rate (0.3% per year) thereafter (fig. S1). This reduction in U.S. wheat losses reflects the success of rust pathologists and wheat breeders in developing a series of stem rust-resistant wheat varieties (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>). The more muted stem rust&#x2013;induced crop losses experienced in the United States during the past half-century were mirrored throughout most of the developed world. However, the more limited, and often slower, introduction of improved wheat varieties in many developing countries (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>) likely exposed them to more frequent and larger wheat yield losses.</p>
+<sec>
+<title>Probabilistic Stem Rust&#x2013;Risk Assessment</title>
+<p>We used stem-rust occurrence and long-term yield-loss data in conjunction with probabilistic methods to simulate global losses attributable to stem rust (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>). The objective was to estimate global wheat losses in a counterfactual 1961&#x2013;2009 world, where the probabilistic structure of losses was similar to that observed for the United States between 1918 and 1960, when U.S. farmers planted rust-susceptible wheat varieties. Extension of 1918&#x2013;1960 characteristics to a 1961&#x2013;2009 counterfactual period suggests what might have happened in the absence of research investments. These are indicative of what might occur should Ug99, or other virulent races, spread throughout the world and suggestive of the value of research investments (and crop management practices) in countering such threats.</p>
+<fig id="F1" position="float">
+<caption>
+<title>Modeled global climate vunerability for stem rust.</title>
+<p>Areas suitable for stem-rust infection are shown in blue, and the subset of those areas in which stem rust can establish and persist (that is, overwinter and oversummer) are shown in red. See (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>) and SM for data and methods.</p>
+</caption>
+<graphic xlink:href="340_147_F1"></graphic>
+</fig>
+<p>We developed an ecological-niche model (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>, <xref ref-type="bibr" rid="R11"><italic>11</italic></xref>) of stem rust and estimated that 66% (1.4 million km<sup>2</sup>) of the world&apos;s wheat area was climatically suitable for development of the disease (see the map). The present assessment considers differences in the probability distribution of yield losses under two scenarios: (i) one representing contemporary losses in largely resistant wheat (1961&#x2013;2009 in the United States) and (ii) another characterizing the loss distribution that occurred historically with less resistant varieties deployed in the field (U.S. losses during 1918&#x2013;1960). We identified 15 epidemiologically and statistically independent regions (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>, <xref ref-type="bibr" rid="R8"><italic>8</italic></xref>) and used U.S. loss data (ii) to simulate a probabilistic pattern of proportional losses over each region. The pattern of climate suitability for stem rust across the epidemiological zones (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>) suggests that we may be underestimating losses for areas outside the temperate wheat-growing regions of the northern hemisphere, where a small share of the world&apos;s wheat is grown.</p>
+<p>The expected average total global losses in this 1961&#x2013;2009 counterfactual world without durable stem-rust resistance is 306 million metric tons (MT) from a total production of 23 billion MT (i.e., a loss of U.S. $54.7 billion when valued at 2010 average U.S. wheat prices) with a 90% chance (the 10th percentile) of losing at least 275 MT (or U.S. $49.3 billion) (see the table). This expected 306 MT total loss equates to average annual losses for the counterfactual period of 6.2 MT (or U.S. $1.12 billion per year) from annual average production of 470 MT. This annual loss is substantially less than the 104 MT calculated for a hypothetical single-year global pandemic but still sizable for the effects of just one disease on a staple food crop. Eliminating such an annual loss would save enough wheat to almost satisfy the entire annual calorie deficit of sub-Saharan Africa&apos;s undernourished population (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>).</p>
+<fig id="F2" position="float">
+<caption>
+<title>Distribution of wheat losses and corresponding average annual loss absent investment in stem-rust research.</title>
+<p>Single-year pandemic represents single-year loss if the historically highest 1935 U.S. loss is applied to all stem rust&#x2013;susceptible production systems worldwide. See (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>) and SM.</p>
+</caption>
+<graphic xlink:href="340_147_F2"></graphic>
+</fig>
+</sec>
+<sec>
+<title>Spending on Stem-Rust Research</title>
+<p>In 2008, the Bill and Melinda Gates Foundation (BMGF) launched the Durable Rust Resistance in Wheat global partnership, with a 3-year commitment totaling $26.8 million. This was extended for 5 years in 2011 with an additional $40 million from BMGF and the UK Department for International Development. These funds complement long-standing, but of late generally more limited, investments in stem-rust research conducted by public agencies the world over (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>).</p>
+<p>An economic approach to determining whether this is too much or too little investment is to compare the worldwide costs of research to develop rust-resistant varieties (plus the costs of other rust-mitigating efforts like fungicide use) against the global benefits of averting yield losses from stem rust by the development and deployment of resistant varieties or other means. This economic balance can best be struck by reference to the modified internal rate of return (MIRR): the rate that equates the expected present value of a stream of research benefits with the present value of the cost of the research given reinvestment and finance rates for benefits and costs (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>).</p>
+<p>Taking the estimated stream of counterfactual global losses attributed to stem rust since 1961 as an indication of potential benefits from successful wheat stem rust&#x2013;resistance research over this period, we estimate that a sustained investment of $51.1 million per year (2010 prices) in stem-rust research could be justified economically (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>). With such a sustained investment, there is a 95% chance that the MIRR would exceed 10% per year, conditional on the success of the funded research. Looking forward, and assuming a nondecreasing total value of world wheat production, it seems prudent to invest at least this much annually (in inflation-adjusted terms) in stem-rust research. This amount is in addition to other investments that would be necessary to increase wheat yields generally, as well as to ameliorate the effects of other wheat pests and diseases. A $51.1 million annual R&amp;D expenditure is equivalent to investing $0.23 per hectare of wheat pests and in 2009; by comparison, U.S. wheat farmers spent $34.56 per hectare on seed in 2009 (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>).</p>
+<p>Our estimates of expected global losses attributable to stem rust are more modest than those of other studies (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>&#x2013;<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>), but there is still a substantial funding shortfall. Averaging recent decades, global funding for research to maintain stem-rust resistance in wheat has been less than half the amount that appears necessary (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>). We question the wisdom of cutting back on wheat-rust research as the U.S. Department of Agriculture has done recently, in line with similar trends over past decades in other countries (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>, <xref ref-type="bibr" rid="R16"><italic>16</italic></xref>).</p>
+<p>Maintaining yield growth rates necessary to meet anticipated future demands will require a sustained effort to develop wheat varieties that are resistant to contemporary races of rust. This requires an investment strategy that supports sustained research programs geared to identifying and addressing ever-evolving stem-rust threats. The need for sustained investment also applies to other crop and pest systems subject to coevolutionary pressure. Our methods can help right-size research investment streams needed to sustain or improve global food security.</p>
+</sec>
+</body>
+<back>
+<ack>
+<title>Acknowledgments</title>
+<p>The authors thank M. Carson, R. Singh, B. Steffenson, and Y. Chai.</p>
+</ack>
+<app-group>
+<app>
+<title>Supplementary Materials</title>
+<supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/340/6129/147/DC1">www.sciencemag.org/cgi/content/full/340/6129/147/DC1</ext-link></p>
+</supplementary-material>
+</app>
+</app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1">
+<label>1</label>
+<citation citation-type="book">
+<person-group person-group-type="author"><name><surname>Agrios</surname><given-names>G.</given-names></name></person-group>, <source>Plant Pathology</source> (<publisher-name>Elsevier Academic Press</publisher-name>, <publisher-loc>Boston</publisher-loc>, <edition>ed. 5</edition>, <year>2005</year>).</citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<citation citation-type="book">
+<person-group person-group-type="author"><name><surname>Saari</surname><given-names>E. E.</given-names></name><name><surname>Prescott</surname><given-names>J. M.</given-names></name></person-group>, in <source>The Cereal Rusts</source>, <person-group person-group-type="editor"><name><surname>Roelfs</surname><given-names>A. P.</given-names></name>
+<name><surname>Bushnell</surname><given-names>W. R.</given-names></name>
+</person-group>, Eds. (<publisher-name>Academic Press</publisher-name>, <publisher-loc>Orlando, FL</publisher-loc>, <year>1985</year>), <volume>vol. 2</volume>, <comment>chap. 9</comment>.</citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Singh</surname><given-names>R. P.</given-names></name><etal/></person-group>., <source>Annu. Rev. Phytopathol.</source> <volume>49</volume>, <fpage>465</fpage> (<year>2011</year>).</citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Singh</surname><given-names>R. P.</given-names></name><etal/></person-group>., <source>Adv. Agron.</source> <volume>98</volume>, <fpage>271</fpage> (<year>2008</year>).</citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<citation citation-type="book">
+<person-group person-group-type="author"><name><surname>Dubin</surname><given-names>H. J.</given-names></name><name><surname>Brennan</surname><given-names>J. P.</given-names></name></person-group>, <source>Combating stem and leaf rust of wheat: historical perspective, impacts, and lessons learned.</source> (<comment>discussion paper 00910</comment>, <publisher-name>International Food Policy Research Institute</publisher-name>, <publisher-loc>Washington, DC</publisher-loc>, <year>2009</year>).</citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<citation citation-type="web">
+<source>Durable rust resistance in wheat, Borlaug Global Rust Initiative</source> (<year>2012</year>); <ext-link ext-link-type="uri" xlink:href="http://wheatrust.cornell.edu/about/backgroundandrationale.cfm">wheatrust.cornell.edu/about/backgroundandrationale.cfm</ext-link>.</citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Fisher</surname><given-names>M. C.</given-names></name><etal/></person-group>., <source>Nature</source> <volume>484</volume>, <fpage>186</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<citation citation-type="web">
+<person-group person-group-type="author"><name><surname>Beddow</surname><given-names>J. M.</given-names></name><etal/></person-group>., <source>Measuring the worldwide spatial occurrence and probabilistic consequences of stem rust</source> (<publisher-name>HarvestChoice</publisher-name>, <publisher-loc>Saint Paul, MN</publisher-loc>, <year>2012</year>); <ext-link ext-link-type="uri" xlink:href="http://croppest.org/purl/20131">http://croppest.org/purl/20131</ext-link>.</citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Evenson</surname><given-names>R. E.</given-names></name><name><surname>Gollin</surname><given-names>D.</given-names></name></person-group>, <source>Science</source> <volume>300</volume>, <fpage>758</fpage> (<year>2003</year>).</citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<citation citation-type="book">
+<person-group person-group-type="author"><name><surname>Sutherst</surname><given-names>R. W.</given-names></name><etal/></person-group>., <source>CLIMEX Version 3 User&apos;s Guide</source> (<publisher-name>Hearne Scientific Software</publisher-name>, <publisher-loc>Melbourne</publisher-loc>, <year>2007</year>)</citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<citation citation-type="book">
+<person-group person-group-type="author"><name><surname>Beddow</surname><given-names>J. M.</given-names></name><etal/></person-group>., <source>Potential global crop pest distributions using CLIMEX: HarvestChoice applications</source> (<publisher-name>HarvestChoice</publisher-name>, <publisher-loc>Saint Paul, MN</publisher-loc>, <year>2010</year>).</citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<note><p>Key among these agencies are CIMMYT, ICARDA, the USDA&apos;s Cereal Disease Laboratory, the University of Minnesota&apos;s Stakman-Borlaug Cereal Rust Center, the University of Sydney&apos;s Plant Breeding Institute and CSIRO.</p></note>
+</ref>
+<ref id="R13">
+<label>13</label>
+<citation citation-type="web">
+<person-group person-group-type="author"><name><surname>Rao</surname><given-names>X.</given-names></name><name><surname>Hurley</surname><given-names>T. M.</given-names></name><name><surname>Pardey</surname><given-names>P. G.</given-names></name></person-group>, <source>Recalibrating the reported rates of return to food and agriculture R&amp;D</source> (<publisher-name>University of Minnesota, Department of Applied Economics</publisher-name>, <publisher-loc>Saint Paul, MN</publisher-loc>, <year>2012</year>); <ext-link ext-link-type="uri" xlink:href="http://purl.umn.edu/135018">http://purl.umn.edu/135018</ext-link>.</citation>
+</ref>
+<ref id="R14">
+<label>14</label>
+<citation citation-type="web">
+<collab collab-type="author">Economic Research Service, USDA</collab>, <source>Commodity costs and returns</source>; <ext-link ext-link-type="uri" xlink:href="http://www.ers.usda.gov">www.ers.usda.gov</ext-link>.</citation>
+</ref>
+<ref id="R15">
+<label>15</label>
+<note><p>See SM for estimation details of comparative wheat pathology R&amp;D spending.</p></note>
+</ref>
+<ref id="R16">
+<label>16</label>
+<citation citation-type="web">
+<collab collab-type="author">National Association of Wheat Growers</collab>, <source>Western Farm Press</source>, <day>20</day> <day>March</day> <year>2012</year>; <ext-link ext-link-type="uri" xlink:href="http://westernfarmpress.com/government/agricultural-research-hit-hard-usda-labs-close">http://westernfarmpress.com/government/agricultural-research-hit-hard-usda-labs-close</ext-link>.</citation>
+</ref>
+</ref-list>
+</back>
+</article>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">STM</journal-id>
+<journal-title>Science Translational Medicine</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Sci. Transl. Med.</abbrev-journal-title>
+<issn pub-type="ppub">1946-6234</issn><issn pub-type="epub">1946-6242</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">3004724</article-id>
+<article-id pub-id-type="doi">10.1126/scitranslmed.3004724</article-id>
+<article-categories><subj-group subj-group-type="article-type"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>STM EC</subject></subj-group>
+<subj-group subj-group-type="field"><subject>Medicine</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Neovascular Disease</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Cutting the Supply Lines in Cancer and Retinal Disease</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Baker</surname><given-names>Aaron B.</given-names></name></contrib>
+<aff id="aff1">Department of Biomedical Engineering, University of Texas at Austin, Austin, TX 78712, USA. E-mail: <email xlink:href="abbaker@austin.utexas.edu">abbaker@austin.utexas.edu</email></aff>
+</contrib-group>
+<pub-date pub-type="ppub"><day>15</day><month>08</month><year>2012</year></pub-date>
+<volume>4</volume>
+<issue>147</issue>
+<fpage>147ec145</fpage>
+<lpage>147ec145</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>Inhibition of a new pathway may provide a means to block neovascularization in cancer and ocular disease.</p>
+</abstract>
+</article-meta>
+</front>
+<body>
+<p>Blood vessels are the pipelines that carry oxygen and nutrients throughout the body. Under the right conditions, the body can grow new vessels from preexisting vasculature&#x2014;a process known as neovascularization. Although this process is critical for normal tissue homeostasis, certain diseases can elicit the formation of new blood vessels during their progression. Cancer cells trigger neovascularization to feed the growth of tumors, and a key feature of ischemic retinopathy&#x2014;the major cause of blindness worldwide&#x2014;is the neovascularization of the retina leading to retinal detachment. Current therapies that target neovascularization often have toxic side effects because they damage existing healthy blood vessels as well. Now, Okuno <italic>et al </italic>have discovered a new pathway involving ataxia telangiectasia mutated (ATM) kinase that can be manipulated to inhibit pathological neovascularization in cancer and retinal disease. </p>
+<p>The DNA damage response (DDR) pathway allows cells to monitor the integrity of their genome&#x2014;acting as a barrier to cell senescence and tumorigenesis. ATM kinase is a critical component of this pathway. Recent studies have implicated the DDR pathway in the formation of new blood vessels in disease. Okuno and colleagues used mice lacking the ATM gene and treated them with high levels of oxygen to induce neovascularization of the retina. They found that mice that lacked ATM had less pathological neovascularization in comparison with wild-type mice. They then compared mice with retinal disease treated with an ATM inhibitor (KU-55933) to those treated with a vascular endothelial growth factor (VEGF) receptor blocker&#x2014;one of the treatments explored for human use. They found that ATM inhibition promoted the recovery of normal vasculature, whereas VEGF receptor inhibition inhibited both pathological and normal neovascularization. In parallel studies, the authors examined the formation of tumors in the absence of ATM and found that tumor size was dramatically reduced in ATM knockout animals.  </p>
+<p>The work of Okuno <italic>et al.</italic> provides a new insight into the mechanisms of pathological neovascularization and demonstrates in animal studies that blocking this pathway can reduce neovessel formation in cancer and retinal disease. Although their studies show promise for treating neovascular disease, further work is needed to validate the safety and efficacy of therapies targeting this pathway in humans. </p>
+<p>Y. Okuno <italic>et al</italic>., Pathological neoangiogenesis depends on oxidative stress regulation by ATM. <italic>Nat. Med.</italic> 2012 15 July 2012 (doi: 10.1038/nm.2846). <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/22797809">[PubMed]</ext-link> </p>
+</body>
+</article>

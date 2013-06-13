@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="in-brief" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"><front>
+<journal-meta><journal-id journal-id-type="publisher-id">SCIENCE</journal-id><journal-title>Science</journal-title><abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title><issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta><article-categories>
+<subj-group subj-group-type="article-type"><subject>This Week in Science</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>This Week in Science</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>twis</subject></subj-group>
+<subj-group subj-group-type="field"><subject>PHYSICS</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>A State of High <italic>T<sub>c</sub></italic> Superconductivity</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<day>17</day>
+<month>08</month>
+<year>2012</year>
+</pub-date><volume>337</volume><issue>6096</issue><fpage seq="b">775</fpage><lpage>775</lpage><permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="twis.pdf" /><custom-meta-wrap>
+<custom-meta><meta-name>Editor</meta-name><meta-value>Stella Hurtley</meta-value></custom-meta>
+</custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<p>There are strong indications that high-temperature superconductivity in the cuprates is formed amid competing orders, but only two have been observed unambiguously. The so-called stripe order has been observed in a Lanthanum-based cuprate family and consists of coexisting charge-and-spin modulations and occurs at a characteristic dopant concentration in which the critical temperature <italic>T<sub>c</sub></italic> has a dip. Now, <bold>Ghiringhelli <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="337" page="821">821</related-article>, published online 12 July; see the Perspective by <bold><related-article related-article-type="in-this-issue" vol="337" page="811" issue="6096">Tranquada</related-article></bold>) have used resonant inelastic x-ray scattering to uncover a related but apparently two-dimensional charge order in the much cleaner YBCO cuprate family. The charge fluctuations were not commensurate with the lattice and did not originate in the characteristic oxygen chains of YBCO. The order appeared only in a narrow interval of dopant concentrations and competed with superconductivity, which provides a natural explanation for a plateau in <italic>T<sub>c</sub></italic> observed in the same range.</p>
+</body>
+</article>

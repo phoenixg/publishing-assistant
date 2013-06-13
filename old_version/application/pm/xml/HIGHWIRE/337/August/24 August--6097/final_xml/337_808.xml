@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"><front>
+<journal-meta><journal-id journal-id-type="publisher-id">SCIENCE</journal-id><journal-title>Science</journal-title><abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title><issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta><article-id pub-id-type="publisher-id">1227253</article-id><article-id pub-id-type="doi">10.1126/science.1227253</article-id><article-categories>
+<subj-group subj-group-type="article-type"><subject>Perspective</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Perspectives</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>perspective</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Molecular Biology</subject></subj-group>
+<subj-group subj-group-type="field"><subject>MOLEC BIOL</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>A Swiss Army Knife of Immunity</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Brouns</surname><given-names>Stan J. J.</given-names></name></contrib>
+<aff id="aff1">Laboratory of Microbiology, Wageningen University, 6703 HB Wageningen, Netherlands.</aff>
+</contrib-group>
+<author-notes>
+<corresp>E-mail: <email>stan.brouns@wur.nl</email></corresp>
+</author-notes><pub-date pub-type="ppub">
+<day>17</day>
+<month>08</month>
+<year>2012</year>
+</pub-date><volume>337</volume><issue>6096</issue><fpage>808</fpage><lpage>809</lpage><permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>A duplex of two small RNA molecules directs the destruction of intrusive foreign DNA in bacteria.</p>
+</abstract>
+<abstract abstract-type="excerpt">
+<p>Selfish genetic elements are more than a daily nuisance in the life of prokaryotes. Whereas viruses can multiply by reprogramming host cells, or integrate in the host genome as &#x201C;stowaways,&#x201D; conjugative plasmids (transferrable extrachromosomal DNA) make cells addicted to plasmid-encoded antitoxin factors, thus preventing their disposal. Bacteria and archaea defend themselves against these invasive elements using an adaptive immune system based on clustered regularly interspaced short palindromic repeats (CRISPRs). On page 816 in this issue, Jinek <italic>et al.</italic> (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>) show how the CRISPR effector enzyme Cas9 from bacteria is directed not by one, but two small RNAs to cleave invader DNA.</p>
+</abstract><custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Lisa D. Chong</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Harry Jach</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>Selfish genetic elements are more than a daily nuisance in the life of prokaryotes. Whereas viruses can multiply by reprogramming host cells, or integrate in the host genome as &#x201C;stowaways,&#x201D; conjugative plasmids (transferrable extrachromosomal DNA) make cells addicted to plasmid-encoded antitoxin factors, thus preventing their disposal. Bacteria and archaea defend themselves against these invasive elements using an adaptive immune system based on clustered regularly interspaced short palindromic repeats (CRISPRs). On page <related-article related-article-type="in-this-issue" vol="337" page="816" issue="6096">816</related-article> in this issue, Jinek <italic>et al.</italic> (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>) show how the CRISPR effector enzyme Cas9 from bacteria is directed not by one, but two small RNAs to cleave invader DNA.</p>
+<fig id="F1" position="float">
+<caption>
+<title>All-in-one nuclease.</title>
+<p>(<bold>A</bold>) Cas9 requires a crRNA and tracrRNA to recognize invader DNA sequences by hybridizing the guide section of the crRNA to one strand of the target DNA to form an R-loop. The flanking motif is critical for this process and may facilitate DNA duplex unwinding and strand invasion by the crRNA. Target DNA is then cleaved by both nuclease domains of Cas9. (<bold>B</bold>) Cascade-like complexes contain a single crRNA and up to five different Cas proteins. Identified invader DNA sequences are progressively unwound and cleaved by the action of the recruited nuclease and helicase Cas3 (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>, <xref ref-type="bibr" rid="R12"><italic>12</italic></xref>).</p>
+</caption>
+<graphic xlink:href="337_808_F1" />
+<attrib>CREDIT: B. STRAUCH/<italic>SCIENCE</italic></attrib>
+</fig>
+<p>The CRISPR system integrates short DNA fragments from viruses and plasmids into a specific repeat locus of the host cell genome to function as a memory of past invasions. This locus of the &#x201C;cell's most wanted&#x201D; is then transcribed into RNA (the precursor CRISPR RNA), which is cleaved in each repeat to yield individual mature CRISPR RNAs (crRNAs). These guide a dedicated set of CRISPR-associated (Cas) proteins to their targets during cellular surveillance of the cytoplasm for either foreign DNA or messenger RNA (mRNA) of known invaders. Once identified, foreign nucleic acids are permanently damaged by Cas nucleases, thereby neutralizing the invader (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>).</p>
+<p>The CRISPR field was set in motion 5 years ago by the discovery that lactic acid bacteria become highly resistant to virus infection when they incorporate virus DNA fragments in their array of memorized invaders (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>). Bacterial resistance to the virus is based on breaks in the viral DNA within this memorized region, and the bacterial gene cas9 encodes the enzyme responsible (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>, <xref ref-type="bibr" rid="R5"><italic>5</italic></xref>). However, the modus operandi of Cas9 has remained unknown.</p>
+<p>One aspect that had to be resolved first was the unusual way in which Cas9 obtains the mature crRNA. Whereas most CRISPR-Cas systems involve a dedicated nuclease that cleaves the precursor CRISPR RNA in each repeat (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>), Cas9-based systems also require a CRISPR-specific small RNA. This so-called trans-activated crRNA (tracrRNA) base pairs with each repeat of the CRISPR transcript and provides a substrate for the RNA-specific host ribonuclease RNase III (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). The cleavage product, an RNA hybrid consisting of a 42-nucleotide crRNA and a 75-nucleotide tracrRNA, was deemed to be the guide for Cas9.</p>
+<p>With this in mind, Jinek <italic>et al.</italic> could show that Cas9 from the human pathogenic bacterium <italic>Streptococcus pyogenes</italic> binds and cleaves invader DNA within the remembered region. Although the site specificity was solely determined by the guiding ability of the crRNA, binding and cleavage of the target DNA surprisingly required the tracrRNA. The tracrRNA thus enables the Cas9-crRNA complex to locate a DNA sequence complementary to the crRNA in the cellular tangle of DNA (see the figure), providing yet another example of the crucial roles that small RNAs play in cells (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>).</p>
+<p>Cas9 creates blunt-ended lesions in target DNA by using two nuclease domains, each cleaving one DNA strand of the target double-stranded DNA R-loop. Whereas the HNH-nuclease domain cleaves the DNA strand that base pairs with the crRNA, the RuvC-nuclease domain cleaves the displaced strand of the DNA. Jinek <italic>et al.</italic> show that cleavage was robust and occurred with multiple turnovers in both relaxed and supercoiled DNA targets, implying that Cas9 is functionally recycled after cleavage to destroy more invader DNA copies that may be present in the host cell.</p>
+<p>Despite the seeming efficiency of this cleavage and recycling process, the Achilles' heel of Cas9 was also uncovered. Viruses escape immunity by making point mutations in either the memorized regions of their genomes (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>), or just outside this region in a conserved nucleotide motif. When testing these mutant DNA molecules, Jinek <italic>et al.</italic> found that binding and cleavage by Cas9 was severely compromised, suggesting that these mutated virus DNA molecules adopt a stealth mode inside the cell and require a new cycle of memory formation before they are subject to interference once again. Cycles like these contribute to the ongoing coevolution between invaders and their hosts.</p>
+<p>Jinek <italic>et al.</italic> realized that a highly specific, customizable RNA-directed DNA nuclease could be useful to edit whole genomes. Based on the 20-nucleotide guide section of the crRNA, the enzyme could theoretically introduce breaks at unique sites in any eukaryotic genome. As a proof of concept, the authors programmed Cas9 to cleave a plasmid carrying the gene encoding green fluorescent protein at predetermined loci using a single chimeric crRNA containing just the critical segment of the tracrRNA. DNA breaks induce cellular DNA repair pathways (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>) and this can be harnessed to disrupt, insert, or repair specific genes of cells. Introducing DNA breaks at desired loci using just Cas9 and a chimeric crRNA would be a substantial improvement over existing gene-targeting technologies, such as zinc finger nucleases and transcription activator&#x2013;like effector nucleases, as these require protein engineering for every new target locus (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>). Efficient gene repair strategies in cells from patients, and the reintroduction of repaired cells, could become increasingly important for treating many genetic disorders.</p>
+<p>Cas9 is thus a remarkably compact and multifunctional enzyme compared to CRISPR effector complexes from other bacteria or archaea. These are typically 350- to 450-kD crRNA-protein complexes and contain up to 11 protein subunits encoded by four to seven different cas genes (see the figure) (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>, <xref ref-type="bibr" rid="R11"><italic>11</italic></xref>). Yet, nuclease activities are not always part of the complex and need to be recruited when the target DNA is identified (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). With all its activities at hand, Cas9 is truly the Swiss army knife of CRISPR immunity.</p>
+</body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Jinek</surname><given-names>M.</given-names></name><etal/></person-group>., <source>Science</source>
+<volume>337</volume>, <fpage>816</fpage> (<year>2012</year>); 10.1126/science.1225829.<pub-id pub-id-type="doi">10.1126/science.1225829</pub-id></citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Bhaya</surname><given-names>D.</given-names></name><name><surname>Davison</surname><given-names>M.</given-names></name><name><surname>Barrangou</surname><given-names>R.</given-names></name></person-group>, <source>Annu. Rev. Genet.</source>
+<volume>45</volume>, <fpage>273</fpage> (<year>2011</year>).</citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Barrangou</surname><given-names>R.</given-names></name><etal/></person-group>., <source>Science</source>
+<volume>315</volume>, <fpage>1709</fpage> (<year>2007</year>).</citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Garneau</surname><given-names>J. E.</given-names></name><etal/></person-group>., <source>Nature</source>
+<volume>468</volume>, <fpage>67</fpage> (<year>2010</year>).</citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Sapranauskas</surname><given-names>R.</given-names></name><etal/></person-group>., <source>Nucleic Acids Res.</source>
+<volume>39</volume>, <fpage>9275</fpage> (<year>2011</year>).</citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Deltcheva</surname><given-names>E.</given-names></name><etal/></person-group>., <source>Nature</source>
+<volume>471</volume>, <fpage>602</fpage> (<year>2011</year>).</citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Storz</surname><given-names>G.</given-names></name><name><surname>Vogel</surname><given-names>J.</given-names></name><name><surname>Wassarman</surname><given-names>K. M.</given-names></name></person-group>, <source>Mol. Cell</source>
+<volume>43</volume>, <fpage>880</fpage> (<year>2011</year>).</citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Deveau</surname><given-names>H.</given-names></name><etal/></person-group>., <source>J. Bacteriol.</source>
+<volume>190</volume>, <fpage>1390</fpage> (<year>2008</year>).</citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Friedberg</surname><given-names>E. C.</given-names></name></person-group>, <source>Nature</source>
+<volume>421</volume>, <fpage>436</fpage> (<year>2003</year>).</citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Baker</surname><given-names>M.</given-names></name></person-group>, <source>Nat. Methods</source>
+<volume>9</volume>, <fpage>23</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Wiedenheft</surname><given-names>B.</given-names></name><name><surname>Sternberg</surname><given-names>S. H.</given-names></name><name><surname>Doudna</surname><given-names>J. A.</given-names></name></person-group>, <source>Nature</source>
+<volume>482</volume>, <fpage>331</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Westra</surname><given-names>E. R.</given-names></name><etal/></person-group>., <source>Mol. Cell</source>
+<volume>46</volume>, <fpage>595</fpage> (<year>2012</year>).</citation>
+</ref>
+</ref-list>
+</back>
+</article>

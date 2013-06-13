@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>twil</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Cell Biology</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Biochemistry</subject><subject>Cell-Biology</subject><subject>Molecular-Biology</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Haste Makes Waste</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Ray</surname><given-names>L. Bryan</given-names></name></contrib>
+</contrib-group>
+<pub-date pub-type="ppub">
+<day>26</day>
+<month>04</month>
+<year>2013</year>
+</pub-date>
+<volume>340</volume>
+<issue>6131</issue>
+<fpage seq="c">408</fpage>
+<lpage>408</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="twil.pdf" />
+<custom-meta-wrap>
+<custom-meta><meta-name>Editor</meta-name><meta-value>Kristen Mueller, Maria Cruz</meta-value></custom-meta>
+</custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<p>mTORC1 is a protein kinase complex that regulates many biological processes, including cell growth and proliferation, and that has a primary role in the control of protein synthesis. Inhibition of mTORC1 increases life span, and partial inhibition of translation mimics the effect on life span, indicating that effects of mTORC1 on life span might be related to effects on protein synthesis. Conn and Qian present a mechanism by which reduced rates of protein synthesis might extend life span. They found essentially that haste makes waste. When mTORC1 activity was high and cells synthesized polypeptides rapidly, the stability of a newly synthesized fluorescent reporter protein was diminished. Inhibition of mTORC1, on the other hand, slowed protein synthesis through effects on translation initiation and elongation, and improved the fidelity of the process. Slower translation may allow more time for correct tRNA pairing or for cotranslational processes that promote proper folding and may thus result in fewer misincorporated amino acids or misfolded proteins, either of which would tend to reduce protein stability.</p>
+<p><italic>Sci. Signal.</italic> <bold>6</bold>, ra24 (2013).</p>
+</body>
+</article>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1231976</article-id>
+<article-id pub-id-type="doi">10.1126/science.1231976</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Report</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Reports</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>reports</subject></subj-group>
+<subj-group subj-group-type="field"><subject>ECOLOGY</subject><subject>PSYCHOLOGY</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Sociology</subject><subject>Ecology</subject><subject>Zoology</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Network-Based Diffusion Analysis Reveals Cultural Transmission of Lobtail Feeding in Humpback Whales</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Allen</surname><given-names>Jenny</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Weinrich</surname><given-names>Mason</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Hoppitt</surname><given-names>Will</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib> <contrib contrib-type="author" corresp="yes"><name><surname>Rendell</surname><given-names>Luke</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="corresp" rid="cor1">*</xref></contrib>
+<aff id="aff1"><label>1</label>Sea Mammal Research Unit and Centre for Social Learning and Cognitive Evolution, School of Biology, University of St Andrews, Fife KY16 8LB, UK.</aff>
+<aff id="aff2"><label>2</label>Whale Center of New England, Post Office Box 159, Gloucester, MA 01931&#x2013;0159, USA.</aff>
+<aff id="aff3"><label>3</label>Department of Life Sciences, Anglia Ruskin University, East Road, Cambridge CB1 1PT, UK.</aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>Corresponding author. E-mail: <email xlink:href="ler4@st-andrews.ac.uk">ler4@st-andrews.ac.uk</email></corresp></author-notes>
+<pub-date pub-type="ppub"><day>26</day><month>04</month><year>2013</year></pub-date>
+<volume>340</volume>
+<issue>6131</issue>
+<fpage>485</fpage>
+<lpage>488</lpage>
+<history><date date-type="received"><day>24</day><month>10</month><year>2012</year></date><date date-type="accepted"><day>07</day><month>03</month><year>2013</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="editor"><title>Animal Culture</title><p>Cultural transmission of information occurs when individuals learn from others with more experience or when individuals come to accept particular modes of behavior as the local norm. Such information transfer can be expected in highly social or long-lived species where contact and time for learning are maximized and are seen in humans (see the Perspective by <bold><related-article related-article-type="in-this-issue" vol="340" page="437" issue="6131">de Waal</related-article></bold>). Using a network-based diffusion analysis on a long-term data set that includes tens of thousands of observations of individual humpback whales, <bold>Allen <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="340" issue="6131" page="485">485</related-article>) show that an innovative feeding behavior has spread through social transmission since it first emerged in a single individual in 1980. The &#x201C;lobtail&#x201D; feeding has passed among associating individuals for more than three decades. <bold>Van de Waal <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="340" issue="6131" page="483">483</related-article>), on the other hand, used a controlled experimental approach in vervet monkeys to show that individuals learn what to eat from more experienced individuals within their social group. Not only did young animals learn from observing older animals, but immigrating males switched their food preference to that of their new group.</p></abstract>
+<abstract abstract-type="teaser"><p>Whales have learned from their peers how to use their tails to herd prey. <named-content content-type="related-content">[Also see Perspective by <related-article related-article-type="in-this-issue" vol="340" page="437" issue="6131">de Waal</related-article>]</named-content></p></abstract>
+<abstract>
+<p>We used network-based diffusion analysis to reveal the cultural spread of a naturally occurring foraging innovation, lobtail feeding, through a population of humpback whales (<italic>Megaptera novaeangliae</italic>) over a period of 27 years. Support for models with a social transmission component was 6 to 23 orders of magnitude greater than for models without. The spatial and temporal distribution of sand lance, a prey species, was also important in predicting the rate of acquisition. Our results, coupled with existing knowledge about song traditions, show that this species can maintain multiple independently evolving traditions in its populations. These insights strengthen the case that cetaceans represent a peak in the evolution of nonhuman culture, independent of the primate lineage.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Sacha Vignieri</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Cara Tate</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>Debate about traditions and culture in nonhumans has been fueled by claims of evidence for culture, broadly defined as shared behavior propagated by social learning (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>), in a variety of species (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>&#x2013;<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>), including cetaceans (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). Quantifying cultural transmission in any wild population is difficult, however, because field studies are rarely sufficient to allow for the complete elimination of alternative genetic or ecological explanations (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>, <xref ref-type="bibr" rid="R7"><italic>7</italic></xref>&#x2013;<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>). These problems are exacerbated by the limitations on visibility and accessibility inherent in studying marine mammals, but the group continues to attract interest due, for example, to the strong evidence for cultural transmission of vocal patterns (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>, <xref ref-type="bibr" rid="R11"><italic>11</italic></xref>). Only a handful of cetacean species have lent themselves to the types of data collection necessary to address questions of cultural transmission (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>), and the evidence remains, for the most part, controversial (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>).</p>
+<p>In the Gulf of Maine, bubble-feeding is a common foraging technique used by humpback whales (<italic>Megaptera novaeangliae</italic>), which is characterized by bubble production 20 to 25 m below the surface, underneath and around a prey school, followed by a lunge through those bubbles (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>, <xref ref-type="bibr" rid="R13"><italic>13</italic></xref>). Although this general technique has been documented in other humpback populations (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>), in 1980 one whale in the Gulf of Maine was observed performing an innovative modification to this feeding technique that is now known as lobtail feeding (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>, <xref ref-type="bibr" rid="R15"><italic>15</italic></xref>). Lobtail feeding consists of striking the water&#x2019;s surface one to four times with the ventral side of the fluke, followed by a bubble-feeding sequence. An accelerating rate of diffusion of this behavior, indicated by a sharp increase in the proportional use of lobtail feeding in the years 1981&#x2013;1989 (<xref ref-type="fig" rid="F1">Fig. 1</xref>), led to the suggestion that social transmission was responsible for its spread (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>). Diffusion rate, however, is not a reliable indicator of social transmission (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>). Furthermore, it has been suggested that lobtail feeding is a specialization related to foraging on sand lance (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>), because it is spatially concentrated on Stellwagen Bank (<xref ref-type="fig" rid="F1">Fig. 1A</xref>), where sand lance gather for spawning (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). In the years immediately preceding the behavior&#x2019;s emergence, the stock of herring, another important prey species, crashed (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>), suggesting a role for ecological factors. Because such factors are a common influence on innovation and social learning, these hypotheses are not necessarily mutually exclusive, but it is difficult to measure the relative influence of social and ecological factors on the spread of behavior (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>, <xref ref-type="bibr" rid="R9"><italic>9</italic></xref>). Network-based diffusion analysis (NBDA) (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>, <xref ref-type="bibr" rid="R19"><italic>19</italic></xref>, <xref ref-type="bibr" rid="R20"><italic>20</italic></xref>), a new method related to network influence models in the social sciences, offers one way forward [see also (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref><italic>, </italic><xref ref-type="bibr" rid="R21"><italic>21</italic></xref>)]. We used NBDA to analyze the spread of the lobtail feeding innovation among humpback whales summering in the Gulf of Maine.</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption>
+<title>Spatial (A) and temporal (B and C) distribution of lobtail feeding.</title>
+<p>(B) shows the proportion of the known population each year that were also known to be informed, and (C) shows the proportion of observed feeding events each year that were lobtail feeding, along with sand lance abundance in research trawls (<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>).</p>
+</caption><graphic xlink:href="340_485_F1"></graphic></fig>
+<p>NBDA uses an association matrix, which estimates the proportion of time that individuals are associated, to quantify the extent to which social network structure explains the spread of a behavior (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>, <xref ref-type="bibr" rid="R19"><italic>19</italic></xref>). The underlying assumption is that socially transmitted behaviors should spread at a higher rate between individuals who spend more time associated. We used both discrete time-of-acquisition diffusion analysis (TADA) and the order-of-acquisition extension (OADA) to compare the social association matrix with the order in which informed individuals acquired the trait (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>, <xref ref-type="bibr" rid="R22"><italic>22</italic></xref>). NBDA models the spread of behavior as a stochastic process in which, at any given time, each na&#x00EF;ve individual has a learning rate that determines the likelihood of its learning the behavior at that time. NBDA also allows individual-level data to be incorporated to control for the possibility that factors such as age and gender could affect asocial learning rates (<xref ref-type="bibr" rid="R22"><italic>22</italic></xref>).</p>
+<p>We analyzed data collated by the Whale Center of New England (WCNE) from observers placed aboard commercial whale-watching vessels. The data set encompasses 27 years (1980&#x2013;2007) and 73,790 sighting records, in which 653 individuals were sighted 20 or more times in and around the Stellwagen Bank National Marine Sanctuary (<xref ref-type="fig" rid="F1">Fig. 1A</xref>). Lobtail feeding was first recorded in this data set in 1981, although the very first record comes from a separate study in which it was noted once in a sample of 150 feeding events observed in 1980 (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>). Over the study period, the proportion of the population known to be informed increased to 37%, indicating that knowledge of this behavior has spread over time (<xref ref-type="fig" rid="F1">Fig. 1B</xref>). The actual use of the lobtail feeding technique, measured as the proportion of observed feeding events in a given year in which lobtail feeding was used, did not follow a monotonic trend, showing instead a pattern of peaks and troughs. The first observations of lobtail feeding were associated with a peak in sand lance abundance, and a subsequent sharp increase in the use of the behavior was closely tied to a second abundance peak in 1987&#x2013;1989 (<xref ref-type="fig" rid="F1">Fig. 1C</xref>).</p>
+<p>Models including social transmission were overwhelmingly supported in both the OADA and TADA analyses, by between 6 and 23 orders of magnitude as compared to an equivalent set of models in which the social transmission effect was constrained to zero (<xref ref-type="table" rid="T1">Table 1</xref>). Estimates of the social transmission effect, the factor by which an individual&#x2019;s learning rate is increased per unit of association with informed individuals as compared to the asocial learning rate of an average individual in the population, ranged from 2.7 to 32.0, with no 95% confidence intervals (CIs) spanning zero. The OADA and TADA models respectively estimated that 87 and 45% of whales that acquired lobtail feeding did so by social transmission, with the latter estimate likely to be highly conservative (<xref ref-type="bibr" rid="R22"><italic>22</italic></xref>). An alternative explanation for this pattern is that whales who acquired lobtail feeding were subsequently more likely to associate with one another, perhaps through shared attraction to sand lance shoals. When we allowed for such homophily effects by disregarding all associations recorded after each individual acquired the behavior (<xref ref-type="bibr" rid="R22"><italic>22</italic></xref>), the &#x0394;AIC (Akaike Information Criterion) between models with and without social transmission was 21.8, corresponding to 54000:1 support for the model with social transmission. These results show that social transmission has had a major role in the spread of lobtail feeding.</p>
+<table-wrap id="T1" position="float"><label>Table 1</label><caption>
+<p><bold>Summed Akaike weights (<italic>&#x03C9;<sub>i</sub></italic>) and maximum-likelihood estimates of social transmission parameters for NBDA models with and without social transmission.</bold></p>
+</caption>
+<table frame="hsides" rules="groups">
+<col width="19.19%" />
+<col width="21.55%" />
+<col width="15.03%" />
+<col width="20.88%" />
+<col width="23.35%" />
+<thead>
+<tr>
+<td valign="top" align="left" scope="col"><bold>Analysis type</bold></td>
+<td valign="top" align="center" scope="col"><bold>Social transmission model</bold></td>
+<td valign="top" align="center" scope="col"><bold>&#x2211;<italic>&#x03C9;<sub>i</sub></italic></bold></td>
+<td valign="top" align="center" scope="col"><bold>Social transmission parameter estimate</bold></td>
+<td valign="top" align="center" scope="col"><bold>95% CI</bold></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3" valign="top" align="left" scope="row">Order of<break />acquisition (OADA)</td>
+<td valign="top" align="center">Multiplicative</td>
+<td valign="top" align="center">0.84</td>
+<td valign="top" align="center">30.9</td>
+<td valign="top" align="center">8.2&#x2013;123.2</td>
+</tr>
+<tr>
+<td valign="top" colspan="1" align="center" scope="row">Additive</td>
+<td valign="top" align="center">0.16</td>
+<td valign="top" align="center">32.0</td>
+<td valign="top" align="center">11.3&#x2013;96.6</td>
+</tr>
+<tr>
+<td valign="top" colspan="1" align="center" scope="row">No social transmission</td>
+<td valign="top" align="center">1.8 &#x00D7; 10<sup>&#x2212;23</sup></td>
+<td valign="top" align="center">(Constrained to 0)</td>
+<td valign="top" align="center">&#x2013;</td>
+</tr>
+<tr>
+<td rowspan="3" valign="top" align="left" scope="row">Year of<break />acquisition<break />(discrete TADA)</td>
+<td valign="top" align="center">Multiplicative</td>
+<td valign="top" align="center">0.88</td>
+<td valign="top" align="center">2.7</td>
+<td valign="top" align="center">1.2&#x2013;5.3</td>
+</tr>
+<tr>
+<td valign="top" colspan="1" align="center" scope="row">Additive</td>
+<td valign="top" align="center">0.12</td>
+<td valign="top" align="center">3.0</td>
+<td valign="top" align="center">1.1&#x2013;8.5</td>
+</tr>
+<tr>
+<td valign="top" colspan="1" align="center" scope="row">No social transmission</td>
+<td valign="top" align="center">7.7 &#x00D7; 10<sup>&#x2212;7</sup></td>
+<td valign="top" align="center">(Constrained to 0)</td>
+<td valign="top" align="center">&#x2013;</td>
+</tr>
+</tbody></table></table-wrap>
+<p>The social network in the population was consistent with previous descriptions of humpback social structure (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>, <xref ref-type="bibr" rid="R23"><italic>23</italic></xref>), being characterized by many relatively weak associations. The social network of individuals sighted at least 20 times showed a mean number of associates at any one time, also known as mean node strength, of 1.04 (range 0.02 to 4.14) measured by the half-weight association index (<xref ref-type="bibr" rid="R22"><italic>22</italic></xref>, <xref ref-type="bibr" rid="R24"><italic>24</italic></xref>), and the average number of identified associates for the 653 individuals was 51 (range 1 to 210). Modeling the network as a system of springs (<xref ref-type="bibr" rid="R25"><italic>25</italic></xref>) shows informed individuals (defined as those observed lobtail feeding at least once) concentrated at the well-connected center of the network (<xref ref-type="fig" rid="F2">Fig. 2</xref>).</p>
+<fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption>
+<title>Social network of whales sighted at least 20 times.</title>
+<p>Blue nodes are individuals observed lobtail feeding, red nodes are those never observed lobtail feeding. The network was laid out by spring-embedding using Netdraw (<xref ref-type="bibr" rid="R25"><italic>25</italic></xref>) software.</p>
+</caption><graphic xlink:href="340_485_F2"></graphic></fig>
+<p>In the OADA analysis, the nonsocial characteristic with the largest effect on an individual&#x2019;s rate of learning lobtail feeding was the proportion of times that individual was sighted within the Stellwagen Bank sanctuary area (<xref ref-type="table" rid="T2">Table 2</xref>). We interpret this as indicating a role for ecological factors in promoting the acquisition of the feeding technique, but the effect size (an 80% increase in learning rate for an individual sighted exclusively within the sanctuary) does not approach the estimated effect of social transmission. In the TADA analysis, we were able to include annual sand lance biomass estimates as a predictor of learning rates, and it received strong support [summed Akaike weights (&#x2211;&#x03C9;<italic><sub>i</sub></italic>) = 0.998], with a positive effect on asocial learning rates (a 40% increase per kilogram of increase in mean annual sand lance weight in research trawls, table S1), providing direct evidence of a link between lobtail feeding and sand lance. The OADA analysis indicated that having an informed mother has virtually no effect on learning rates (<xref ref-type="table" rid="T2">Table 2</xref>), whereas in the TADA analysis, having an informed mother was well supported as a predictor, but its effect was estimated as negative (table S1). Both of these results are inconsistent with a significant role for genetic factors or vertical social learning in the acquisition of lobtail feeding, showing that horizontal cultural transmission is largely responsible for the spread of the behavior. Most learning of this behavior occurred after weaning&#x2014;just 2% of the 241 informed individuals of known age were first seen lobtail feeding when less than 2 years old&#x2014;and mothers do not preferentially associate with their offspring after weaning (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>), which helps explain the lack of maternal influence.</p>
+<table-wrap id="T2" position="float"><label>Table 2</label><caption>
+<title>Individual-level effects.</title>
+<p>Summed Akaike weights (<italic>&#x03C9;<sub>i</sub></italic>), model-averaged parameter estimates, and maximum-likelihood effect sizes for individual-level variables from multiplicative OADA models. Effect sizes are only interpreted where there is more support for a variable than against (<italic>&#x03C9;<sub>i</sub></italic> &gt; 0.5).</p>
+</caption>
+<table frame="hsides" rules="groups">
+<col width="20.47%" />
+<col width="2.87%" />
+<col width="18.21%" />
+<col width="19.16%" />
+<col width="16.29%" />
+<col width="23%" />
+<thead>
+<tr>
+<td valign="top" align="left" scope="col"><bold>Variable</bold></td>
+<td valign="top" align="left" scope="col"><bold>&#x2211;<italic>&#x03C9;<sub>i</sub></italic></bold></td>
+<td valign="top" align="left" scope="col"><bold>Estimate</bold></td>
+<td valign="top" align="left" scope="col"><bold>95% CI</bold></td>
+<td valign="top" align="left" scope="col"><bold>Effect size</bold></td>
+<td valign="top" align="left" scope="col"><bold>Interpretation</bold></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" scope="row">Age</td>
+<td valign="top" align="center">0.713</td>
+<td valign="top" align="center">&#x2013;0.109</td>
+<td valign="top" align="center">&#x2013;0.34&#x2013;0.03</td>
+<td valign="top" align="center">0.9827</td>
+<td valign="top" align="center">Learning rate decreases<break />by factor of 0.98 per<break />year of age.</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Number of sightings</td>
+<td valign="top" align="center">0.626</td>
+<td valign="top" align="center">0.058</td>
+<td valign="top" align="center">&#x2013;0.05&#x2013;0.23</td>
+<td valign="top" align="center">1.0003</td>
+<td valign="top" align="center">Apparent learning rate<break />increases by factor<break />of 1.0003 per sighting<break />(e.g., by 1.03 or 3% for<break />median number of<break />sightings).</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Stellwagen residency</td>
+<td valign="top" align="center">0.616</td>
+<td valign="top" align="center">0.616</td>
+<td valign="top" align="center">&#x2013;0.37&#x2013;2.48</td>
+<td valign="top" align="center">1.8514</td>
+<td valign="top" align="center">Individual seen exclusively<break />on the bank has a<break />learning rate increased<break />by 80% as compared<break />to one never seen<break />on the bank.</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Sex</td>
+<td valign="top" align="center">0.460</td>
+<td valign="top" align="center">&#x2013;0.040</td>
+<td valign="top" align="center">&#x2013;0.25&#x2013;0.09</td>
+<td valign="top" align="center">0.9222</td>
+<td valign="top" align="center">Little support for gender<break />effect</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Lobtail-feeding mother</td>
+<td valign="top" align="center">0.353</td>
+<td valign="top" align="center">&#x2013;0.034</td>
+<td valign="top" align="center">&#x2013;0.37&#x2013;0.14</td>
+<td valign="top" align="center">0.9352</td>
+<td valign="top" align="center">Little support; not<break />consistent with major<break />genetic influence</td>
+</tr>
+</tbody></table></table-wrap>
+<p>A powerful advantage of the NBDA approach is that it allows the simultaneous consideration of ecological, social, and genetic factors as predictors of individual learning rates, thus moving away from sterile arguments about excluding such factors in the development of behavior and instead reflecting the reality that all behavior develops as an interaction of multiple factors (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). Thus, in the present study we are able to describe the roles of both ecology and social transmission in the spread of a feeding innovation, reflecting the notion that social learning allows dynamic adaptation to changing ecological circumstances. Lobtail feeding first appeared in this population during a rapid rise in the abundance of sand lance, which gather in high densities to spawn on Stellwagen Bank, after a crash in another important prey, herring (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>). Although the purpose of adding a lobtail to the beginning of a bubble-feeding dive sequence is unknown, the link with contemporaneous prey dynamics suggests some function specific to foraging on sand lance, perhaps provoking a tightening of the prey school before bubble entrapment. Our results show that social transmission played a crucial role in the spread of lobtail feeding behavior, which has now persisted over 27 years and multiple generations (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>). Lobtail feeding can therefore be considered a tradition (<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>), and because humpback populations are known to also carry vocal traditions in the form of song (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>, <xref ref-type="bibr" rid="R11"><italic>11</italic></xref>), this population can be considered to carry multiple traditions.</p>
+</body>
+<back><app-group><app>
+<title><bold>Supplementary Materials</bold></title><supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/340/6131/485/DC1">www.sciencemag.org/cgi/content/full/340/6131/485/DC1</ext-link></p>
+<p>Materials and Methods</p>
+<p>Table S1</p>
+    <p>References (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>&#x2013;<xref ref-type="bibr" rid="R30"><italic>30</italic></xref>)</p>
+<p>Database S1</p></supplementary-material></app></app-group>
+<ref-list>
+<title><bold>References and Notes</bold></title>
+<ref id="R1"><label>1</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Laland</surname><given-names>K. N.</given-names></name><name><surname>Janik</surname><given-names>V. M.</given-names></name></person-group>, 
+<article-title>The animal cultures debate</article-title>. <source>Trends Ecol. Evol.</source> 
+<volume>21</volume>, 
+<fpage>542</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1016/j.tree.2006.06.005</pub-id><pub-id pub-id-type="pmid">16806574</pub-id></citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Whiten</surname><given-names>A.</given-names></name><etal /></person-group>., 
+<article-title>Cultures in chimpanzees</article-title>. <source>Nature</source> 
+<volume>399</volume>, 
+<fpage>682</fpage> (<year>1999</year>). <pub-id pub-id-type="doi">10.1038/21415</pub-id><pub-id pub-id-type="pmid">10385119</pub-id></citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Perry</surname><given-names>S.</given-names></name><etal /></person-group>., 
+<article-title>Social conventions in wild white&#x2010;faced capuchin monkeys: Evidence for traditions in a neotropical primate</article-title>. <source>Curr. Anthropol.</source> 
+<volume>44</volume>, 
+<fpage>241</fpage> (<year>2003</year>). <pub-id pub-id-type="doi">10.1086/345825</pub-id></citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>van Schaik</surname><given-names>C. P.</given-names></name><etal /></person-group>., 
+<article-title>Orangutan cultures and the evolution of material culture</article-title>. <source>Science</source> 
+<volume>299</volume>, 
+<fpage>102</fpage> (<year>2003</year>). <pub-id pub-id-type="doi">10.1126/science.1078004</pub-id><pub-id pub-id-type="pmid">12511649</pub-id></citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kr&#x00FC;tzen</surname><given-names>M.</given-names></name><name><surname>Willems</surname><given-names>E. P.</given-names></name><name><surname>van Schaik</surname><given-names>C. P.</given-names></name></person-group>, 
+<article-title>Culture and geographic variation in orangutan behavior</article-title>. <source>Curr. Biol.</source> 
+<volume>21</volume>, 
+<fpage>1808</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1016/j.cub.2011.09.017</pub-id><pub-id pub-id-type="pmid">22018539</pub-id></citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Rendell</surname><given-names>L. E.</given-names></name><name><surname>Whitehead</surname><given-names>H.</given-names></name></person-group>, 
+<article-title>Culture in whales and dolphins</article-title>. <source>Behav. Brain Sci.</source> 
+<volume>24</volume>, 
+<fpage>309</fpage>
+<lpage>, discussion 324</lpage> (<year>2001</year>). <pub-id pub-id-type="doi">10.1017/S0140525X0100396X</pub-id><pub-id pub-id-type="pmid">11530544</pub-id></citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kendal</surname><given-names>R. L.</given-names></name><etal /></person-group>., 
+<article-title>Evidence for social learning in wild lemurs (<italic>Lemur catta</italic>)</article-title>. <source>Learn. Behav.</source> 
+<volume>38</volume>, 
+<fpage>220</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.3758/LB.38.3.220</pub-id><pub-id pub-id-type="pmid">20628161</pub-id></citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Whiten</surname><given-names>A.</given-names></name><name><surname>Mesoudi</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Establishing an experimental science of culture: Animal social diffusion experiments</article-title>. <source>Philos. Trans. R. Soc. London Ser. B</source> 
+<volume>363</volume>, 
+<fpage>3477</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1098/rstb.2008.0134</pub-id><pub-id pub-id-type="pmid">18799418</pub-id></citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hoppitt</surname><given-names>W.</given-names></name><name><surname>Boogert</surname><given-names>N. J.</given-names></name><name><surname>Laland</surname><given-names>K. N.</given-names></name></person-group>, 
+<article-title>Detecting social transmission in networks</article-title>. <source>J. Theor. Biol.</source> 
+<volume>263</volume>, 
+<fpage>544</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1016/j.jtbi.2010.01.004</pub-id><pub-id pub-id-type="pmid">20064530</pub-id></citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Noad</surname><given-names>M. J.</given-names></name><name><surname>Cato</surname><given-names>D. H.</given-names></name><name><surname>Bryden</surname><given-names>M. M.</given-names></name><name><surname>Jenner</surname><given-names>M.-N.</given-names></name><name><surname>Jenner</surname><given-names>K. C. S.</given-names></name></person-group>, 
+<article-title>Cultural revolution in whale songs</article-title>. <source>Nature</source> 
+<volume>408</volume>, 
+<fpage>537</fpage> (<year>2000</year>). <pub-id pub-id-type="doi">10.1038/35046199</pub-id><pub-id pub-id-type="pmid">11117730</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Garland</surname><given-names>E. C.</given-names></name><etal /></person-group>., 
+<article-title>Dynamic horizontal cultural transmission of humpback whale song at the ocean basin scale</article-title>. <source>Curr. Biol.</source> 
+<volume>21</volume>, 
+<fpage>687</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1016/j.cub.2011.03.019</pub-id><pub-id pub-id-type="pmid">21497089</pub-id></citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Wiley</surname><given-names>D.</given-names></name><etal /></person-group>., 
+<article-title>Underwater components of humpback whale bubble-net feeding behaviour</article-title>. <source>Behaviour</source> 
+<volume>148</volume>, 
+<fpage>575</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1163/000579511X570893</pub-id></citation></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hain</surname><given-names>J. H. W.</given-names></name><name><surname>Carter</surname><given-names>G. R.</given-names></name><name><surname>Kraus</surname><given-names>S. D.</given-names></name><name><surname>Mayo</surname><given-names>C. A.</given-names></name><name><surname>Winn</surname><given-names>H. E.</given-names></name></person-group>, <source>Fish Bull.</source> 
+<volume>80</volume>, 
+<fpage>259</fpage> (<year>1982</year>).</citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="book">P. Clapham, in <italic>Cetacean Societies: Field Studies of Dolphins and Whales,</italic> J. Mann, R. C. Connor, P. L. Tyack, H. Whitehead, Eds. (Univ. of Chicago Press, Chicago, IL, 2000), pp. 173&#x2013;196.</citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Weinrich</surname><given-names>M. T.</given-names></name><name><surname>Schilling</surname><given-names>M. R.</given-names></name><name><surname>Belt</surname><given-names>C. R.</given-names></name></person-group>, 
+<article-title>Evidence for acquisition of a novel feeding behaviour: Lobtail feeding in humpback whales, <italic>Megaptera novaeangliae</italic></article-title>. <source>Anim. Behav.</source> 
+<volume>44</volume>, 
+<fpage>1059</fpage> (<year>1992</year>). <pub-id pub-id-type="doi">10.1016/S0003-3472(05)80318-5</pub-id></citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Reader</surname><given-names>S. M.</given-names></name></person-group>, 
+<article-title>Distinguishing social and asocial learning using diffusion dynamics</article-title>. <source>Learn. Behav.</source> 
+<volume>32</volume>, 
+<fpage>90</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.3758/BF03196010</pub-id><pub-id pub-id-type="pmid">15161144</pub-id></citation></ref>
+<ref id="R17"><label>17</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Payne</surname><given-names>P. M.</given-names></name><etal /></person-group>., <source>Fish Bull.</source> 
+<volume>88</volume>, 
+<fpage>687</fpage> (<year>1990</year>).</citation></ref>
+<ref id="R18"><label>18</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Read</surname><given-names>A. J.</given-names></name></person-group>, 
+<article-title>Trends in the maternal investment of harbour porpoises are uncoupled from the dynamics of their primary prey</article-title>. <source>Proc. Biol. Sci.</source> 
+<volume>268</volume>, 
+<fpage>573</fpage> (<year>2001</year>). <pub-id pub-id-type="doi">10.1098/rspb.2000.1419</pub-id><pub-id pub-id-type="pmid">11297173</pub-id></citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Franz</surname><given-names>M.</given-names></name><name><surname>Nunn</surname><given-names>C. L.</given-names></name></person-group>, 
+<article-title>Network-based diffusion analysis: A new method for detecting social learning</article-title>. <source>Proc. Biol. Sci.</source> 
+<volume>276</volume>, 
+<fpage>1829</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1098/rspb.2008.1824</pub-id><pub-id pub-id-type="pmid">19324789</pub-id></citation></ref>
+<ref id="R20"><label>20</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hoppitt</surname><given-names>W.</given-names></name><name><surname>Laland</surname><given-names>K. N.</given-names></name></person-group>, 
+<article-title>Detecting social learning using networks: A users guide</article-title>. <source>Am. J. Primatol.</source> 
+<volume>73</volume>, 
+<fpage>834</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1002/ajp.20920</pub-id><pub-id pub-id-type="pmid">21246592</pub-id></citation></ref>
+<ref id="R21"><label>21</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Donaldson</surname><given-names>R.</given-names></name><name><surname>Finn</surname><given-names>H.</given-names></name><name><surname>Bejder</surname><given-names>L.</given-names></name><name><surname>Lusseau</surname><given-names>D.</given-names></name><name><surname>Calver</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>The social side of human-wildlife interaction: Wildlife can learn harmful behaviours from each other</article-title>. <source>Anim. Conserv.</source> 
+<volume>15</volume>, 
+<fpage>427</fpage> (<year>2012</year>). <pub-id pub-id-type="doi">10.1111/j.1469-1795.2012.00548.x</pub-id></citation></ref>
+<ref id="R22"><note><label>22</label>
+<p>Materials and methods are available as supplementary materials on <italic>Science</italic> Online.</p></note></ref>
+<ref id="R23"><label>23</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ramp</surname><given-names>C.</given-names></name><name><surname>Hagen</surname><given-names>W.</given-names></name><name><surname>Palsboll</surname><given-names>P.</given-names></name><name><surname>Berube</surname><given-names>M.</given-names></name><name><surname>Sears</surname><given-names>R.</given-names></name></person-group>, 
+<article-title>Age-related multi-year associations in female humpback whales (<italic>Megaptera novaeangliae</italic>)</article-title>. <source>Behav. Ecol. Sociobiol.</source> 
+<volume>64</volume>, 
+<fpage>1563</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1007/s00265-010-0970-8</pub-id></citation></ref>
+<ref id="R24"><label>24</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Cairns</surname><given-names>S. J.</given-names></name><name><surname>Schwager</surname><given-names>S. J.</given-names></name></person-group>, 
+<article-title>A comparison of association indices</article-title>. <source>Anim. Behav.</source> 
+<volume>35</volume>, 
+<fpage>1454</fpage> (<year>1987</year>). <pub-id pub-id-type="doi">10.1016/S0003-3472(87)80018-0</pub-id></citation></ref>
+<ref id="R25"><label>25</label><citation citation-type="book">S. P. Borgatti, <italic>Netdraw Software for Network Visualization</italic> (Analytic Technologies, Lexington, KY, 2002).</citation></ref>
+<ref id="R26"><label>26</label><citation citation-type="book">D. Fragaszy, S. Perry, in <italic>The Biology of Traditions: Models and Evidence,</italic> D. Fragaszy, S. Perry, Eds. (Cambridge Univ. Press, Cambridge, 2003), pp. 1&#x2013;32.</citation></ref>
+<ref id="R27"><label>27</label><citation citation-type="web">National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA), Northeast Fisheries Science Center Bottom Trawl Survey Data. NMFS Ecosystems Survey Branch. Tabular Digital Data: <ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.iobis.org">www.iobis.org</ext-link>.</citation></ref>
+<ref id="R28"><label>28</label><citation citation-type="book">S. Katona <italic>et al</italic>., in <italic>Behaviour of Marine Animals,</italic> H. E. Winn, B. L. Olla, Eds. (Plenum, New York, 1979), vol. 3, pp. 33&#x2013;44.</citation></ref>
+<ref id="R29"><label>29</label><citation citation-type="book">H. Whitehead, <italic>Analyzing Animal Societies: Quantitative Methods for Vertebrate Social Analysis</italic> (Univ. of Chicago Press, Chicago, IL, 2008).</citation></ref>
+<ref id="R30"><label>30</label><citation citation-type="book">K. P. Burnham, D. R. Anderson, <italic>Model Selection and Multimodel Inference: A Practical Information-Theoretic Approach</italic> (Springer, New York, ed. 2, 2002).</citation></ref>
+</ref-list>
+<ack>
+<title>Acknowledgments</title><p>We thank the WCNE staff, interns, and volunteers for the field collection of this data and the crews of the various whale-watching companies for the use of their vessels. We are grateful to K. Sardi-Sampson, S. Garland, and D. Brown for their assistance in compiling the WCNE data. Data were collected under a Marine Mammal Protection Act/Endangered Species Act Research and Enhancement Permit (current permit no. 605-1904). Funding was provided by the Stellwagen Bank National Marine Sanctuary, Office of National Marine Sanctuaries, National Oceanographic Partnership Program, National Marine Fisheries Service, and the MASTS pooling initiative (Marine Alliance for Science and Technology for Scotland), and their support is gratefully acknowledged. MASTS is funded by the Scottish Funding Council (grant reference HR09011) and contributing institutions. We are grateful to V. Janik, D. Wiley, P. Tyack, and members of the Centre for Social Learning and Cognitive Evolution Behavioral Discussion Group for discussion, comments, and advice. We thank H. Whitehead, K. Laland, and four anonymous reviewers for comments that improved the manuscript. The data analyzed in this paper are included in the supplementary materials. M.W. led the collection of the behavior and association data, with assistance from J.A. J.A., M.W., W.H., and L.R. planned the study; J.A. performed the data processing; and J.A., W.H., and L.R. carried out the analyses and wrote the manuscript.</p>
+</ack></back>
+</article>

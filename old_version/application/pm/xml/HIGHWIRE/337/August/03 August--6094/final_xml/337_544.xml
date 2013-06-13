@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="review-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1220843</article-id>
+<article-id pub-id-type="doi">10.1126/science.1220843</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Special Issue Review</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Reviews</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>special/review</subject></subj-group>
+<subj-group subj-group-type="field"><subject>ASTRONOMY</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>The Formation and Evolution of Massive Black Holes</article-title><alt-title alt-title-type="running-head">Black Holes</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Volonteri</surname><given-names>M.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib>
+<aff id="aff1"><label>1</label>Institut d&#x2019;Astrophysique de Paris, Paris, France.</aff>
+<aff id="aff2"><label>2</label>University of Michigan, Department of Astronomy, Ann Arbor, MI, USA. E-mail: <email xlink:href="martav@iap.fr">martav@iap.fr</email></aff>
+</contrib-group>
+<pub-date pub-type="ppub"><day>03</day><month>08</month><year>2012</year></pub-date>
+<volume>337</volume>
+<issue>6094</issue>
+<issue-title content-type="special-issue">Black Holes</issue-title>
+<fpage>544</fpage>
+<lpage>547</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract>
+<p>The past 10 years have witnessed a change of perspective in the way astrophysicists think about massive black holes (MBHs), which are now considered to have a major role in the evolution of galaxies. This appreciation was driven by the realization that black holes of millions of solar masses and above reside in the center of most galaxies, including the Milky Way. MBHs also powered active galactic nuclei known to exist just a few hundred million years after the Big Bang. Here, I summarize the current ideas on the evolution of MBHs through cosmic history, from their formation about 13 billion years ago to their growth within their host galaxies.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Maria Cruz</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Lauren Kmec</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<boxed-text content-type="sci-custom 6094-blackholes"></boxed-text>
+<p>When astronomers refer to black holes, two different flavors exist. We know of stellar black holes, with masses up to a few tens times the mass of our Sun (<italic>M</italic><sub>&#x2609;</sub>) (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>), and massive black holes (MBHs), with masses up to billions of times that of the Sun, which are the focus of this Review. Most of the best-studied MBHs have masses in the range of tens of millions to a few billion <italic>M</italic><sub>&#x2609;</sub> (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>, <xref ref-type="bibr" rid="R3"><italic>3</italic></xref>). The MBH population may extend down to smaller masses, though this range is much harder to probe. The record for the smallest MBH currently belongs to the dwarf galaxy NGC 4395, which is thought to contain a black hole weighing only few hundred thousand <italic>M</italic><sub>&#x2609;</sub> (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). Observationally, there seems to be a gap between the two types of black holes, which scientists take as a hint that there are native differences between stellar black holes and MBHs. In brief, stellar black holes are scattered in large numbers throughout galaxies, whereas MBHs tend to be located at the center of their host galaxies, and typically only one hole is observed per galaxy (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>). We know how stellar black holes form: They are the remnants of massive stars, roughly 10 <italic>M</italic><sub>&#x2609;</sub> and above (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). Yet, how MBHs form and evolve inside galaxies is one of the most fascinating mysteries in modern astrophysics and one that astrophysicists seek to unravel through theoretical and observational work.</p>
+<sec sec-type="other1" disp-level="1">
+<title>How Do Massive Black Holes Form?</title>
+<p>MBHs must have formed from the same material from which galaxies and the rest of the universe is composed. Stars and gas represent the baryonic content of galaxies, in contrast to nonbaryonic dark matter that does not interact electromagnetically, but only gravitationally with its environment. In the standard picture, the mass content of the universe is dominated by cold dark matter, with baryons contributing up to a 15% level. Starting from small density fluctuations in a quasi-homogeneous universe, dark matter perturbations grew under the effect of gravity to the point that they disconnected from the global expansion of the universe, became self-gravitating, and formed halos within which gas eventually condensed to form stars and the luminous portion of galaxies. The first halos and galaxies that form are small, no more than about 1 million times the mass of our Sun, and present-day galaxies, of up to hundreds of billions of <italic>M</italic><sub>&#x2609;</sub>, have been assembled, bottom-up, from these smaller building blocks. The first MBHs must have formed from within these first proto-galaxies and then grown with them.</p>
+<boxed-text content-type="FeaturedItem">
+<title>On <italic>Science</italic> VideoLab</title>
+<p><inline-graphic xlink:href="337_544_F4" /></p>
+<p>A simulation of spiral-galaxy formation, using the latest thinking on how massive black holes and galaxies interact with each other. <ext-link ext-link-type="uri" xlink:href="http://video.sciencemag.org/VideoLab/blackholes/">[Watch video]</ext-link></p>
+</boxed-text>
+<p>One of the most popular theoretical scenarios (<xref ref-type="fig" rid="F1">Fig. 1</xref>) associates the first MBHs with the remnants of the first generation of stars (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>), formed out of pristine gas, which did not contain heavy elements yet (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>). Simulations of the formation of stars in proto-galaxies (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>) suggested that the first generation of stars might have contained many stars with masses above a few hundred <italic>M</italic><sub>&#x2609;</sub>. This is because of the slow subsonic contraction of the gas cloud&#x2014;a regime set up by the main gas coolant, molecular hydrogen, which is much more inefficient than the atomic line and dust cooling that takes over when heavy elements are present. If stars more massive than roughly 250 <italic>M</italic><sub>&#x2609;</sub> form, no process can produce enough energy to reverse the collapse. Thus, a MBH of ~100 <italic>M</italic><sub>&#x2609;</sub> is born. Whether most of the first stars were born with such large masses is still an open question, and recent simulations revise the initial estimates of the stellar masses to possibly much lower values, just a few tens of solar masses (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>). If this is the case, it is unlikely that the first stars have generated the first MBHs. A 10 <italic>M</italic><sub>&#x2609;</sub> black hole would have a very hard time growing by several billion <italic>M</italic><sub>&#x2609;</sub> to explain the observed population of MBHs.</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption>
+<p>Illustration showing three pathways to MBH formation that can occur in a distant galaxy (<xref ref-type="bibr" rid="R56"><italic>56</italic></xref>). The starting point is a primeval galaxy, composed of a dark matter halo and a central condensation of gas. Most of this gas will eventually form stars and contribute to making galaxies as we know them. However, part of this gas has also gone into making a MBH, probably following one of these routes.</p>
+</caption><graphic xlink:href="337_544_F1"></graphic></fig>
+<p>MBHs with substantial initial masses, thousands to millions of <italic>M</italic><sub>&#x2609;</sub>, can form as a consequence of dynamical instabilities that involve either the gaseous or stellar content of proto-galaxies. In proto-galaxies, the gaseous component can cool and contract until rotational support takes over: Centrifugal support typically halts collapse before densities required for MBH formation are reached. Gravitational instabilities, however, can reverse the situation and transport mass in at the expense of rotational support. When this occurs, there are two possible outcomes, depending on the strength of instabilities.</p>
+<p>In globally unstable galactic disks, a MBH seed may form when gas instabilities drive a very rapid accumulation of gas to create a supermassive star, of up to 1 million <italic>M</italic><sub>&#x2609;</sub> (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>, <xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). To avoid the star exploding as a supernova, gas accumulation must occur in less than ~2 million years (the thermonuclear time scale). After exhausting its hydrogen, the core of a supermassive star will contract. As a result of core collapse, a black hole of a few tens of <italic>M</italic><sub>&#x2609;</sub> forms at the heart of the dying star, which is still being bombarded by infalling gas. The resulting system (a &#x201C;quasi-star&#x201D;) is composed of a black hole that grows by eating its surrounding cocoon from the inside, until the black hole accretion luminosity exceeds what the cocoon can withstand. The quasi-star dissolves, and a black hole with mass up to 10% of the mass of the quasi-star is left in the center of the galaxy, ready to begin its life as a MBH seed (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>, <xref ref-type="bibr" rid="R14"><italic>14</italic></xref>).</p>
+<p>In locally unstable galaxies (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>), stellar dynamical instabilities can lead to MBH formation, as long as the gas is only mildly polluted by heavy elements (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>, <xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). Stars start to form in the central region, creating a dense stellar cluster. Clusters formed in this way are crowded places. Star-star collisions in their core can produce a very massive star of up to a few thousand <italic>M</italic><sub>&#x2609;</sub> before the first supernovae explode. When heavy elements are still rare, just about when the second generation of stars occurs, the final fate of a very massive star is to collapse into a black hole with a mass similar to that of its progenitor. However, this is not the case when the content of heavy elements increases. In today&#x2019;s universe, a very massive star would lose most of its mass in powerful winds before collapsing into a stellar mass black hole. This channel of MBH formation naturally predicts that MBHs formed only in the early universe.</p>
+<p>These alternatives are not mutually exclusive, and we currently have no direct observation that can probe specific MBH formation scenarios (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>, <xref ref-type="bibr" rid="R19"><italic>19</italic></xref>). The first MBHs in the early universe have modest masses and luminosities, and they cannot be detected with current telescopes, although they would be primary targets for gravitational wave instruments operating at millihertz frequencies. The initial conditions are mostly erased in today&#x2019;s MBH population, although clues to the seeds&#x2019; properties may be found in the lowest-mass MBHs, which may be the most pristine objects due to their limited growth.</p>
+</sec>
+<sec sec-type="other2" disp-level="1">
+<title>Looking Back in Time: The Most Distant Quasars</title>
+<p>MBHs become visible when they accrete gas directly from their surroundings, or, occasionally, when they disrupt an unlucky star passing too close by (<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>). The gravitational potential energy of the accreted mass is converted to radiation, making the black hole luminous. Luminous, accreting MBHs are generally referred to as active galactic nuclei, and the most powerful among them are known as quasars. Quasars are the most luminous stable sources in the whole universe, making them beacons in the early stages of galaxy assembly. Some powerful quasars have been detected at distances corresponding to a light-travel time of more than 12 billion years, with the record holder, ULAS J1120+0641, at 12.9 billion years (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>). Given that the universe is 13.7 billion years old, this particular quasar existed just 800 million years after the Big Bang. From the luminosity of this quasar, we can infer that the MBH powering it has a mass of 2 billion <italic>M</italic><sub>&#x2609;</sub>. This quasar is not an absolute rarity; in fact, the known sample of 12 billion-year-old quasars comprises several tens of objects with similar luminosities and masses (<xref ref-type="bibr" rid="R22"><italic>22</italic></xref>). Thus, the golden era of 1 billion <italic>M</italic><sub>&#x2609;</sub> MBHs occurred early on, whereas today the dominant active MBHs have masses of about 10 million <italic>M</italic><sub>&#x2609;</sub> (<xref ref-type="bibr" rid="R23"><italic>23</italic></xref>). This concept may seem disconcerting in the context of bottom-up galaxy formation; however, it is just a manifestation of cosmic downsizing. Galaxies built in halos forming on the highest peaks of the cosmic density field experience an accelerated evolution (higher merger rates, faster gas consumption), and their central black holes would share the same fate. Large-scale and deep surveys (e.g., Sloan Digital Sky Survey, the United Kingdom Infrared Telescope Infrared Deep Sky Survey, and Canada-France High-z Quasar Survey) in the near-infrared part of the spectrum, which is best suited to capture light redshifted by the expansion of the universe, are key to our progress in quasar research. Observations of cold molecular gas at submillimeter wavelengths are instead driving studies of the galaxies that host these quasars (<xref ref-type="bibr" rid="R24"><italic>24</italic></xref>) to understand how the cold gas feeds star formation in the galaxy and accretion onto the MBHs.</p>
+<p>The exquisite observations that are driving progress on understanding the first growth spurt of MBHs must be matched by theoretical work. The rapid growth of MBHs powering the quasars observed in the early universe has tantalized astrophysicists over the past few years. One can estimate the maximum growth of MBHs compatible with the existence of a critical luminosity, the Eddington luminosity, which is often considered the upper limit to the radiative output of a source. Above the Eddington limit, radiation pressure overcomes gravity, and gas is pushed away, thus halting the flow that feeds the black hole. The constraints require that ULAS J1120+0641 must have accreted sufficient mass to shine at the Eddington limit for its entire lifetime, or at least more than half of its life. This is not easy to accomplish because (i) the MBH&#x2019;s host galaxy must feed the hole continuously, at the exact maximum rate allowed, and (ii) feedback effects from stars and the quasar itself are likely to disrupt the flow of gas, causing intermittent growth episodes, rather than the smooth, continuous evolution required. Recent simulations suggest that galaxies sitting on the rarest and highest peaks of the cosmic density field may not be affected by feedback (<xref ref-type="bibr" rid="R25"><italic>25</italic></xref>). These simulations, however, resolve only scales of thousands of light-years, at least three orders of magnitude larger than the region where accretion takes place. Simulations and studies that focus on the detailed physics of feedback near the MBH find instead that the MBH feedback strongly affects the gas supply, making it intermittent (<xref ref-type="fig" rid="F2">Fig. 2</xref>) [(<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>, <xref ref-type="bibr" rid="R27"><italic>27</italic></xref>), see also (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>) for recent observations]. Given the different techniques and assumptions that necessarily go into the two kinds of simulations, it is hard to distill a coherent picture. We know, however, that at least some MBHs must be able to grow. We just have to learn how to model them.</p>
+<fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption>
+<p>Projected density (<bold>left</bold>) and temperature (<bold>right</bold>) of the gas in the vicinity of an accreting 2.5 &#x00D7; 10<sup>4</sup> <italic>M</italic><sub>&#x2609;</sub> black hole in a galaxy 0.375 billion years after the Big Bang. The radiation emitted from the active black hole heats and expands the dense gas from which the black hole feeds, curbing its subsequent growth. One kpc corresponds to 3.26 &#x00D7; 10<sup>3</sup> light-years. From (<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>).</p>
+</caption><graphic xlink:href="337_544_F2"></graphic></fig>
+<p>One possibility is that the first MBHs grew at rates beyond those suggested by the Eddington limit (<xref ref-type="bibr" rid="R29"><italic>29</italic></xref>). When the supply is super-Eddington, the excess radiation may be trapped by the gas itself. The emergent luminosity is roughly the Eddington value, but the growth rate is much higher. Super-Eddington models were abandoned in the early 1980s (<xref ref-type="bibr" rid="R30"><italic>30</italic></xref>), following the finding that today&#x2019;s MBH population can be best explained with relatively modest accretions rates. Now, 30 years later, the discovery of quasars at larger and larger distances, powered by huge MBHs, revives the possibility that at least part of the growth of MBHs occurs at super-Eddington rates. It is now high time to revive studies of the stability of super-Eddington flows [see (<xref ref-type="bibr" rid="R31"><italic>31</italic></xref>) for two-dimensional simulations] and address the long-standing question of how much gas is actually accreted by the MBH and how much is instead ejected in winds and jets. An intriguing possibility is that at large accretion rates the intermittent production of collimated jets may decrease the effects of feedback, depositing kinetic energy at large distances and leaving the host unscathed.</p>
+</sec>
+<sec sec-type="other3" disp-level="1">
+<title>MBHs and Galaxies: A Symbiotic Growth?</title>
+<p>Observations indicate that MBHs ordinarily dwell at the centers of today&#x2019;s galaxies. Scaling relations have been identified between MBHs and many large-scale properties of the host galaxies that point to a joint galaxy and MBH cosmic evolution. In general, we can think of MBHs as weighing about 1/1000 of the host galaxy bulge (<xref ref-type="bibr" rid="R32"><italic>32</italic></xref>). As a word of caution, the sample over which these correlations have been discovered or tested comprises ~65 galaxies, and most of the MBHs occupy the mass range of 10<sup>7</sup> to 10<sup>9</sup> <italic>M</italic><sub>&#x2609;</sub>, with the few MBHs below or above this range showing departures from at least some of the correlations, or at least increased scatter (<xref ref-type="bibr" rid="R33"><italic>33</italic></xref>, <xref ref-type="bibr" rid="R34"><italic>34</italic></xref>). It is likely that these outliers hold the key to understanding the intimate link between MBHs and galaxies. For instance, we expect that the evolution of MBHs at the high-end of the mass spectrum included many more MBH-MBH mergers, thus causing changes in the relationship with their hosts. At the other end of the mass spectrum, low-mass MBHs may not have changed much, leaving their masses close to that of the initial seeds (<xref ref-type="bibr" rid="R35"><italic>35</italic></xref>). Low-mass MBHs may not shed light on how the correlation is established but may provide important information on how MBHs formed in the first place.</p>
+<p>Analyses of these correlations raised three interconnected questions that currently lack a definite answer from either theory or observations, but that represent one of the main thrusts of research in the field. The relationship between dark matter, baryonic matter, and MBHs holds the key to understanding the formation and evolution of MBHs in a cosmological context (<xref ref-type="bibr" rid="R36"><italic>36</italic></xref>).</p>
+<p>What galaxy property do MBHs really correlate with? In the past 10 years a plethora of correlations have been proposed, from the classic luminosity, mass, and velocity dispersion of the bulge to the binding energy of the galaxy, the number of globular clusters, and the total mass of the dark matter halo. Sparks fly when debating whether MBHs correlate only with the bulge component of a galaxy or rather with the whole galaxy or even the full dark matter halo (<xref ref-type="bibr" rid="R37"><italic>37</italic></xref>). The correlations between MBHs and bulges are tighter, suggesting that the same process that assembled galaxy bulges is responsible for most of the growth of MBHs. The process that is often advocated for bulge formation is the merger between two similar size galaxies. However, the frequency of galaxy mergers is mainly driven by the dark matter distribution, which also sets the depth of the potential well of the galaxy and its ability to retain gas. The dark matter halo may therefore be setting the stage, including the effects of cosmic downsizing, with the dynamics of gas and stars playing the most direct role in determining the MBH growth rate (<xref ref-type="bibr" rid="R38"><italic>38</italic></xref>).</p>
+<p>Is the correlation regulated by the galaxy or by the MBH? Supporters of the MBH-regulated hypothesis argue that MBHs may affect their host galaxies through feedback from active galactic nuclei. The radiative and kinetic energy pumped into the host galaxy can transfer energy and heat to the gas, suppressing star formation and thus altering the overall evolution of galactic structures. In this picture, it is the MBH that regulates the process: When it reaches a limiting mass and luminosity, the MBH drives powerful outflows that sweep away the surrounding gas, thus halting both its own growth and star formation in the galaxy. From the original idea (<xref ref-type="bibr" rid="R39"><italic>39</italic></xref>), refined models of feedback have been developed (<xref ref-type="bibr" rid="R40"><italic>40</italic></xref>&#x2013;<xref ref-type="bibr" rid="R42"><italic>42</italic></xref>). Many theoretical models (<xref ref-type="bibr" rid="R43"><italic>43</italic></xref>, <xref ref-type="bibr" rid="R44"><italic>44</italic></xref>) advocate that strong activity and powerful feedback occur during galaxy mergers, thus providing a link between bulge formation and MBH growth. In the alternative view, the galaxy-regulated hypothesis, the galaxy sets the MBH mass by regulating the amount of gas that trickles to the MBH. One of the most interesting results that has recently emerged on black hole and galaxy growth is the strong link between the global black hole growth rate and the cosmic star formation rate (<xref ref-type="bibr" rid="R45"><italic>45</italic></xref>); additionally, it has been discovered that the majority of moderate nuclear activity in the universe has taken place in normal star-forming galaxies undergoing internal evolution rather than in violent mergers (<xref ref-type="bibr" rid="R46"><italic>46</italic></xref>). MBH activity could be generated by the same internal dynamical instabilities that drive star formation, possibly sustained by gas reaching galaxy discs from filaments in the cosmic web (<xref ref-type="bibr" rid="R47"><italic>47</italic></xref>) or by mass loss from existing stars (<xref ref-type="bibr" rid="R48"><italic>48</italic></xref>). Hence, the role of galaxy mergers in shaping the growth of bulges and MBHs is still an open question, as is the issue of whether feedback or feeding set the link between galaxies and MBHs.</p>
+<p>When is the correlation established? We can envisage three possibilities (<xref ref-type="fig" rid="F3">Fig. 3</xref>) (<xref ref-type="bibr" rid="R49"><italic>49</italic></xref>): (i) MBHs may have grown in symbiosis with their hosts; (ii) the black hole may have dominated the process, with the galaxy catching up later; or (iii) the galaxy grew first, and the black hole adjusted to its host. The second and third paths require that feedback and self-regulation were somehow different at early times. The constraints on the relation between black hole masses and the properties of their hosts at earlier cosmic times seem to provide conflicting results [but see (<xref ref-type="bibr" rid="R50"><italic>50</italic></xref>)]. MBHs in distant active galactic nuclei are often found to be &#x201C;overmassive&#x201D; at fixed galaxy properties compared with at the present time (<xref ref-type="bibr" rid="R51"><italic>51</italic></xref>), suggesting black hole dominance. Other studies find that the relationship between MBH and total stellar mass in faraway galaxies matches the correlation that we observe today between MBHs and bulges, suggesting that the key process is the redistribution of stars in galaxies (<xref ref-type="bibr" rid="R46"><italic>46</italic></xref>). Measuring MBH masses at large distance is fraught with difficulties. Measuring bulge or galaxy mass is an even harder problem, because the quasar overshines the host galaxy by a large factor. Selection effects may impact our interpretation of the results. The time scales over which feeding and feedback occur are also key factors in disentangling the growth of MBHs from that of their hosts. Still, such studies are crucial to understanding how MBHs coevolved with cosmic structures and whether the role of feedback evolved over cosmic time.</p>
+<fig id="F3" position="float" fig-type="figure"><label>Fig. 3</label><caption>
+<p>Possible routes to MBH and galaxy coevolution, starting from black holes forming in distant galaxies in the early universe. [Image credits: NASA, European Space Agency (ESA), A. Aloisi (Space Telescope Science Institute and ESA, Baltimore, MD), and The Hubble Heritage Team (Space Telescope Science Institute/Association of Universities for Research in Astronomy)]</p>
+</caption><graphic xlink:href="337_544_F3"></graphic></fig>
+<p>From the theoretical point of view, the sheer range of scales that we need to resolve to study MBHs jointly with galaxies is frightening. Galaxy evolution is driven by the large-scale structure of the universe (billions of light-years). On the other hand, accretion occurs where MBHs dominate the dynamics of gas and stars, on sub&#x2013;light-year scales. A number of idealized simulations of galaxy mergers or cosmological volumes have begun to investigate the evolution of the relationship between MBHs and galaxies (<xref ref-type="bibr" rid="R36"><italic>36</italic></xref>, <xref ref-type="bibr" rid="R43"><italic>43</italic></xref>), but no coherent attempt on a large sample of galaxies, with a focus on cosmic environment and self-consistently resolving the scales at MBH physics operates, has been made. In the coming years, we need to focus on understanding the role of mergers, gaseous flows from the cosmic web, secular processes, and feedback in growing both galaxies and MBHs over the whole Hubble time, while simultaneously remembering the importance of black hole physics.</p>
+</sec>
+<sec sec-type="conclusions" disp-level="1">
+<title>Conclusions and Prospects</title>
+<p>The past 10 years have been an exciting time to work on MBHs and their connection to the evolution of galaxies. The next few years promise to be even more exciting, because the synergy of telescopes at different wavelengths will allow us to study quasars, active galactic nuclei, and MBHs at unprecedented resolution. The Hubble Space Telescope and ground-based telescopes in the optical and infrared part of the electromagnetic spectrum, as well as Chandra, X-ray Multi-Mirror Mission&#x2013;Newton, Swift, and Fermi at higher energies, x-rays, and gamma rays are all online and fully working, allowing us to study black holes, active galactic nuclei, quasars, and their hosts. At radio wavelengths, the Expanded Very Large Array and the Atacama Large Millimeter Array will help us disentangle the interplay between star formation and MBH feeding, thus unveiling the details of the hole-galaxy coevolution. Within the next decade, Euclid and the James Webb Space Telescope will zoom in on the quasar itself, complementing large-scale, ground-based surveys and providing a comprehensive view of quasars and their hosts at the highest redshift.</p>
+<p>On the theoretical side, most of today&#x2019;s studies still consider MBHs as little bulbs that sit in galaxy centers and can go on and off, like lights on a Christmas tree. We should ask not only what a black hole can do for a galaxy, but also what galaxies can do for black holes or, more accurately, what galaxies and black holes do for each other. Numerical simulations of black holes and their environs exist that span an enormous range of scales, from cosmological volumes to isolated galaxies, to accretion discs down to a few Schwarzschild radii in black hole merger simulations in general relativity (<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>, <xref ref-type="bibr" rid="R47"><italic>47</italic></xref>, <xref ref-type="bibr" rid="R52"><italic>52</italic></xref>&#x2013;<xref ref-type="bibr" rid="R54"><italic>54</italic></xref>). These simulations, however, are not interconnected, and it is crucial that theoretical physicists working on black hole physics on different scales bring together their varying approaches to explore the relevant physical processes and their interplay.</p>
+</sec>
+</body>
+<back><app-group><app>
+<title>Supplementary Materials</title><supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/337/6094/544/DC1">www.sciencemag.org/cgi/content/full/337/6094/544/DC1</ext-link></p>
+<p>Supplementary Text</p>
+<p>References (<xref ref-type="bibr" rid="R57"><italic>57</italic></xref>&#x2013;<xref ref-type="bibr" rid="R63"><italic>63</italic></xref>)</p>
+<p>Movies S1 and S2</p></supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Fender</surname><given-names>R.</given-names></name><name><surname>Belloni</surname><given-names>T.</given-names></name></person-group>, 
+<article-title>Stellar mass black holes and ultraluminous x-ray sources</article-title>. <source>Science</source> 
+<volume>337</volume>, 
+<fpage>540</fpage> (<year>2012</year>).</citation></ref>
+<ref id="R2"><note><label>2</label>
+<p>As a reference, the total mass of stars in the Milky Way is about 50 billion <italic>M</italic><sub>&#x2609;</sub>. The largest black holes weigh almost as much as our entire Galaxy. See the supplementary materials for a discussion on how MBH masses are measured.</p></note></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>G&#x00FC;ltekin</surname><given-names>K.</given-names></name><etal /></person-group>., 
+<article-title>The <italic>M</italic>-&#x03C3; and <italic>M</italic> -<italic>L</italic> relations in galactic bulges, and determinations of their intrinsic scatter</article-title>. <source>Astrophys. J.</source> 
+<volume>698</volume>, 
+<fpage>198</fpage> (<year>2009</year>). 10.1088/0004-637X/698/1/198<pub-id pub-id-type="doi">10.1088/0004-637X/698/1/198</pub-id></citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Peterson</surname><given-names>B. M.</given-names></name><etal /></person-group>., 
+<article-title>Multiwavelength monitoring of the dwarf Seyfert 1 galaxy NGC 4395. I. A reverberation&#x2010;based measurement of the black hole mass</article-title>. <source>Astrophys. J.</source> 
+<volume>632</volume>, 
+<fpage>799</fpage> (<year>2005</year>). 10.1086/444494<pub-id pub-id-type="doi">10.1086/444494</pub-id></citation></ref>
+<ref id="R5"><note><label>5</label>
+<p>Many theoretical models predict the existence of MBHs wandering in galactic halos, a product of the assembly history of galaxies and MBHs. These putative wandering MBHs would be very hard to detect due to their very low predicted luminosity and/or the short time scales over which they are active (<xref ref-type="bibr" rid="R55"><italic>55</italic></xref>)<italic>.</italic></p></note></ref>
+<ref id="R6"><note><label>6</label>
+<p>There is no formal transition mass from stellar black hole to MBH. I will here define MBHs as those systems that are too massive to be the endpoint of the life of a normal star today, so MBHs are those with mass &gt;100 <italic>M</italic><sub>&#x2609;</sub>.</p></note></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Madau</surname><given-names>P.</given-names></name><name><surname>Rees</surname><given-names>M. J.</given-names></name></person-group>, 
+<article-title>Massive black holes as population III remnants</article-title>. <source>Astrophys. J.</source> 
+<volume>551</volume>, 
+<fpage>L27</fpage> (<year>2001</year>). 10.1086/319848<pub-id pub-id-type="doi">10.1086/319848</pub-id></citation></ref>
+<ref id="R8"><note><label>8</label>
+<p>When astronomers refer to heavy elements, they mean elements heavier than hydrogen and helium. Whereas hydrogen, helium, and a small amount of lithium were formed a few minutes after the Big Bang, all other elements have been formed through stellar nucleosynthesis.</p></note></ref>
+<ref id="R9"><label>9</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Bromm</surname><given-names>V.</given-names></name><name><surname>Larson</surname><given-names>R. B.</given-names></name></person-group>, 
+<article-title>The first stars</article-title>. <source>Annu. Rev. Astron. Astrophys.</source> 
+<volume>42</volume>, 
+<fpage>79</fpage> (<year>2004</year>). 10.1146/annurev.astro.42.053102.134034<pub-id pub-id-type="doi">10.1146/annurev.astro.42.053102.134034</pub-id></citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hosokawa</surname><given-names>T.</given-names></name><name><surname>Omukai</surname><given-names>K.</given-names></name><name><surname>Yoshida</surname><given-names>N.</given-names></name><name><surname>Yorke</surname><given-names>H. W.</given-names></name></person-group>, 
+<article-title>Protostellar feedback halts the growth of the first stars in the universe</article-title>. <source>Science</source> 
+<volume>334</volume>, 
+<fpage>1250</fpage> (<year>2011</year>). 10.1126/science.1207433<pub-id pub-id-type="pmid">22075723</pub-id><pub-id pub-id-type="doi">10.1126/science.1207433</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Begelman</surname><given-names>M. C.</given-names></name><name><surname>Volonteri</surname><given-names>M.</given-names></name><name><surname>Rees</surname><given-names>M. J.</given-names></name></person-group>, 
+<article-title>Formation of supermassive black holes by direct collapse in pre-galactic haloes</article-title>. <source>Mon. Not. R. Astron. Soc.</source> 
+<volume>370</volume>, 
+<fpage>289</fpage> (<year>2006</year>).</citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Johnson</surname><given-names>J. L.</given-names></name><name><surname>Whalen</surname><given-names>D. J.</given-names></name><name><surname>Fryer</surname><given-names>C. L.</given-names></name><name><surname>Li</surname><given-names>H.</given-names></name></person-group>, 
+<article-title>The growth of the stellar seeds of supermassive black holes</article-title>. <source>Astrophys. J.</source> 
+<volume>750</volume>, 
+<fpage>66</fpage> (<year>2012</year>). 10.1088/0004-637X/750/1/66<pub-id pub-id-type="doi">10.1088/0004-637X/750/1/66</pub-id></citation></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ball</surname><given-names>W. H.</given-names></name><name><surname>Tout</surname><given-names>C. A.</given-names></name><name><surname>&#x017B;ytkow</surname><given-names>A. N.</given-names></name><name><surname>Eldridge</surname><given-names>J. J.</given-names></name></person-group>, 
+<article-title>The structure and evolution of quasi-stars</article-title>. <source>Mon. Not. R. Astron. Soc.</source> 
+<volume>414</volume>, 
+<fpage>2751</fpage> (<year>2011</year>). 10.1111/j.1365-2966.2011.18591.x<pub-id pub-id-type="doi">10.1111/j.1365-2966.2011.18591.x</pub-id></citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Begelman</surname><given-names>M. C.</given-names></name></person-group>, 
+<article-title>Evolution of supermassive stars as a pathway to black hole formation</article-title>. <source>Mon. Not. R. Astron. Soc.</source> 
+<volume>402</volume>, 
+<fpage>673</fpage> (<year>2010</year>). 10.1111/j.1365-2966.2009.15916.x<pub-id pub-id-type="doi">10.1111/j.1365-2966.2009.15916.x</pub-id></citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Lodato</surname><given-names>G.</given-names></name><name><surname>Natarajan</surname><given-names>P.</given-names></name></person-group>, 
+<article-title>Supermassive black hole formation during the assembly of pre-galactic discs</article-title>. <source>Mon. Not. R. Astron. Soc.</source> 
+<volume>371</volume>, 
+<fpage>1813</fpage> (<year>2006</year>). 10.1111/j.1365-2966.2006.10801.x<pub-id pub-id-type="doi">10.1111/j.1365-2966.2006.10801.x</pub-id></citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Omukai</surname><given-names>K.</given-names></name><name><surname>Schneider</surname><given-names>R.</given-names></name><name><surname>Haiman</surname><given-names>Z.</given-names></name></person-group>, 
+<article-title>Can supermassive black holes form in metal&#x2010;enriched high&#x2010;redshift protogalaxies?</article-title> <source>Astrophys. J.</source> 
+<volume>686</volume>, 
+<fpage>801</fpage> (<year>2008</year>). 10.1086/591636<pub-id pub-id-type="doi">10.1086/591636</pub-id></citation></ref>
+<ref id="R17"><label>17</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Devecchi</surname><given-names>B.</given-names></name><name><surname>Volonteri</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Formation of the first nuclear clusters and massive black holes at high redshift</article-title>. <source>Astrophys. J.</source> 
+<volume>694</volume>, 
+<fpage>302</fpage> (<year>2009</year>). 10.1088/0004-637X/694/1/302<pub-id pub-id-type="doi">10.1088/0004-637X/694/1/302</pub-id></citation></ref>
+<ref id="R18"><label>18</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Volonteri</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Formation of supermassive black holes</article-title>. <source>Astron. Astrophys. Rev.</source> 
+<volume>18</volume>, 
+<fpage>279</fpage> (<year>2010</year>) and references therein. 10.1007/s00159-010-0029-x<pub-id pub-id-type="doi">10.1007/s00159-010-0029-x</pub-id></citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="web">Z. Haiman, in <italic>The First Galaxies - Theoretical Predictions and Observational Clues</italic>, T. Wiklind, V. Bromm, B. Mobasher, Eds. (Springer Astrophysics and Space Science Library, New York, 2012), <ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://arxiv.org/abs/1203.6075">http://arxiv.org/abs/1203.6075</ext-link> and references therein.</citation></ref>
+<ref id="R20"><label>20</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>van Velzen</surname><given-names>S.</given-names></name><etal /></person-group>., 
+<article-title>Optical discovery of probable stellar tidal disruption flares</article-title>. <source>Astrophys. J.</source> 
+<volume>741</volume>, 
+<fpage>73</fpage> (<year>2011</year>). 10.1088/0004-637X/741/2/73<pub-id pub-id-type="doi">10.1088/0004-637X/741/2/73</pub-id></citation></ref>
+<ref id="R21"><label>21</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Mortlock</surname><given-names>D.</given-names></name><etal /></person-group>., 
+<article-title>A luminous quasar at a redshift of z = 7.085</article-title>. <source>Nature</source> 
+<volume>474</volume>, 
+<fpage>616</fpage> (<year>2011</year>). 10.1038/nature10159<pub-id pub-id-type="doi">10.1038/nature10159</pub-id></citation></ref>
+<ref id="R22"><label>22</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Willott</surname><given-names>C. J.</given-names></name><etal /></person-group>., 
+<article-title>Eddington-limited accretion and the black hole mass function at redshift 6</article-title>. <source>Astron. J.</source> 
+<volume>140</volume>, 
+<fpage>546</fpage> (<year>2010</year>). 10.1088/0004-6256/140/2/546<pub-id pub-id-type="doi">10.1088/0004-6256/140/2/546</pub-id></citation></ref>
+<ref id="R23"><label>23</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Merloni</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>The anti-hierarchical growth of supermassive black holes</article-title>. <source>Mon. Not. R. Astron. Soc.</source> 
+<volume>353</volume>, 
+<fpage>1035</fpage> (<year>2004</year>). 10.1111/j.1365-2966.2004.08147.x<pub-id pub-id-type="doi">10.1111/j.1365-2966.2004.08147.x</pub-id></citation></ref>
+<ref id="R24"><label>24</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>R.</given-names></name><etal /></person-group>., 
+<article-title>Molecular gas in z ~ 6 quasar host galaxies</article-title>. <source>Astrophys. J.</source> 
+<volume>714</volume>, 
+<fpage>699</fpage> (<year>2010</year>).</citation></ref>
+<ref id="R25"><label>25</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Di Matteo</surname><given-names>T.</given-names></name><etal /></person-group>., 
+<article-title>Cold flows and the first quasars</article-title>. <source>Astrophys. J.</source> 
+<volume>745</volume>, 
+<fpage>L29</fpage> (<year>2012</year>). 10.1088/2041-8205/745/2/L29<pub-id pub-id-type="doi">10.1088/2041-8205/745/2/L29</pub-id></citation></ref>
+<ref id="R26"><label>26</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Johnson</surname><given-names>J. L.</given-names></name><name><surname>Khochfar</surname><given-names>S.</given-names></name><name><surname>Greif</surname><given-names>T. H.</given-names></name><name><surname>Durier</surname><given-names>F.</given-names></name></person-group>, <source>Mon. Not. R. Astron. Soc.</source> 
+<volume>410</volume>, 
+<fpage>933</fpage> (<year>2011</year>) and references therein.</citation></ref>
+<ref id="R27"><label>27</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Park</surname><given-names>K.</given-names></name><name><surname>Ricotti</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Accretion onto black holes from large scales regulated by radiative feedback. II. Growth rate and duty cycle</article-title>. <source>Astrophys. J.</source> 
+<volume>747</volume>, 
+<fpage>9</fpage> (<year>2012</year>) and references therein. 10.1088/0004-637X/747/1/9<pub-id pub-id-type="doi">10.1088/0004-637X/747/1/9</pub-id></citation></ref>
+<ref id="R28"><label>28</label><citation citation-type="web"><person-group person-group-type="author"><name><surname>Maiolino</surname><given-names>R.</given-names></name><etal /></person-group>., <source>Mon. Not. R. Astron. Soc.</source>, <ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://arxiv.org/abs/1204.2904">http://arxiv.org/abs/1204.2904</ext-link> (<year>2012</year>).</citation></ref>
+<ref id="R29"><label>29</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Volonteri</surname><given-names>M.</given-names></name><name><surname>Rees</surname><given-names>M. J.</given-names></name></person-group>, 
+<article-title>Rapid growth of high&#x2010;redshift black holes</article-title>. <source>Astrophys. J.</source> 
+<volume>633</volume>, 
+<fpage>624</fpage> (<year>2005</year>). 10.1086/466521<pub-id pub-id-type="doi">10.1086/466521</pub-id></citation></ref>
+<ref id="R30"><label>30</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Paczynski</surname><given-names>B.</given-names></name></person-group>, 
+<article-title>Thick accretion disks around black holes</article-title>. <source>Mitteilungen der Astronomischen Gesellschaft Hamburg</source> 
+<volume>57</volume>, 
+<fpage>44</fpage> (<year>1982</year>).</citation></ref>
+<ref id="R31"><label>31</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ohsuga</surname><given-names>K.</given-names></name><name><surname>Mineshige</surname><given-names>S.</given-names></name></person-group>, 
+<article-title>Global structure of three distinct accretion flows and outflows around black holes from two-dimensional radiation-magnetohydrodynamic simulations</article-title>. <source>Astrophys. J.</source> 
+<volume>736</volume>, 
+<fpage>2</fpage> (<year>2011</year>). 10.1088/0004-637X/736/1/2<pub-id pub-id-type="doi">10.1088/0004-637X/736/1/2</pub-id></citation></ref>
+<ref id="R32"><note><label>32</label>
+<p>The stellar bulge is the roughly spherical component that dominates the central region of galaxies or that constitutes the entirety of the galaxy in the case of elliptical galaxies. Galaxies such as the Milky Way also comprise an extended disk where gas and stars coexist. A much larger dark matter halo surrounds the visible part of galaxies.</p></note></ref>
+<ref id="R33"><label>33</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Greene</surname><given-names>J. E.</given-names></name><etal /></person-group>., 
+<article-title>Precise black hole masses from megamaser disks: Black hole-bulge relations at low mass</article-title>. <source>Astrophys. J.</source> 
+<volume>721</volume>, 
+<fpage>26</fpage> (<year>2010</year>). 10.1088/0004-637X/721/1/26<pub-id pub-id-type="doi">10.1088/0004-637X/721/1/26</pub-id></citation></ref>
+<ref id="R34"><label>34</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>McConnell</surname><given-names>N. J.</given-names></name><etal /></person-group>., 
+<article-title>Two ten-billion-solar-mass black holes at the centres of giant elliptical galaxies</article-title>. <source>Nature</source> 
+<volume>480</volume>, 
+<fpage>215</fpage> (<year>2011</year>). 10.1038/nature10636<pub-id pub-id-type="pmid">22158244</pub-id><pub-id pub-id-type="doi">10.1038/nature10636</pub-id></citation></ref>
+<ref id="R35"><label>35</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Volonteri</surname><given-names>M.</given-names></name><name><surname>Natarajan</surname><given-names>P.</given-names></name></person-group>, 
+<article-title>Journey to the <italic>M</italic><sub>BH</sub>&#x2013;&#x03C3; relation: The fate of low-mass black holes in the universe</article-title>. <source>Mon. Not. R. Astron. Soc.</source> 
+<volume>400</volume>, 
+<fpage>1911</fpage> (<year>2009</year>). 10.1111/j.1365-2966.2009.15577.x<pub-id pub-id-type="doi">10.1111/j.1365-2966.2009.15577.x</pub-id></citation></ref>
+<ref id="R36"><label>36</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Booth</surname><given-names>C. M.</given-names></name><name><surname>Schaye</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>Towards an understanding of the evolution of the scaling relations for supermassive black holes</article-title>. <source>Mon. Not. R. Astron. Soc.</source> 
+<volume>413</volume>, 
+<fpage>1158</fpage> (<year>2011</year>) and references therein. 10.1111/j.1365-2966.2011.18203.x<pub-id pub-id-type="doi">10.1111/j.1365-2966.2011.18203.x</pub-id></citation></ref>
+<ref id="R37"><label>37</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kormendy</surname><given-names>J.</given-names></name><name><surname>Bender</surname><given-names>R.</given-names></name></person-group>, 
+<article-title>Supermassive black holes do not correlate with dark matter haloes of galaxies</article-title>. <source>Nature</source> 
+<volume>469</volume>, 
+<fpage>377</fpage> (<year>2011</year>). 10.1038/nature09695<pub-id pub-id-type="pmid">21248846</pub-id><pub-id pub-id-type="doi">10.1038/nature09695</pub-id></citation></ref>
+<ref id="R38"><label>38</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Volonteri</surname><given-names>M.</given-names></name><name><surname>Natarajan</surname><given-names>P.</given-names></name><name><surname>Gultekin</surname><given-names>K.</given-names></name></person-group>, 
+<article-title>How important is the dark matter halo for black hole growth?</article-title> <source>Astrophys. J.</source> 
+<volume>737</volume>, 
+<fpage>50</fpage> (<year>2011</year>) and references therein. 10.1088/0004-637X/737/2/50<pub-id pub-id-type="doi">10.1088/0004-637X/737/2/50</pub-id></citation></ref>
+<ref id="R39"><label>39</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Silk</surname><given-names>J.</given-names></name><name><surname>Rees</surname><given-names>M. J.</given-names></name></person-group>, 
+<article-title>Quasars and galaxy formation</article-title>. <source>Astron. Astrophys.</source> 
+<volume>331</volume>, 
+<fpage>L1</fpage> (<year>1998</year>).</citation></ref>
+<ref id="R40"><label>40</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>King</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Black holes, galaxy formation, and the <italic>M</italic><sub>BH</sub>-&#x03C3; relation</article-title>. <source>Astrophys. J.</source> 
+<volume>596</volume>, 
+<fpage>L27</fpage> (<year>2003</year>). 10.1086/379143<pub-id pub-id-type="doi">10.1086/379143</pub-id></citation></ref>
+<ref id="R41"><label>41</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ostriker</surname><given-names>J. P.</given-names></name><name><surname>Choi</surname><given-names>E.</given-names></name><name><surname>Ciotti</surname><given-names>L.</given-names></name><name><surname>Novak</surname><given-names>G. S.</given-names></name><name><surname>Proga</surname><given-names>D.</given-names></name></person-group>, 
+<article-title>Momentum driving: Which physical processes dominate active galactic nucleus feedback</article-title>? <source>Astrophys. J.</source> 
+<volume>722</volume>, 
+<fpage>642</fpage> (<year>2010</year>). 10.1088/0004-637X/722/1/642<pub-id pub-id-type="doi">10.1088/0004-637X/722/1/642</pub-id></citation></ref>
+<ref id="R42"><label>42</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Murray</surname><given-names>N.</given-names></name><name><surname>Quataert</surname><given-names>E.</given-names></name><name><surname>Thompson</surname><given-names>T. A.</given-names></name></person-group>, 
+<article-title>On the maximum luminosity of galaxies and their central black holes: Feedback from momentum&#x2010;driven winds</article-title>. <source>Astrophys. J.</source> 
+<volume>618</volume>, 
+<fpage>569</fpage> (<year>2005</year>). 10.1086/426067<pub-id pub-id-type="doi">10.1086/426067</pub-id></citation></ref>
+<ref id="R43"><label>43</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hopkins</surname><given-names>P. F.</given-names></name><name><surname>Quataert</surname><given-names>E.</given-names></name></person-group>, 
+<article-title>How do massive black holes get their gas</article-title>? <source>Mon. Not. R. Astron. Soc.</source> 
+<volume>407</volume>, 
+<fpage>1529</fpage> (<year>2010</year>) and references therein. 10.1111/j.1365-2966.2010.17064.x<pub-id pub-id-type="doi">10.1111/j.1365-2966.2010.17064.x</pub-id></citation></ref>
+<ref id="R44"><label>44</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Springel</surname><given-names>V.</given-names></name><name><surname>Di Matteo</surname><given-names>T.</given-names></name><name><surname>Hernquist</surname><given-names>L.</given-names></name></person-group>, 
+<article-title>Modelling feedback from stars and black holes in galaxy mergers</article-title>. <source>Mon. Not. R. Astron. Soc.</source> 
+<volume>361</volume>, 
+<fpage>776</fpage> (<year>2005</year>). 10.1111/j.1365-2966.2005.09238.x<pub-id pub-id-type="doi">10.1111/j.1365-2966.2005.09238.x</pub-id></citation></ref>
+<ref id="R45"><label>45</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Merloni</surname><given-names>A.</given-names></name><name><surname>Rudnick</surname><given-names>G.</given-names></name><name><surname>Di Matteo</surname><given-names>T.</given-names></name></person-group>, 
+<article-title>Tracing the cosmological assembly of stars and supermassive black holes in galaxies</article-title>. <source>Mon. Not. R. Astron. Soc.</source> 
+<volume>354</volume>, 
+<fpage>L37</fpage> (<year>2004</year>). 10.1111/j.1365-2966.2004.08382.x<pub-id pub-id-type="doi">10.1111/j.1365-2966.2004.08382.x</pub-id></citation></ref>
+<ref id="R46"><label>46</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Cisternas</surname><given-names>M.</given-names></name><etal /></person-group>., 
+<article-title>The bulk of the black hole growth since z ~ 1 occurs in a secular universe: No major merger-AGN connection</article-title>. <source>Astrophys. J.</source> 
+<volume>726</volume>, 
+<fpage>57</fpage> (<year>2011</year>).</citation></ref>
+<ref id="R47"><label>47</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Bournaud</surname><given-names>F.</given-names></name><etal /></person-group>., 
+<article-title>Black hole growth and active galactic nuclei obscuration by instability-driven inflows in high-redshift disk galaxies fed by cold streams</article-title>. <source>Astrophys. J.</source> 
+<volume>741</volume>, 
+<fpage>L33</fpage> (<year>2011</year>) and references therein.</citation></ref>
+<ref id="R48"><label>48</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ciotti</surname><given-names>L.</given-names></name><name><surname>Ostriker</surname><given-names>J. P.</given-names></name></person-group>, 
+<article-title>Radiative feedback from massive black holes in elliptical galaxies: AGN flaring and central starburst fueled by recycled gas</article-title>. <source>Astrophys. J.</source> 
+<volume>665</volume>, 
+<fpage>1038</fpage> (<year>2007</year>). 10.1086/519833<pub-id pub-id-type="doi">10.1086/519833</pub-id></citation></ref>
+<ref id="R49"><label>49</label><citation citation-type="other">M. Colpi <italic>et al</italic>., in <italic>The Multicolored Landscape of Compact Objects and Their Explosive Origins</italic> (American Institute of Physics, New York, 2007), pp. 705&#x2013;714.</citation></ref>
+<ref id="R50"><label>50</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Volonteri</surname><given-names>M.</given-names></name><name><surname>Stark</surname><given-names>D. P.</given-names></name></person-group>, 
+<article-title>Assessing the redshift evolution of massive black holes and their hosts</article-title>. <source>Mon. Not. R. Astron. Soc.</source> 
+<volume>417</volume>, 
+<fpage>2085</fpage> (<year>2011</year>). 10.1111/j.1365-2966.2011.19391.x<pub-id pub-id-type="doi">10.1111/j.1365-2966.2011.19391.x</pub-id></citation></ref>
+<ref id="R51"><label>51</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Merloni</surname><given-names>A.</given-names></name><etal /></person-group>., 
+<article-title>On the cosmic evolution of the scaling relations between black holes and their host galaxies: Broad-line active galactic nuclei in the zcosmos survey</article-title>. <source>Astrophys. J.</source> 
+<volume>708</volume>, 
+<fpage>137</fpage> (<year>2010</year>) and references therein. 10.1088/0004-637X/708/1/137<pub-id pub-id-type="doi">10.1088/0004-637X/708/1/137</pub-id></citation></ref>
+<ref id="R52"><label>52</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Proga</surname><given-names>D.</given-names></name><name><surname>Ostriker</surname><given-names>J. P.</given-names></name><name><surname>Kurosawa</surname><given-names>R.</given-names></name></person-group>, 
+<article-title>Dynamics of rotating accretion flows irradiated by a quasar</article-title>. <source>Astrophys. J.</source> 
+<volume>676</volume>, 
+<fpage>101</fpage> (<year>2008</year>) and references therein. 10.1086/527535<pub-id pub-id-type="doi">10.1086/527535</pub-id></citation></ref>
+<ref id="R53"><label>53</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Shiokawa</surname><given-names>H.</given-names></name><name><surname>Dolence</surname><given-names>J. C.</given-names></name><name><surname>Gammie</surname><given-names>C. F.</given-names></name><name><surname>Noble</surname><given-names>S. C.</given-names></name></person-group>, 
+<article-title>Global general relativistic magnetohydrodynamic simulations of black hole accretion flows: A convergence study</article-title>. <source>Astrophys. J.</source> 
+<volume>744</volume>, 
+<fpage>187</fpage> (<year>2012</year>) and references therein.</citation></ref>
+<ref id="R54"><label>54</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Centrella</surname><given-names>J.</given-names></name><name><surname>Baker</surname><given-names>J. G.</given-names></name><name><surname>Kelly</surname><given-names>B. J.</given-names></name><name><surname>van Meter</surname><given-names>J. R.</given-names></name></person-group>, 
+<article-title>The final merger of black-hole binaries</article-title>. <source>Annu. Rev. Nucl. Part. Sci.</source> 
+<volume>60</volume>, 
+<fpage>100</fpage> (<year>2010</year>) and references therein.</citation></ref>
+<ref id="R55"><label>55</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Bellovary</surname><given-names>J. M.</given-names></name><etal /></person-group>., 
+<article-title>Wandering black holes in bright disk galaxy halos</article-title>. <source>Astrophys. J.</source> 
+<volume>721</volume>, 
+<fpage>L148</fpage> (<year>2010</year>). 10.1088/2041-8205/721/2/L148<pub-id pub-id-type="doi">10.1088/2041-8205/721/2/L148</pub-id></citation></ref>
+<ref id="R56"><label>56</label><citation citation-type="other">M. J. Rees, in <italic>Structure and Properties of Nearby Galaxies</italic> (D. Reidel, Dordrecht, Netherlands, 1978), pp. 237&#x2013;242.</citation></ref>
+<ref id="R57"><label>57</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Schodel</surname><given-names>R.</given-names></name><etal /></person-group>., 
+<article-title>Stellar dynamics in the central arcsecond of our Galaxy</article-title>. <source>Astrophys. J.</source> 
+<volume>596</volume>, 
+<fpage>1015</fpage> (<year>2003</year>). 10.1086/378122<pub-id pub-id-type="doi">10.1086/378122</pub-id></citation></ref>
+<ref id="R58"><label>58</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ghez</surname><given-names>A. M.</given-names></name><etal /></person-group>., 
+<article-title>The first measurement of spectral lines in a short-period star bound to the Galaxy&#x2019;s central black hole: A paradox of youth</article-title>. <source>Astrophys. J.</source> 
+<volume>586</volume>, 
+<fpage>L127</fpage> (<year>2003</year>). 10.1086/374804<pub-id pub-id-type="doi">10.1086/374804</pub-id></citation></ref>
+<ref id="R59"><label>59</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Gebhardt</surname><given-names>K.</given-names></name><etal /></person-group>., 
+<article-title>The black hole mass in M87 from Gemini/NIFS adaptive optics observations</article-title>. <source>Astrophys. J.</source> 
+<volume>729</volume>, 
+<fpage>119</fpage> (<year>2011</year>). 10.1088/0004-637X/729/2/119<pub-id pub-id-type="doi">10.1088/0004-637X/729/2/119</pub-id></citation></ref>
+<ref id="R60"><label>60</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Barth</surname><given-names>A. J.</given-names></name><etal /></person-group>., 
+<article-title>Evidence for a supermassive black hole in the S0 galaxy NGC 3245</article-title>. <source>Astrophys. J.</source> 
+<volume>555</volume>, 
+<fpage>685</fpage> (<year>2001</year>). 10.1086/321523<pub-id pub-id-type="doi">10.1086/321523</pub-id></citation></ref>
+<ref id="R61"><label>61</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kuo</surname><given-names>C. Y.</given-names></name><etal /></person-group>., 
+<article-title>The megamaser cosmology project. III. Accurate masses of seven supermassive black holes in active galaxies with circumnuclear megamaser disks</article-title>. <source>Astrophys. J.</source> 
+<volume>727</volume>, 
+<fpage>20</fpage> (<year>2011</year>). 10.1088/0004-637X/727/1/20<pub-id pub-id-type="doi">10.1088/0004-637X/727/1/20</pub-id></citation></ref>
+<ref id="R62"><label>62</label><citation citation-type="confproc">B. M. Peterson, in <italic>Co-Evolution of Central Black Holes and Galaxies, Proceedings of the International Astronomical Union, IAU Symposium</italic> (Cambridge Journals Online, Cambridge, 2010), vol. 267, pp. 151&#x2013;160.</citation></ref>
+<ref id="R63"><label>63</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Shen</surname><given-names>Y.</given-names></name><name><surname>Kelly</surname><given-names>B. C.</given-names></name></person-group>, 
+<article-title>The demographics of broad-line quasars in the mass-luminosity plane. I. Testing FWHM-based virial black hole masses</article-title>. <source>Astrophys. J.</source> 
+<volume>746</volume>, 
+<fpage>169</fpage> (<year>2012</year>).</citation></ref>
+</ref-list>
+<ack>
+<title>Acknowledgments</title><p>I acknowledge funding support from NASA (through award ATP NNX10AC84G), Smithsonian Astrophysical Observatory (award TM1-12007X), NSF (award AST 1107675), and from a Marie Curie Career Integration grant. I thank B. Devecchi, M. Colpi, S. Callegari, and M. Begelman for inspriation in the creation of the illustrations shown in Figs. 1 and 3.</p>
+</ack></back>
+</article>

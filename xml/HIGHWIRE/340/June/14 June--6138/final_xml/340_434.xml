@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="other" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1231747</article-id>
+<article-id pub-id-type="doi">10.1126/science.1231747</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Policy Forum</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Policy Forum</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>p-forum</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Science and Law</subject></subj-group>
+<subj-group subj-group-type="field"><subject>SCI POLICY</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Engineering</subject><subject>Materials-Science</subject><subject>Botany</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Human Subjects Protection and Research on Terrorism and Conflict</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Jackson</surname><given-names>Brian A.</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="corresp" rid="cor1">*</xref></contrib>
+<contrib contrib-type="author"><name><surname>Bikson</surname><given-names>Tora K.</given-names></name><xref ref-type="aff" rid="aff2">2</xref></contrib>
+<contrib contrib-type="author"><name><surname>Gunn</surname><given-names>Patrick P.</given-names></name><xref ref-type="aff" rid="aff3">3</xref></contrib>
+<aff id="aff1"><label>1</label>RAND Corporation, Arlington, VA 22202, USA.</aff>
+<aff id="aff2"><label>2</label>RAND Corporation, Santa Monica, CA 90401, USA.</aff>
+<aff id="aff3"><label>3</label>Cooley LLP, San Francisco, CA 94111, USA.</aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>Corresponding author: <email>bjackson@rand.org</email>.</corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<day>26</day>
+<month>04</month>
+<year>2013</year>
+</pub-date>
+<volume>340</volume>
+<issue>6131</issue>
+<fpage>434</fpage>
+<lpage>435</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>A recent court case calls into question the ability to protect human subjects in research on terrorism and conflict.</p>
+</abstract>
+<abstract abstract-type="excerpt">
+<p>The last decade has seen considerable expansion in research on terrorism and conflict. People have studied root causes, group behavior, and different approaches to counter such acts (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). Some of the best cases involved direct interaction with current or former terrorists, producing important results that, for example, replaced caricatures of terrorists as pathological killers with nuanced models of what drives individuals to join such groups and even sacrifice themselves intentionally for a cause.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Brad Wible</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Cara Tate</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>The last decade has seen considerable expansion in research on terrorism and conflict. People have studied root causes, group behavior, and different approaches to counter such acts (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). Some of the best cases involved direct interaction with current or former terrorists, producing important results that, for example, replaced caricatures of terrorists as pathological killers with nuanced models of what drives individuals to join such groups and even sacrifice themselves intentionally for a cause.</p>
+<p>We discuss how current legal developments raise complications and may limit the ability of researchers to work on these topics. These issues are particularly important for U.S. research policy, as the Department of Health and Human Services (HHS) is considering major changes in the way human subjects are protected (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>).</p>
+<p>Efforts to understand terrorism have included internal government programs&#x2014;from basic research to mission-focused intelligence analysis&#x2014;and extramural projects involving academic institutions, research organizations, and firms hired to collect data to inform mission decisions. Depending on how these efforts are defined and who carries them out, different rules apply, ranging from legal restrictions on intelligence organizations to regulatory and ethical frameworks that govern research.</p>
+<p>The variety of entities and actors involved highlights how these studies&#x2014;particularly those that directly involve members or sympathizers of violent groups&#x2014;complicate traditional categories of research and raise complex ethical questions. Involvement of academic researchers in this field has not been without controversy (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>). In recent years its management, particularly the effectiveness of systems to protect human subjects of research through Institutional Review Boards (IRBs), has been called into question (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>).</p>
+<sec>
+<title>IRBs and Terrorism</title>
+<p>When research involves human subjects, regulations require subjects to be protected, forcing investigators and IRBs to address concerns about individual risk and benefit. Questions of justice and beneficence&#x2014;core elements of the ethical principles underlying the contemporary system for protecting subjects&#x2014;can be problematic where one party in a conflict is studying another. Although not always the case, research funded by a government (or other entity) on a terrorist opponent is often counter to the group or its members' interest. This differs from most research considered by IRBs that lacks this adversarial character.</p>
+<p>Although research can benefit participants, studies on terrorism can do so in distinctive ways, including disseminating groups' messages or otherwise advancing their agendas. That potential for benefit has led some academics to question whether such research conflicts with laws forbidding material support to terrorist groups (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>), which further complicates research management and review.</p>
+<p>Risk to subjects also arises in different ways, coming in many cases from actions others might take if subjects' participation became known publicly. This creates additional tension about requirements for disclosure in recruitment, sensitivities around deception, and concerns about data protection. Rarely are beneficence and justice, as traditionally construed, directly addressed.</p>
+<boxed-text>
+<title><italic>United States</italic> v. <italic>Moloney</italic></title>
+<p>This 2012 decision by the U.S. Circuit Court of Appeals for the First Circuit calls into question one critical tool for protecting research subjects&#x2014;the researchers' assurance of confidentiality (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>). Between 2001 and 2006, researchers collected oral history interviews from members of the Provisional Irish Republican Army (PIRA) promising confidentiality until after the subjects' deaths. Emphasizing the international nature of terrorism, in 2011, the British government, via the mutual legal assistance treaty between the countries, requested subpoenas (through the U.S. commissioner of that treaty) be sent as part of an investigation into the murder of Jean McConville, who was allegedly abducted and killed by the PIRA in 1972 (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>). Subpoenas were issued for the tapes of one interviewee who was still alive, Dolours Price, which would break the assurance of confidentiality made to her. The researchers involved resisted and lost in the trial court and the court of appeals.</p>
+</boxed-text>
+<p>These challenges have proven difficult for IRBs, with panels reaching very different decisions on similar studies, &#x201C;standard rules&#x201D; applied in ways that increase rather than decrease risk (e.g., retaining signed consent forms from subjects), and cases where researchers are unable to navigate approval processes (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>, <xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). Unlike most research, denying approval of a project on terrorism may only serve to shift who interacts with the subjects&#x2014;as collection of such data is well within the mission of numerous government agencies&#x2014;and, therefore, not actually result in the protective outcome desired (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>).</p>
+<p>Although the central driver for protecting subjects comes from ethical or legal regulation, it is also the case that it would be impossible to gather many types of primary data on terrorism without such protections. As a result, although the protections sometimes cover individuals who have been involved in heinous acts, doing so advances the societal interest in better understanding terrorism&#x2014;a balance struck previously regarding research on other criminal and violent behavior.</p>
+</sec>
+<sec>
+<title>Practical Protection to Enable Research</title>
+<p>The authors are all members of the IRB of the RAND Corporation, an organization that has carried out numerous studies on terrorism. Our IRB has had to wrestle with these questions on studies including surveys in conflict regions, individual interviews, and anthropological fieldwork (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>). Because risk in these studies is almost always driven by the prospect that the identity of participants may become widely known, strategies developed by our IRB and researchers focus on protecting confidentiality, when subjects cannot be anonymous during collection or in stored data. Measures include immediate separation of identifiers from collected data; selective recording of information to reduce potential for identifiability by inference; procedural controls, including rapid comingling of data to make linking responses to an individual more difficult; and technical controls like encryption to protect data in transit and storage. The need to make it possible for individuals to deny participation if they believe they need to do so is similar in many ways to what is required in studies involving incarcerated subjects&#x2014;e.g., maintaining the ability of a prisoner to deny to his cell mate or guards that he spoke to an outsider doing research on incarceration. Signed consent forms have almost never been required, the IRB instead focusing on ensuring that the process of consent provides potential participants with information needed to make informed decisions. Furthermore, strategies used by our IRB and researchers during analysis of data sets collected by others generally rely on anonymization of data to minimize risk to individuals included.</p>
+</sec>
+<sec>
+<title>Fragile Protection?</title>
+<p>Our approach to human subjects protection emphasizing confidentiality and anonymization has provided a way to carry out research on these topics in a manner we judge to be in accord with regulatory and ethical requirements. Yet recent legal developments demonstrate the fragility of that strategy and risk the IRB approvability of an important subset of terrorism research [see <italic>United States</italic> v. <italic>Moloney</italic> sidebar (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>)].</p>
+<p>Although there are a number of complexities associated with the <italic>Moloney</italic> case, including that, as oral history, the project was apparently viewed as not requiring review by the Boston College IRB (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>, <xref ref-type="bibr" rid="R10"><italic>10</italic></xref>), the appellate court's statements concerning confidentiality assurances are troubling. The researchers had argued that compelling disclosures would impede their ability to conduct research, activity protected by the First Amendment to the U.S. Constitution. The court rejected the argument, noting the government's strong interest in compelling disclosure of evidence in a criminal case, and ordered disclosure. The researchers have petitioned the U.S. Supreme Court to review the appellate court's decision, but review is rarely granted. Further complicating the case, the subject involved has since died, and the status of the appeals is yet undecided. Accordingly, this precedent may well stand.</p>
+<p>If the government interest in enforcing the subpoenas in <italic>Moloney</italic>&#x2014;where the data relate to actions decades ago&#x2014;was deemed high enough to override confidentiality, the government interest in obtaining information concerning more recent incidents of violence would be at least as strong. Such a precedent calls into question the use of confidentiality assurances to reduce risk and thus facilitate IRB approval. It therefore is likely to chill research, at least any research where subjects are not anonymous to the researcher.</p>
+</sec>
+<sec>
+<title>An Ethical Path Forward?</title>
+<p>Government has an interest in pursuing evidence to solve crimes, and the murder at issue in <italic>Moloney</italic>&#x2014;reportedly PIRA suspected McConville of being an informant&#x2014;is a terrible one. However, the ruling neglects another rationale for protecting these subjects: societal interest in enabling in-depth research on terrorism.</p>
+<p>This intersection of research and information about crime is not unique to terrorism research. In some areas, society has decided that research materials should be shielded from subpoena to enable research on sensitive issues or criminal behavior. One mechanism to gain that protection is through Certificates of Confidentiality (CoCs), available from the U.S. National Institutes of Health for work in its mission areas, that protect data from compelled disclosure (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>, <xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). Research supported by the U.S. Department of Justice (DoJ) on crime and criminality is given strong protection from subpoena by statute (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>).</p>
+<p>If the work of the researchers in <italic>Moloney</italic> had been funded by the DoJ, rather than the university (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>), such statutory protection would have protected the data. But that organization represents only a portion of the terrorism research funded in recent years. In the absence of (unlikely) legislative changes that would broaden statutory protection, obtaining CoCs would be advisable for terrorism research involving nonanonymous subjects. Although CoCs may not be available for all such research (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>), and the scope of the protections they actually provide from subpoena remains uncertain (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>), the protection they provide would appear the best option available to enable terrorism research where subjects are known to the researchers.</p>
+<p>Even if absolute confidentiality could be assured, if disclosure of research data could prevent an attack, wouldn't there be an ethical obligation to disclose? In other fields, if researchers uncover evidence of child or elder abuse, they may feel ethically or legally compelled to report it to prevent imminent harm. The conflict between reporting and assurances of confidentiality is resolved by disclosure during consent, making clear the consequences for revealing such information. Similar approaches have been applied in terrorism research. More consistency across IRBs&#x2014;both in use of CoCs and inclusion in consent when confidentiality will be broken&#x2014;could be a step in establishing a consensus balance between the pursuit of justice for past crimes and research intended to help prevent future ones.</p>
+<p>Important changes in U.S. regulations underlying protection of human subjects are under consideration (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>). Because of unique issues in terrorism and conflict research, the proposed changes largely do not address the challenges discussed here. For example, although seeking to improve protection of identifiable data, the proposed changes focus on collected data (versus risk of disclosure during collection that is often prominent in conflict zones) and are silent on legally mandated disclosures after collection. The revision process is ongoing, meaning a window for addressing these concerns is still open.</p>
+<p>Even if changes in the legal landscape signify that much research on terrorism or conflict involving human subjects becomes difficult or impossible, data will still be collected from such individuals by law enforcement and intelligence organizations charged with fighting violent groups. The effect would be to limit the production of generalizable knowledge on these groups, behaviors, and activities, in contrast to knowledge produced from the particular perspectives and supporting the specific operational demands of law enforcement or intelligence. Such a shift would keep the information from entering the academic literature, limiting the ability of the academy, and the public, to contribute to policy debate on a critical topic in an informed way. In assessing proposed revisions to regulations for protecting human subjects (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>)&#x2014;and instruments that support their implementation&#x2014;issues and risks inherent must be addressed in research on terrorism, conflict, and, by extension, crime and criminality, where competing societal interests affect the ability to make and maintain promises of confidentiality.</p>
+</sec>
+</body>
+<back>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1">
+<label>1</label>
+<note><p>For example, research discussed in the 2012 topical issue of <italic>Science</italic> entitled Human Conflict; <ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/site/special/conflict/index.xhtml">www.sciencemag.org/site/special/conflict/index.xhtml</ext-link>.</p></note>
+</ref>
+<ref id="R2">
+<label>2</label>
+<citation citation-type="web">
+<collab collab-type="author">Office for Human Research Protections</collab>, <source>HHS, ANPRM for Revision to Common Rule</source>; <comment><ext-link ext-link-type="uri" xlink:href="http://www.hhs.gov/ohrp/humansubjects/anprm2011page.html">www.hhs.gov/ohrp/humansubjects/anprm2011page.html</ext-link></comment>.</citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<citation citation-type="web">
+<person-group person-group-type="author"><name><surname>Berrett</surname><given-names>D.</given-names></name></person-group>, <source>Chron. High. Educ.</source> <volume>58</volume>(<issue>12</issue>), n/a (<year>2011</year>); <ext-link ext-link-type="uri" xlink:href="http://chronicle.com/article/Anthropologists-Consider-a-New/129857/">http://chronicle.com/article/Anthropologists-Consider-a-New/129857/</ext-link>.</citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<citation citation-type="web">
+<person-group person-group-type="author"><name><surname>Atran</surname><given-names>S.</given-names></name></person-group>, <source>Observer</source> <volume>24</volume>(<issue>9</issue>), n/a (<year>2011)</year>; <ext-link ext-link-type="uri" xlink:href="http://www.psychologicalscience.org/index.php/publications/observer/2011/november-11/the-values-of-irbs.html">www.psychologicalscience.org/index.php/publications/observer/2011/november-11/the-values-of-irbs.html</ext-link>.</citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Price</surname><given-names>M.</given-names></name><etal/></person-group>., <source>Anthropol. Today</source> <volume>28</volume>, <fpage>3</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Dolnik</surname><given-names>A.</given-names></name></person-group>, <source>Perspect. Terror.</source> <volume>5</volume>, <fpage>3</fpage> (<year>2011</year>).</citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<citation citation-type="book">
+<person-group person-group-type="author"><name><surname>Bikson</surname><given-names>T. K.</given-names></name><name><surname>Bluthenthal</surname><given-names>R. N.</given-names></name><name><surname>Eden</surname><given-names>R.</given-names></name><name><surname>Gunn</surname><given-names>P. P.</given-names></name></person-group>, <source>Ethical Principles in Social-Behavioral Research on Terrorism: Probing the Parameters</source> (<publisher-name>RAND</publisher-name>, <publisher-loc>Santa Monica, CA</publisher-loc>, <year>2007</year>).</citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<citation citation-type="gov">
+<source>United States v. Moloney (In re Price)</source>, <comment>Nos. 11-2511 and 12-1159 (1st Cir. 6 July 2012); <ext-link ext-link-type="uri" xlink:href="http://www.ca1.uscourts.gov/pdf.opinions/11-2511P-01A.pdf">www.ca1.uscourts.gov/pdf.opinions/11-2511P-01A.pdf</ext-link></comment>.</citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<note><p>Review requirements for oral history are not always clear and are driven by researcher intent, see (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>).</p></note>
+</ref>
+<ref id="R10">
+<label>10</label>
+<citation citation-type="web">
+<person-group person-group-type="author"><name><surname>Shopes</surname><given-names>L.</given-names></name></person-group>, <source>Oral history, human subjects, and institutional review boards</source>; <comment><ext-link ext-link-type="uri" xlink:href="http://www.oralhistory.org/about/do-oral-history/oral-history-and-irb-review/">http://www.oralhistory.org/about/do-oral-history/oral-history-and-irb-review/</ext-link></comment>.</citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<note><p>Certificates of Confidentiality kiosk, NIH, <ext-link ext-link-type="uri" xlink:href="http://grants.nih.gov/grants/policy/coc/">http://grants. nih.gov/grants/policy/coc/</ext-link>.</p></note>
+</ref>
+<ref id="R12">
+<label>12</label>
+<citation citation-type="gov">
+<source>42 U.S.C. &#x00A7; 241(d)</source>.</citation>
+</ref>
+<ref id="R13">
+<label>13</label>
+<citation citation-type="gov">
+<source>42 U.S.C. &#x00A7; 3789g</source>.</citation>
+</ref>
+<ref id="R14">
+<label>14</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Beskow</surname><given-names>L. M.</given-names></name><etal/></person-group>., <source>Science</source> <volume>322</volume>, <fpage>1054</fpage> (<year>2008</year>).</citation>
+</ref>
+</ref-list>
+</back>
+</article>

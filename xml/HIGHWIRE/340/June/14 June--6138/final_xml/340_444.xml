@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="other" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1229907</article-id>
+<article-id pub-id-type="doi">10.1126/science.1229907</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Essay</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Essays on Science and Society</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>essays</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>IBI<xref ref-type="fn" rid="FN1">*</xref> Series Winner</subject></subj-group>
+<subj-group subj-group-type="field"><subject>EDUCATION</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Engineering</subject><subject>Botany</subject><subject>Education</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Root Cause Analysis for Young Engineers</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Immel</surname><given-names>Joe</given-names></name></contrib>
+<aff>Science and Engineering, Technology High School, Rohnert Park, CA 94928, USA.</aff>
+</contrib-group>
+<author-notes>
+<corresp>E-mail: <email>immel@immel.com</email></corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<day>26</day>
+<month>04</month>
+<year>2013</year>
+</pub-date>
+<volume>340</volume>
+<issue>6131</issue>
+<fpage>444</fpage>
+<lpage>445</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>Root Cause Analysis, an IBI prize&ndash;winning module, requires students to use a systematic approach to analyze complex problems.</p>
+</abstract>
+<abstract abstract-type="excerpt">
+<p>Engineers learn from mistakes. The mantra &#x201C;fail often, fail fast&#x201D; is sometimes heard in the research and development environment and describes a spirit of exciting exploration, investigation, and innovation. But the real world is a crucible for errors and flaws where the failure of functional designs can affect real people. There is always a human face to engineering design decisions, and the result of an unanticipated coincidence of events or conditions is the stuff of nightmares for engineers. Whether the result of failure is annoyance and embarrassment or catastrophe and tragedy, engineers use a systematic approach to discovering what went wrong.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Melissa McCartney</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Cynthia Howe</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>Engineers learn from mistakes. The mantra &#x201C;fail often, fail fast&#x201D; is sometimes heard in the research and development environment and describes a spirit of exciting exploration, investigation, and innovation. But the real world is a crucible for errors and flaws where the failure of functional designs can affect real people. There is always a human face to engineering design decisions, and the result of an unanticipated coincidence of events or conditions is the stuff of nightmares for engineers. Whether the result of failure is annoyance and embarrassment or catastrophe and tragedy, engineers use a systematic approach to discovering what went wrong.</p>
+<p>The module &#x201C;Root Cause Analysis: Methodologies and Case Studies&#x201D; is a portion of the Senior Engineering Course at Technology High School. The root cause of a problem is the most fundamental issue and may be obscured by symptoms or secondary causes. The object of our module is to teach students a systematic approach to the analysis of complex problems involving engineering failures. Students at our school enjoy a project-based curriculum centered around integrated science and engineering courses. All courses, with the exception of mathematics and foreign language, are taught using a group-oriented, project-based approach. From freshman to senior year, students work in project groups that are assembled, organized, and reorganized in order to learn the same material taught elsewhere with a traditional lecture model. Every student is required to contribute in every possible role, and they all learn to bring something to the table in terms of talent and energy. For example, some students covet the role of leadership; others are less comfortable with it, yet each student must learn to take the reins and make a group work to produce the desired product. By the time our students are seniors, they can organize quickly and efficiently into teams to solve the problem at hand and accomplish the goal set forth by instructors.</p>
+<fig id="F1" position="float">
+<caption>
+<title>Problem definition.</title>
+<p>Students use sticky notes and large sheets of paper to construct fishbone diagrams or flow charts for root cause analysis.</p>
+</caption>
+<graphic xlink:href="340_444_F1"></graphic>
+<attrib>PHOTO CREDIT: JOE IMMEL</attrib>
+</fig>
+<p>The aim of the module is to provide students tools for the analysis of adverse events in engineering and to allow them to further develop and refine the methods themselves. Our engineering program spans 4 years, beginning in the freshman year with projects to introduce students to our research and development (R&amp;D) and robotics shop through the senior year in which students develop their senior projects (their magnum opus) during the second semester. The Root Cause Analysis module is currently composed of five case studies that are progressively more complex and difficult to assess. The basic introduction stresses problem definition. The initial case studies utilize commercially available documentaries (e.g., History Channel: &#x201C;Engineering Disasters&#x201D;) that are interrupted before the &#x201C;punch lines&#x201D; are revealed. Examples, such as the Titanic disaster and design flaws in Liberty ships, are presented by the instructor to model problem definitions.</p>
+<p>The first case study is the sinking of submarine Thresher (SSN-593). Through discussions in groups and round-robin classroom discussions, students learn problem definition of adverse events as a method that steers investigations toward the root cause. Students are encouraged to ask &#x201C;why&#x201D; at least five times and to keep asking &#x201C;who, what, when, where, how, etc.,&#x201D; until they arrive at a root cause. We coach the students to find at least two root causes in the form of preexisting conditions and actions (1). The end game is to elicit recommendations for effective corrective and preventive actions (CAPA) outlined in class discussions at first and later in their executive summaries. Students are assured that their opinion is as good as anyone else's provided they've done their homework with due diligence.</p>
+<p>When students are adept at problem definition, they are introduced to analysis methods including Ishikawa fishbone diagrams and flow charts. A pre-prepared investigation into the interstate highway I-35W bridge collapse in Minneapolis (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>) introduces the fishbone-style organization tool. Working in groups, students use photographs and a video of the failure (available in the public domain, online) to arrive at their conclusions and their recommendations (see the first photo). The executive summary of the investigation report issued by the National Transportation Safety Board is used to model the requirements for executive summaries that students produce for the class (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>). A simpler event (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>) is used to introduce flow charting. For both methods, extensive use of sticky notes is encouraged to demonstrate and organize ideas. (Everyone loves sticky notes&#x2014;students have been known to cover entire kitchen walls with their sticky-note analyses.)</p>
+<p>Students at this point have learned problem definition, analysis methodologies, criteria for CAPA recommendations, and executive summary format. In the fourth case study, they employ these tools to analyze the blowout in the Gulf of Mexico at the Macondo deep-water well site. Products required are a group presentation to the class of a graphical analysis (fishbone or flow chart) and their first executive summary (see the second photo).</p>
+<p>In the first four case studies, students learn the tools for analysis and gain confidence in the methodology. The fifth case study is as close to &#x201C;real life&#x201D; as we can make it. For this case study (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>), students are asked to attend class at night during a quiet time on campus to minimize distractions. They engage in an intensive, 4-hour exercise in which small groups are required to acquire information that is known only to one of six engineers involved in the real adverse event (the Columbia space shuttle disaster). Instructors confer before the exercise to &#x201C;seed&#x201D; groups of seniors with students most likely to be able to adopt the personality of the engineer involved such that they can play them successfully in reenacting a critical mission management team meeting. After the meeting, the scenario switches immediately to the day of the disaster, where the students, still maintaining their roles as expert engineers, must face the public (instructors, parents, local media, professors, etc., playing the roles of the press) in a brutal mock press conference. This &#x201C;trial by fire&#x201D; is probably the most intense education our students have ever encountered. After a closing lecture, students are sent off to collaborate but individually to write their executive summaries, which are due the next day, in 12 to 15 hours.</p>
+<fig id="F2" position="float">
+<caption>
+<title>Root cause analysis diagram.</title>
+<p>A flow chart of the adverse event (blowout) at the Macondo well site that sank Deepwater Horizon in the Gulf of Mexico, 2010.</p>
+</caption>
+<graphic xlink:href="340_444_F2"></graphic>
+<attrib>PHOTO CREDIT: JOE IMMEL</attrib>
+</fig>
+<p>Great emphasis is placed on sharing ideas and knowledge, especially since students are in possession of only the information from the individual engineers. This is a dicey situation insofar as authentic, individual work is required (executive summaries). However, communication is the &#x201C;way of the world,&#x201D; and it is encouraged in this course. For the final product of the fifth exercise (executive summary for the &#x201C;Columbia&#x201D; disaster), students are encouraged to self-organize into teams to share information and documents generated during the process. Contact information is exchanged to promote the overnight discussion through cell phones, e-mail, Facebook, and texting. As instructors, we encourage them to use every available means to share ideas and content. Working in small groups at the library or at private homes, our students develop amazing analyses and produce executive summaries that rival the best written by professionals.</p>
+<p>The morning after &#x201C;CAPA Night&#x201D; (as the final exercise has become known) is an eye-opener for younger students. This is usually the last day of the semester, and instructors are gentle with senior students. Still, from the opening of the school day to the last minute of the executive summary deadline, seniors, in various stages of torpor and stupor, trundle in to submit their executive summaries, which leaves younger students agog. Since the inception of this program, seniors have been very good about keeping the content of the exercise confidential. Even though younger students observe the aftermath (exhausted senior students) for several years, for each new senior class the scope and breadth of CAPA Night comes as a surprise.</p>
+<p>Root cause analysis&#x2013;CAPA investigations are challenging and intellectually invigorating. Although this module ends with a grueling, intensive exercise, the results of this course are exhilarating for the students. They eagerly apply lessons learned at every opportunity and report that these skills hold them in good stead even after leaving Tech High.</p>
+</body>
+<back>
+<fn-group>
+<fn fn-type="other" id="FN1">
+<label>*</label>
+<p>IBI, <italic>Science</italic> Prize for Inquiry-Based Instruction; <ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/site/feature/data/prizes/inquiry/">www.sciencemag.org/site/feature/data/prizes/inquiry/</ext-link>.</p>
+</fn>
+</fn-group>
+<app-group>
+<app>
+<title>Supplementary Materials</title>
+<supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/340/6131/444/DC1">www.sciencemag.org/cgi/content/full/340/6131/444/DC1</ext-link></p>
+</supplementary-material>
+</app>
+</app-group>
+<bio>
+<title>About the author</title>
+<p><fig id="F3" position="float">
+<graphic xlink:href="340_444_F3"></graphic>
+<attrib>PHOTO CREDIT: KARLEY GOMEZ PHOTOGRAPHY</attrib>
+</fig>
+</p>
+<p><bold>Joe Immel</bold> teaches integrated science and engineering at Technology High School on the campus of Sonoma State University in California. Before moving into public education, he was an R&amp;D engineer at Sutter Instrument Company and technical evangelist at Axon Instruments, Inc. He earned degrees in biology, including a B.A. at the University of California, Santa Barbara; an M.A. at the University of California, Los Angeles; and a Ph.D. at the University of California, Santa Barbara, under the aegis of Steven K. Fisher. His postdoctoral scholarship was at Stanford Medical School, in the Department of Ophthalmology with Michael F. Marmor and at the University of California, San Francisco, in the departments of Ophthalmology and Physiology, as a National Eye Institute (NIH) Fellow with Roy H. Steinberg. Joe is also vice president at Immel Resources LLC, a consulting firm for the pharmaceutical, biotechnology, and medical device industries, where he works with his wife, Barbara Kephart Immel (president).</p>
+</bio>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1">
+<label>1</label>
+<citation citation-type="book">
+<person-group person-group-type="author"><name><surname>Gano</surname><given-names>D. L.</given-names></name></person-group>, <source>Apollo Root Cause Analysis</source> (<publisher-name>Apollonian Publications</publisher-name>, <publisher-loc>Richland, WA</publisher-loc>, <year>2008</year>).</citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<citation citation-type="book">
+<person-group person-group-type="author"><name><surname>Immel</surname><given-names>B. Kephart</given-names></name></person-group>, <article-title>Minneapolis I-35W bridge collapse</article-title> (<publisher-name>Immel Resources LLC</publisher-name>, <publisher-loc>Petaluma, CA</publisher-loc>, <year>2007</year>); <comment>see supplementary materials</comment>.</citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<citation citation-type="book">
+<collab collab-type="author">National Transportation Safety Board</collab>, <source>Collapse of I-35W Highway Bridge, Minneapolis, Minnesota, August 1, 2007</source> (<comment>Highway accident report NTSB/HAR-08/03</comment>, <publisher-name>NTSB</publisher-name>, <publisher-loc>Washington, DC</publisher-loc>, <year>2008</year>).</citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<citation citation-type="book">
+<collab collab-type="author">NTSB</collab>, <source>Crash of Pinnacle Airlines Flight 3701, Bombardier CL-600-2B19, N8396A, Jefferson City, Missouri, October 14, 2004</source> (<comment>Aircraft accident report, NTSB/AAR-07/01</comment>, <publisher-name>NTSB</publisher-name>, <publisher-loc>Washington, DC</publisher-loc>, <year>2007</year>).</citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<citation citation-type="book">
+<person-group person-group-type="author"><name><surname>Roberto</surname><given-names>M. A.</given-names></name><name><surname>Edmondson</surname><given-names>A. C.</given-names></name><name><surname>Bohmer</surname><given-names>R.</given-names></name></person-group>, <source>Columbia's Final Mission</source> (<comment>Teaching Note 305032-HTM-ENG multimedia case on CD-ROM</comment>, <publisher-name>Harvard Business School</publisher-name>, <publisher-loc>Cambridge, MA</publisher-loc>, <year>2005</year>).</citation>
+</ref>
+</ref-list>
+</back>
+</article>

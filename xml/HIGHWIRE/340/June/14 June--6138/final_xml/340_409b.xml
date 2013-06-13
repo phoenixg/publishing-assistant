@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>twil</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Physics</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Physics</subject><subject>Materials-Science</subject><subject>Sociology</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>A Very Dilute Superconductor</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Stajic</surname><given-names>Jelena</given-names></name></contrib>
+</contrib-group>
+<pub-date pub-type="ppub">
+<day>26</day>
+<month>04</month>
+<year>2013</year>
+</pub-date>
+<volume>340</volume>
+<issue>6131</issue>
+<fpage seq="b">409</fpage>
+<lpage>409</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="twil.pdf" />
+<custom-meta-wrap>
+<custom-meta><meta-name>Editor</meta-name><meta-value>Kristen Mueller, Maria Cruz</meta-value></custom-meta>
+</custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<p>Whether a given material conducts electricity, or even does so without any resistance (as in a superconductor below its transition temperature), depends sensitively on the density of electrical carriers. This density can be manipulated in several ways, the most straightforward one being chemical doping. For a semiconductor (such as Si) to start superconducting, doping with an element (such as B) at a level of a few percent is normally needed. Lin <italic>et al.</italic> found that in the bulk material SrTiO<sub>3</sub>, a tiny departure from the stoichiometric composition, achieved by removing 1 in 10<sup>5</sup> oxygen atoms, is sufficient to support superconductivity. Through thermoelectric measurements, they deduced that at this lowest carrier concentration the Fermi surface is almost spherical, with only a slight anisotropy, and that the Fermi temperature, a measure of the carrier concentration, is an order of magnitude lower than the Debye temperature, which reflects the lattice dynamics energy. This unusual hierarchy of scales, as well as the character of the Fermi surface, may present challenges to theoretical models of superconductivity in this compound.</p>
+<p><italic>Phys. Rev. X</italic> <bold>3</bold>, 021002 (2013).</p>
+</body>
+</article>

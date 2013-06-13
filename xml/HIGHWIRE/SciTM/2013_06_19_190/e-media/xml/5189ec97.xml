@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">STM</journal-id>
+<journal-title>Science Translational Medicine</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Sci. Transl. Med.</abbrev-journal-title>
+<issn pub-type="ppub">1946-6234</issn><issn pub-type="epub">1946-6242</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">3006713</article-id>
+<article-id pub-id-type="doi">10.1126/scitranslmed.3006713</article-id>
+<article-categories><subj-group subj-group-type="article-type"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>STM EC</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>CANCER</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>A TWO Hit Wonder for Melanoma Treatment</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Oliver</surname><given-names>Trudy G.</given-names></name></contrib>
+<aff id="aff1">Huntsman Cancer Institute, University of Utah, Salt Lake City, UT 84112, USA. E-mail: <email xlink:href="trudy.oliver@hci.utah.edu">trudy.oliver@hci.utah.edu</email></aff>
+</contrib-group>
+<pub-date pub-type="ppub"><day>12</day><month>06</month><year>2013</year></pub-date>
+<volume>5</volume>
+<issue>189</issue>
+<fpage>189ec97</fpage>
+<lpage>189ec97</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>A phase 1 clinical trial combining two immunotherapies improves response in advanced metastatic melanoma.</p>
+</abstract>
+</article-meta>
+</front>
+<body>
+<p>The immune system is an advanced surveillance system, constantly scouring the body for things that can do it harm. Avoiding this immune surveillance is important for cancer cells to survive and flourish. Two nonredundant &#x201C;immune checkpoint&#x201D; proteins, cytotoxic T-lymphocyte-associated antigen-4 (CTLA4) and programmed cell death protein 1 (PD1), function through different mechanisms to help the immune system tolerate self and reduce pathological immune responses. To cancer&#x2019;s benefit, these two checkpoints also restrict the ability of the immune system to identify and destroy cancer cells. Inhibition of each individual checkpoint has been shown to enhance antitumor immunity and lead to substantial clinical responses. Taking this concept a step further, Wolchok and colleagues predicted that combining two immunotherapies with distinct mechanisms of action would improve efficacy in advanced metastatic melanoma&#x2014;a deadly skin cancer with few treatment options. </p>
+<p>Previously, ipilumumab [an immunoglobulin G1 (IgG1) monoclonal antibody blocking CTLA4] and nivolumab (an IgG4 antibody blocking PD1) had positive responses when given individually to patients with advanced melanoma. Combination therapy using both inhibitors in mouse models of melanoma led to synergistic antitumor responses, providing a preclinical rationale to test the same combination in humans. Consequently, Wolchok and colleagues performed a phase 1 dose escalation study in which patients were either given both inhibitors concurrently or in sequence (for patients who had previously received ipilumumab). Patients in the concurrent treatment group had a 40% objective response rate, and the majority of these patients had a tumor reduction of 80% or more within 12 weeks. Compared with previous reports of outcomes with either drug alone, the combination of CTLA4 and PD1 inhibitors led to a deeper, more rapid and durable response. </p>
+<p>Although the improved response rate was associated with an increase in adverse safety events, these events were manageable and reversible. It is still unknown whether the deep reductions in tumor burden will lead to increased patient survival, but these results represent a promising advance in the treatment of advanced metastatic melanoma. Now that safety and efficacy have been successfully demonstrated with the immunotherapy combination, phase 3 clinical trials will directly compare the clinical efficacy of each drug alone or in combination in advanced melanoma. This trial demonstrates that immunotherapies with distinct mechanisms of action may be combined for greater results, thus providing impetus to study additional immunotherapy-based combination treatment regimens. Given this duo&#x2019;s success in metastatic melanoma, the results of similar clinical trials in lung, renal, and prostate cancer are anxiously awaited.</p>
+<p>J. D. Wolchok <italic>et al.</italic>,<italic> </italic>Nivolumab plus ipilimumab in advanced melanoma. <italic>N. Engl. J. Med.</italic> 2 June 2013 (10.1056/NEJMoa1302369). <ext-link ext-link-type="uri" xlink:href="http://www.nejm.org/doi/full/10.1056/NEJMoa1302369?query=featured_home">[Abstract]</ext-link>  </p>
+</body>
+</article>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">STM</journal-id>
+<journal-title>Science Translational Medicine</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Sci. Transl. Med.</abbrev-journal-title>
+<issn pub-type="ppub">1946-6234</issn><issn pub-type="epub">1946-6242</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">3006714</article-id>
+<article-id pub-id-type="doi">10.1126/scitranslmed.3006714</article-id>
+<article-categories><subj-group subj-group-type="article-type"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>STM EC</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>AUTISM</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Autism in the Balance</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Sohal</surname><given-names>Vikaas S.</given-names></name></contrib>
+<aff id="aff1">Department of Psychiatry and Center for Integrative Neuroscience, University of California, San Francisco, CA 94143, USA. E-mail: <email xlink:href="vikaas.sohal@ucsf.edu">vikaas.sohal@ucsf.edu</email></aff>
+</contrib-group>
+<pub-date pub-type="ppub"><day>12</day><month>06</month><year>2013</year></pub-date>
+<volume>5</volume>
+<issue>189</issue>
+<fpage>189ec98</fpage>
+<lpage>189ec98</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>A gene linked to autism can drive both pathological and compensatory changes in the balance of excitatory and inhibitory neuronal activity.</p>
+</abstract>
+</article-meta>
+</front>
+<body>
+<p>Alterations in the balance of excitatory and inhibitory activity in neurons are hypothesized to drive many aspects of autism. As genetic causes of autism are identified, a central challenge will be to identify specific pathways through which these can pathologically alter the excitatory-inhibitory (E-I) balance. A recent study by Bateup <italic>et al</italic>. identifies specific alterations linked to the tuberous sclerosis complex mammalian target of rapamycin (mTOR) signaling pathway and sheds light on how individual alterations exert either pathological or compensatory effects on E-I balance.</p>
+<p>Autism and epilepsy are major features of tuberous sclerosis complex (TSC), a neurodevelopmental disorder caused by loss-of-function mutations in <italic>TSC1</italic> or <italic>TSC2</italic>, which<italic> </italic>negatively regulate mTOR complex 1. Although activity in the TSC-mTOR pathway is well known to promote cell growth and tumor formation, its effects on neuronal circuits are less clear. Bateup <italic>et al.</italic> identified genetic, cellular, and neural circuit changes that result from the loss of <italic>TSC1</italic> by studying hippocampal cultures from mice in which TSC1 was knocked out as well as brain slices and mice in which <italic>TSC1</italic> has been removed from more limited populations of neurons. They found that TSC1 knockout cultures have increased neuronal activity, and mice lacking <italic>TSC1</italic> in forebrain excitatory neurons have spontaneous seizures. Some of the changes, such as the down-regulation of AMPA-type glutamate receptors and decreases in the intrinsic excitability of individual neurons, appear to represent compensations that nevertheless fail to restore the E-I balance. In contrast, a cell-autonomous decrease in the strength of inhibitory synapses on excitatory hippocampal neurons could tip the E-I balance toward excitation, leading to seizures. This type of changes are believed to lead to symptoms of autism in many cases as well.</p>
+<p>This study demonstrates that even though &#x201C;E-I balance&#x201D; may sometimes seem like a nebulous concept, it can be quantified in a meaningful way, making it possible to measure how specific factors alter this balance. At the same time, this work raises many questions, such as why are apparently compensatory processes engaged, but not in a way that ultimately restores E-I balance? In addition, previous studies have found that mutations linked to autism exert very different effects in different brain regions, so it will be important to determine whether the alterations in E-I balance observed here also occur outside the hippocampus.</p>
+<p>H. S. Bateup <italic>et al.</italic>, Excitatory/inhibitory synaptic imbalance leads to hippocampal hyperexcitability in mouse models of tuberous sclerosis. <italic>Neuron</italic> <bold>78</bold>, 510&#x2013;522 (2013). <ext-link ext-link-type="uri" xlink:href="http://www.cell.com/neuron/retrieve/pii/S089662731300264X">[Abstrct]</ext-link> </p>
+</body>
+</article>

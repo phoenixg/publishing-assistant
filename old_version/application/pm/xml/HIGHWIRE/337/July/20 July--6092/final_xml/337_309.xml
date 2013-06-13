@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1226820</article-id>
+<article-id pub-id-type="doi">10.1126/science.1226820</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Perspective</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Perspectives</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>perspective</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Retrospective</subject></subj-group>
+<subj-group subj-group-type="field"><subject>SCI COMMUN</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Aaron Shatkin (1934&#x2013;2012)</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Sonenberg</surname><given-names>Nahum</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib>
+<contrib contrib-type="author" corresp="yes"><name><surname>Filipowicz</surname><given-names>Witold</given-names></name><xref ref-type="aff" rid="aff2">2</xref></contrib>
+<aff id="aff1"><label>1</label>Department of Biochemistry, McGill University, Goodman Cancer Research Center, Montreal, Quebec H3A 1A3, Canada.</aff>
+<aff id="aff2"><label>2</label>Friedrich Miescher Institute for Biomedical Research, Maulbeerstrasse 66, 4058 Basel, Switzerland.</aff>
+</contrib-group>
+<author-notes>
+<corresp>E-mail: <email>nahum.sonenberg@mcgill.ca</email>; <email>witold.filipowicz@fmi.ch</email></corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<day>20</day>
+<month>07</month>
+<year>2012</year>
+</pub-date>
+<volume>337</volume>
+<issue>6092</issue>
+<fpage>309</fpage>
+<lpage>309</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>A virologist discovered the eukaryotic mRNA 5&#x2032;-terminal cap structure and revealed its role in gene expression.</p>
+</abstract>
+<abstract abstract-type="excerpt">
+<p>Aaron Shatkin died of cancer at his home in Scotch Plains, New Jersey, on 4 June, at the age of 77. When asked last year by the Bowdoin College (where he majored in chemistry) magazine, what was the most rewarding part of his job, he responded: &#x201C;Seeing students and others I&apos;ve mentored at CABM (Center for Advanced Biotechnology and Medicine at Rutgers University and the University of Medicine and Dentistry of New Jersey) and elsewhere become independent, accomplished researchers and leaders in their fields in many different countries.&#x201D; His graciousness and passion for science were among his finest attributes. Both of us, like all his trainees, owe our progress in science largely to his extraordinary mentorship.</p>
+</abstract>
+</article-meta>
+</front>
+<body>
+<p>Aaron Shatkin died of cancer at his home in Scotch Plains, New Jersey, on 4 June, at the age of 77. When asked last year by the Bowdoin College (where he majored in chemistry) magazine, what was the most rewarding part of his job, he responded: &#x201C;Seeing students and others I&apos;ve mentored at CABM (Center for Advanced Biotechnology and Medicine at Rutgers University and the University of Medicine and Dentistry of New Jersey) and elsewhere become independent, accomplished researchers and leaders in their fields in many different countries.&#x201D; His graciousness and passion for science were among his finest attributes. Both of us, like all his trainees, owe our progress in science largely to his extraordinary mentorship.</p>
+<p>Aaron did his graduate studies with Edward Tatum, Nobel laureate, at the Rockefeller University, investigating the morphology of the filamentous fungus <italic>Neurospora crassa</italic>. However, the work coauthored with Edward Reich and Richard Franklin, demonstrating that the antibiotic actinomycin D blocks cellular messenger RNA (mRNA) synthesis, had the most impact on his future career and started his lifelong adventure with animal viruses. The availability of actinomycin D allowed Aaron and others to investigate virus gene expression in the absence of host mRNA synthesis, which greatly facilitated the study of virus-encoded proteins. Following the move to the laboratory of Norman Salzman at the National Institutes of Health in 1963, Aaron studied several human viruses including vaccinia virus and poliovirus, providing early insights into viral RNA and protein synthesis. From the mid-1960s, he focused almost entirely on the life cycle of reovirus, studied also independently by Wolfgang Joklik and Bernard Fields. After moving to the Roche Institute of Molecular Biology in Nutley, New Jersey, in 1968, Aaron showed that the segmented genome of the reovirus consists of 10 separate double-stranded RNA &#x201C;chromosomes,&#x201D; which are copied by a viral RNA polymerase, and that the resulting transcripts function both as mRNAs and templates for synthesis of progeny segments. The work with reovirus led Aaron and his associate Yasuhiro Furuichi to discover the 5&#x2032;-terminal m<sup>7</sup>GpppN cap structure in 1975.</p>
+<p>The discovery that viral mRNAs have their termini modified with m<sup>7</sup>GpppN caps (made together with Bernard Moss working on vaccinia virus) had far-reaching consequences. Caps are present on all nuclear-transcribed cellular mRNAs and mRNAs of many viruses, and are involved in almost every aspect of mRNA metabolism. In 1975, Aaron and James Darnell showed that long heterogeneous nuclear RNAs too harbor m<sup>7</sup>GpppN caps in addition to being polyadenylated at the 3&#x2032; end. How both these terminal structures could be preserved in much shorter mature mRNAs became evident only upon the discovery of mRNA splicing.</p>
+<fig id="F1" position="float">
+<graphic xlink:href="337_309_F1"></graphic>
+<attrib>PHOTO CREDIT: UNIVERSITY OF MEDICINE AND DENTISTRY OF NEW JERSEY</attrib>
+</fig>
+<p>Aaron&apos;s laboratory further led the field in conducting a comprehensive analysis of the mechanism by which the m<sup>7</sup>GpppN cap facilitates translation initiation. This entailed the discovery of new translation factors and promulgation of the scanning mechanism by which the mammalian 40<italic>S</italic> ribosome selects the AUG initiation codon. His laboratory also documented the importance of the cap for mRNA stability. More recently, Aaron pursued his favorite topic of the capping mechanism and enzymes involved. His last paper in 2011 described the x-ray structure of the carboxyl-terminal capping domain of the human capping enzyme. Although focused on mRNA capping, Aaron was always open to other ideas. His laboratory discovered the pathway leading to RNA ligation and transfer RNA (tRNA) splicing in animal cells in the early 1980s.</p>
+<p>Aaron was loved by his peers, students, and collaborators. He was a person of exceptional integrity, and his warm character and radiating optimism (and smile) were infectious. He was an excellent mentor, always fostering openness, collaboration, and friendly dispute. Most of his former students and collaborators remained in close contact with Aaron, very often seeking his support and advice. Over 40 of us, from all over the world, gathered in September 2011 for the &#x201C;Shatkin Reunion&#x201D;&#x2014;sadly the last one&#x2014;to show our appreciation for his mentorship and friendship. The day of the reunion was full of recollections, short stories, and news from the lives of our families, which Aaron followed very closely. What moved us most strongly on that day was Aaron&apos;s engaging presentation, delivered already in frail health, describing his current research and reminiscing about the happy days with his students and colleagues.</p>
+<p>Aaron was a recipient of many awards and honors, including the Steel award from the U.S. National Academy of Sciences (1977) and the Association of American Medical Colleges Award (2003). He was elected to the U.S. National Academy of Sciences in 1981 and the American Academy of Arts and Sciences in 1997. In addition to his illustrious career as a researcher, Aaron greatly contributed to other aspects of science. He was a founding editor-in-chief of the journal <italic>Molecular and Cellular Biology</italic>. In 1986, he became the founding director of CABM in Piscataway, New Jersey. Under Aaron&apos;s leadership, CABM has grown into a world-class research institution. In recognition of Aaron&apos;s extraordinary leadership, an endowed annual lectureship was established in his name at CABM, with Harold Varmus, director of the National Cancer Institute, giving the inaugural lecture in April 2012. Aaron arrived a few minutes late for the lecture, straight from Boston where he was undergoing experimental therapy. He passed away a month later. He worked until a few weeks before he died, a testament to his devotion to science and his work. Aaron is survived by his son Greg. Joan, his beloved wife for 51 years, passed away in 2009. Till his last days, Aaron stopped daily for a moment of silence in front of her grave.</p>
+</body>
+</article>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="reply" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1233367</article-id>
+<article-id pub-id-type="doi">10.1126/science.1233367</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Technical Response</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Technical Comments</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>t-comment</subject></subj-group>
+<subj-group subj-group-type="field"><subject>TECH COMMENT</subject><subject>NEUROSCIENCE</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Neuroscience</subject><subject>Sociology</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Response to Comment on &#x201C;In Monkeys Making Value-Based Decisions, LIP Neurons Encode Cue Salience and Not Action Value&#x201D;</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Leathers</surname><given-names>Marvin L.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref ref-type="corresp" rid="cor1">*</xref></contrib> <contrib contrib-type="author"><name><surname>Olson</surname><given-names>Carl R.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib>
+<aff id="aff1"><label>1</label>Center for the Neural Basis of Cognition, Carnegie Mellon University, Mellon Institute, Room 115, 4400 Fifth Avenue, Pittsburgh, PA 15213, USA.</aff>
+<aff id="aff2"><label>2</label>Department of Neuroscience, University of Pittsburgh, Pittsburgh, PA 15260, USA.</aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>Corresponding author. E-mail: <email xlink:href="mleathers@cnbc.cmu.edu">mleathers@cnbc.cmu.edu</email></corresp></author-notes>
+<pub-date pub-type="ppub"><day>26</day><month>04</month><year>2013</year></pub-date>
+<volume>340</volume>
+<issue>6131</issue>
+<fpage seq="c">430</fpage>
+<lpage>430</lpage>
+<history><date date-type="received"><day>13</day><month>12</month><year>2012</year></date><date date-type="accepted"><day>28</day><month>02</month><year>2013</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract>
+<p>Newsome <italic>et al</italic>. question neither our key result, that large-penalty cues elicited stronger responses than small-penalty cues, nor our key conclusion, that neurons early in the trial signaled cue salience and not action value. Instead, they focus on subsequent neuronal activity. The patterns of delay-period activity that they note can be explained by reference to experimental methodology.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Peter Stern</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Cynthia Howe</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>The stated goal of our study (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>) was to test a specific hypothesis: that lateral intraparietal (LIP) neurons mediate value-based decisions by signaling early in the trial&#x2014;before the decision&#x2014;the values of the outcomes associated with the possible actions. This hypothesis has been put forward explicitly by some of the commentators (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>, <xref ref-type="bibr" rid="R3"><italic>3</italic></xref>) and is concordant with the description by others of early reward-related activity (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>&#x2013;<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>). Our demonstration that LIP neurons did not carry value signals early in the trial, despite the fact that monkeys were making value-based decisions, constitutes an existence disproof of the hypothesis. Having shown it to be false in the context of one task, we argue that it cannot have general truth. This conclusion is appropriately broad without being unduly sweeping.</p>
+<p>Which neurons should we have studied? Newsome <italic>et al</italic>. (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>) suggest that the neurons we selected for study were not an appropriate population on which to test the action-value hypothesis. We argue, on the contrary, that these neurons were exactly the appropriate population because they displayed the key functional trait on the basis of which the action-value hypothesis was propounded. Early in the trial, at the time of the value-based decision, they fired more strongly when a saccade into the response field would elicit a large reward than when it would elicit a small reward.</p>
+<p>What is normal delay-period activity? Newsome <italic>et al</italic>. focus in their comments on a period of the trial later than the period on which our analysis was based. They suggest that activity during the delay period deviated from the norm for LIP. We respond that the norm depends on the experimental conditions. Among authors studying value-related signals in LIP, some recorded only from neurons with strong delay-period activity (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>, <xref ref-type="bibr" rid="R5"><italic>5</italic></xref>), while others, including us, sampled neurons broadly (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>, <xref ref-type="bibr" rid="R6"><italic>6</italic></xref>&#x2013;<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>). Some placed targets in and opposite the center of each neuron&#x2019;s response field (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>&#x2013;<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>), while others, including us, positioned them to the right and left of fixation (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>). Others allowed targets to remain visible on the screen during the delay period (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>&#x2013;<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>), whereas we did not. Each of our design decisions reduced delay-period activity, not our ability to test the hypothesis that neurons signaled action value early in the trial. We expand on this point below in connection with three issues.</p>
+<p>(i) Memory-delay activity. This is commonly defined as firing that rises above baseline during the delay period preceding a saccade to the center of the response field. The rate of incidence of memory-delay activity in LIP is around 25%, according to a recent report based on unbiased sampling (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>). We cannot estimate the percentage of neurons in our sample that exhibited memory-delay activity because we placed targets to the right and left of fixation rather than at the center of and opposite the response field. However, we do note that memory-delay activity is a poor predictor of decision-related activity among LIP neurons (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>).</p>
+<p>(ii) Saccade-direction activity. Neurons in our study unquestionably signaled the direction of the impending saccade during the delay period. They fired more strongly for a saccade into the response field than for a saccade out of the response field, as shown in figure 1, D and E of our original paper (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). Neurons whose response fields were not precisely centered on a target may, however, have carried comparatively weak signals. To be sure that the critical observations of the experiment were not specific to neurons weakly selective for saccade direction, we analyzed the correlation between the strength of the delay-period saccade-direction signal and the cue-period reward and penalty signals. The tendency for a large-reward cue to elicit stronger firing than a small-reward cue was actually positively correlated with the strength of the delay-period saccade-direction signal. So was the tendency for a large-penalty cue to elicit stronger firing than a small-penalty cue.</p>
+<p>(iii) Late bias activity. In previous studies, reward-related activity persisted to the end of the trial, as if reflecting an enduring post-decisional motoric or attentional bias in favor of the target associated with greater reward (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>&#x2013;<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>). This effect might have occurred because the targets remained visible during the delay period and thus could attract attention or incite a bias in proportion to their associated value. The absence of a late bias signal in our study may be attributable to the absence of visible targets during the delay period or to other unique features of task design, such as the use of cues with absolutely fixed associations.</p>
+<p>We conclude by noting that all three neurons displaying the entire triad of effects discussed above&#x2014;(i) memory delay activity, (ii) saccade direction activity, and (iii) late bias activity&#x2014;also exhibited the two cue-period effects at the heart of our study: They responded more strongly to large-reward than to small-reward cues, and they responded more strongly to large-penalty than to small-penalty cues. Even among these neurons, in other words, firing early in the trial depended on the salience of the cues and not on their value. We present data from these neurons in <xref ref-type="fig" rid="F1">Fig. 1</xref>.</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption>
+<title>Mean firing rate of three LIP neurons under conditions indicated in the inset.</title>
+<p>The freely chosen saccade was directed into the response field (RF) under red conditions and away from it under blue conditions. The neurons responded more strongly to large-reward than to small-reward cues (red fill) and to large-penalty than to small-penalty cues (blue fill).</p>
+</caption><graphic xlink:href="340_430c_F1"></graphic></fig>
+</body>
+<back>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Leathers</surname><given-names>M. L.</given-names></name><name><surname>Olson</surname><given-names>C. R.</given-names></name></person-group>, 
+<article-title>In monkeys making value-based decisions, LIP neurons encode cue salience and not action value</article-title>. <source>Science</source> 
+<volume>338</volume>, 
+<fpage>132</fpage> (<year>2012</year>). <pub-id pub-id-type="doi">10.1126/science.1226405</pub-id><pub-id pub-id-type="pmid">23042897</pub-id></citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Sugrue</surname><given-names>L. P.</given-names></name><name><surname>Corrado</surname><given-names>G. S.</given-names></name><name><surname>Newsome</surname><given-names>W. T.</given-names></name></person-group>, 
+<article-title>Choosing the greater of two goods: Neural currencies for valuation and decision making</article-title>. <source>Nat. Rev. Neurosci.</source> 
+<volume>6</volume>, 
+<fpage>363</fpage> (<year>2005</year>). <pub-id pub-id-type="doi">10.1038/nrn1666</pub-id><pub-id pub-id-type="pmid">15832198</pub-id></citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Louie</surname><given-names>K.</given-names></name><name><surname>Glimcher</surname><given-names>P. W.</given-names></name></person-group>, 
+<article-title>Separating value from choice: Delay discounting activity in the lateral intraparietal area</article-title>. <source>J. Neurosci.</source> 
+<volume>30</volume>, 
+<fpage>5498</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1523/JNEUROSCI.5742-09.2010</pub-id><pub-id pub-id-type="pmid">20410103</pub-id></citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Rorie</surname><given-names>A. E.</given-names></name><name><surname>Gao</surname><given-names>J.</given-names></name><name><surname>McClelland</surname><given-names>J. L.</given-names></name><name><surname>Newsome</surname><given-names>W. T.</given-names></name></person-group>, 
+<article-title>Integration of sensory and reward information during perceptual decision-making in lateral intraparietal cortex (LIP) of the macaque monkey</article-title>. <source>PLoS ONE</source> 
+<volume>5</volume>, 
+<fpage>e9308</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1371/journal.pone.0009308</pub-id><pub-id pub-id-type="pmid">20174574</pub-id></citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Sugrue</surname><given-names>L. P.</given-names></name><name><surname>Corrado</surname><given-names>G. S.</given-names></name><name><surname>Newsome</surname><given-names>W. T.</given-names></name></person-group>, 
+<article-title>Matching behavior and the representation of value in the parietal cortex</article-title>. <source>Science</source> 
+<volume>304</volume>, 
+<fpage>1782</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1126/science.1094765</pub-id><pub-id pub-id-type="pmid">15205529</pub-id></citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Klein</surname><given-names>J. T.</given-names></name><name><surname>Deaner</surname><given-names>R. O.</given-names></name><name><surname>Platt</surname><given-names>M. L.</given-names></name></person-group>, 
+<article-title>Neural correlates of social target value in macaque parietal cortex</article-title>. <source>Curr. Biol.</source> 
+<volume>18</volume>, 
+<fpage>419</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1016/j.cub.2008.02.047</pub-id><pub-id pub-id-type="pmid">18356054</pub-id></citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Platt</surname><given-names>M. L.</given-names></name><name><surname>Glimcher</surname><given-names>P. W.</given-names></name></person-group>, 
+<article-title>Neural correlates of decision variables in parietal cortex</article-title>. <source>Nature</source> 
+<volume>400</volume>, 
+<fpage>233</fpage> (<year>1999</year>). <pub-id pub-id-type="doi">10.1038/22268</pub-id><pub-id pub-id-type="pmid">10421364</pub-id></citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Seo</surname><given-names>H.</given-names></name><name><surname>Barraclough</surname><given-names>D. J.</given-names></name><name><surname>Lee</surname><given-names>D.</given-names></name></person-group>, 
+<article-title>Lateral intraparietal cortex and reinforcement learning during a mixed-strategy game</article-title>. <source>J. Neurosci.</source> 
+<volume>29</volume>, 
+<fpage>7278</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1523/JNEUROSCI.1479-09.2009</pub-id><pub-id pub-id-type="pmid">19494150</pub-id></citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Newsome</surname><given-names>W. T.</given-names></name><name><surname>Glimcher</surname><given-names>P. W.</given-names></name><name><surname>Gottlieb</surname><given-names>J.</given-names></name><name><surname>Lee</surname><given-names>D.</given-names></name><name><surname>Platt</surname><given-names>M. L.</given-names></name></person-group>, 
+<article-title>Comment on &#x201C;In monkeys making value-based decisions, LIP neurons encode cue salience and not action value&#x201D;</article-title>. <source>Science</source> 
+<volume>340</volume>, 
+    <fpage>430</fpage> (<year>2013</year>); <ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" 
+xlink:href="http://www.sciencemag.org/cgi/content/full/340/6131/430-b">www.sciencemag.org/cgi/content/full/340/6131/430-b</ext-link></citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Premereur</surname><given-names>E.</given-names></name><name><surname>Vanduffel</surname><given-names>W.</given-names></name><name><surname>Janssen</surname><given-names>P.</given-names></name></person-group>, 
+<article-title>Functional heterogeneity of macaque lateral intraparietal neurons</article-title>. <source>J. Neurosci.</source> 
+<volume>31</volume>, 
+<fpage>12307</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1523/JNEUROSCI.2241-11.2011</pub-id><pub-id pub-id-type="pmid">21865473</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Meister</surname><given-names>M. L. R.</given-names></name><name><surname>Hennig</surname><given-names>J. A.</given-names></name><name><surname>Huk</surname><given-names>A. C.</given-names></name></person-group>, 
+<article-title>Signal multiplexing and single-neuron computations in lateral intraparietal area during decision-making</article-title>. <source>J. Neurosci.</source> 
+<volume>33</volume>, 
+<fpage>2254</fpage> (<year>2013</year>). <pub-id pub-id-type="doi">10.1523/JNEUROSCI.2984-12.2013</pub-id><pub-id pub-id-type="pmid">23392657</pub-id></citation></ref>
+</ref-list>
+<ack>
+<title>Acknowledgments</title><p>We acknowledge research support from NIH RO1 EY018620 and P50 MH45156 and technical support from NIH P30 EY08098 and P41RR03631.</p>
+</ack></back>
+</article>

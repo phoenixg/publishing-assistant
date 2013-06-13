@@ -1,0 +1,1 @@
+<img src="images/160x600.gif" alt="./images/160x600.gif">

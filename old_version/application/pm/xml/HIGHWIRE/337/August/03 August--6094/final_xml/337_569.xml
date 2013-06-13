@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1220614</article-id>
+<article-id pub-id-type="doi">10.1126/science.1220614</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Report</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Reports</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>reports</subject></subj-group>
+<subj-group subj-group-type="field"><subject>ATMOS</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Aerial Photographs Reveal Late&#x2013;20th-Century Dynamic Ice Loss in Northwestern Greenland</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Kj&#x00E6;r</surname><given-names>Kurt H.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="corresp" rid="cor1">*</xref></contrib> <contrib contrib-type="author"><name><surname>Khan</surname><given-names>Shfaqat A.</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Korsgaard</surname><given-names>Niels J.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Wahr</surname><given-names>John</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Bamber</surname><given-names>Jonathan L.</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Hurkmans</surname><given-names>Ruud</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib> <contrib contrib-type="author"><name><surname>van den Broeke</surname><given-names>Michiel</given-names></name><xref ref-type="aff" rid="aff5"><sup>5</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Timm</surname><given-names>Lars H.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Kjeldsen</surname><given-names>Kristian K.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Bj&#x00F8;rk</surname><given-names>Anders A.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Larsen</surname><given-names>Nicolaj K.</given-names></name><xref ref-type="aff" rid="aff6"><sup>6</sup></xref></contrib> <contrib contrib-type="author"><name><surname>J&#x00F8;rgensen</surname><given-names>Lars Tyge</given-names></name><xref ref-type="aff" rid="aff7"><sup>7</sup></xref></contrib> <contrib contrib-type="author"><name><surname>F&#x00E6;rch-Jensen</surname><given-names>Anders</given-names></name><xref ref-type="aff" rid="aff7"><sup>7</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Willerslev</surname><given-names>Eske</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib>
+<aff id="aff1"><label>1</label>Centre for GeoGenetics, Natural History Museum, University of Copenhagen, Copenhagen, Denmark.</aff>
+<aff id="aff2"><label>2</label>DTU Space&#x2013;National Space Institute, Technical University of Denmark, Department of Geodesy, Lyngby, Denmark.</aff>
+<aff id="aff3"><label>3</label>Department of Physics and Cooperative Institute for Research in Environmental Sciences, University of Colorado, Boulder, CO, USA.</aff>
+<aff id="aff4"><label>4</label>Bristol Glaciology Centre, University of Bristol, Bristol, UK.</aff>
+<aff id="aff5"><label>5</label>Institute for Marine and Atmospheric Research, Utrecht University, Utrecht, Netherlands.</aff>
+<aff id="aff6"><label>6</label>Department of Geoscience, Aarhus University, Aarhus, Denmark.</aff>
+<aff id="aff7"><label>7</label>Danish National Cadastre and Survey, Copenhagen, Denmark.</aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>To whom correspondence should be addressed. E-mail: <email xlink:href="kurtk@snm.ku.dk">kurtk@snm.ku.dk</email></corresp></author-notes>
+<pub-date pub-type="ppub"><day>03</day><month>08</month><year>2012</year></pub-date>
+<volume>337</volume>
+<issue>6094</issue>
+<fpage>569</fpage>
+<lpage>573</lpage>
+<history><date date-type="received"><day>15</day><month>02</month><year>2012</year></date><date date-type="accepted"><day>22</day><month>06</month><year>2012</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="editor"><title>A Picture of Disappearing Ice</title><p>Global warming is accelerating the loss of ice sheet mass by melting, sublimation, and erosion of their margins. In order to provide a better context for understanding contemporary losses, a longer record of the recent past is needed. <bold>Kj&#x00E6;r <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="337" page="569">569</related-article>) extend the record of thinning along the northwest margin of the Greenland Ice Sheet back to the mid-1980s, by using archived aerial photographs in conjunction with a digital elevation model and comparing their results to more recent data. Northwestern Greenland has experienced two dynamic ice loss events in the past three decades. Local ice loss appears to be caused by a combination of predictable surface processes that operate over decadal time scales and ones that involve the rapid movement of ice over periods of 3 to 5 years that exhibit strong regional differences.</p></abstract>
+<abstract abstract-type="teaser"><p>Archived photographs extending back to the mid-1980s help show the role of dynamic thinning in ice mass loss from Greenland.</p></abstract>
+<abstract>
+<p>Global warming is predicted to have a profound impact on the Greenland Ice Sheet and its contribution to global sea-level rise. Recent mass loss in the northwest of Greenland has been substantial. Using aerial photographs, we produced digital elevation models and extended the time record of recent observed marginal dynamic thinning back to the mid-1980s. We reveal two independent dynamic ice loss events on the northwestern Greenland Ice Sheet margin: from 1985 to 1993 and 2005 to 2010, which were separated by limited mass changes. Our results suggest that the ice mass changes in this sector were primarily caused by short-lived dynamic ice loss events rather than changes in the surface mass balance. This finding challenges predictions about the future response of the Greenland Ice Sheet to increasing global temperatures.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>H. Jesse Smith</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Cara Tate</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>Mass loss from the Greenland Ice Sheet is a complex function of processes related to surface mass balance (SMB) and dynamic ice loss (DIL) that are forced by fluctuations in atmospheric and oceanic energy input (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). SMB is the difference between accumulation from solid precipitation (snow) and mass loss from ablation (ice melt and sublimation). DIL is related to marine-terminating outlets due to the marginal breakup of floating ice tongues and to subsequent accelerated flow caused by decreased buttressing and reduced basal drag, resulting in thinning (decreasing ice surface elevations) (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>&#x2013;<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). The relative role of SMB to DIL in contributing to marginal ice mass loss remains contentious (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>&#x2013;<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>).</p>
+<p>Only limited observational evidence of ice mass changes exists before the 21st century, when space-based observations from interferometric synthetic aperture radar (InSAR), intensity tracking on SAR images, GRACE (Gravity Recovery and Climate Experiment), and ICESat (Ice, Cloud and land Elevation Satellite) became available. Together with data from the Global Positioning System (GPS), these data, when interpreted as a sustained and accelerating induced loss of the Greenland Ice Sheet (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>, <xref ref-type="bibr" rid="R8"><italic>8</italic></xref>&#x2013;<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>) (<xref ref-type="fig" rid="F1">Fig. 1</xref>), suggest potentially severe consequences for global sea-level rise (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>, <xref ref-type="bibr" rid="R11"><italic>11</italic></xref>&#x2013;<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>). However, the current records suffer from the lack of multidecadal observational data, making any such interpretation tentative (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>, <xref ref-type="bibr" rid="R12"><italic>12</italic></xref>).We extended the record of DIL back almost threefold (1985&#x2013;2010) for northwestern Greenland, using a digital elevation model (DEM) derived from aerial photographs.</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption>
+<p>Catchment-wide mass change of the Greenland Ice Sheet extracted from GRACE for 2003&#x2013;2011, in units of centimeters per year of water thickness, inferred from consecutive 2-year periods (from April to April). The gravity data are provided in monthly sets of spherical harmonic coefficients. Coefficients are transformed into surface mass coefficients, used for computing surface mass on a 0.5&#x00B0; &#x00D7; 0.5&#x00B0; grid and smoothed with a Gaussian smoothing function with a 250-km half-width (<xref ref-type="bibr" rid="R25"><italic>25</italic></xref>).</p>
+</caption><graphic xlink:href="337_569_F1"></graphic></fig>
+<p><xref ref-type="fig" rid="F2">Figure 2</xref> shows the cumulated elevation difference (dh) during 1985&#x2013;2005 and 2005&#x2013;2010 for the northwest margin of the Greenland Ice Sheet. Vertical aerial photographs served as the primary source for the elevation model from 1985 (supplementary materials) (fig. S1). We used these data to derive a 25 &#x00D7; 25&#x2013;m gridded DEM with elevation referenced to the height above the ellipsoid (WGS84). Digital elevation products from aerial photographs are limited to areas below the snow line, because the low contrast for imagery of snow prevents data sampling. Consequently, the 1985 DEM reaches a maximum of 40 to 50 km inland of the 1985 ice margin frontal position. Comparative DEMs were derived from laser altimetry data recorded in 2005 and 2010: ICESat GLA12 Release 31 data (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>), complemented by NASAs Airborne Topographic Mapper (ATM) flight lines, which were especially dense in 2010 (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>) (supplementary materials). The mean vertical accuracy of the 1985 DEM on ice is estimated to 4.1 m, based on validation with the ATM laser altimetry data on ice-free land, with an inherent vertical accuracy of 0.2 m (figs. S2 and S3). We interpolated the observed thinning values to a 25-m grid resolution. Figure S4 shows the predicted uncertainties associated with the interpolated thinning values shown in <xref ref-type="fig" rid="F2">Fig. 2, A to D</xref>. We find pronounced thinning along the entire northwest ice sheet margin over the past 25 years, ranging from tens of meters over nonchannelized areas to 100 to 150 m at a majority of outlet glaciers (<xref ref-type="fig" rid="F2">Fig. 2, A and B</xref>).Thinning is apparent in both the 1985&#x2013;2005 and 2005&#x2013;2010 periods, although the detailed thinning pattern is somewhat different across the different glacier outlet systems (figs. S5 to S7).</p>
+<fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption>
+<p>Total surface elevation changes (dh) derived from DEMs generated from aerial photographs recorded in 1985, ICESat data from 2005, and ATM data from 2005 and 2010. (<bold>A</bold>) dh for the 1985&#x2013;2005 period. (<bold>B</bold>) dh for the 2005&#x2013;2010 period. For the same area, the total surface elevation change due to SMB processes was derived from RACMO2, using SMB anomalies from the mean for 1961&#x2013;1990. (<bold>C</bold>) dh SMB for the 1985&#x2013;2005 period. (<bold>D</bold>) dh SMB for the 2005&#x2013;2010 period. Oceanic temperature stations (ts&#x2019;s 1 to 3) are marked on the map, together with air temperature records from meteorological stations in Upernavik, Kitsissorsuit, and Pituffik. Results are displayed in <xref ref-type="fig" rid="F4">Fig. 4</xref>.</p>
+</caption><graphic xlink:href="337_569_F2"></graphic></fig>
+<p><xref ref-type="fig" rid="F3">Figure 3</xref> shows a transect mirroring the ice margin from north to south, where the ice elevation changes (dh) are shown above the <italic>x</italic> axis, and the corresponding ice margin retreat (dl) is shown below the axis, for every 500 m along the transect. Three interesting observations are revealed. First, different tributaries within a single ice stream system can exhibit different rates of thinning and calving-front retreat. For the Upernavik ice stream, for example, the southern tributary shows considerable thinning and frontal retreat between 1985 and 2005 (fig. S5), whereas the other three tributaries experience only limited elevation change. Subsequently, in 2005&#x2013;2010, the northern tributary shows a pronounced 5500 m of retreat and vertical lowering of ~150 m. The most recent event also coincides with the speed-up of several glaciers along the northwest coast of Greenland (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>). Second, for most glaciers, pre-2005 thinning and margin retreat were succeeded by further mass loss and retreat after 2005. This is particularly evident for the Alison glacier and its northern neighboring glacier, which show maximum thinning of ~90 and 150 m, respectively, for 1985&#x2013;2005 and 1985&#x2013;2010 (<xref ref-type="fig" rid="F2">Figs. 2</xref> and <xref ref-type="fig" rid="F3">3</xref> and fig. S6). Third, the lowering of glacier surfaces was commonly stronger during the second event. The Sverdrup glacier north of Kjer and Steenstrup glaciers retreated 2500 m in the period 1985&#x2013;2005, while the surface lowering amounted to merely 10 m (fig. S7, area 3). The front continued to retreat an additional 1000 m between 2005 and 2010, while the decrease in surface elevation accelerated, with an additional 80 m of lowering.</p>
+<fig id="F3" position="float" fig-type="figure"><label>Fig. 3</label><caption>
+<p>North-to-south&#x2013;striking ice marginal transect along the northwest Greenland Ice Sheet superimposed on elevation difference (dh in meters) values from 1985&#x2013;2005 and 1985&#x2013;2010, as well as glacier length changes (dl in kilometers) for the same ice frontal sections. The transect is a smoothed line 200 m inland from the 2010 ice margin. The transect provides a spatial resolution of 500 m along the ~2000-km ice sheet margin, providing roughly 4000 frontal positions. Each frontal position is measured perpendicular to the ice sheet margin from a static point placed on the transect.</p>
+</caption><graphic xlink:href="337_569_F3"></graphic></fig>
+<p>In order to separate DIL from SMB, we used SMB values for the exact same coverage and periods as the 1985 DEMs, from the Regional Atmospheric Climate Model v.2 (RACMO2), which is based on the High Resolution Limited Area Model (HIRLAM), with physical processes adopted from the global model of the European Centre for Medium-Range Weather Forecasts and modified to reflect surface conditions on the Greenland Ice Sheet (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>&#x2013;<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>) (fig. S4). <xref ref-type="fig" rid="F3">Figure 3</xref> displays the cumulative SMB anomalies along the ice marginal transect, translated to elevation differences with the use of a modeled firn density based on an empirical relationship with firn temperature (<xref ref-type="bibr" rid="R19"><italic>19</italic></xref>, <xref ref-type="bibr" rid="R20"><italic>20</italic></xref>) to enable a direct comparison between surface changes. The former are in general much smaller than the total observed elevation change and have been subtracted from the DEM results. All dh values above a few tens of meters are correlated with fast-flowing areas of the ice margin (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>), which in turn match areas of conspicuous glacier retreat. The implication is that the significant thinning of the northwest ice margin was mainly driven by DIL, which is supported by recent ICESat estimates (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>) and velocity mapping (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>).</p>
+<p>Using GRACE for the northwest drainage basin, we find an annual mass loss rate of &#x2013;46.4 &#x00B1; 8.9 Gt year<sup>&#x2013;1</sup> within the most recent period 2005&#x2013;2010, which is comparable to previous estimates obtained from the northwest drainage basin using GRACE and ICESat (<xref ref-type="table" rid="T1">Table 1</xref>). The DEM results show the importance of the marginal area in mass balance estimates: 77% of the total mass reduction is accounted for by the marginal zone relative to the whole drainage basin, which amounts to 35.8 &#x00B1; 10.3 Gt year<sup>&#x2013;1</sup> (the total mass loss from the colored region shown in <xref ref-type="fig" rid="F2">Fig. 2</xref>), relative to 46.4 &#x00B1; 8.9 Gt year<sup>&#x2013;1</sup> (the GRACE estimate of the total northwest mass loss).</p>
+<table-wrap id="T1" position="float"><label>Table 1</label><caption>
+<p>Mass change estimates from the northwest ice margin and northwest drainage basin used in this study. AirDEM1985, aerophotogrammetrical DEM, 1985; ERS, European Remote Sensing satellite; n.a., not applicable.</p>
+</caption>
+<table frame="hsides" rules="groups">
+<col width="11.83%" />
+<col width="20.98%" />
+<col width="20.16%" />
+<col width="11.63%" />
+<col width="35.4%" />
+<thead>
+<tr>
+<td valign="bottom" align="left" scope="col"><bold>Period</bold></td>
+<td valign="bottom" align="center" scope="col"><bold>Volume change</bold><break /><bold>(km<sup>3</sup>)</bold></td>
+<td valign="bottom" align="center" scope="col"><bold>Trend/mass</bold><break /><bold>(Gt year<sup>&#x2013;1</sup>)</bold></td>
+<td valign="bottom" align="center" scope="col"><bold>Ice loss</bold></td>
+<td valign="bottom" align="center" scope="col"><bold>Method/sensor</bold></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" colspan="5" align="center" scope="col"><italic>Northwest ice margin</italic></td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row">1985&#x2013;2005</td>
+<td valign="bottom" align="center">248 &#x00B1; 41</td>
+<td valign="bottom" align="center">&#x2013;11.4 &#x00B1; 1.9</td>
+<td valign="bottom" align="center">Total</td>
+<td valign="bottom" align="center">AirDEM1985, ATM, ICESat</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row"></td>
+<td valign="bottom" align="center">17 &#x00B1; 2</td>
+<td valign="bottom" align="center">&#x2013;0.8 &#x00B1; 0.1</td>
+<td valign="bottom" align="center">SMB</td>
+<td valign="bottom" align="center">RACMO2</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row"></td>
+<td valign="bottom" align="center">231 &#x00B1; 41</td>
+<td valign="bottom" align="center">&#x2013;10.6 &#x00B1; 1.9</td>
+<td valign="bottom" align="center">DIL</td>
+<td valign="bottom" align="center">AirDEM1985, ATM, ICESat, RACMO2</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row">2005&#x2013;2010</td>
+<td valign="bottom" align="center">190 &#x00B1; 56</td>
+<td valign="bottom" align="center">&#x2013;35.8 &#x00B1; 10.3</td>
+<td valign="bottom" align="center">Total</td>
+<td valign="bottom" align="center">AirDEM1985, ATM, ICESat</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row"></td>
+<td valign="bottom" align="center">63 &#x00B1; 9</td>
+<td valign="bottom" align="center">&#x2013;11.6 &#x00B1; 1.7</td>
+<td valign="bottom" align="center">SMB</td>
+<td valign="bottom" align="center">RACMO2</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row"></td>
+<td valign="bottom" align="center">127 &#x00B1; 58</td>
+<td valign="bottom" align="center">&#x2013;25.5 &#x00B1; 10.4</td>
+<td valign="bottom" align="center">DIL</td>
+<td valign="bottom" align="center">AirDEM1985, ATM, ICESat, RACMO2</td>
+</tr>
+<tr>
+<td valign="bottom" colspan="5" align="center" scope="col"><italic>Northwest drainage basin</italic></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">1992&#x2013;2002</td>
+<td valign="bottom" align="left"></td>
+<td valign="top" align="center">3.0 &#x00B1; n.a.</td>
+<td valign="top" align="center">Total</td>
+<td valign="top" align="center">ERS-1 and -2*</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">2002&#x2013;2009</td>
+<td valign="bottom" align="left"></td>
+<td valign="top" align="center">&#x2013;35.0 &#x00B1; 4.7</td>
+<td valign="top" align="center">Total</td>
+<td valign="top" align="center">ICESat&#x2020;</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">2002&#x2013;2009</td>
+<td valign="bottom" align="left"></td>
+<td valign="top" align="center">&#x2013;41.1 &#x00B1; 8.1</td>
+<td valign="top" align="center">Total</td>
+<td valign="top" align="center">GRACE&#x2020;</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">2002&#x2013;2009</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">&#x2013;38.9 &#x00B1; n.a.</td>
+<td valign="top" align="center">Total</td>
+<td valign="top" align="center">GRACE&#x2021;</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">2003&#x2013;2007</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">&#x2013;33.0 &#x00B1; n.a.</td>
+<td valign="top" align="center">Total</td>
+<td valign="top" align="center">ICESat&#x00A7;</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">2002&#x2013;2007</td>
+<td valign="bottom" align="left"></td>
+<td valign="top" align="center">&#x2013;29.0 &#x00B1; 9.0</td>
+<td valign="top" align="center">Total</td>
+<td valign="top" align="center">GRACE||</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">2002&#x2013;2010</td>
+<td valign="bottom" align="left"></td>
+<td valign="top" align="center">&#x2013;34.5 &#x00B1; 5.4</td>
+<td valign="top" align="center">Total</td>
+<td valign="top" align="center">GRACE</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">2005&#x2013;2010</td>
+<td valign="bottom" align="left"></td>
+<td valign="top" align="center">&#x2013;46.4 &#x00B1; 8.9</td>
+<td valign="top" align="center">Total</td>
+<td valign="top" align="center">GRACE</td>
+</tr>
+</tbody></table><table-wrap-foot>
+<p>*DS 8 of Zwally <italic>et al</italic>. (<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>).</p>
+<p>&#x2020;Region 6 of Ewert <italic>et al</italic>. (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>).</p>
+<p>&#x2021;Region 10 and 50% of region 9 of Chen <italic>et al</italic>. (<xref ref-type="bibr" rid="R29"><italic>29</italic></xref>).</p>
+<p>&#x00A7;DS 8 of Zwally <italic>et al</italic>. (<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>).</p>
+<p>||Region 8 of Wouters <italic>et al</italic>. (<xref ref-type="bibr" rid="R30"><italic>30</italic></xref>). No numbers are from the present study.</p></table-wrap-foot></table-wrap>
+<p>We observe rapid dynamic induced ice loss during 2005&#x2013;2010 of 25.5 &#x00B1; 10.4 Gt year<sup>&#x2013;1</sup> (the total mass loss along the marginal area, minus the SMB contribution), which dominates the total ice loss rate of 35.8 &#x00B1; 10.3 Gt year<sup>&#x2013;1</sup>. However, the data also reveal substantial DIL between 1985 and 2002, which in total is larger than the observed DIL from 2005 to 2010. GRACE data show that the ice mass loss in the region was insignificant between 2003 and 2005 (<xref ref-type="fig" rid="F1">Fig. 1A</xref>), which constrains the early loss event to have occurred before 2003. It is likely, though, that most of this occurred over a shorter time period. ATM laser altimetry results from flights in 1994 and 1999 show, even though their coverage is limited, that a substantial part of the surface lowering occurred before those years. For the Gade, Rink, and Kjer glaciers, for example, the ATM data indicate that the entire 1985&#x2013;2002 elevation difference occurred before 1994 (<xref ref-type="table" rid="T1">Table 1</xref> and figs. S1, S9, and S10). Also, data during 1995&#x2013;2010 from a continuous GPS receiver installed at Thule Airbase suggest huge ice loss during 2005&#x2013;2010; however, no significant changes occurred during 1995&#x2013;2005 (<xref ref-type="fig" rid="F4">Fig. 4</xref>). The GPS station was established to determine the vertical crustal motion due to the unloading of ice from nearby glaciers. The GPS data demonstrate constant uplift during 1995&#x2013;2005, followed by acceleration in July 2005. This indicates that the most recent DIL event started in July 2005, whereas the first event occurred before 1995. Based on the combined ATM and GPS data, we conclude that the entire early ice mass loss occurred over 8 years (1985&#x2013;1993), and we obtain a rate of 26.6 &#x00B1; 4.7 Gt year<sup>&#x2013;1</sup>, which matches the 25.5 &#x00B1; 10.4 Gt year<sup>&#x2013;1</sup> rate of the most recent ice mass loss event (2005&#x2013;2010). Thus, the south-north expansion of recent mass loss is not unprecedented, and the DIL could be reoccurring on a multidecadal time scale.</p>
+<fig id="F4" position="float" fig-type="figure"><label>Fig. 4</label><caption>
+<p>Ice mass changes and climate records from 1985&#x2013;2011. (<bold>A</bold>) Mass loss estimate from this study, separated into two distinct events: 1985&#x2013;1993 and 2005&#x2013;2010. (<bold>B</bold>) Monthly averages of GPS vertical displacements and their assigned errors at Thule. We fitted a trend to the June 1995&#x2013;June 2005 data and removed it from the entire time span, to focus on the changes in the trend after 2005 (supplementary materials). The solid lines show the best-fitting linear term to the data during June 1995&#x2013;June 2005 (which has been set to 0.0 mm year<sup>&#x2013;1</sup>) and a trend of 5.9 &#x00B1; 0.2 mm year<sup>&#x2013;1</sup> to data during July 2005&#x2013;February 2011. (<bold>C</bold>) Mean annual SST anomaly from the International Research Institute for Climate and Society (<ext-link ext-link-type="uri" xlink:href="http://iridl.ldeo.columbia.edu/SOURCES/.NOAA/.NCEP/.EMC/.CMB/.GLOBAL/.Reyn_SmithOIv2/.monthly/.ssta/">http://iridl.ldeo.columbia.edu/SOURCES/.NOAA/.NCEP/.EMC/.CMB/.GLOBAL/.Reyn_SmithOIv2/.monthly/.ssta/</ext-link>). The SST is relative to a 1971&#x2013;2000 baseline. Brown line, ts 1; green line, ts 2; red line, ts 3. For the site location, see Fig. 2C. (<bold>D)</bold> Mean summer [June, July, and August (JJA)] air temperature from Upernavik (red), Kitsissorsuit (black), and Pituffik (blue) meteorological stations (<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>). Orange shows a 3-year running mean.</p>
+</caption><graphic xlink:href="337_569_F4"></graphic></fig>
+<p>Measurements of mean annual sea surface temperature (SST) from Melville Bugt show positive temperature anomalies that partially coincide with ice loss events in 1985&#x2013;1994 and more significantly in 2005&#x2013;2010, suggesting ocean warming as a potential trigger for the widespread glacier acceleration (<xref ref-type="fig" rid="F4">Fig. 4</xref>) (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>, <xref ref-type="bibr" rid="R21"><italic>21</italic></xref>, <xref ref-type="bibr" rid="R22"><italic>22</italic></xref>). However, the lack of high-resolution SST data, especially in coastal areas where the marine glaciers terminate, prevents a quantitative assessment of the impact of ocean warming. We also find that higher summer air temperatures (recorded at three stations) in northwest Greenland coincided with the most recent mass loss events, implying that part of the ice loss was caused by increased surface melting. The rather modest response in SMB as compared to the observed annual increase in air temperature of +0.20&#x00B0;C year<sup>&#x2013;1</sup> in the Melville Bay region of northwest Greenland from 1981 to 2010 reflects the fact that much of the atmospheric warming occurs in the winter, with limited impact on the SMB (<xref ref-type="bibr" rid="R23"><italic>23</italic></xref>). Detailed analysis of the SMB constituents during the past decade has furthermore demonstrated that changes in precipitation patterns from higher to lower accumulation rates around 2005 in northwest Greenland explain much of the interannual variability and the rapid transition to stronger negative mass balances (<xref ref-type="bibr" rid="R24"><italic>24</italic></xref>). During the first event, changes in the SMB did not contribute significantly to the mass loss (<xref ref-type="fig" rid="F4">Fig. 4A</xref>), and ocean warming was probably the main factor to trigger a dynamic ice loss event. However, during the second event, SMB comprised ~33% of the total mass loss in the marginal zone (<xref ref-type="table" rid="T1">Table 1</xref>), suggesting that the Greenland Ice Sheet is becoming increasingly sensitive to atmospheric warming.</p>
+<p>Our results demonstrate that northwestern Greenland, a key area for rapid ice sheet mass changes (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>), experienced two DIL events in the past three decades. This implies that mass change of the northern Greenland Ice Sheet is not only a result of predictable surface processes over decadal time scales, but is foremost due to 3- to 5-year DIL events that are neither regionally systematic nor monotonic, despite a possible common oceanic forcing. Until this spatial and temporal variability in ice sheet dynamics has been resolved in ice sheet models, we will not be able to realistically predict future sea-level contributions from the Greenland Ice Sheet. Analysis of historical aerial photographs has the potential to explain the patterns of short-lived dynamical ice loss and, in the case of the Greenland and Antarctica Ice Sheets, can extend back to the 1930s and 1940s, when extensive aerial mapping took place. Such analysis may further provide a new observational standard for the temporal and spatial variability of the ice sheet response that must be met in order to inspire confidence in calculations of the future ice sheet contribution to sea-level rise.</p>
+</body>
+<back><app-group><app>
+<title>Supplementary Materials</title><supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/337/6094/569/DC1">www.sciencemag.org/cgi/content/full/337/6094/569/DC1</ext-link></p>
+<p>Materials and Methods</p>
+<p>Figs. S1 to S10</p>
+<p>References</p></supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Holland</surname><given-names>D. M.</given-names></name><name><surname>Thomas</surname><given-names>R. H.</given-names></name><name><surname>de Young</surname><given-names>B.</given-names></name><name><surname>Ribergaard</surname><given-names>M. H.</given-names></name><name><surname>Lyberth</surname><given-names>B.</given-names></name></person-group>, 
+<article-title>Acceleration of Jakobshavn Isbr&#x00E6; triggered by warm subsurface ocean waters</article-title>. <source>Nat. Geosci.</source> 
+<volume>1</volume>, 
+<fpage>659</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1038/ngeo316</pub-id></citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Thomas</surname><given-names>R. H.</given-names></name><etal /></person-group>., 
+<article-title>Investigation of surface melting and dynamic thinning on Jakobshavn Isbr&#x00E6;, Greenland</article-title>. <source>J. Glaciol.</source> 
+<volume>49</volume>, 
+<fpage>231</fpage> (<year>2003</year>). <pub-id pub-id-type="doi">10.3189/172756503781830764</pub-id></citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Howat</surname><given-names>I. M.</given-names></name><name><surname>Eddy</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Multi-decadal retreat of Greenland&#x2019;s marine-terminating glaciers</article-title>. <source>J. Glaciol.</source> 
+<volume>57</volume>, 
+<fpage>389</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.3189/002214311796905631</pub-id></citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Nick</surname><given-names>F. M.</given-names></name><name><surname>Vieli</surname><given-names>A.</given-names></name><name><surname>Howat</surname><given-names>I. M.</given-names></name><name><surname>Joughin</surname><given-names>I.</given-names></name></person-group>, 
+<article-title>Large-scale changes in Greenland outlet glacier dynamics triggered at the terminus</article-title>. <source>Nat. Geosci.</source> 
+<volume>2</volume>, 
+<fpage>110</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1038/ngeo394</pub-id></citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Pritchard</surname><given-names>H. D.</given-names></name><name><surname>Arthern</surname><given-names>R. J.</given-names></name><name><surname>Vaughan</surname><given-names>D. G.</given-names></name><name><surname>Edwards</surname><given-names>L. A.</given-names></name></person-group>, 
+<article-title>Extensive dynamic thinning on the margins of the Greenland and Antarctic ice sheets</article-title>. <source>Nature</source> 
+<volume>461</volume>, 
+<fpage>971</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1038/nature08471</pub-id><pub-id pub-id-type="pmid">19776741</pub-id></citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>van den Broeke</surname><given-names>M. R.</given-names></name><etal /></person-group>., 
+<article-title>Partitioning recent Greenland mass loss</article-title>. <source>Science</source> 
+<volume>326</volume>, 
+<fpage>984</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1126/science.1178176</pub-id><pub-id pub-id-type="pmid">19965509</pub-id></citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Howat</surname><given-names>I. M.</given-names></name><name><surname>Joughin</surname><given-names>I.</given-names></name><name><surname>Scambos</surname><given-names>T. A.</given-names></name></person-group>, 
+<article-title>Rapid changes in ice discharge from Greenland outlet glaciers</article-title>. <source>Science</source> 
+<volume>315</volume>, 
+<fpage>1559</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1126/science.1138478</pub-id><pub-id pub-id-type="pmid">17289940</pub-id></citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Khan</surname><given-names>S. A.</given-names></name><name><surname>Wahr</surname><given-names>J.</given-names></name><name><surname>Bevis</surname><given-names>M.</given-names></name><name><surname>Velicogna</surname><given-names>I.</given-names></name><name><surname>Kendrick</surname><given-names>E.</given-names></name></person-group>, 
+<article-title>Spread of ice mass loss into northwest Greenland observed by GRACE and GPS</article-title>. <source>Geophys. Res. Lett.</source> 
+<volume>37</volume>, 
+<fpage>L06501</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1029/2010GL042460</pub-id></citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Velicogna</surname><given-names>I.</given-names></name></person-group>, 
+<article-title>Increasing rates of ice mass loss from the Greenland and Antarctic ice sheets revealed by GRACE</article-title>. <source>Geophys. Res. Lett.</source> 
+<volume>36</volume>, 
+<fpage>L19503</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1029/2009GL040222</pub-id></citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Joughin</surname><given-names>I.</given-names></name><name><surname>Smith</surname><given-names>B. E.</given-names></name><name><surname>Howat</surname><given-names>I. M.</given-names></name><name><surname>Scambos</surname><given-names>T.</given-names></name><name><surname>Moon</surname><given-names>T.</given-names></name></person-group>, 
+<article-title>Greenland flow variability from ice-sheet-wide velocity mapping</article-title>. <source>J. Glaciol.</source> 
+<volume>56</volume>, 
+<fpage>415</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.3189/002214310792447734</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="book">AMAP, <italic>The Greenland Ice Sheet in a Changing Climate: Snow, Water, Ice and Permafrost in the Arctic (SWIPA) 2009</italic> [Arctic Monitoring and Assessment Programme, (AMAP), Oslo, Norway, 2009].</citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Rignot</surname><given-names>E.</given-names></name><name><surname>Velicogna</surname><given-names>I.</given-names></name><name><surname>van den Broeke</surname><given-names>M. R.</given-names></name><name><surname>Monaghan</surname><given-names>A.</given-names></name><name><surname>Lenaerts</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>Acceleration of the contribution of the Greenland and Antarctic ice sheets to sea level rise</article-title>. <source>Geophys. Res. Lett.</source> 
+<volume>38</volume>, 
+<fpage>L05503</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1029/2011GL046583</pub-id></citation></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Jacob</surname><given-names>T.</given-names></name><name><surname>Wahr</surname><given-names>J.</given-names></name><name><surname>Pfeffer</surname><given-names>W. T.</given-names></name><name><surname>Swenson</surname><given-names>S.</given-names></name></person-group>, 
+<article-title>Recent contributions of glaciers and ice caps to sea level rise</article-title>. <source>Nature</source> 
+<volume>482</volume>, 
+<fpage>514</fpage> (<year>2012</year>).</citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="book">H. J. Zwally <italic>et al</italic>., GLAS/ICESat L2 Antarctic and Greenland Ice Sheet Altimetry Data V031 (NASA Distributed Active Archive Center at the National Snow and Ice Data Center, Boulder, CO, 2011).</citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="web">W. B. Krabill, IceBridge ATM L2 Icessn Elevation, Slope, and Roughness [1993-2010] (NASA Distributed Active Archive Center at the National Snow and Ice Data Center, Boulder, CO, 2010); <ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://nsidc.org/data/ilatm2.html">http://nsidc.org/data/ilatm2.html</ext-link>.</citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ettema</surname><given-names>J.</given-names></name><etal /></person-group>., 
+<article-title>Higher surface mass balance of the Greenland ice sheet revealed by high-resolution climate modeling</article-title>. <source>Geophys. Res. Lett.</source> 
+<volume>36</volume>, 
+<fpage>L12501</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1029/2009GL038110</pub-id></citation></ref>
+<ref id="R17"><label>17</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ettema</surname><given-names>J.</given-names></name><etal /></person-group>., 
+<article-title>Climate of the Greenland ice sheet using a high-resolution climate model &#x2013; Part 1: Evaluation</article-title>. <source>Cryosphere</source> 
+<volume>4</volume>, 
+<fpage>511</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.5194/tc-4-511-2010</pub-id></citation></ref>
+<ref id="R18"><label>18</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ettema</surname><given-names>J.</given-names></name><name><surname>van den Broeke</surname><given-names>M. R.</given-names></name><name><surname>van Meijgaard</surname><given-names>E.</given-names></name><name><surname>van de Berg</surname><given-names>W. J.</given-names></name></person-group>, 
+<article-title>Climate of the Greenland ice sheet using a high-resolution climate model &#x2013; Part 2: Near-surface climate and energy balance</article-title>. <source>Cryosphere</source> 
+<volume>4</volume>, 
+<fpage>529</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.5194/tc-4-529-2010</pub-id></citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Reeh</surname><given-names>N.</given-names></name></person-group>, 
+<article-title>A nonsteady-state firn-densication model for the percolation zone of a glacier</article-title>. <source>J. Geophys. Res.</source> 
+<volume>113</volume>, 
+<fpage>F03023</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1029/2007JF000746</pub-id></citation></ref>
+<ref id="R20"><label>20</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Reeh</surname><given-names>N.</given-names></name><name><surname>Fisher</surname><given-names>D. A.</given-names></name><name><surname>Koerner</surname><given-names>R. M.</given-names></name><name><surname>Clausen</surname><given-names>H. B.</given-names></name></person-group>, 
+<article-title>An empirical firn-densification model comprising ice lenses</article-title>. <source>Ann. Glaciol.</source> 
+<volume>42</volume>, 
+<fpage>101</fpage> (<year>2005</year>). <pub-id pub-id-type="doi">10.3189/172756405781812871</pub-id></citation></ref>
+<ref id="R21"><label>21</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Straneo</surname><given-names>F.</given-names></name><etal /></person-group>., 
+<article-title>Rapid circulation of warm subtropical waters in a major glacial fjord off East Greenland</article-title>. <source>Nat. Geosci.</source> 
+<volume>3</volume>, 
+<fpage>182</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1038/ngeo764</pub-id></citation></ref>
+<ref id="R22"><label>22</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Murray</surname><given-names>T.</given-names></name><etal /></person-group>., 
+<article-title>Ocean regulation hypothesis for glacier dynamics in southeast Greenland and implications for ice sheet mass changes</article-title>. <source>J. Geophys. Res.</source> 
+<volume>115</volume>, 
+<fpage>F03026</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1029/2009JF001522</pub-id><pub-id pub-id-type="pmid">20463844</pub-id></citation></ref>
+<ref id="R23"><label>23</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Van As</surname><given-names>D.</given-names></name></person-group>, 
+<article-title>Warming, glacier melt and surface energy budget from weather station observations in the Melville Bay region of northwest Greenland</article-title>. <source>J. Glaciol.</source> 
+<volume>57</volume>, 
+<fpage>208</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.3189/002214311796405898</pub-id></citation></ref>
+<ref id="R24"><label>24</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Sasgen</surname><given-names>I.</given-names></name><etal /></person-group>., 
+<article-title>Timing and origin of recent regional ice-mass loss in Greenland</article-title>. <source>Earth Planet. Sci. Lett.</source> 
+<volume>333-334</volume>, 
+<fpage>293</fpage> (<year>2012</year>). <pub-id pub-id-type="doi">10.1016/j.epsl.2012.03.033</pub-id></citation></ref>
+<ref id="R25"><label>25</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Wahr</surname><given-names>J.</given-names></name><name><surname>Molenaar</surname><given-names>M.</given-names></name><name><surname>Bryan</surname><given-names>F.</given-names></name></person-group>, 
+<article-title>Time-variability of Earth&#x2019;s gravity field: Hydrological and oceanic effects and their possible detection using GRACE</article-title>. <source>J. Geophys. Res.</source> 
+<volume>113</volume>, 
+<fpage>30.205</fpage> (<year>1998</year>).</citation></ref>
+<ref id="R26"><label>26</label><citation citation-type="other">L. S. Carstensen, B. V. J&#x00F8;rgensen, <italic>Weather and Climate Data from Greenland 1958&#x2013;2010</italic> (DMI Technical Report Tr 11-10, Danish Meteorological Institute, 2011); www.dmi.dk/dmi/tr11-10.pdf.</citation></ref>
+<ref id="R27"><label>27</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Zwally</surname><given-names>H. J.</given-names></name><etal /></person-group>., 
+<article-title>Greenland ice sheet mass balance: Distribution of increased mass loss with climate warming; 2003&#x2013;07 versus 1992&#x2013;2002</article-title>. <source>J. Glaciol.</source> 
+<volume>57</volume>, 
+<fpage>88</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.3189/002214311795306682</pub-id></citation></ref>
+<ref id="R28"><label>28</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ewert</surname><given-names>H.</given-names></name><name><surname>Groh</surname><given-names>A.</given-names></name><name><surname>Dietrich</surname><given-names>R.</given-names></name></person-group>, 
+<article-title>Volume and mass changes of the Greenland ice sheet inferred from ICESat and GRACE</article-title>. <source>J. Geodyn.</source> (<year>2011</year>). <pub-id pub-id-type="doi">10.1016/j.jog.2011.06.003</pub-id></citation></ref>
+<ref id="R29"><label>29</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Chen</surname><given-names>J. L.</given-names></name><name><surname>Wilson</surname><given-names>C. R.</given-names></name><name><surname>Tapley</surname><given-names>B. D.</given-names></name></person-group>, 
+<article-title>Interannual variability of Greenland ice losses from satellite gravimetry</article-title>. <source>J. Geophys. Res.</source> 
+<volume>116</volume>, 
+<fpage>B07406</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1029/2010JB007789</pub-id></citation></ref>
+<ref id="R30"><label>30</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Wouters</surname><given-names>B.</given-names></name><name><surname>Chambers</surname><given-names>D.</given-names></name><name><surname>Schrama</surname><given-names>E. J. O.</given-names></name></person-group>, 
+<article-title>GRACE observes small-scale mass loss in Greenland</article-title>. <source>Geophys. Res. Lett.</source> 
+<volume>35</volume>, 
+<fpage>L20501</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1029/2008GL034816</pub-id></citation></ref>
+</ref-list>
+<ack>
+<title>Acknowledgments</title><p>This work is a part of the RinkProject, within the Centre for GeoGenetics, funded by the Danish Research Council, grant no. 272-08-0415, and the Commission for Scientific Research in Greenland. J.L.B. and R.H. were supported by funding from the ice2sea program from the European Union 7th Framework Programme, grant number 226375. J.W. was partially supported by NASA grants NNX08AF02G and NNXI0AR66G, and by NASA&#x2019;s Making Earth Science Data Records for Use in Research Environments (MEaSUREs) program. M.v.d.B. acknowledges support from Utrecht University and the Netherlands Polar Program. Finally, we extend our gratitude toward the Danish National Cadastre and Survey for facilitating the erection of AirBase: a database containing registrations of aerial photographs from Greenland and their metadata. K.H.K., S.A.K., N.K.L., and E.W. wrote the majority of the main text with significant input from all authors. All authors contributed with interpretation and discussion of results. N.J.K. completed the aerial photogrammetric and validation analyses together with L.H.T., K.H.K., L.T.J., and A.F.-J. J.W. provided the GRACE data and analyses. K.K.K. handled the Geographical Information System and database management. J.B., M.v.d.B., and R.H. provided SMB and firn density data. A.A.B., L.H.T., and N.K.L. collected ice marginal data and analyzed their long-term significance.</p>
+</ack></back>
+</article>

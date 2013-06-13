@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1236372</article-id>
+<article-id pub-id-type="doi">10.1126/science.1236372</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Perspective</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Perspectives</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>perspective</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Atmosphere</subject></subj-group>
+<subj-group subj-group-type="field"><subject>ATMOS</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Environment</subject><subject>Oceanography</subject><subject>Physics</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Irreversible Does Not Mean Unavoidable</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Matthews</surname><given-names>H. Damon</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib>
+<contrib contrib-type="author" corresp="yes"><name><surname>Solomon</surname><given-names>Susan</given-names></name><xref ref-type="aff" rid="aff2">2</xref></contrib>
+<aff id="aff1"><label>1</label>Department of Geography, Planning and Environment, Concordia University, Montreal, Quebec H3G 1M8, Canada.</aff>
+<aff id="aff2"><label>2</label>Department of Earth, Atmospheric and Planetary Sciences, Massachusetts Institute of Technology, Cambridge, MA 02139, USA.</aff>
+</contrib-group>
+<author-notes>
+<corresp>E-mail: <email>damon.matthews@concordia.ca</email>; <email>solos@mit.edu</email></corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<day>26</day>
+<month>04</month>
+<year>2013</year>
+</pub-date>
+<volume>340</volume>
+<issue>6131</issue>
+<fpage>438</fpage>
+<lpage>439</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>Carbon dioxide emissions cuts implemented today would affect the rate of future global warming immediately.</p>
+</abstract>
+<abstract abstract-type="excerpt">
+<p>Understanding how decreases in CO<sub>2</sub> emissions would affect global temperatures has been hampered in recent years by confusion regarding issues of committed warming and irreversibility. The notion that there will be additional future warming or &#x201C;warming in the pipeline&#x201D; if the atmospheric concentrations of carbon dioxide were to remain fixed at current levels (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>) has been misinterpreted to mean that the rate of increase in Earth's global temperature is inevitable, regardless of how much or how quickly emissions decrease (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>&#x2013;<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). Further misunderstanding may stem from recent studies showing that the warming that has already occurred as a result of past anthropogenic carbon dioxide increases is irreversible on a time scale of at least 1000 years (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>, <xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). But irreversibility of past changes does not mean that further warming is unavoidable.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Julia Fahrenkamp-Uppenbrink</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Jeff Cook</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>Understanding how decreases in CO<sub>2</sub> emissions would affect global temperatures has been hampered in recent years by confusion regarding issues of committed warming and irreversibility. The notion that there will be additional future warming or &#x201C;warming in the pipeline&#x201D; if the atmospheric concentrations of carbon dioxide were to remain fixed at current levels (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>) has been misinterpreted to mean that the rate of increase in Earth's global temperature is inevitable, regardless of how much or how quickly emissions decrease (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>&#x2013;<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). Further misunderstanding may stem from recent studies showing that the warming that has already occurred as a result of past anthropogenic carbon dioxide increases is irreversible on a time scale of at least 1000 years (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>, <xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). But irreversibility of past changes does not mean that further warming is unavoidable.</p>
+<p>The climate responds to increases in atmospheric CO<sub>2</sub> concentrations by warming, but this warming is slowed by the long time scale of heat storage in the ocean, which represents the physical climate inertia. There would indeed be unrealized warming associated with current CO<sub>2</sub> concentrations, but only if they were held fixed at current levels (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). If emissions decrease enough, the CO<sub>2</sub> level in the atmosphere can also decrease. This potential for atmospheric CO<sub>2</sub> to decrease over time results from inertia in the carbon cycle associated with the slow uptake of anthropogenic CO<sub>2</sub> by the ocean. This carbon cycle inertia affects temperature in the opposite direction from the physical climate inertia and is of approximately the same magnitude (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>, <xref ref-type="bibr" rid="R6"><italic>6</italic></xref>).</p>
+<p>Because of these equal and opposing effects of physical climate inertia and carbon cycle inertia, there is almost no delayed warming from past CO<sub>2</sub> emissions. If emissions were to cease abruptly, global average temperatures would remain roughly constant for many centuries, but they would not increase very much, if at all. Similarly, if emissions were to decrease, temperatures would increase less than they otherwise would have (see the first figure).</p>
+<p>Thus, although the CO<sub>2</sub>-induced warming already present on our planet&#x2014;the cumulative result of past emissions&#x2014;is irreversible, any further increase in CO<sub>2</sub>-induced warming is entirely the result of current CO<sub>2</sub> emissions. Warming at the end of this century and beyond will depend on the cumulative emissions we emit between now and then. But future warming is not unavoidable: CO<sub>2</sub> emissions reductions would lead to an immediate decrease in the rate of global warming.</p>
+<p>Why, then, are many different near-term projections of CO<sub>2</sub>-induced warming very similar? These modeled estimates are similar because even socioeconomic scenarios that produce very different cumulative emissions by the end of this century are not very different over the next two decades (<xref ref-type="fig" rid="F1">figs. S1</xref> and <xref ref-type="fig" rid="F2">S2</xref>). The climate system physics implies that further increases in warming could in principle be stopped immediately, but human systems have longer time scales. Carbon-emitting infrastructure is designed to benefit human-kind for many decades; each year's additional infrastructure implies added stock intended to last and emit CO<sub>2</sub> for many decades. It is this dependence on CO<sub>2</sub>-emitting technology that generates a commitment to current and near-future emissions (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>). Cleaner alternatives are being developed and carbon capture and storage technologies are being tested, but technological development and diffusion are subject to substantial inertia (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>). Societal inertia, rather than the inertia of the climate system, is thus the critical challenge if we wish to begin to decrease the rate of CO<sub>2</sub>-induced global warming in the near future.</p>
+<fig id="F1" position="float">
+<caption>
+<title>How the climate system responds.</title>
+<p>The climate response to CO<sub>2</sub> emissions is influenced by both physical climate and carbon cycle inertia, with the result that the net system inertia is close to zero. Therefore, future climate warming depends only on current and future CO<sub>2</sub> emissions, and the rate of warming will respond immediately to CO<sub>2</sub> emissions cuts. The illustrative future scenarios shown here are from SRES scenarios B1 (blue line) and A1fi(orange line). Idealized future warming is calculated as a linear function of cumulative CO<sub>2</sub> emissions. Observed historical temperatures are shown in black.</p>
+</caption>
+<graphic xlink:href="340_438_F1"></graphic>
+</fig>
+<p>The strong dependence of future warming on future cumulative carbon emissions implies that there is a quantifiable cumulative amount of CO<sub>2</sub> emissions that we must not exceed if we wish to keep global temperature below 2&#x00B0;C above preindustrial temperatures. Several recent analyses have suggested that total CO<sub>2</sub> emissions of &#x223C;1000 Pg C (&#x223C;3700 Pg CO<sub>2</sub>; 1 Pg = 10<sup>15</sup> g) would give us about even odds of meeting the 2&#x00B0;C target (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>&#x2013;<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). To meet such a target given historical emissions would mean that the world has roughly half of the allowable emissions budget remaining. This is equivalent to 50 years of emissions at current levels and carries the implication that the longer we delay before beginning to decrease emissions, the faster the rate of decrease must be to stay within this total allowable budget (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>).</p>
+<p>Emissions differ widely between countries, particularly between those in the developed and developing world (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>). Cumulative carbon emissions from the developed world currently exceed those from developing countries, but rapid economic growth in emerging economies is expected to reverse this pattern within a few decades (<xref ref-type="fig" rid="F2">fig. S2</xref>). Nonetheless, per capita cumulative emissions from developed countries are expected to remain far higher than those from developing nations throughout the 21st century (see the second figure). If technological investments and innovation increase the availability of reduced-carbon sources of energy that are competitive in price, development can continue to improve the lives of people in emerging economies without driving global climate change to increasingly dangerous levels. If reduced-carbon energy sources are not advanced rapidly, a great deal of carbon-intensive infrastructure is likely to be put in place in the developing world, implying a large and ongoing societal commitment to further global CO<sub>2</sub> emissions and consequent climate warming (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>).</p>
+<fig id="F2" position="float">
+<caption>
+<title>Development and emissions.</title>
+<p>Cumulative emissions from developed countries (Annex-1) currently exceed those from developing countries (non-Annex). This pattern is expected to reverse for future emissions scenarios (<bold>A</bold>), but per-capita cumulative emissions from developed countries are expected to remain much higher than those from developing countries (<bold>B</bold>). Historical emissions until 2012 are shown in green; future cumulative and per capita cumulative emissions are calculated at year 2100 for SRES B1 (blue) and A1fi(orange) emissions scenarios.</p>
+</caption>
+<graphic xlink:href="340_438_F2"></graphic>
+</fig>
+<p>Given the irreversibility of CO<sub>2</sub>-induced warming (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>, <xref ref-type="bibr" rid="R6"><italic>6</italic></xref>), every increment of avoided temperature increase represents less warming that would otherwise persist for many centuries. Although emissions reductions cannot return global temperatures to pre-industrial levels, they do have the power to avert additional warming on the same time scale as the emissions reductions themselves. Climate warming tomorrow, this year, this decade, or this century is not predetermined by past CO<sub>2</sub> emissions; it is yet to be determined by future emissions. The climate benefits of emissions reductions would thus occur on the same time scale as the political decisions that lead to the reductions.</p>
+</body>
+<back>
+<ack>
+<title>Acknowledgments</title>
+<p>We thank S. Turner, A. Weaver, S. Lewis, N. Ramankutty, and members of the Concordia Climate Lab for helpful discussions. Supported by the Natural Sciences and Engineering Research Council of Canada and the Canadian Foundation for Climate and Atmospheric Sciences.</p>
+</ack>
+<app-group>
+<app>
+<title>Supplementary Materials</title>
+<supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/science.1236372/DC1">www.sciencemag.org/cgi/content/full/science.1236372/DC1</ext-link></p>
+<p>Supplementary Text</p>
+<p>Figs. S1 and S2</p>
+<p>References</p>
+<p>Published online 28 March 2013</p>
+</supplementary-material>
+</app>
+</app-group>
+<ref-list>
+    <title>References and Notes</title>
+<ref id="R1">
+<label>1</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hansen</surname><given-names>J.</given-names></name><etal/></person-group>., <source>Science</source> <volume>308</volume>, <fpage>1431</fpage> (<year>2005</year>).</citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Matthews</surname><given-names>H. D.</given-names></name><name><surname>Weaver</surname><given-names>A. J.</given-names></name></person-group>, <source>Nat. Geosci.</source> <volume>3</volume>, <fpage>142</fpage> (<year>2010</year>).</citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<citation citation-type="web">
+<comment>See, for example</comment>, <source>The Washington Post</source>, <day>31</day> <month>October</month> <year>2012</year>, <comment><ext-link ext-link-type="uri" xlink:href="http://www.washingtonpost.com/blogs/ezra-klein/wp/2012/10/31/why-the-united-states-is-so-unprepared-for-climate-disasters">www.washingtonpost.com/blogs/ezra-klein/wp/2012/10/31/why-the-united-states-is-so-unprepared-for-climate-disasters</ext-link> (accessed</comment> <access-date>10 November 2012</access-date>).</citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<note><p>For example, the IPCC's 2007 Summary for Policymakers from Working Group II ( 15) states that &#x201C;Past emissions are estimated to involve some unavoidable warming&#x2026;&#x201D; with the consequence that &#x201C;Adaptation will be necessary to address impacts resulting from the warming which is already unavoidable due to past emissions.&#x201D;</p></note>
+</ref>
+<ref id="R5">
+<label>5</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Solomon</surname><given-names>S.</given-names></name><name><surname>Plattner</surname><given-names>G. K.</given-names></name><name><surname>Knutti</surname><given-names>R.</given-names></name><name><surname>Friedlingstein</surname><given-names>P.</given-names></name></person-group>, <source>Proc. Natl. Acad. Sci. U.S.A.</source> <volume>106</volume>, <fpage>1704</fpage> (<year>2009</year>).</citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Matthews</surname><given-names>H.</given-names></name><name><surname>Caldeira</surname><given-names>K.</given-names></name></person-group>, <source>Geophys. Res. Lett.</source> <volume>35</volume>, <fpage>L04705</fpage> (<year>2008</year>).</citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Davis</surname><given-names>S. J.</given-names></name><name><surname>Caldeira</surname><given-names>K.</given-names></name><name><surname>Matthews</surname><given-names>H. D.</given-names></name></person-group>, <source>Science</source> <volume>329</volume>, <fpage>1330</fpage> (<year>2010</year>).</citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<citation citation-type="book">
+<person-group person-group-type="author"><name><surname>Victor</surname><given-names>D. G.</given-names></name></person-group>, <source>Global Warming Gridlock</source> (<publisher-name>Cambridge Univ. Press</publisher-name>, <publisher-loc>Cambridge</publisher-loc>, <year>2011</year>).</citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Allen</surname><given-names>M. R.</given-names></name><etal/></person-group>., <source>Nature</source> <volume>458</volume>, <fpage>1163</fpage> (<year>2009</year>).</citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Matthews</surname><given-names>H. D.</given-names></name><name><surname>Gillett</surname><given-names>N. P.</given-names></name><name><surname>Stott</surname><given-names>P. A.</given-names></name><name><surname>Zickfeld</surname><given-names>K.</given-names></name></person-group>, <source>Nature</source> <volume>459</volume>, <fpage>829</fpage> (<year>2009</year>).</citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<citation citation-type="book">
+<person-group person-group-type="author"><name><surname>Solomon</surname><given-names>S.</given-names></name><etal/></person-group>., <source>Climate Stabilization Targets</source> (<publisher-name>National Academies Press</publisher-name>, <publisher-loc>Washington, DC</publisher-loc>, <year>2011</year>).</citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Matthews</surname><given-names>H. D.</given-names></name><name><surname>Solomon</surname><given-names>S.</given-names></name><name><surname>Pierrehumbert</surname><given-names>R.</given-names></name></person-group>, <source>Philos. Trans. R. Soc. London Ser. A</source> <volume>370</volume>, <fpage>4365</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R13">
+<label>13</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Stocker</surname><given-names>T. F.</given-names></name></person-group>, <source>Science</source> <volume>339</volume>, <fpage>280</fpage> (<year>2013</year>).</citation>
+</ref>
+<ref id="R14">
+<label>14</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Bolin</surname><given-names>B.</given-names></name><name><surname>Kheshgi</surname><given-names>H. S.</given-names></name></person-group>, <source>Proc. Natl. Acad. Sci. U.S.A.</source> <volume>98</volume>, <fpage>4850</fpage> (<year>2001</year>).</citation>
+</ref>
+<ref id="R15">
+<label>15</label>
+<citation citation-type="book">
+<person-group person-group-type="editor"><name><surname>Parry</surname><given-names>M.</given-names></name><name><surname>Hanson</surname><given-names>C.</given-names></name><name><surname>van der Linden</surname><given-names>P.</given-names></name><name><surname>Palutikof</surname><given-names>J.</given-names></name><name><surname>Canziani</surname><given-names>O.</given-names></name></person-group>, Eds., <source>Climate Change 2007: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change</source> (<publisher-name>Cambridge Univ. Press</publisher-name>, <publisher-loc>Cambridge</publisher-loc>, <year>2007</year>), p. <fpage>19</fpage>.</citation>
+</ref>
+</ref-list>
+</back>
+</article>

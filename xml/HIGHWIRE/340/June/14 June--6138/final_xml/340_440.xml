@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1238522</article-id>
+<article-id pub-id-type="doi">10.1126/science.1238522</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Perspective</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Perspectives</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>perspective</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Molecular Biology</subject></subj-group>
+<subj-group subj-group-type="field"><subject>MOLEC BIOL</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Molecular-Biology</subject><subject>Biochemistry</subject><subject>Genetics</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>A Circuitous Route to Noncoding RNA</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Wilusz</surname><given-names>Jeremy E.</given-names></name></contrib>
+<contrib contrib-type="author" corresp="yes"><name><surname>Sharp</surname><given-names>Phillip A.</given-names></name></contrib>
+<aff>Koch Institute for Integrative Cancer Research and Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02139, USA.</aff>
+</contrib-group>
+<author-notes>
+<corresp>E-mail: <email>wilusz@mit.edu</email>; <email>sharppa@mit.edu</email></corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<day>26</day>
+<month>04</month>
+<year>2013</year>
+</pub-date>
+<volume>340</volume>
+<issue>6131</issue>
+<fpage>440</fpage>
+<lpage>441</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>A class of circular RNAs that regulates microRNAs is abundant in mammalian cells.</p>
+</abstract>
+<abstract abstract-type="excerpt">
+<p>Most genetic information is expressed as, and transacted by, proteins. Yet, less than 2% of the human genome actually codes for proteins, prompting a search for functions for the other 98% of the genome, once considered to be mostly &#x201C;junk DNA.&#x201D; Transcription is pervasive, however, and high-throughput sequencing has identified tens of thousands of distinct RNAs generated from the non&#x2014;protein&#x2014;coding portion of the genome (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). These so-called noncoding RNAs vary in length, but like protein-coding RNAs, appear to be linear molecules with 5&#x2032; and 3&#x2032; termini, reflecting the defined start and end points of RNA polymerase on the DNA template. But do all RNAs have to be linear?</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Lisa D. Chong</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Harry Jach</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>Most genetic information is expressed as, and transacted by, proteins. Yet, less than 2% of the human genome actually codes for proteins, prompting a search for functions for the other 98% of the genome, once considered to be mostly &#x201C;junk DNA.&#x201D; Transcription is pervasive, however, and high-throughput sequencing has identified tens of thousands of distinct RNAs generated from the non&#x2014;protein&#x2014;coding portion of the genome (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). These so-called noncoding RNAs vary in length, but like protein-coding RNAs, appear to be linear molecules with 5&#x2032; and 3&#x2032; termini, reflecting the defined start and end points of RNA polymerase on the DNA template. But do all RNAs have to be linear?</p>
+<p>Circular RNAs that have covalently linked ends are found in pathogens such as viroids (virus-like infectious particles), circular satellite viruses, and hepatitis delta virus&#x2014;which causes severe liver disease in humans infected with hepatitis B and replicates by a rolling-circle&#x2013;based mechanism (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>). A handful of circular RNAs generated from eukaryotic genomes have also been identified (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>, <xref ref-type="bibr" rid="R4"><italic>4</italic></xref>), but their role is unclear as they are generated by seemingly rare errors in RNA splicing. Because eukaryotes contain split genes, their precursor mRNAs (pre-mRNAs) must be modified such that noncoding introns are removed and protein-coding exons are joined together (see the figure). In these rare cases that generated circular RNAs, the splicing machinery failed to join the 3&#x2032; end of one exon to the 5&#x2032; end of the next and instead appeared to mis-splice by, for example, joining the two ends of a single exon together. High-throughput sequencing data combined with new computational algorithms (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>&#x2013;<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>) have now revealed thousands of circular RNAs in species ranging from humans to archaea.</p>
+<p>Human fibroblasts alone have more than 25,000 circular RNAs (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>). Derived from &#x223C;15% of actively transcribed genes, these circles contain mostly exonic sequences (usually between one and five exons). Large numbers of circular RNAs accumulate in the cytoplasm of cells, sometimes exceeding the abundance of the associated linear mRNA by a factor of 10 (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>, <xref ref-type="bibr" rid="R7"><italic>7</italic></xref>). This is likely because circular RNAs are resistant to degradation by many cellular RNA decay machineries, which recognize the ends of linear RNAs.</p>
+<p>For a subset of circular RNAs, the circularization signals appear to be evolutionarily conserved, as some were detected in both human and mouse (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>, <xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). The splicing machinery is very likely involved in their biogenesis as canonical splicing signals generally immediately flank their sequences. However, the exact mechanism by which the splicing machinery selects particular regions to circularize is still unclear. The presence of inverted repeats in the surrounding introns and/or exon skipping events may play a role (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>, <xref ref-type="bibr" rid="R5"><italic>5</italic></xref>, <xref ref-type="bibr" rid="R9"><italic>9</italic></xref>).</p>
+<fig id="F1" position="float">
+<caption>
+<title>Circular RNAs sequester microRNAs.</title>
+<p>Noncoding introns [flanked by splice sites (ss)] are removed from pre-mRNA by the splicing machinery and a poly(A) tail is added to prevent mRNA degradation (left). Linear mRNA is then translated by ribosomes unless it becomes bound by microRNAs that are associated with argonaute (Ago) protein. The latter interaction inhibits translation and/or promotes mRNA degradation. The splicing machinery can also &#x201C;backsplice&#x201D; and generate circular RNAs whose 5&#x2032; and 3&#x2032; ends are covalently linked (right). Large numbers of these circular RNAs sequester microRNAs from binding mRNA targets.</p>
+</caption>
+<graphic xlink:href="340_440_F1"></graphic>
+<attrib>CREDIT: K. SUTLIFF/<italic>SCIENCE</italic></attrib>
+</fig>
+<p>One particular circular RNA found pre-dominantly in human and mouse brain is &#x223C;1500 nucleotides in length and, surprisingly, contains more than 70 evolutionarily conserved binding sites for the microRNA miR-7 (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R9"><italic>9</italic></xref>). MicroRNAs are &#x223C;21-nucleotide RNAs that function by base pairing to mRNAs and repressing protein production and/or causing mRNA degradation (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>). However, a microRNA can bind to any transcript that contains a complementary sequence and, indeed, this circular RNA may efficiently bind &#x223C;20,000 miR-7 microRNAs per cell (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>), thereby preventing miR-7 from binding other RNAs. Consistent with a &#x201C;sponging&#x201D; model (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>), decreasing expression of this circular RNA in cells caused mRNAs containing miR-7 binding sites to also decrease in number, indicative of increased binding of miR-7 to these mRNAs leading to their degradation (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R9"><italic>9</italic></xref>).</p>
+<p>Additional circular RNAs may function similarly to regulate the activity of other microRNAs because, in general, microRNA binding sites are abundant in circular RNAs (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). For example, in the mouse, sex-determining region Y (<italic>Sry</italic>) plays a key role in testes development and generates a circular RNA that contains 16 miR-138 binding sites (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>). Circular RNAs thus join a growing class of naturally occurring microRNA &#x201C;sponges,&#x201D; which includes competing endogenous RNAs and pseudogene (nonfunctional gene) RNAs (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). Compared to competing endogenous RNAs and pseudogene RNAs, however, circular RNAs are likely much more potent microRNA sponges as they are expressed in greater amounts and contain many more microRNA binding sites. Furthermore, unlike competing endogenous RNAs, circular RNAs appear to be resistant to RNA degradation triggered by microRNAs and thus could have long half-lives (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>).</p>
+<p>Beyond regulating microRNAs, circular RNAs may bind and sequester RNA-binding proteins or even base pair with RNAs besides microRNAs, resulting in the formation of large RNA-protein complexes. Other circular RNAs may produce proteins, given that synthetic circular RNAs can be efficiently translated (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>). As even linear mRNAs are thought to circularize during translation through protein-protein interactions between factors binding the 5&#x2032; and 3&#x2032; ends of the mRNA, RNA circularization, whether by direct covalent bonds or noncovalent means such as protein bridging or Watson-Crick base pairing, may be much more common than is currently appreciated. The discovery of such a large class of previously unknown RNAs also raises the question of what other RNAs might have been missed. Considering that RNA structural elements, such as triple helices, efficiently prevent degradation from RNA termini (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>), it is becoming increasingly clear that the cell uses a myriad of distinct ways to process and stabilize RNA molecules.</p>
+</body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Kapranov</surname><given-names>P.</given-names></name><name><surname>Willingham</surname><given-names>A. T.</given-names></name><name><surname>Gingeras</surname><given-names>T. R.</given-names></name></person-group>, <source>Nat. Rev. Genet.</source> <volume>8</volume>, <fpage>413</fpage> (<year>2007</year>).</citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>K. S.</given-names></name><etal/></person-group>., <source>Nature</source> <volume>323</volume>, <fpage>508</fpage> (<year>1986</year>).</citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Capel</surname><given-names>B.</given-names></name><etal/></person-group>., <source>Cell</source> <volume>73</volume>, <fpage>1019</fpage> (<year>1993</year>).</citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Cocquerelle</surname><given-names>C.</given-names></name><name><surname>Mascrez</surname><given-names>B.</given-names></name><name><surname>H&#x00E9;tuin</surname><given-names>D.</given-names></name><name><surname>Bailleul</surname><given-names>B.</given-names></name></person-group>, <source>FASEB J.</source> <volume>7</volume>, <fpage>155</fpage> (<year>1993</year>).</citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Jeck</surname><given-names>W. R.</given-names></name><etal/></person-group>., <source>RNA</source> <volume>19</volume>, <fpage>141</fpage> (<year>2013</year>).</citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Memczak</surname><given-names>S.</given-names></name><etal/></person-group>., <source>Nature</source> <volume>495</volume>, <fpage>333</fpage> (<year>2013</year>).</citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Salzman</surname><given-names>J.</given-names></name><name><surname>Gawad</surname><given-names>C.</given-names></name><name><surname>Wang</surname><given-names>P. L.</given-names></name><name><surname>Lacayo</surname><given-names>N.</given-names></name><name><surname>Brown</surname><given-names>P. O.</given-names></name></person-group>, <source>PLoS ONE</source> <volume>7</volume>, <fpage>e30733</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Danan</surname><given-names>M.</given-names></name><etal/></person-group>., <source>Nucleic Acids Res.</source> <volume>40</volume>, <fpage>3131</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hansen</surname><given-names>T. B.</given-names></name><etal/></person-group>., <source>Nature</source> <volume>495</volume>, <fpage>384</fpage> (<year>2013</year>).</citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Bartel</surname><given-names>D. P.</given-names></name></person-group>, <source>Cell</source> <volume>136</volume>, <fpage>215</fpage> (<year>2009</year>).</citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Ebert</surname><given-names>M. S.</given-names></name><name><surname>Neilson</surname><given-names>J. R.</given-names></name><name><surname>Sharp</surname><given-names>P. A.</given-names></name></person-group>, <source>Nat. Methods</source> <volume>4</volume>, <fpage>721</fpage> (<year>2007</year>).</citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Salmena</surname><given-names>L.</given-names></name><etal /><name><surname>Pandolfi</surname><given-names>P. P.</given-names></name></person-group>, <source>Cell</source> <volume>146</volume>, <fpage>353</fpage> (<year>2011</year>).</citation>
+</ref>
+<ref id="R13">
+<label>13</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>C. Y.</given-names></name><name><surname>Sarnow</surname><given-names>P.</given-names></name></person-group>, <source>Science</source> <volume>268</volume>, <fpage>415</fpage> (<year>1995</year>).</citation>
+</ref>
+<ref id="R14">
+<label>14</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Wilusz</surname><given-names>J. E.</given-names></name><etal/></person-group>., <source>Genes Dev.</source> <volume>26</volume>, <fpage>2392</fpage> (<year>2012</year>).</citation>
+</ref>
+</ref-list>
+</back>
+</article>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>twil</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Medicine</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Genetics</subject><subject>Epidemiology</subject><subject>Molecular-Biology</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Fugitive Fungi No More</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Lavine</surname><given-names>Marc S.</given-names></name></contrib>
+</contrib-group>
+<pub-date pub-type="ppub">
+<day>26</day>
+<month>04</month>
+<year>2013</year>
+</pub-date>
+<volume>340</volume>
+<issue>6131</issue>
+<fpage seq="c">409</fpage>
+<lpage>409</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="twil.pdf" />
+<custom-meta-wrap>
+<custom-meta><meta-name>Editor</meta-name><meta-value>Kristen Mueller, Maria Cruz</meta-value></custom-meta>
+</custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<fig id="F1" position="anchor">
+<graphic xlink:href="340_409c_F1"></graphic>
+<attrib>CREDIT: CDC/WILLIAM KAPLAN</attrib>
+</fig>
+<p>Systemic fungal infections of the bloodstream or major organs, such as those caused by some species of <italic>Candida</italic>, can lead to fatalities, particularly in immunocompromised patients. The standard technique for detection requires culturing whole blood followed by morphological assessment, a process that can take several days. Neely <italic>et al.</italic> developed a wholeblood&#x2013;compatible procedure that can detect certain strains down to one colony-forming unit per milliliter. After blood cell lysis and concentration of the <italic>Candida</italic> cells, polymerase chain reaction was used to selectively amplify the <italic>Candida</italic> DNA. This DNA was then captured with specific probes targeted toward one of five <italic>Candida</italic> species, which would then agglomerate, giving clusters that could be detected with T2 magnetic resonance, using a custom-made bedside detector. For spiked samples, detection could be achieved within 3 hours, in contrast to the 1 to 2 days needed for the <italic>C. krusei</italic> and <italic>C. albicans</italic> species, respectively. Testing was also done on fully blinded specimens from patients who showed symptoms of septicemia, with excellent identification of both the <italic>Candida</italic>-positive and -negative cases. Three patients were also tracked in time, and in contrast to culture methods, which require viable fungal cells, the method could also detect nonviable cells after the treatment of patients with antifungal agents.</p>
+<p><italic>Sci. Transl. Med.</italic> <bold>5</bold>, 182ra54 (2013).</p>
+</body>
+</article>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="in-brief" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>This Week in Science</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>This Week in Science</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>twis</subject></subj-group>
+<subj-group subj-group-type="field"><subject>ASTRONOMY</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Astronomy</subject><subject>Chemistry</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Pulsar Tests Gravity</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<day>26</day>
+<month>04</month>
+<year>2013</year>
+</pub-date>
+<volume>340</volume>
+<issue>6131</issue>
+<fpage seq="i">405</fpage>
+<lpage>405</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="twis.pdf" />
+<custom-meta-wrap>
+<custom-meta><meta-name>Editor</meta-name><meta-value>Stella Hurtley</meta-value></custom-meta>
+</custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<fig id="F1" position="anchor">
+<graphic xlink:href="340_405i_F1"></graphic>
+<attrib>CREDIT: JOHN ANTONIADIS/MAX PLANCK INSTITUTE FOR RADIO ASTRONOMY/EUROPEAN SOUTHERN OBSERVATORY</attrib>
+</fig>
+<p>Because of their extremely high densities, massive neutron stars can be used to test gravity. Based on spectroscopy of its white dwarf companion, <bold>Antoniadis <italic>et al.</italic></bold> (p. <ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.sciencemag.org/content/340/6131/1233232.full">448</ext-link>) identified a millisecond pulsar as a neutron star twice as heavy as the Sun. The observed binary's orbital decay is consistent with that predicted by general relativity, ruling out previously untested strong-field phenomena predicted by alternative theories. The binary system has a peculiar combination of properties and poses a challenge to our understanding of stellar evolution.</p>
+</body>
+</article>

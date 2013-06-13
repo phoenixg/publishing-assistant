@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">sigtrans</journal-id>
+<journal-title>Science Signaling</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Sci. Signal.</abbrev-journal-title>
+    <issn pub-type="epub">1937-9145</issn><issn pub-type="ppub">1945-0877</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">2004260</article-id>
+<article-id pub-id-type="doi">10.1126/scisignal.2004260</article-id>
+<article-categories><subj-group subj-group-type="article-type"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>STKE Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="field"><subject>DEVELOPMENT</subject><subject>CELL BIOL</subject><subject>MOLEC BIOL</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Erythropoiesis</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Repressing the Repressors of Mitophagy</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>VanHook</surname><given-names>Annalisa M.</given-names></name></contrib>
+<aff id="aff1"><italic>Science Signaling</italic>, AAAS, Washington, DC 20005, USA</aff>
+</contrib-group>
+<pub-date pub-type="ppub"><day>23</day><month>04</month><year>2013</year></pub-date>
+<volume>6</volume>
+<issue>272</issue>
+<fpage>ec92</fpage>
+<lpage>ec92</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>Stage-specific transcriptional repression of microRNAs ensures that mitophagy is initiated late in erythrocyte differentiation.</p>
+</abstract>
+<abstract>
+<p>A critical, final step in the differentiation of erythrocytes is the loss of intracellular organelles. Barde <italic>et al</italic>. found that knocking out the gene that encodes the transcriptional corepressor KAP1 [also known as tripartite motif protein 28 (TRIM28)] in mice resulted in accumulation of immature erythrocytes (erythroblasts) at the expense of mature erythrocytes. Compared with erythroblasts from wild-type mice, the mutant erythroblasts contained more mitochondria and showed decreased abundance of transcripts encoding proteins that mediate mitophagy. By transcriptional profiling, microRNAs miR-351, miR-503, and miR-322  showed increased expression in <italic>Kap1</italic>-knockout erythroblasts. The abundance of miR-351, which targeted a transcript required for mitophagy, decreased as wild-type erythroblasts matured, and overexpressing miR-351 blocked differentiation and caused accumulation of mitochondria in cultured mouse erythroleukemia cells.  These three miRNAs are located near one another on the X chromosome, and KAP1 was associated with DNA near this miRNA gene cluster. KAP1 does not bind to DNA on its own but cooperates with KRAB-containing zinc finger proteins (KRAB-ZFPs). The authors identified several KRAB-ZFPs that were present only in erythroblasts and not other hematopoietic cells. <italic>Zfp689</italic> and <italic>Zfp13</italic> were expressed in late-stage erythroblasts and repressed expression of a reporter driven by the KAP1 binding site from the miRNA cluster in cultured erythroleukemia cells. When transplanted into irradiated mice, hematopoietic stem cells expressing short hairpin RNAs (shRNAs) targeting <italic>Zfp689</italic>, <italic>Zfp13</italic>, or<italic> Kap1 </italic>generated few mature erythrocytes and gave rise to erythroblasts that showed increased miR-351 abundance. Experiments in cultured human erythroleukemia cells and cord blood cells were consistent with the findings in mice.  Thus, KRAB-ZFPs and KAP1 trigger the elimination of mitochondria during late stages of erythrocyte differentiation by cooperating to repress the transcription of miRNAs that target transcripts encoding mitophagy factors.</p>
+<p>I. Barde, B. Rauwel, R. M. Marin-Florez, A. Corsinotti, E. Laurenti, S. Verp, S. Offner, J. Marquis, A. Kapopoulou, J. Vanicek, D. Trono, A KRAB/KAP1-miRNA cascade regulates erythropoiesis through stage-specific control of mitophagy. <italic>Science</italic> <bold>340</bold>, 350&#x2013;353 (2013). <ext-link ext-link-type="uri" xlink:href="http://stke.sciencemag.org/cgi/content/abstract/sci;340/6130/350">[Abstract]</ext-link> <ext-link ext-link-type="uri" xlink:href="http://stke.sciencemag.org/cgi/content/full/sci;340/6130/350">[Full Text]</ext-link> </p>
+</abstract>
+</article-meta>
+</front>
+</article>

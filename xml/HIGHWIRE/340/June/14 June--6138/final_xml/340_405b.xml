@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="in-brief" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>This Week in Science</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>This Week in Science</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>twis</subject></subj-group>
+<subj-group subj-group-type="field"><subject>GEOCHEM PHYS</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Applied-Physics</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Hot Enough to Melt Iron</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<day>26</day>
+<month>04</month>
+<year>2013</year>
+</pub-date>
+<volume>340</volume>
+<issue>6131</issue>
+<fpage seq="b">405</fpage>
+<lpage>405</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="twis.pdf" />
+<custom-meta-wrap>
+<custom-meta><meta-name>Editor</meta-name><meta-value>Stella Hurtley</meta-value></custom-meta>
+</custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<p>Earth's core is divided into a fluid outer core and a solid inner core, both composed predominately of iron at extremely high pressures and temperatures. The boundary between these two regions is largely controlled by the melting point of iron at &#x223C;330 GPa, which in turn influences heat transfer and geodynamo generation. <bold>Anzellini <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="340" issue="6131" page="464">464</related-article>, see the Perspective by <related-article related-article-type="in-this-issue" vol="340" page="442" issue="6131">Fei</related-article>) compressed iron in a laser-heated diamond anvil cell, tracking its structure and texture by using time-resolved x-ray diffraction as the pressure increased to 200 GPa. The melting curve suggests the possibility of high heat flux and partial melting at the core-mantle boundary.</p>
+</body>
+</article>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1234567</article-id>
+<article-id pub-id-type="doi">10.1126/science.1234567</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Technical Comment</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Technical Comments</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>t-comment</subject></subj-group>
+<subj-group subj-group-type="field"><subject>GEOCHEM PHYS</subject><subject>TECH COMMENT</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Earth-Science</subject><subject>Geochemistry</subject><subject>Atmospheric-Science</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Comment on &#x201C;Apatite <sup>4</sup>He/<sup>3</sup>He and (U-Th)/He Evidence for an Ancient Grand Canyon&#x201D;</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Lucchitta</surname><given-names>Ivo</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib>
+<aff id="aff1"><label>1</label>U.S. Geological Survey, Flagstaff, AZ 86001, USA.</aff>
+<aff id="aff2"><label>2</label>Museum of Northern Arizona, Flagstaff, AZ 86001, USA.</aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor1">E-mail: <email xlink:href="ilucchitta@gmail.com">ilucchitta@gmail.com</email></corresp></author-notes>
+<pub-date pub-type="ppub"><day>12</day><month>04</month><year>2013</year></pub-date>
+<volume>340</volume>
+<issue>6129</issue>
+<fpage seq="a">143</fpage>
+<lpage>143</lpage>
+<history><date date-type="received"><day>27</day><month>12</month><year>2012</year></date><date date-type="accepted"><day>25</day><month>02</month><year>2013</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract>
+<p>Flowers and Farley (Reports, 21 December 2012, p. 1616; published online 29 November 2012) use thermochronometry to propose that the western paleo&#x2013;Grand Canyon was nearly as deep 70 million years ago (Ma) as today. However, lithologies, facies relations, geomorphology, and paleotopography of Miocene interior-basin deposits near the mouth of the Grand Canyon show that no paleocanyon existed in that area during filling of the basin, ~17 to ~5 Ma.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Nicholas Wigginton</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Cynthia Howe</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>Flowers and Farley (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>) use thermochronometry data to propose that the western paleo&#x2013;Grand Canyon resembled the present canyon in location, configuration and depth 70 million years ago (Ma) and further suggest that its carving was separate from integration of the Colorado River. However, the area near the mouth of the western Grand Canyon in the Grand Wash Trough contains critical geologic evidence bearing on the problem because a 70 Ma paleocanyon that coincides with the Grand Canyon would have transited the area and would have affected Miocene deposits there. The area was studied in reconnaissance by Longwell (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>) and later by Lucchitta (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>&#x2013;<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>), Faulds <italic>et al</italic>. (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R7"><italic>7</italic></xref>), and Wallace <italic>et al</italic>. (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>).</p>
+<p>The mouth of the canyon is at the Grand Wash Cliffs, which were formed by down-to-the-west movement on the Grand Wash normal fault starting ~17 Ma. Faulting produced a half-graben, the Grand Wash Trough, whose lowest point was near the cliffs; the graben received the well-dated ~17 to 5 Ma Muddy Creek interior-basin deposits. Post-5 Ma erosion by the Colorado River has produced 530 m of fine exposures of these deposits but mostly not of the bedrock beneath them. However, the bedrock exposures on the Grand Wash Cliffs are excellent and show no major canyons other than the Grand Canyon, which therefore must coincide with the proposed prefaulting paleocanyon. The modern canyon is narrow and steep, which is not in keeping with an ancient feature.</p>
+<p>Because the proposed paleocanyon would have existed throughout deposition of the Muddy Creek, it should have contributed sediments because its drainage direction at that time, whatever it had been previously, would have been toward the newly formed deep graben immediately to the west, yet no evidence for such a drainage is present in the Muddy Creek deposits (<xref ref-type="fig" rid="F1">Fig. 1</xref>).</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption>
+<title>Muddy Creek facies near mouth of Grand Canyon.</title>
+<p>(<bold>A</bold>) Map view. (<bold>B</bold>) Ground-level view.</p>
+</caption><graphic xlink:href="340_143a_F1"></graphic></fig>
+<p>Fan deposits are the chief constituent of the Muddy Creek. One fan, derived from the west, contains clasts of the distinctive Gold Butte Granite. This fan locally is in contact with Paleozoic rocks of the Grand Wash Cliffs (<xref ref-type="fig" rid="F1">Fig. 1</xref>). According to Longwell (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>), who saw the area before deposition of the Lake Mead deltaic sediments, the fan nearly reaches the canyon mouth, where it is in contact with the Pierce Canyon fan. The latter not only spills westward from a relatively small canyon cut into the Grand Wash Cliffs (<xref ref-type="fig" rid="F1">Fig. 1</xref>) but also extends across the mouth of the Grand Canyon itself. Consequently, either the paleocanyon did not exist in Muddy Creek time, or the paleoriver within it was completely inactive.</p>
+<p>The distribution of Muddy Creek deposits illustrates how the fans, which formed high ground, encircle the mouth of the proposed paleocanyon, whose mouth was thus blocked (<xref ref-type="fig" rid="F1">Fig. 1</xref>). Therefore, no paleodrainage could flow from a paleocanyon westward into the Muddy Creek basin in Miocene time.</p>
+<p>The low areas between fans were occupied by playas whose deposits were derived principally from the west; these deposits show no contributions from a paleoriver to the east. Shallow and probably ephemeral lakes occupied parts of the playas. The lakes were fed by groundwater or springs (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>). With time, the lakes expanded and transgressed over the other lithologies. There is no connection between the lake deposits and the mouth of the proposed paleocanyon. These lake beds are the youngest deposits that predate integration 5 to 6 Ma.</p>
+<p>Flowers and Farley (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>) propose a notable separation in time between the carving of a paleocanyon coincident with the Grand Canyon and the establishment of an integrated stream flowing though it. Other advocates of an old paleocanyon have similarly resorted to various explanations to account for the lack of evidence for such a canyon in Miocene time These explanations are mostly of two kinds: (i) the paleocanyon existed but was choked with debris repeatedly owing to an arid climate, one of these choking events taking place in Muddy Creek time (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>), and (ii) a younger canyon was formed by headward erosion eastward from the Grand Wash cliffs in Muddy Creek time but became dammed after being carved so could not contribute sediment to the Muddy Creek deposits (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>).</p>
+<p>The first explanation is negated by the immature character of the Grand Canyon, which is not consonant with an old age, by the improbability of the paleocanyon being choked repeatedly and completely, and by the Pierce Canyon fan, which shows that there was enough precipitation in Muddy Creek time for even a small canyon to efficiently transport large quantities of debris.</p>
+<p>The second explanation is negated by the fact that the canyon had to be carved before it could be dammed late in Muddy Creek time, so it should have contributed sediment while it was being carved. Furthermore, the Pierce Canyon fan was deposited across the supposed eastward-eroding paleodrainage, which thus could not exist.</p>
+<p>Geologic data from the western Grand Canyon region do not support establishment of a Grand Canyon in nearly its present form 70 Ma but instead indicate that it was the result of various geologic processes that took place after 5 to 6 Ma.</p>
+</body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="R1"><label>1</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Flowers</surname><given-names>R. M.</given-names></name><name><surname>Farley</surname><given-names>K. A.</given-names></name></person-group>, 
+<article-title>Apatite 4He/3He and (U-Th)/He evidence for an ancient Grand Canyon</article-title>. <source>Science</source> 
+<volume>338</volume>, 
+<fpage>1616</fpage> (<year>2012</year>). <pub-id pub-id-type="doi">10.1126/science.1229390</pub-id><pub-id pub-id-type="pmid">23196906</pub-id></citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Longwell</surname><given-names>C. R.</given-names></name></person-group>, 
+<article-title>Geology of the Boulder Reservoir floor, Arizona-Nevada</article-title>. <source>Geol. Soc. Am. Bull.</source> 
+<volume>47</volume>, 
+<fpage>1393</fpage> (<year>1936</year>).</citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="thesis">I. Lucchitta, thesis, Pennsylvania State University, State College, PA (1966).</citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="book">I. Lucchitta, The mouth of the Grand Canyon and edge of the Colorado Plateau in the upper Lake Mead area, Geological Society of America Centennial Field Guide&#x2014;Rocky Mountain Section (1987), pp. 365&#x2013;370.</citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="book">I. Lucchitta, in Geologic Evolution of Arizona: Arizona Geological Society Digest 17, J. P. Jenney, S. J. Reynolds, Eds. (1989), pp. 701&#x2013;715.</citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="book">J. E. Faulds, M. A. Wallace, L. A. Gonzalez, M. T. Heizler, in <italic>Colorado River Origin and Evolution</italic>, R. A. Young, E. E. Spamer, Eds. (Grand Canyon Association, Grand Canyon, AZ, 2001), pp. 81&#x2013;87.</citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="book">J. E. Faulds, L. M. Price, M. A. Wallace, in <italic>Colorado River Origin and Evolution</italic>, R. A. Young, E. E. Spamer, Eds. (Grand Canyon Association, grand Canyon, AZ, 2001), pp. 93&#x2013;99.</citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="other">M. A. Wallace, J. E. Faulds, R. E. Brady, 2001, Geologic Map of the Meadview North quadrangle, Arizona and Nevada: Nevada Bureau of Mines and Geology Map 154, Scale 1:24,000. </citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="book">J. C. Lopez Pearce <italic>et al</italic>., in CRevolution 2&#x2014;Origin and Evolution of the Colorado River System, Workshop Abstracts, Beard, Karlstrom, Young, Billingsley, Eds. (U.S. Geological Survey Open-File Report 2011-1210, 2011), p. 180.</citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Elston</surname><given-names>D. P.</given-names></name><name><surname>Young</surname><given-names>R. A.</given-names></name></person-group>, 
+<article-title>Cretaceous-Eocene (Laramide) landscape development and Oligocene-Pliocene drainage reorganization of Transition Zone and Colorado Plateau, Arizona</article-title>. <source>J. Geophys. Res.</source> 
+<volume>96</volume>, (<supplement>no. B7</supplement>), 
+<fpage>12,389</fpage> (<year>1991</year>). <pub-id pub-id-type="doi">10.1029/90JB01978</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="book">R. A. Young, in <italic>Late Cenozoic Drainage History of the Southwestern Great Basin and Lower Colorado River Region: Geologic and Biologic Perspectives</italic>, M. C. Reheis, R. Herschler, D. M. Miller, Eds. (Geological Society of America Special Paper 439, 2008), pp. 319&#x2013;333.</citation></ref>
+</ref-list></back>
+</article>

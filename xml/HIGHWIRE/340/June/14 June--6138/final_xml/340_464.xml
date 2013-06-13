@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1233514</article-id>
+<article-id pub-id-type="doi">10.1126/science.1233514</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Report</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Reports</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>reports</subject></subj-group>
+<subj-group subj-group-type="field"><subject>GEOCHEM PHYS</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Applied-Physics</subject><subject>Materials-Science</subject><subject>Sociology</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Melting of Iron at Earth&#x2019;s Inner Core Boundary Based on Fast X-ray Diffraction</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Anzellini</surname><given-names>S.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="corresp" rid="cor1">*</xref></contrib> <contrib contrib-type="author"><name><surname>Dewaele</surname><given-names>A.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Mezouar</surname><given-names>M.</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Loubeyre</surname><given-names>P.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Morard</surname><given-names>G.</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib>
+<aff id="aff1"><label>1</label>Commissariat &#x00E0; l&#x2019;&#x00C9;nergie Atomique, Direction des Applications Militaires &#x00CE;le de France 91297 Arpajon Cedex, France.</aff>
+<aff id="aff2"><label>2</label>European Synchrotron Radiation Facility, BP 220, F-38043 Grenoble Cedex, France.</aff>
+<aff id="aff3"><label>3</label>Institut de Min&#x00E9;ralogie et de Physique des Milieux Condens&#x00E9;s UMR CNRS 7590, Universit&#x00E9; Pierre et Marie Curie, 75005 Paris, France.</aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>Corresponding author. E-mail: <email xlink:href="simone.anzellini@cea.fr">simone.anzellini@cea.fr</email></corresp></author-notes>
+<pub-date pub-type="ppub"><day>26</day><month>04</month><year>2013</year></pub-date>
+<volume>340</volume>
+<issue>6131</issue>
+<fpage>464</fpage>
+<lpage>466</lpage>
+<history><date date-type="received"><day>03</day><month>12</month><year>2012</year></date><date date-type="accepted"><day>25</day><month>03</month><year>2013</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="editor"><title>Hot Enough to Melt Iron</title><p>Earth's core is divided into a fluid outer core and a solid inner core, both composed predominately of iron at extremely high pressures and temperatures. The boundary between these two regions is largely controlled by the melting point of iron at &#x223C;330 GPa, which in turn influences heat transfer and geodynamo generation. <bold>Anzellini <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="340" issue="6131" page="464">464</related-article>, see the Perspective by <related-article related-article-type="in-this-issue" vol="340" page="442" issue="6131">Fei</related-article>) compressed iron in a laser-heated diamond anvil cell, tracking its structure and texture by using time-resolved x-ray diffraction as the pressure increased to 200 GPa. The melting curve suggests the possibility of high heat flux and partial melting at the core-mantle boundary.</p></abstract>
+<abstract abstract-type="teaser"><p>High-temperature and -pressure experiments simulate the melting behavior of metallic iron in Earth&#x2019;s core. <named-content content-type="related-content">[Also see Perspective by <related-article related-article-type="in-this-issue" vol="340" page="442" issue="6131">Fei</related-article>]</named-content></p></abstract>
+<abstract>
+<p>Earth&#x2019;s core is structured in a solid inner core, mainly composed of iron, and a liquid outer core. The temperature at the inner core boundary is expected to be close to the melting point of iron at 330 gigapascal (GPa). Despite intensive experimental and theoretical efforts, there is little consensus on the melting behavior of iron at these extreme pressures and temperatures. We present static laser-heated diamond anvil cell experiments up to 200 GPa using synchrotron-based fast x-ray diffraction as a primary melting diagnostic. When extrapolating to higher pressures, we conclude that the melting temperature of iron at the inner core boundary is 6230 <italic>&#x00B1;</italic> 500 kelvin. This estimation favors a high heat flux at the core-mantle boundary with a possible partial melting of the mantle.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Nicholas Wigginton</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Cynthia Howe</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>Earth&#x2019;s inner core grows by solidification from the surrounding outer core, which is composed of molten iron (Fe) alloyed with ~10 weight percent light elements (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). Seismological data reveal important physical properties of the core, such as density (and, hence, pressure) and elasticity; however, they cannot directly reveal the corresponding temperature. Temperature in the core places important constraints on parameters like heat flux to the mantle, power for the geodynamo, and cooling rate, all of which are fundamental to Earth&#x2019;s heat budget and dynamics (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>).</p>
+<p>The temperature at the inner core boundary (ICB) is bracketed between the melting temperature of pure Fe at 330 GPa and the liquidus temperature of the outer core iron-rich alloy (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>) [expected to be depressed by ~700 K (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>)]. Neither dynamic (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>&#x2013;<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>) and static (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>&#x2013;<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>) compression measurements nor thermodynamic modeling (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>&#x2013;<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>) have resulted in a consensus on ICB melting temperature, in part because these approaches suffer from intrinsic uncertainties. Dynamic measurements have long been considered the most promising way to determine the ICB temperature because shocked Fe melts around 230 GPa, yet the temperature determination (spanning from 5100 to 6350 K) and the possibility of superheating in shock compression (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>) are major uncertainties. Using laser heating in static diamond anvil cell (DAC) experiments to produce reliable melting data above 100 GPa is also difficult because of uncertainties in the pyrometric temperature measurements (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>), the criterion used to identify the melting (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>), and the possible temperature-induced chemical reactions (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>, <xref ref-type="bibr" rid="R19"><italic>19</italic></xref>). In fact, estimation of Fe melting temperature at ICB pressure based on static compression data spans the range 4850 (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>) to 7600 K (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>). Finally, the tremendous advances in computational capacity have enabled quantum-mechanics calculations of the melting behavior, but each method has underlying approximations or assumptions. For instance, melting temperatures from 6370 (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>) to 7050 K (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>) have been obtained with the same melting criterion&#x2014;the coexistence of a liquid and solid phase in a molecular dynamics run&#x2014;but a different description of interatomic forces within density functional theory. Going beyond density functional theory with a quantum Monte Carlo simulation, melting was obtained at 6900 K (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>) at 330 GPa.</p>
+<p>Here, we report the laser-heated DAC determination of the Fe melting curve from 50 to 200 GPa, using a &#x03BC;m-spatial and second-time-resolved approach that has recently been applied to the determination of the Ta melting line (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>). Fast x-ray diffraction (XRD) is used as the primary technique for structural determination. This approach presents several advantages: (i) The structural evolution of Fe can be followed during heating; (ii) the measured volume expansion of solid Fe provides an independent control of temperature measurements; (iii) chemical reactions, if any, can be observed within the few percentage detection limits; and (iv) most importantly, an unambiguous bulk signature of melting&#x2014;i.e., the appearance of a diffuse ring&#x2014;is recorded (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>, <xref ref-type="bibr" rid="R20"><italic>20</italic></xref>). This technique offers an alternative to the melting diagnostics used in the past in the laser-heated DAC: motion of the sample surface (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>, <xref ref-type="bibr" rid="R10"><italic>10</italic></xref>), microscopic observation of the recovered samples (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>), and plateaus/drops on the temperature ramps (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>, <xref ref-type="bibr" rid="R21"><italic>21</italic></xref>).</p>
+<p>The XRD spectra obtained during heating provide direct information about the physical state of the laser-heated sample that can be correlated with additional information such as temperature <italic>T </italic>versus time (<xref ref-type="fig" rid="F1">Fig. 1</xref>). From this, we determined that &#x03B5;-Fe (hexagonal close packed) and &#x03B3;-Fe (face-centered cubic) are the only structures observed in the investigated pressure-temperature range. This confirms earlier findings of a large stability field for &#x03B5;-Fe (<xref ref-type="bibr" rid="R19"><italic>19</italic></xref>, <xref ref-type="bibr" rid="R22"><italic>22</italic></xref>) and extends in temperature this domain up to the melting line at 200 GPa&#x2014;e.g., under the conditions where a transformation to a body-centered cubic phase had been suggested using shock wave measurements (<xref ref-type="bibr" rid="R23"><italic>23</italic></xref>) or ab initio calculations (<xref ref-type="bibr" rid="R24"><italic>24</italic></xref>). XRD patterns also show, in a few cases, a partial reaction of Fe with the diamond anvil, as shown by the appearance of weak peaks that can be assigned to Fe<sub>3</sub>C (<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>). Therefore, each heating series was performed on a fresh, unheated zone of the sample. Furthermore, we measured and compared the volume of solid Fe with the expected volume based on the pyrometry temperature and the equation of state of &#x03B5;-Fe (<xref ref-type="bibr" rid="R25"><italic>25</italic></xref>) or &#x03B3;-Fe (<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>), assuming that the pressure remained constant. In cases where an inconsistency was detected, the ramp data was discarded. Finally, XRD images yield information on the sample texture: The starting fine powder transformed into large single crystals upon heating. Above a certain temperature, single-crystal spots appeared and disappeared at each XRD exposure, which we refer to as &#x201C;fast recrystallization.&#x201D;</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption>
+<title>XRD patterns as a function of temperature, pressure, and time.</title>
+<p>(<bold>A</bold> and <bold>B</bold>) XRD patterns of a &#x2248;3-&#x03BC;m-thick (&#x2248;7-&#x03BC;m-thick) sample during a heating series at <italic>P</italic> &#x2248; 133 GPa and 53 GPa, respectively, recorded at different temperatures. &#x03B3;-Fe, &#x03B5;-Fe, and KCl pressure medium diffraction peaks are labeled. Liquid Fe is evidenced by a diffuse ring at 2&#x03B8; = 10&#x00B0; to 13.5&#x00B0;. (<bold>C</bold> and <bold>D</bold>) Pyrometry temperature, measured and predicted (<xref ref-type="bibr" rid="R25"><italic>25</italic></xref>, <xref ref-type="bibr" rid="R26"><italic>26</italic></xref>). Fe volume as a function of time for the thin (C) and thick (D) samples. The laser&#x2019;s power is linear with time. Data are in table S1.</p>
+</caption><graphic xlink:href="340_464_F1"></graphic></fig>
+<p>Changes in <italic>T </italic>versus time curves, such as plateaus or sudden drops, are often considered as a melting signature (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>, <xref ref-type="bibr" rid="R21"><italic>21</italic></xref>). This is interpreted as a loss of thermal insulation in the sample assembly due to melting (<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>). We observed such features, but not systematically. In <xref ref-type="fig" rid="F1">Fig. 1</xref>, the temporal evolutions of the temperature and the &#x03B5;-Fe volume of a &#x2248;3-&#x03BC;m thickness sample are parallel: a linear increase, then a marked plateau. A diffuse scattering signal of the liquid appears in the XRD signal at the beginning of this plateau; however, &#x03B5;-Fe single crystal XRD spots indicate that the sample is not completely molten. For a thicker (&#x2248;7 &#x03BC;m) sample, the observations seem less correlated. After the expected &#x03B3;-Fe to &#x03B5;-Fe phase transition (<xref ref-type="bibr" rid="R22"><italic>22</italic></xref>), the &#x03B5;-Fe volume has a similar behavior as for the thin sample: It plateaus during melting, evidenced by the diffuse XRD signal. However, the pyrometry temperature continues to increase. With the rise of temperature, the intensity of the liquid signals increases, indicating that the amount of molten Fe scanned by XRD increases. Our interpretation is that the solid Fe is surrounded by layer of liquid Fe a few &#x03BC;m thick, whose surface is heated and analyzed by pyrometry. We observe that this layer sustains a sharp temperature gradient, its surface being up to 400 K warmer than solid Fe. The XRD measurement of the plateau of thermal expansion and the simultaneous observation of the diffuse diffraction peak of the liquid provide here an unambiguous signature of melting.</p>
+<p>The melting temperature <italic>T</italic><sub>m</sub> is estimated as the average between, respectively, the highest (lowest) temperatures at which only solid (solid + liquid) Fe is observed (<xref ref-type="fig" rid="F2">Fig. 2</xref>). The temperature of fast recrystallization is substantially (400 to 900 K) lower than the melting temperature. Two Simon equations are used to fit the melting points together with existing low-pressure data (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>). The &#x03B5;-Fe to &#x03B3;-Fe phase boundary is estimated using the current data and literature data (<xref ref-type="bibr" rid="R22"><italic>22</italic></xref>, <xref ref-type="bibr" rid="R28"><italic>28</italic></xref>). The &#x03B3;-&#x03B5;-liquid triple point is at a pressure of 98.5 GPa (<italic>P</italic><sub>TP</sub>) and 3712 K (<italic>T</italic><sub>TP</sub>). The following formulations are obtained [<italic>T</italic> in K, <italic>P</italic> in GPa, <italic>T</italic><sub>0</sub> = 1991 K, and <italic>P</italic><sub>0</sub> = 5.2 GPa (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>)].</p>
+<disp-formula id="E1"><mml:math><mml:mi>T</mml:mi><mml:mo>=</mml:mo><mml:mn>575</mml:mn><mml:mo>+</mml:mo><mml:mn>18.7</mml:mn><mml:mi>P</mml:mi><mml:mo>+</mml:mo><mml:mn>0.213</mml:mn><mml:msup><mml:mi>P</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>&#x2212;</mml:mo><mml:mn>0.000817</mml:mn><mml:msup><mml:mi>P</mml:mi><mml:mn>3</mml:mn></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mo>&#x03B5;</mml:mo><mml:mo>-</mml:mo><mml:mi mathvariant="normal">Fe</mml:mi><mml:mo>/</mml:mo><mml:mo>&#x03B3;</mml:mo><mml:mo>-</mml:mo><mml:mi mathvariant="normal">Fe</mml:mi><mml:mo>)</mml:mo></mml:mrow></mml:math><label>(1)</label></disp-formula><disp-formula id="E2"><mml:math><mml:mo>(</mml:mo><mml:mi>P</mml:mi><mml:mo>&#x2212;</mml:mo><mml:msub><mml:mi>P</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>)</mml:mo><mml:mo>/</mml:mo><mml:mn>27.39</mml:mn><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:msub><mml:mi>T</mml:mi><mml:mi mathvariant="normal">m</mml:mi></mml:msub><mml:mo>/</mml:mo><mml:msub><mml:mi>T</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>)</mml:mo></mml:mrow><mml:mn>2.38</mml:mn></mml:msup><mml:mo>&#x2212;</mml:mo><mml:mn>1</mml:mn><mml:mo>(</mml:mo><mml:mo>&#x03B3;</mml:mo><mml:mo>-</mml:mo><mml:mi mathvariant="normal">Fe</mml:mi><mml:mo>/</mml:mo><mml:mi mathvariant="normal">liquid</mml:mi><mml:mo>)</mml:mo></mml:math><label>(2)</label></disp-formula><disp-formula id="E3"><mml:math><mml:mo>(</mml:mo><mml:mi>P</mml:mi><mml:mo>&#x2212;</mml:mo><mml:msub><mml:mi>P</mml:mi><mml:mi mathvariant="normal">TP</mml:mi></mml:msub><mml:mo>)</mml:mo><mml:mo>/</mml:mo><mml:mn>161.2</mml:mn><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:msub><mml:mi>T</mml:mi><mml:mi mathvariant="normal">m</mml:mi></mml:msub><mml:mo>/</mml:mo><mml:msub><mml:mi>T</mml:mi><mml:mi mathvariant="normal">TP</mml:mi></mml:msub><mml:mo>)</mml:mo></mml:mrow><mml:mn>1.72</mml:mn></mml:msup><mml:mo>&#x2212;</mml:mo><mml:mn>1</mml:mn><mml:mo>(</mml:mo><mml:mo>&#x03B5;</mml:mo><mml:mo>-</mml:mo><mml:mi mathvariant="normal">Fe</mml:mi><mml:mo>/</mml:mo><mml:mi mathvariant="normal">liquid</mml:mi><mml:mo>)</mml:mo></mml:math><label>(3)</label></disp-formula>
+    <fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption>
+        <title>Pressure (<italic>P</italic><sub>KCl</sub>)&#x2013;temperature conditions at which XRD patterns have been collected.</title>
+        <p>Different symbols correspond to different Fe phases and textures. The continuous black lines correspond to <xref ref-type="disp-formula" rid="E1">Eqs. 1</xref>, <xref ref-type="disp-formula" rid="E2">2</xref>, and <xref ref-type="disp-formula" rid="E3">3</xref>. Data are in table S1.</p>
+    </caption><graphic xlink:href="340_464_F2"></graphic></fig>
+<p>The present melting curve closely follows the one determined by Alf&#x00E8; <italic>et al</italic>. (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>) on the basis of a Gibbs free-energy minimization (<xref ref-type="fig" rid="F3">Fig. 3</xref>). It goes through the dynamic determinations of melting (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R7"><italic>7</italic></xref>), around 230 GPa. The melting temperatures of Fe obtained with the laser-heated DAC are bracketed by two studies (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>, <xref ref-type="bibr" rid="R10"><italic>10</italic></xref>), which mainly differ in their melting criteria. The present melting curve is within the error bars of the measurements based on the observation of textural changes on recovered samples up to 100 GPa (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>)&#x2014;a method which is probably not possible above that pressure&#x2014;and agrees correctly with determinations based on a similar method (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>, <xref ref-type="bibr" rid="R11"><italic>11</italic></xref>) and a recent indirect measurement (<xref ref-type="bibr" rid="R29"><italic>29</italic></xref>). The current melting points are up to 1000 K higher than the melting points obtained by the observation of surface motion of a laser-heated sample (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>). Neither temperature measurement techniques, which are similar, nor pressure calibration issues can explain such a difference. It is possible that the melting diagnostic used in (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>) detects fast recrystallization instead of melting. Indeed, it is interesting to note that the melting line of (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>) coincides with the temperature of fast recrystallization, observed in this study and in another recent work (<xref ref-type="bibr" rid="R30"><italic>30</italic></xref>). In the latter study, it was interpreted as melting evidence. We propose instead that fast recrystallization begins at temperatures below melting and causes the surface motion observed in (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>), which had been wrongly attributed to melting.</p>
+<fig id="F3" position="float" fig-type="figure"><label>Fig. 3</label><caption>
+<title>Phase stability domains for Fe obtained in the literature and in this study.</title>
+<p>The stability field for &#x03B5;-Fe is based on the current study data and data from (<xref ref-type="bibr" rid="R19"><italic>19</italic></xref>).</p>
+</caption><graphic xlink:href="340_464_F3"></graphic></fig>
+<p><xref ref-type="disp-formula" rid="E3">Eq. 3</xref> extrapolates to <italic>T</italic><sub>m</sub>(330 GPa ) = 6230 &#x00B1; 500 K. The error is the sum of the maximum pyrometry error and the uncertainty on the detection of melting temperature (200 K). A temperature profile inside Earth&#x2019;s core can be estimated using this value, which leads to a temperature at the core-mantle boundary (<italic>T</italic><sub>CMB</sub>) of 4050 &#x00B1; 500 K (<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>). This corresponds to a thermal boundary layer of ~1400 K at the base of the mantle and, subsequently, a high CMB heat flux (~10 TW) (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>). Such a value is needed to sustain the geodynamo with recent estimate of the core conductivity (<xref ref-type="bibr" rid="R31"><italic>31</italic></xref>). At CMB pressure, partial melting of the mantle material has been observed at 4180 &#x00B1; 150 K (<xref ref-type="bibr" rid="R32"><italic>32</italic></xref>) and would therefore be possible with strong geodynamical and geochemical implications. At 135 GPa, the post-perovskite phase is stable below 3520 &#x00B1; 70 K for MgSiO<sub>3</sub> (<xref ref-type="bibr" rid="R33"><italic>33</italic></xref>); a double-crossing scenario (<xref ref-type="bibr" rid="R33"><italic>33</italic></xref>) is therefore compatible with the current <italic>T</italic><sub>CMB</sub>, given the error of experimental determinations.</p>
+<p>Our experiments result in better agreement between calculations, and dynamic and static DAC approaches, and reduce uncertainty on the expected melting temperature of Fe at the ICB pressure. Because this study spans the 50 to 205 GPa range, we cannot rule out the possibility of a phase transition in Fe at higher <italic>P-T</italic> (unexplored region in <xref ref-type="fig" rid="F3">Fig. 3</xref>), which could slightly change the extrapolation of the current determination of the Fe melting curve.</p>
+</body>
+<back><app-group><app>
+<title>Supporting Materials</title><supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/340/6131/464/DC1">www.sciencemag.org/cgi/content/full/340/6131/464/DC1</ext-link></p>
+<p>Materials and Methods</p>
+<p>Supplementary Text</p>
+<p>Figs. S1 to S4</p>
+<p>Table S1</p>
+<p>References (<xref ref-type="bibr" rid="R34"><italic>34</italic></xref>&#x2013;<xref ref-type="bibr" rid="R41"><italic>41</italic></xref>)</p></supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Poirier</surname><given-names>J. P.</given-names></name></person-group>, 
+<article-title>Light elements in the Earth&#x2019;s outer core: A critical review</article-title>. <source>Phys. Earth Planet. Inter.</source> 
+<volume>85</volume>, 
+<fpage>319</fpage> (<year>1994</year>). <pub-id pub-id-type="doi">10.1016/0031-9201(94)90120-1</pub-id></citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Lay</surname><given-names>T.</given-names></name><name><surname>Hernlund</surname><given-names>J.</given-names></name><name><surname>Buffett</surname><given-names>B. A.</given-names></name></person-group>, 
+<article-title>Core-mantle boundary heat flow</article-title>. <source>Nat. Geosci.</source> 
+<volume>1</volume>, 
+<fpage>25</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1038/ngeo.2007.44</pub-id></citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Gubbins</surname><given-names>D.</given-names></name><name><surname>Sreenivasan</surname><given-names>B.</given-names></name><name><surname>Mound</surname><given-names>J.</given-names></name><name><surname>Rost</surname><given-names>S.</given-names></name></person-group>, 
+<article-title>Melting of the Earth&#x2019;s inner core</article-title>. <source>Nature</source> 
+<volume>473</volume>, 
+<fpage>361</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1038/nature10068</pub-id><pub-id pub-id-type="pmid">21593868</pub-id></citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Alf&#x00E8;</surname><given-names>D.</given-names></name><name><surname>Gillan</surname><given-names>M. J.</given-names></name><name><surname>Price</surname><given-names>G. D.</given-names></name></person-group>, 
+<article-title>Temperature and composition of the Earth&#x2019;s core</article-title>. <source>Contemp. Phys.</source> 
+<volume>48</volume>, 
+<fpage>63</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1080/00107510701529653</pub-id></citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Yoo</surname><given-names>C. S.</given-names></name><name><surname>Holmes</surname><given-names>N. C.</given-names></name><name><surname>Ross</surname><given-names>M.</given-names></name><name><surname>Webb</surname><given-names>D. J.</given-names></name><name><surname>Pike</surname><given-names>C.</given-names></name></person-group>, 
+<article-title>Shock temperatures and melting of iron at Earth core conditions</article-title>. <source>Phys. Rev. Lett.</source> 
+<volume>70</volume>, 
+<fpage>3931</fpage> (<year>1993</year>). <pub-id pub-id-type="doi">10.1103/PhysRevLett.70.3931</pub-id><pub-id pub-id-type="pmid">10054002</pub-id></citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Nguyen</surname><given-names>J. H.</given-names></name><name><surname>Holmes</surname><given-names>N. C.</given-names></name></person-group>, 
+<article-title>Melting of iron at the physical conditions of the Earth&#x2019;s core</article-title>. <source>Nature</source> 
+<volume>427</volume>, 
+<fpage>339</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1038/nature02248</pub-id><pub-id pub-id-type="pmid">14737164</pub-id></citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Brown</surname><given-names>J. M.</given-names></name><name><surname>McQueen</surname><given-names>R. G.</given-names></name></person-group>, 
+<article-title>Phase transitions, Gr&#x00FC;nesein parameter, and elasticity for shocked iron between 77 GPa and 400 GPa</article-title>. <source>J. Geophys. Res.</source> 
+<volume>91</volume>, (<supplement>B7</supplement>), 
+<fpage>7485</fpage> (<year>1986</year>). <pub-id pub-id-type="doi">10.1029/JB091iB07p07485</pub-id></citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Boehler</surname><given-names>R.</given-names></name></person-group>, 
+<article-title>Temperature in the Earth&#x2019;s core from melting-point measurements of iron at high static pressures</article-title>. <source>Nature</source> 
+<volume>363</volume>, 
+<fpage>534</fpage> (<year>1993</year>). <pub-id pub-id-type="doi">10.1038/363534a0</pub-id></citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Shen</surname><given-names>G.</given-names></name><name><surname>Prakapenka</surname><given-names>V. B.</given-names></name><name><surname>Rivers</surname><given-names>M. L.</given-names></name><name><surname>Sutton</surname><given-names>S. R.</given-names></name></person-group>, 
+<article-title>Structure of liquid iron at pressures up to 58 GPa</article-title>. <source>Phys. Rev. Lett.</source> 
+<volume>92</volume>, 
+<fpage>185701</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1103/PhysRevLett.92.185701</pub-id><pub-id pub-id-type="pmid">15169505</pub-id></citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Williams</surname><given-names>Q.</given-names></name><name><surname>Jeanloz</surname><given-names>R.</given-names></name><name><surname>Bass</surname><given-names>J.</given-names></name><name><surname>Svendsen</surname><given-names>B.</given-names></name><name><surname>Ahrens</surname><given-names>T. J.</given-names></name></person-group>, 
+<article-title>The melting curve of iron to 250 gigapascals: A constraint on the temperature at Earth&#x2019;s center</article-title>. <source>Science</source> 
+<volume>236</volume>, 
+<fpage>181</fpage> (<year>1987</year>). <pub-id pub-id-type="doi">10.1126/science.236.4798.181</pub-id><pub-id pub-id-type="pmid">17789782</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ma</surname><given-names>Y. Z.</given-names></name><etal /></person-group>., 
+<article-title>In situ x-ray diffraction studies of iron to Earth-core conditions</article-title>. <source>Phys. Earth Planet. Inter.</source> 
+<volume>143-144</volume>, 
+<fpage>455</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1016/j.pepi.2003.06.005</pub-id></citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Belonoshko</surname><given-names>A. B.</given-names></name><name><surname>Ahuja</surname><given-names>R.</given-names></name><name><surname>Johansson</surname><given-names>B.</given-names></name></person-group>, 
+<article-title>Quasi-ab initio molecular dynamic study of Fe melting</article-title>. <source>Phys. Rev. Lett.</source> 
+<volume>84</volume>, 
+<fpage>3638</fpage> (<year>2000</year>). <pub-id pub-id-type="doi">10.1103/PhysRevLett.84.3638</pub-id><pub-id pub-id-type="pmid">11019165</pub-id></citation></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Alf&#x00E8;</surname><given-names>D.</given-names></name><name><surname>Price</surname><given-names>G. D.</given-names></name><name><surname>Gillan</surname><given-names>M. J.</given-names></name></person-group>, 
+<article-title>Iron under Earth&#x2019;s core conditions: Liquid-state thermodynamics and high-pressure melting curve from ab initio calculations</article-title>. <source>Phys. Rev. B</source> 
+<volume>65</volume>, 
+<fpage>165118</fpage> (<year>2002</year>). <pub-id pub-id-type="doi">10.1103/PhysRevB.65.165118</pub-id></citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Alf&#x00E8;</surname><given-names>D.</given-names></name></person-group>, 
+<article-title>Temperature of the inner-core boundary of the Earth: Melting of iron at high pressure from first-principle coexistence simulations</article-title>. <source>Phys. Rev. B</source> 
+<volume>79</volume>, 
+<fpage>060101</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1103/PhysRevB.79.060101</pub-id></citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Sola</surname><given-names>E.</given-names></name><name><surname>Alf&#x00E8;</surname><given-names>D.</given-names></name></person-group>, 
+<article-title>Melting of iron under Earth&#x2019;s core conditions from diffusion Monte Carlo free energy calculations</article-title>. <source>Phys. Rev. Lett.</source> 
+<volume>103</volume>, 
+<fpage>078501</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1103/PhysRevLett.103.078501</pub-id><pub-id pub-id-type="pmid">19792692</pub-id></citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Luo</surname><given-names>S. N.</given-names></name><name><surname>Ahrens</surname><given-names>T. J.</given-names></name></person-group>, 
+<article-title>Shock-induced superheating and melting curves of geophysically important minerals</article-title>. <source>Phys. Earth Planet. Inter.</source> 
+<volume>143-144</volume>, 
+<fpage>369</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1016/j.pepi.2003.04.001</pub-id></citation></ref>
+<ref id="R17"><label>17</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Williams</surname><given-names>Q.</given-names></name><name><surname>Knittle</surname><given-names>E.</given-names></name><name><surname>Jeanloz</surname><given-names>R.</given-names></name></person-group>, 
+<article-title>The high-pressure melting curve of iron: A technical discussion</article-title>. <source>J. Geophys. Res.</source> 
+<volume>96</volume>, 
+<fpage>2171</fpage> (<year>1991</year>). <pub-id pub-id-type="doi">10.1029/90JB01999</pub-id></citation></ref>
+<ref id="R18"><label>18</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Dewaele</surname><given-names>A.</given-names></name><name><surname>Mezouar</surname><given-names>M.</given-names></name><name><surname>Guignot</surname><given-names>N.</given-names></name><name><surname>Loubeyre</surname><given-names>P.</given-names></name></person-group>, 
+<article-title>High melting points of tantalum in a laser-heated diamond anvil cell</article-title>. <source>Phys. Rev. Lett.</source> 
+<volume>104</volume>, 
+<fpage>255701</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1103/PhysRevLett.104.255701</pub-id><pub-id pub-id-type="pmid">20867395</pub-id></citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Tateno</surname><given-names>S.</given-names></name><name><surname>Hirose</surname><given-names>K.</given-names></name><name><surname>Ohishi</surname><given-names>Y.</given-names></name><name><surname>Tatsumi</surname><given-names>Y.</given-names></name></person-group>, 
+<article-title>The structure of iron in Earth&#x2019;s inner core</article-title>. <source>Science</source> 
+<volume>330</volume>, 
+<fpage>359</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1126/science.1194662</pub-id><pub-id pub-id-type="pmid">20947762</pub-id></citation></ref>
+<ref id="R20"><note><label>20</label>
+<p>Materials and methods are available as supplementary materials on <italic>Science</italic> Online.</p></note></ref>
+<ref id="R21"><label>21</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Boehler</surname><given-names>R.</given-names></name><name><surname>Vonbargen</surname><given-names>N.</given-names></name><name><surname>Chopelas</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Melting, thermal expansion and phase transitions of iron at high pressures</article-title>. <source>J. Geophys. Res.</source> 
+<volume>95</volume>, 
+<fpage>21731</fpage> (<year>1990</year>). <pub-id pub-id-type="doi">10.1029/JB095iB13p21731</pub-id></citation></ref>
+<ref id="R22"><label>22</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Komabayashi</surname><given-names>T.</given-names></name><name><surname>Fei</surname><given-names>Y.</given-names></name><name><surname>Meng</surname><given-names>Y.</given-names></name><name><surname>Prakapenka</surname><given-names>V.</given-names></name></person-group>, 
+<article-title>In-situ x-ray diffraction measurements of the &#x03B3;&#x2212;&#x03B5; transition boundary of iron in an internally-heated diamond anvil cell</article-title>. <source>Earth Planet. Sci. Lett.</source> 
+<volume>282</volume>, 
+<fpage>252</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1016/j.epsl.2009.03.025</pub-id></citation></ref>
+<ref id="R23"><label>23</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Brown</surname><given-names>J. M.</given-names></name></person-group>, 
+<article-title>The equation of state of iron to 450 GPa: Another high pressure solid phase?</article-title> <source>Geophys. Res. Lett.</source> 
+<volume>28</volume>, 
+<fpage>4339</fpage> (<year>2001</year>). <pub-id pub-id-type="doi">10.1029/2001GL013759</pub-id></citation></ref>
+<ref id="R24"><label>24</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Belonoshko</surname><given-names>A. B.</given-names></name><name><surname>Ahuja</surname><given-names>R.</given-names></name><name><surname>Johansson</surname><given-names>B.</given-names></name></person-group>, 
+<article-title>Stability of the body-centred-cubic phase of iron in the Earth&#x2019;s inner core</article-title>. <source>Nature</source> 
+<volume>424</volume>, 
+<fpage>1032</fpage> (<year>2003</year>). <pub-id pub-id-type="doi">10.1038/nature01954</pub-id><pub-id pub-id-type="pmid">12944963</pub-id></citation></ref>
+<ref id="R25"><label>25</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Dewaele</surname><given-names>A.</given-names></name><etal /></person-group>., 
+<article-title>Quasihydrostatic equation of state of iron above 2 Mbar</article-title>. <source>Phys. Rev. Lett.</source> 
+<volume>97</volume>, 
+<fpage>215504</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1103/PhysRevLett.97.215504</pub-id><pub-id pub-id-type="pmid">17155749</pub-id></citation></ref>
+<ref id="R26"><label>26</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Komabayashi</surname><given-names>T.</given-names></name><name><surname>Fei</surname><given-names>Y.</given-names></name></person-group>, 
+<article-title>Internally consistent thermodynamic database for iron to the Earth&#x2019;s core conditions</article-title>. <source>J. Geophys. Res.</source> 
+<volume>115</volume>, (<supplement>B3</supplement>), 
+<fpage>B03202</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1029/2009JB006442</pub-id></citation></ref>
+<ref id="R27"><label>27</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Geballe</surname><given-names>Z. M.</given-names></name><name><surname>Jeanloz</surname><given-names>R.</given-names></name></person-group>, 
+<article-title>Origin of the temperature plateaus in laser-heated diamond anvil cell experiments</article-title>. <source>J. Appl. Phys.</source> 
+<volume>111</volume>, 
+<fpage>123518</fpage> (<year>2012</year>). <pub-id pub-id-type="doi">10.1063/1.4729905</pub-id></citation></ref>
+<ref id="R28"><label>28</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Swartzendruber</surname><given-names>L. J.</given-names></name></person-group>, 
+<article-title>The Fe (iron) system</article-title>. <source>Bull. Alloy Phase Diagr.</source> 
+<volume>3</volume>, 
+<fpage>161</fpage> (<year>1982</year>). <pub-id pub-id-type="doi">10.1007/BF02892374</pub-id></citation></ref>
+<ref id="R29"><label>29</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Jackson</surname><given-names>J. M.</given-names></name><etal /></person-group>., 
+<article-title>Melting of compressed iron by monitoring atomic dynamics</article-title>. <source>Earth Planet. Sci. Lett.</source> 
+<volume>362</volume>, 
+<fpage>143</fpage> (<year>2013</year>). <pub-id pub-id-type="doi">10.1016/j.epsl.2012.11.048</pub-id></citation></ref>
+<ref id="R30"><label>30</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Boehler</surname><given-names>R.</given-names></name><name><surname>Santamaria-P&#x00E9;rez</surname><given-names>D.</given-names></name><name><surname>Errandonea</surname><given-names>D.</given-names></name><name><surname>Mezouar</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Melting density and anisotropy of iron at core conditions: New x-ray measurements to 150 GPa</article-title>. <source>J. Phys. Conf. Ser.</source> 
+<volume>121</volume>, 
+<fpage>022018</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1088/1742-6596/121/2/022018</pub-id></citation></ref>
+<ref id="R31"><label>31</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Pozzo</surname><given-names>M.</given-names></name><name><surname>Davies</surname><given-names>C.</given-names></name><name><surname>Gubbins</surname><given-names>D.</given-names></name><name><surname>Alf&#x00E8;</surname><given-names>D.</given-names></name></person-group>, 
+<article-title>Thermal and electrical conductivity of iron at Earth&#x2019;s core conditions</article-title>. <source>Nature</source> 
+<volume>485</volume>, 
+<fpage>355</fpage> (<year>2012</year>). <pub-id pub-id-type="doi">10.1038/nature11031</pub-id><pub-id pub-id-type="pmid">22495307</pub-id></citation></ref>
+<ref id="R32"><label>32</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Fiquet</surname><given-names>G.</given-names></name><etal /></person-group>., 
+<article-title>Melting of peridotite to 140 gigapascals</article-title>. <source>Science</source> 
+<volume>329</volume>, 
+<fpage>1516</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1126/science.1192448</pub-id><pub-id pub-id-type="pmid">20847269</pub-id></citation></ref>
+<ref id="R33"><label>33</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Tateno</surname><given-names>S.</given-names></name><name><surname>Hirose</surname><given-names>K.</given-names></name><name><surname>Sata</surname><given-names>N.</given-names></name><name><surname>Ohishi</surname><given-names>Y.</given-names></name></person-group>, 
+<article-title>Determination of post-perovskite phase transition boundary up to 4400K and implications for thermal structure in D&#x2032;&#x2032; layer</article-title>. <source>Earth Planet. Sci. Lett.</source> 
+<volume>277</volume>, 
+<fpage>130</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1016/j.epsl.2008.10.004</pub-id></citation></ref>
+<ref id="R34"><label>34</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Boehler</surname><given-names>R.</given-names></name><name><surname>Ross</surname><given-names>M.</given-names></name><name><surname>Boercker</surname><given-names>D. B.</given-names></name></person-group>, 
+<article-title>High-pressure melting curves of alkali halides</article-title>. <source>Phys. Rev. B</source> 
+<volume>53</volume>, 
+<fpage>556</fpage> (<year>1996</year>). <pub-id pub-id-type="doi">10.1103/PhysRevB.53.556</pub-id><pub-id pub-id-type="pmid">9983004</pub-id></citation></ref>
+<ref id="R35"><label>35</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Dewaele</surname><given-names>A.</given-names></name><etal /></person-group>., 
+<article-title>High-pressure-high-temperature equation of state of KCl and KBr</article-title>. <source>Phys. Rev. B</source> 
+<volume>85</volume>, 
+<fpage>214105</fpage> (<year>2012</year>). <pub-id pub-id-type="doi">10.1103/PhysRevB.85.214105</pub-id></citation></ref>
+<ref id="R36"><label>36</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Benedetti</surname><given-names>L. R.</given-names></name><name><surname>Loubeyre</surname><given-names>P.</given-names></name></person-group>, 
+<article-title>Temperature gradients, wavelength-dependent emissivity and accuracy of high and very-high temperatures measured in the laser-heated diamond cell</article-title>. <source>High Press. Res.</source> 
+<volume>24</volume>, 
+<fpage>423</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1080/08957950412331331718</pub-id></citation></ref>
+<ref id="R37"><label>37</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Sata</surname><given-names>N.</given-names></name><etal /></person-group>., 
+<article-title>Compression of FeSi, Fe<sub>3</sub>C, Fe<sub>0.95</sub>O and FeS under the core pressures and implication for light element in the Earth&#x2019;s core</article-title>. <source>J. Geophys. Res.</source> 
+<volume>115</volume>, (<supplement>B9</supplement>), 
+<fpage>B09204</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1029/2009JB006975</pub-id></citation></ref>
+<ref id="R38"><label>38</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Morard</surname><given-names>G.</given-names></name><etal /></person-group>., 
+<article-title>Melting of Fe-Ni-Si and Fe-Ni-S alloys at megabar pressures: Implications for the core-mantle boundary temperature</article-title>. <source>Phys. Chem. Miner.</source> 
+<volume>38</volume>, 
+<fpage>767</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1007/s00269-011-0449-9</pub-id></citation></ref>
+<ref id="R39"><label>39</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hernlund</surname><given-names>J. W.</given-names></name><name><surname>Labrosse</surname><given-names>S.</given-names></name></person-group>, 
+<article-title>Geophysically consistent values of the perovskite to post-perovskite transition Clapeyron slope</article-title>. <source>Geophys. Res. Lett.</source> 
+<volume>34</volume>, 
+<fpage>L05309</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1029/2006GL028961</pub-id></citation></ref>
+<ref id="R40"><label>40</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Dziewonski</surname><given-names>A. M.</given-names></name><name><surname>Anderson</surname><given-names>D. L.</given-names></name></person-group>, 
+<article-title>Preliminary reference Earth model</article-title>. <source>Phys. Earth Planet. Inter.</source> 
+<volume>25</volume>, 
+<fpage>297</fpage> (<year>1981</year>). <pub-id pub-id-type="doi">10.1016/0031-9201(81)90046-7</pub-id></citation></ref>
+<ref id="R41"><label>41</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Steinberger</surname><given-names>B.</given-names></name><name><surname>Holme</surname><given-names>R.</given-names></name></person-group>, 
+<article-title>Mantle flow models with core-mantle boundary constraints and chemical heterogeneities in the lowermost mantle</article-title>. <source>J. Geophys. Res.</source> 
+<volume>113</volume>, (<supplement>B5</supplement>), 
+<fpage>B05403</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1029/2007JB005080</pub-id></citation></ref>
+</ref-list>
+<ack>
+<title>Acknowledgments</title><p>The authors acknowledge the European Synchrotron Radiation Facility for provision of beamtime. G.M. is funded by grant ANR-12-BS04-001504. We thank G. Garbarino and A. Salamat for experimental help and C. Sanloup and D. Spaulding for their comments on this manuscript. Data are available in the supplementary materials.</p>
+</ack></back>
+</article>

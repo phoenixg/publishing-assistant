@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="other" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Business Office Feature</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>From the AAAS Office of Publishing and Member Services</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>opms-sups</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Science Webinar Series</subject></subj-group>
+<subj-group subj-group-type="field"><subject>CELL BIOL</subject><subject>IMMUNOLOGY</subject><subject>MOLEC BIOL</subject><subject>PHARM TOX</subject><subject>MEDICINE</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Medicine</subject><subject>Biochemistry</subject><subject>Cell-Biology</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Proteomics Meets Cellular Signaling: Exploring Post-translational Modifications by Mass Spectrometry</article-title>
+</title-group>
+    <contrib-group>
+        <contrib contrib-type="author">
+            <name><surname>Suri</surname><given-names>Vipin</given-names></name>
+        </contrib>
+        <contrib contrib-type="author">
+            <name><surname>Paweletz</surname><given-names>Cloud</given-names></name>
+        </contrib>
+        <contrib contrib-type="author">
+            <name><surname>Choudhary</surname><given-names>Chunaram</given-names></name>
+        </contrib>
+    </contrib-group>
+    
+<pub-date pub-type="ppub"><day>26</day><month>04</month><year>2013</year></pub-date>
+<volume>340</volume>
+<issue>6131</issue>
+<fpage seq="c">499</fpage>
+<lpage>499</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="web-summary">
+<p>Post-translational modifications (PTMs)&mdash;including phosphorylation, acetylation, and ubiquitination&mdash;are specific modifications that can alter the activity of an individual protein target. The cumulative effect of these small modifications is the regulation of large signaling pathways and networks within cells.</p>
+<p>Mass spectrometry is a powerful tool for the identification of individual PTMs during the investigation of signaling networks. A new approach using antibody-based peptide enrichment for a class of PTMs combined with tandem mass spectrometry has been successfully used for global identification of hundreds to thousands of PTMs within a sample. In this webinar, examples of how the technology was applied to each of these PTM classes will be described.</p>
+<list list-type="bullet">
+<list-item>
+<p><ext-link ext-link-type="uri" xlink:href="http://webinar.sciencemag.org/webinar/archive/proteomics-meets-cellular-signaling">View the Webinar</ext-link></p>
+</list-item>
+</list>
+</abstract>
+</article-meta>
+</front>
+</article>

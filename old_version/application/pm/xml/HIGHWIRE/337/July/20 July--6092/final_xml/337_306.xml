@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1225049</article-id>
+<article-id pub-id-type="doi">10.1126/science.1225049</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Perspective</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Perspectives</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>perspective</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Ecology</subject></subj-group>
+<subj-group subj-group-type="field"><subject>ECOLOGY</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>The Art of Ecological Modeling</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Boyd</surname><given-names>Ian L.</given-names></name></contrib>
+<aff id="aff1">Scottish Oceans Institute, University of St Andrews, St Andrews KY16 8LB, UK.</aff>
+</contrib-group>
+<author-notes>
+<corresp>E-mail: <email>ilb@st-andrews.ac.uk</email></corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<day>20</day>
+<month>07</month>
+<year>2012</year>
+</pub-date>
+<volume>337</volume>
+<issue>6092</issue>
+<fpage>306</fpage>
+<lpage>307</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>Ecological models have limited predictive power, but can provide insights into what makes an ecosystem vulnerable to disturbance.</p>
+</abstract>
+<abstract abstract-type="excerpt">
+<p>Scientists appear to have a very limited capacity to predict the behavior of nonlinear dynamic systems, including ecological systems (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). As understanding of these systems improves, uncertainty around system behavior tends to increase rather than decline (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>). The reason for this paradoxical observation is that the uncertainty in the models used for prediction has been underestimated. Many of today's ecological models have excessively optimistic ambitions to predict ecosystem and population dynamics. Some recent studies (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>&#x2013;<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>)&#x2014;including that by Mougi and Kondoh (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>) on page 349 of this issue&#x2014;help to specify where the limits of prediction may lie.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Julia Fahrenkamp-Uppenbrink</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Harry Jach</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>Scientists appear to have a very limited capacity to predict the behavior of nonlinear dynamic systems, including ecological systems (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). As understanding of these systems improves, uncertainty around system behavior tends to increase rather than decline (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>). The reason for this paradoxical observation is that the uncertainty in the models used for prediction has been underestimated. Many of today's ecological models have excessively optimistic ambitions to predict ecosystem and population dynamics. Some recent studies (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>&#x2013;<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>)&#x2014;including that by Mougi and Kondoh (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>) on page <related-article related-article-type="in-this-issue" vol="337" page="349" issue="6092">349</related-article> of this issue&#x2014;help to specify where the limits of prediction may lie.</p>
+<p>Mougi and Kondoh used network models to show that the specific mixture of agonistic and mutualistic interactions between species is likely to contribute to stabilizing populations in ecological networks. Real ecosystems contain a rich mixture of these types of interactions, meaning that community network structure may affect the dynamics of individual populations. Moreover, stability and controllability of networks also depend on how tightly the key nodes in these networks are coupled (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>, <xref ref-type="bibr" rid="R5"><italic>5</italic></xref>). These results suggest that some species within ecosystems are especially important to ecological stability, which is consistent with the empirical evidence of the relative importance of different species (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>).</p>
+<p>Forty years ago, May's (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>) suggestion that complexity does not necessarily beget stability in ecological networks began a debate about a possible trade-off between complexity and stability in ecosystems. The recent results (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>&#x2013;<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>) indicate that complexity does beget stability&#x2014;but only in the presence of certain species and types of interaction between them.</p>
+<p>If only a small subset of all possible ecological networks with certain species abundances and types of interactions is stable, this result may explain the characteristic frequency distribution of species abundance observed in ecological communities (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>). It may also help to predict the consequences for ecosystem stability of weakening key nodes in these networks through biodiversity loss as a result of selective exploitation or destruction of species (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>), or because of the effects of climate change on the relative strength of interactions between species (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>).</p>
+<fig id="F1" position="float">
+<caption>
+<title>Ecosystem dynamics.</title>
+<p>Models show that the mixture of agonistic and mutualistic interactions in ecological networks is important for the stability of communities. These complex interactions are typically not captured by models used to manage ecological resources.</p>
+</caption>
+<graphic xlink:href="337_306_F1"></graphic>
+<attrib>CREDIT: RICH CAREY/SHUTTERSTOCK</attrib>
+</fig>
+<p>However, if we are to have any hope of managing ecological systems, we require a mechanism to identify which disturbances are likely to lead to instability. Using cultured yeast populations, Dai <italic>et al.</italic> (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>) recently reported the presence of telltale signs of tipping points, or bifurcations in the language of chaos theory, when the system state can change rapidly and unpredictably. Predicting bifurcations in chaotic systems has many of the characteristics of playing roulette, and some have rightly cautioned against optimism about their predictability (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). However, it appears that perturbed populations take longer to return to their original state in advance of a bifurcation. This supports the observation of changing dynamics within food webs up to a year in advance of an experimentally induced regime shift in a real ecosystem (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>). In practice, this effect can be detected statistically (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>, <xref ref-type="bibr" rid="R15"><italic>15</italic></xref>), suggesting the possibility of establishing indicators of future system status.</p>
+<p>These results need to be translated into operational uses. Standard models used to manage biological resources rarely have the capacity to model the dynamics typically associated with bifurcations. The main models are general population models (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>) and data-driven, heuristic, ecosystem models (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>, <xref ref-type="bibr" rid="R18"><italic>18</italic></xref>), which are rarely validated and often overparameterized. They are grounded in the concept of linear (predictable) rather than nonlinear (unpredictable) systems and thus fail to capture the underlying complexity of ecological processes.</p>
+<p>These model limitations must be kept in mind when reporting results, especially for use in decision-making. It may be tempting to ignore model uncertainty in the name of pragmatism, but this will not lead to better decisions. Indeed, this type of systemic misapplication of ecological models may underlie some cases of natural resource depletion. For example, fisheries models typically assume linear dynamics and rarely consider the implications of wider community interactions for the validity of their predictions (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>, <xref ref-type="bibr" rid="R19"><italic>19</italic></xref>).</p>
+<p>Predicting the dynamics of real ecosystems&#x2014;or even of components of these ecosystems&#x2014;will remain beyond the reach of even the best ecosystem models for the foreseeable future (see the figure). However, the emerging body of evidence (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>&#x2013;<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>), suggests that ecological network models can be used to describe ecosystem characteristics and general behavior, including providing indicators of when ecosystems are being stressed. Successful management of ecological processes will come down to being able to identify and measure the dynamics of influential network components, probably in the form of key species (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>). These species need not be the most common or those that are exploited (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>, <xref ref-type="bibr" rid="R20"><italic>20</italic></xref>).</p>
+<p>In future, the rational management of exploited species will probably depend increasingly on the status of these key species in ecological networks. The legal designation of protected species, together with an obligation on authorities to monitor their status, presents an opportunity to establish ecologically meaningful system indicators that are also relevant to public policy.</p>
+</body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Levin</surname><given-names>S. A.</given-names></name></person-group>, <source>Ecosystems</source> <volume>1</volume>, <fpage>431</fpage> (<year>1998</year>).</citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Maslin</surname><given-names>M.</given-names></name><name><surname>Austin</surname><given-names>P.</given-names></name></person-group>, <source>Nature</source> <volume>486</volume>, <fpage>183</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Dai</surname><given-names>L.</given-names></name><etal/></person-group>., <source>Science</source> <volume>336</volume>, <fpage>1175</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Allesina</surname><given-names>S.</given-names></name><name><surname>Tang</surname><given-names>S.</given-names></name></person-group>, <source>Nature</source> <volume>483</volume>, <fpage>205</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>Y. Y.</given-names></name><etal/></person-group>., <source>Nature</source> <volume>473</volume>, <fpage>167</fpage> (<year>2011</year>).</citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Mougi</surname><given-names>A.</given-names></name><name><surname>Kondoh</surname><given-names>M.</given-names></name></person-group>, <source>Science</source> <volume>337</volume>, <fpage>349</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hooper</surname><given-names>D. U.</given-names></name><etal/></person-group>., <source>Ecol. Monogr.</source> <volume>75</volume>, <fpage>3</fpage> (<year>2005</year>).</citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>May</surname><given-names>R. M.</given-names></name></person-group>, <source>Nature</source> <volume>238</volume>, <fpage>413</fpage> (<year>1972</year>).</citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Preston</surname><given-names>F. W.</given-names></name></person-group>, <source>Ecology</source> <volume>43</volume>, <fpage>185</fpage> (<year>1962</year>).</citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Shelton</surname><given-names>A. O.</given-names></name><name><surname>Mangel</surname><given-names>M.</given-names></name></person-group>, <source>Proc. Natl. Acad. Sci. U.S.A.</source> <volume>108</volume>, <fpage>7075</fpage> (<year>2011</year>).</citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Zarnetske</surname><given-names>P. L.</given-names></name><etal/></person-group>., <source>Science</source> <volume>336</volume>, <fpage>1516</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hastings</surname><given-names>A.</given-names></name><name><surname>Wysham</surname><given-names>D. B.</given-names></name></person-group>, <source>Ecol. Lett.</source> <volume>13</volume>, <fpage>464</fpage> (<year>2010</year>).</citation>
+</ref>
+<ref id="R13">
+<label>13</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Carpenter</surname><given-names>S. R.</given-names></name><etal/></person-group>., <source>Science</source> <volume>332</volume>, <fpage>1079</fpage> (<year>2011</year>).</citation>
+</ref>
+<ref id="R14">
+<label>14</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Veraart</surname><given-names>A. J.</given-names></name><etal/></person-group>., <source>Nature</source> <volume>481</volume>, <fpage>357</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R15">
+<label>15</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Scheffer</surname><given-names>M.</given-names></name><etal/></person-group>., <source>Nature</source> <volume>461</volume>, <fpage>53</fpage> (<year>2009</year>).</citation>
+</ref>
+<ref id="R16">
+<label>16</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hilborn</surname><given-names>R.</given-names></name></person-group>, <source>Nat. Resour. Model.</source> <volume>25</volume>, <fpage>122</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R17">
+<label>17</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Christensen</surname><given-names>V.</given-names></name><etal/></person-group>., <source>Ecol. Modell.</source> <volume>220</volume>, <fpage>1984</fpage> (<year>2009</year>).</citation>
+</ref>
+<ref id="R18">
+<label>18</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Smith</surname><given-names>A. D. M.</given-names></name><etal/></person-group>., <source>Science</source> <volume>333</volume>, <fpage>1147</fpage> (<year>2011</year>).</citation>
+</ref>
+<ref id="R19">
+<label>19</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Sugihara</surname><given-names>G.</given-names></name><etal/></person-group>., <source>Proc. Natl. Acad. Sci. U.S.A.</source> <volume>108</volume>, <fpage>E1224</fpage> (<year>2011</year>).</citation>
+</ref>
+<ref id="R20">
+<label>20</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Cury</surname><given-names>P. M.</given-names></name><etal/></person-group>., <source>Science</source> <volume>334</volume>, <fpage>1703</fpage> (<year>2011</year>).</citation>
+</ref>
+</ref-list>
+</back>
+</article>

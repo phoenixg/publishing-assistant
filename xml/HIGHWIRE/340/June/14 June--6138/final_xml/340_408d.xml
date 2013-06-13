@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>twil</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Cell Biology</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Virology</subject><subject>Sociology</subject><subject>Microbiology</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Monocytes on the Prowl</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Hurtley</surname><given-names>Stella M.</given-names></name></contrib>
+</contrib-group>
+<pub-date pub-type="ppub">
+<day>26</day>
+<month>04</month>
+<year>2013</year>
+</pub-date>
+<volume>340</volume>
+<issue>6131</issue>
+<fpage seq="d">408</fpage>
+<lpage>409</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="twil.pdf" />
+<custom-meta-wrap>
+<custom-meta><meta-name>Editor</meta-name><meta-value>Kristen Mueller, Maria Cruz</meta-value></custom-meta>
+</custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<fig id="F1" position="anchor">
+<graphic xlink:href="340_408d_F1"></graphic>
+<attrib>CREDIT: ADAPTED FROM L. CARLIN <italic>ET AL., CELL</italic> <bold>153</bold>, 362 (2013)</attrib>
+</fig>
+<p>Monocytes, macrophages, and dendritic cells are a family of cells collectively referred to as the &#x201C;mononuclear phagocyte system&#x201D; (MPS) that mediates and regulates inflammation. Cells of the MPS scavenge dead cells and toxic molecules, and kill or contain infectious agents. They are a critical mediator of the inflammatory response, which controls proliferation of microorganisms but they can also damage host tissues. Carlin <italic>et al.</italic> examined the role of a subset of monocytes, the Ly6C<sup>low</sup> population, in mice. Ly6C<sup>low</sup> monocytes, which continuously patrol the endothelium of capillaries, were shown to remove cellular debris and microparticles. In kidney tissues that bore the hallmarks of viral infection or cell death, the Ly6C<sup>low</sup> cells were retained by the endothelial cells within the capillaries and recruited neutrophils, which mediated necrosis of the endothelial cells, and then the monocytes cleaned up cellular remnants. Thus, these monocytes appear to serve as &#x201C;intravascular housekeepers,&#x201D; orchestrating and cleaning up the damage caused by neutrophildependent necrosis of endothelial cells lining the capillaries.</p>
+<p><italic>Cell</italic> <bold>153</bold>, 362 (2013).</p>
+</body>
+</article>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="in-brief" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>This Week in Science</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>This Week in Science</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>twis</subject></subj-group>
+<subj-group subj-group-type="field"><subject>ENGINEERING</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Neuroscience</subject><subject>Environment</subject><subject>Genetics</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Daylight Determines Dopamine</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<day>26</day>
+<month>04</month>
+<year>2013</year>
+</pub-date>
+<volume>340</volume>
+<issue>6131</issue>
+<fpage seq="h">405</fpage>
+<lpage>405</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="twis.pdf" />
+<custom-meta-wrap>
+<custom-meta><meta-name>Editor</meta-name><meta-value>Stella Hurtley</meta-value></custom-meta>
+</custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<fig id="F1" position="anchor">
+<graphic xlink:href="340_405h_F1"></graphic>
+<attrib>CREDIT: DAVIDE DULCIS AND POUYA JAMSHIDI</attrib>
+</fig>
+<p>Expression of the appropriate neurotransmitters is essential for the function of neural circuits. Can neurons change their transmitter phenotype to deal with alterations in the environment? <bold>Dulcis <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="340" issue="6131" page="449">449</related-article>; see the Perspective by <related-article related-article-type="in-this-issue" vol="340" page="436" issue="6131"><bold>Birren and Marder</bold></related-article>) exposed adult rats to different photoperiods mimicking summer and winter daylengths. Neurotransmitter expression switched between dopamine and somatostatin in hypothalamic neurons that regulate release of corticotropin-releasing factor. Transmitter switching occurred at the transcriptional level and was accompanied by changes in postsynaptic receptors.</p>
+</body>
+</article>

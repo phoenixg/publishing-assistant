@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1237303</article-id>
+<article-id pub-id-type="doi">10.1126/science.1237303</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Perspective</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Perspectives</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>perspective</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Chemistry</subject></subj-group>
+<subj-group subj-group-type="field"><subject>CHEMISTRY</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Medicine</subject><subject>Cell-Biology</subject><subject>Physics</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Are Gold Clusters in RF Fields Hot or Not?</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Kim</surname><given-names>Hong Koo</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib>
+<contrib contrib-type="author"><name><surname>Hanson</surname><given-names>George W.</given-names></name><xref ref-type="aff" rid="aff2">2</xref></contrib>
+<contrib contrib-type="author" corresp="yes"><name><surname>Geller</surname><given-names>David A.</given-names></name><xref ref-type="aff" rid="aff3">3</xref></contrib>
+<aff id="aff1"><label>1</label>Department of Electrical and Computer Engineering, Petersen Institute of Nanoscience and Engineering, University of Pittsburgh, Pittsburgh, PA 15261, USA.</aff>
+<aff id="aff2"><label>2</label>Department of Electrical Engineering, University of Wisconsin, Milwaukee, WI 53211, USA.</aff>
+<aff id="aff3"><label>3</label>Department of Surgery, UPMC Liver Cancer Center, University of Pittsburgh, Pittsburgh, PA 15261, USA.</aff>
+</contrib-group>
+<author-notes>
+<corresp>E-mail: <email>gellerda@upmc.edu</email></corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<day>26</day>
+<month>04</month>
+<year>2013</year>
+</pub-date>
+<volume>340</volume>
+<issue>6131</issue>
+<fpage>441</fpage>
+<lpage>442</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>Heating of gold nanoparticles by radio-frequency waves, which is of interest for clinical applications, can occur if the nanoparticles are made magnetic.</p>
+</abstract>
+<abstract abstract-type="excerpt">
+<p>Nanoparticles are finding increasing applications in diagnostics, imaging, and therapeutics in biology and medicine. Gold nanoparticles (Au NPs) have received a great deal of interest because of their distinctive optical, electronic, and molecular-recognition properties, as well as biocompatibility. One promising yet ambitious application for Au NPs is noncontact hyperthermia of cancer. By attaching tailor-made ligands, Au NPs can recognize and lock onto receptors on the surface of tumor cells. Under illumination by light, Au NPs can absorb radiation energy and selectively heat and destroy tumor volumes without collateral damage to neighboring healthy tissue. This type of noninvasive, specific, active targeting with Au NPs is highly desirable from a clinical perspective, but its use in cancer intervention has yet to be demonstrated.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Phillip D. Szuromi</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Jeff Cook</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>Nanoparticles are finding increasing applications in diagnostics, imaging, and therapeutics in biology and medicine. Gold nanoparticles (Au NPs) have received a great deal of interest because of their distinctive optical, electronic, and molecular-recognition properties, as well as biocompatibility. One promising yet ambitious application for Au NPs is noncontact hyperthermia of cancer. By attaching tailor-made ligands, Au NPs can recognize and lock onto receptors on the surface of tumor cells. Under illumination by light, Au NPs can absorb radiation energy and selectively heat and destroy tumor volumes without collateral damage to neighboring healthy tissue. This type of noninvasive, specific, active targeting with Au NPs is highly desirable from a clinical perspective, but its use in cancer intervention has yet to be demonstrated.</p>
+<p>The use of radio-frequency (RF) waves instead of light for heating Au NPs is appealing because of the larger penetration depth of RF waves in tissue, which would increase the tissue volumes that can be interrogated. A number of experimental studies have reported increased tumor cell destruction in the presence of Au NPs. One capacitive RF apparatus, in which a 13.56-MHz RF field is applied across two parallel plate electrodes (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>), can produce marked heating (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>&#x2013;<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>). Moran <italic>et al.</italic> hypothesized that the increased heat dissipation in Au NP solutions was caused by increased Joule (resistive) heating in Au NPs (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>). By implicitly assuming that the applied electric field penetrates through the Au NP without attenuation (i.e., no shielding effect of free electrons in the metal), a phenomenal amount of power dissipation was calculated for Au NPs and was used to explain the observed solution heating.</p>
+<p>This type of Joule heating of Au NPs by RF fields has been disputed on both experimental and theoretical grounds (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>, <xref ref-type="bibr" rid="R5"><italic>5</italic></xref>). Li <italic>et al.</italic> showed that the heating of Au NP solutions arose from the background ionic solution, not the Au NPs themselves. After separating out Au NPs from the solution via centrifugation and resuspending them in deionized water, negligible RF absorption was observed for a variety of Au NPs ranging in size from 5 to 200 nm. These findings contradict previous conclusions about the heating rate dependence on particle size and concentration and disprove the hypothesis that Au NPs directly absorb RF energy.</p>
+<p>Unlike the case at optical frequencies, where a photothermal effect can arise from electromagnetic field penetration into the particle, Au NPs respond differently to RF fields. Given the low oscillation frequency of RF energy, free electrons in metals respond essentially instantaneously and their drift cancels the incident electric field. This shielding effect renders Au NPs unheatable by RF electric fields; any observed heating is Joule heating of the ionic solvent (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>).</p>
+<p>McCoy <italic>et al.</italic> now report RF heating of gold cluster solutions tested in an inductively coupled RF apparatus&#x2014;that is, inside a coil where the magnetic field dominates over the electric field (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>). First, <italic>p</italic>-mercaptobenzoic acid (pMBA) was used to create a fixed-size crystalline nanocluster, Au<sub>102</sub>(pMBA)<sub>44</sub>. These Au nanoclusters (Au NCs) can be considered as closed-shell, nonmagnetic superatoms that are not susceptible to RF fields. McCoy <italic>et al.</italic> report that the Au NCs become paramagnetic when oxidized with KMnO<sub>4</sub>, so that they can be heated by magnetic fields, similar to the heating of magnetic NPs (such as iron oxide NPs) in oscillating magnetic fields. In this type of heating, particles can rotate within the stationary solvent (Brownian relaxation) or magnetic dipoles can rotate within the particle (N&#x00E9;el relaxation).</p>
+<fig id="F1" position="float">
+<caption>
+<title>Rethinking RF heating of gold nanoparticle solutions.</title>
+<p>(<bold>A</bold>) Absorption of RF energy by solutions containing gold nanoparticles is caused by Joule heating of the background ionic solution (supernatant), not by gold nanoparticles (pellet). Sample volume, 0.5 ml. (<bold>B</bold>) Joule heating further depends on the shape of media confinement. A thin tube (0.65 ml) oriented parallel to the electric field heats faster than a sphere (1 ml) or a disk (1 ml). RF power, 25 W; Au NP concentration, 6 &#x00D7; 10<sup>&#x2212;3</sup> weight %.</p>
+</caption>
+<graphic xlink:href="340_441_F1"></graphic>
+<attrib>CREDIT: (A) MODIFIED FROM (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>); (B) MODIFIED FROM (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>)</attrib>
+</fig>
+<p>McCoy <italic>et al.</italic> claim that other previously reported experiments might have contained unintentionally magnetic Au NPs in oscillating magnetic fields, partially accounting for the observed NP-dependent heating. Most previous reports of Au NP heating, however, used NPs with diameters of 5 nm or larger, and superatom stabilization and potential superatomic paramagnetism are unlikely in that size range.</p>
+<p>The work by McCoy <italic>et al.</italic> represents an important technical advance, but more work is needed to understand the underlying mechanisms and to develop the technology for use in RF hyperthermia. Much of the heating observed with their Au NCs is modest and substantially less than that reported in previous work on RF heating of solutions and for magnetic heating of iron oxide NPs. Furthermore, considering that most tissues have an ionic background, Joule heating of the background media is expected to be an important factor that will affect the selectivity of RF heating.</p>
+<p>Joule heating further depends on operating frequency (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>) and the shape and geometry of media confinement. Recently, we reported excellent RF heating of ionic solutions at 13.56 MHz, but the shape of the container holding the NP solution (or any conductive solution) played an important role (see the figure) (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>). Hence, heating applications must be considered in light of container shape. For example, a long, thin object immersed in an RF field and oriented parallel to the electric field will allow greater field penetration into the interior relative to a low, flat object. The slight heating of solutions in a dish with electric field perpendicular to the dish surface may be mainly a geometric effect, rather than a material property of the solution, because depolarization fields develop at dielectric interfaces in response to RF electric fields.</p>
+<p>Similar effects are expected with the size and shape of the whole body or individual organs. At a smaller scale, capillaries and microvasculature would also have an important effect on the efficacy of local heating by RF fields. Considering the complex nature of radio-wave interactions in tissues in vivo, further studies are needed to develop optimal RF hyperthermia targeting strategies.</p>
+</body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Cardinal</surname><given-names>J.</given-names></name><etal/></person-group>., <source>Surgery</source> <volume>144</volume>, <fpage>125</fpage> (<year>2008</year>).</citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Kruse</surname><given-names>D. E.</given-names></name><etal/></person-group>., <source>IEEE Trans. Biomed. Eng.</source> <volume>58</volume>, <fpage>2002</fpage> (<year>2011</year>).</citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Moran</surname><given-names>C. H.</given-names></name><etal/></person-group>., <source>Nano Res.</source> <volume>2</volume>, <fpage>400</fpage> (<year>2009</year>).</citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>D.</given-names></name><etal/></person-group>., <source>J. Colloid Interface Sci.</source> <volume>358</volume>, <fpage>47</fpage> (<year>2011</year>).</citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Hanson</surname><given-names>G. W.</given-names></name><name><surname>Monreal</surname><given-names>R. C.</given-names></name><name><surname>Apell</surname><given-names>S. P.</given-names></name></person-group>, <source>J. Appl. Phys.</source> <volume>109</volume>, <fpage>124306</fpage> (<year>2011</year>).</citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>X.</given-names></name><name><surname>Chen</surname><given-names>H. J.</given-names></name><name><surname>Chen</surname><given-names>X.</given-names></name><name><surname>Parini</surname><given-names>C.</given-names></name><name><surname>Wen</surname><given-names>D.</given-names></name></person-group>, <source>Nanoscale</source> <volume>4</volume>, <fpage>3945</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>McCoy</surname><given-names>R. S.</given-names></name><name><surname>Choi</surname><given-names>S.</given-names></name><name><surname>Collins</surname><given-names>G.</given-names></name><name><surname>Ackerson</surname><given-names>B. J.</given-names></name><name><surname>Ackerson</surname><given-names>C. J.</given-names></name></person-group>, <source>ACS Nano</source> <volume>7</volume>, <fpage>2610</fpage> (<year>2013</year>).</citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Griffiths</surname><given-names>H.</given-names></name><name><surname>Ahmed</surname><given-names>A.</given-names></name><name><surname>Smith</surname><given-names>C. W.</given-names></name></person-group>, <source>Br. J. Radiol.</source> <volume>57</volume>, <fpage>254</fpage> (<year>1984</year>).</citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>D.</given-names></name><etal/></person-group>., <source>IEEE Trans. Biomed. Eng.</source> <volume>59</volume>, <fpage>3468</fpage> (<year>2012</year>).</citation>
+</ref>
+</ref-list>
+</back>
+</article>

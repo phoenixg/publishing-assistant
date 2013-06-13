@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>twil</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Physics</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Computer-Science</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Cloaked in Silence</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Osborne</surname><given-names>Ian S.</given-names></name></contrib>
+</contrib-group>
+<pub-date pub-type="ppub">
+<day>12</day>
+<month>04</month>
+<year>2013</year>
+</pub-date>
+<volume>340</volume>
+<issue>6129</issue>
+<fpage seq="b">121</fpage>
+<lpage>121</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="twil.pdf" />
+<custom-meta-wrap>
+<custom-meta><meta-name>Editor</meta-name><meta-value>Kristen Mueller, Jake Yeston</meta-value></custom-meta>
+</custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<fig id="F1" position="anchor">
+<graphic xlink:href="340_121b_F1"></graphic>
+<attrib>CREDIT: L. SANCHIS <italic>ET AL., PHYSICAL REVIEW LETTERS</italic> <bold>110</bold>, 124301 (20 MARCH 2013) <ext-link ext-link-type="uri" xlink:href="http://LINK.APS.ORG/DOI/10.1103/PHYSREVLETT.110.124301">HTTP://LINK.APS.ORG/DOI/10.1103/PHYSREVLETT.110.124301</ext-link> &#x00A9; 2013 AMERICAN PHYSICAL SOCIETY</attrib>
+</fig>
+<p>The daily commute can be a trudge. On top of that, you often have to share, involuntarily, in the irritating noise coming out of the headphones of someone intent on going deaf prematurely. Of course, there are also the more serious safety aspects of protection from sudden and loud noise, as well as the peace and quiet provided by good sound insulation. The ideas developed over the past decade in cloaking an object from view using metamaterials and transformational optics can also be carried to other waveforms, including acoustics. Using such ideas, Sanchis <italic>et al.</italic> have designed and fabricated a three-dimensional (3D) acoustic cloak for airborne sound. Their cloak consists of a series of concentric tori that surround a sphere about 8 cm in diameter. Designed by an optimization algorithm and using a 3D printing method to fabricate the directional cloak, initial characterization shows that they can reduce the scattering cross section of the sphere for sound of 8.55 kHz by some 90%. A design modification should be possible to make the cloak omnidirectional. Perhaps it won't be too long before such a cloak can be incorporated into headphone design to stop sound leaking out.</p>
+<p><italic>Phys. Rev. Lett.</italic> <bold>110</bold>, 124301 (2013).</p>
+</body>
+</article>

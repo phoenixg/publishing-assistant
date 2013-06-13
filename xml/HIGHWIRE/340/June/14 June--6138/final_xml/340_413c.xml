@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="news" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Findings</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Findings</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>findings</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Medicine</subject><subject>Microbiology</subject><subject>Cell-Biology</subject></subj-group>
+<subj-group subj-group-type="field"><subject>MEDICINE</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Radioactive Microbes Nuke Tumor Cells</article-title>
+</title-group>
+<pub-date pub-type="ppub">
+<day>26</day>
+<month>04</month>
+<year>2013</year>
+</pub-date>
+<volume>340</volume>
+<issue>6131</issue>
+<fpage seq="c">413</fpage>
+<lpage>413</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="findings.pdf" />
+</article-meta>
+</front>
+<body>
+<p>Pancreatic cancer is grimly resistant to treatment, mainly because of the disease's ability to metastasize; only about 4% of patients survive for 5 years. But by delivering radiation directly to the cancer cells via genetically modified bacteria, researchers have hit upon a novel way to halt the disease's spread, they report this week in the <italic>Proceedings of the National Academy of Sciences</italic>.</p>
+<p>The rod-shaped bacterium <italic>Listeria monocytogenes</italic> burrows into cells, causing severe illness such as meningitis. Because it can penetrate immune cells, some researchers use weakened <italic>Listeria</italic> with bits of tumor DNA attached to teach the body's immune system to recognize and destroy cancer cells. In 2009, immunobiologist Claudia Gravekamp, now of the Albert Einstein College of Medicine in New York City, found that <italic>Listeria</italic> not only spurred the immune system to attack the cancer cells, but also killed them directly.</p>
+<p>Building on that work, she and her colleagues tagged modified <italic>Listeria</italic> with a radioactive isotope and injected it into mice carrying a highly metastatic form of pancreatic cancer. The radioactive bacteria therapy, they found, shrank the rodents' primary tumors by 64% while sparing healthy tissue; it also blasted cancer cells that had spread throughout the animals, reducing the number of metastatic cells by up to 90%.</p>
+</body>
+</article>

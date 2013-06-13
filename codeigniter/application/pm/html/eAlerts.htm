@@ -1,0 +1,244 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>eAlert Managment - Science Publishing Assistant</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+    <link href="assets/css/app.css" rel="stylesheet">
+    <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le fav and touch icons -->
+    <link rel="shortcut icon" href="assets/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="assets/ico/apple-touch-icon-57-precomposed.png">
+  </head>
+
+  <body id="bd">
+
+  <div class="container">
+  
+    <div class="navbar">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="./index.html"><em>Science</em> Publishing Assistant</a>
+          <div class="nav-collapse">
+            <ul class="nav">
+              <li><a href="#">Home </a></li>
+              <li><a href="#"><i class="icon-comment icon-white"></i> Comments Metadata </a></li>
+              <li class="active"><a href="#"><i class="icon-envelope icon-white"></i> Electronic Alerts</a></li>
+            </ul>
+            <ul class="nav pull-right">
+              <li><a href="#about">About This App</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <ul class="breadcrumb">
+      <li>
+        <a href="#"><i class="icon-home"></i> Home</a> <span class="divider">/</span>
+      </li>
+      <li class="active">
+        <a href="#">Electronic Alerts</a>
+      </li>
+    </ul>
+    
+      <div class="row">
+        <div class="span3">
+              <ul class="nav nav-list">
+              <li class="nav-header">Electronic Alerts</li>
+                <li class="active"><a href="#"><i class="icon-envelope icon-white"></i> Review and Send eAlerts</a></li>
+                <li><a href="#"><i class="icon-edit"></i> AD Content Manager</a></li>
+                <li><a href="#"><i class="icon-edit"></i> Editorial Content Manager</a></li>
+              </ul>
+              <br />
+              <hr  class="hidden-phone" />
+              <div class="hidden-phone">Built with <a href="http://twitter.github.com/bootstrap/index.html">Bootstrap</a> 2.0.4</div>
+        </div>
+        <div class="span9">
+        
+          <h1> Review and Send eAlerts</h1>
+          <br />
+          
+          <div class="tabbable"> <!-- Only required for left/right tabs -->
+            <ul class="nav nav-tabs">
+              <li class="active"><a href="#tab1" data-toggle="tab"><em>Science</em></a></li>
+              <li><a href="#tab2" data-toggle="tab"><em><span class="hidden-phone">Science</span> Signaling</em></a></li>
+              <li><a href="#tab3" data-toggle="tab"><em><span class="hidden-phone">Science Translational Medicine</span><span class="visible-phone">STM</span></em></a></li>
+              <li><a href="#tab4" data-toggle="tab"><em><span class="hidden-phone">Science</span> News</em></a></li>
+            </ul>
+            <div class="tab-content">
+              <div class="tab-pane active" id="tab1">
+
+                <h2><em>Science</em> Magazine (Vol vvv, Issue iiii)</h2>
+                <br />
+                
+                <!-- -Example of an info message inserted BEFORE the science content area, -->
+                <div class="alert alert-info">
+                  <a class="close" data-dismiss="alert" href="#">×</a>
+                  <strong>Complete</strong>. Five emails were sent to the test list.
+                </div>
+                
+                <div id="content-science" class="row">
+                  <div class="span2 hidden-phone">
+                    <img class="well" src="http://www.sciencemag.org/site/feature/icon/pic.mag.current-issue.jpg" alt="http://placehold.it/" />
+                  </div>
+                  <div class="span7">
+                    <form id="alerts-science">
+                      <label class="checkbox">
+                        <input type="checkbox"> Electronic Table of Contents <a href="http://www.sciencemag.org" class="btn btn-mini">Preview</a>
+                      </label>
+                      <label class="checkbox">
+                        <input type="checkbox"> Editors' Choice <a href="#" class="btn btn-mini">Preview</a>
+                      </label>
+                      <label class="checkbox">
+                        <input type="checkbox"> Science Express <a href="#" class="btn btn-mini">Preview</a>
+                      </label>
+                      <label class="checkbox">
+                        <input type="checkbox"> Another Email Subject Line <a href="#" class="btn btn-mini">Preview</a>
+                      </label>
+                      <label class="checkbox">
+                        <input type="checkbox"> Another Email Subject Line <a href="#" class="btn btn-mini">Preview</a>
+                      </label>
+                      <br />
+                      <!-- PRETTIER SOLUTION -->
+                      <!-- div class="btn-group">
+                        <a class="btn btn-primary btn-inverse" href="#"><i class="icon-upload icon-white"></i> Upload to Eloqua</a>
+                        <a class="btn btn-primary dropdown-toggle btn-inverse" data-toggle="dropdown" href="#"  style="margin-right: 12px;"><span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li><a href="#"><i class="icon-envelope"></i> Upload and Send Test</a></li>
+                          <li><a href="#"><i class="icon-envelope"></i>  Upload and Send Live</a></li>
+                        </ul>
+                        <div class="input-prepend">
+                          <span class="add-on  btn-success"><i class="icon-lock"></i></span><input class="span2" id="prependedInput" size="16" type="password">
+                        </div>
+                    </div-->
+                      <!-- EASIER TECH SOLUTION -->
+                    <div class="controls">
+                      <div class="input-prepend input-append">
+                        <span class="add-on "><i class="icon-lock"></i></span><input class="span2 pass-field" id="pass-science" size="16" type="password"><button class="btn btn-inverse" type="button">Put</button><button class="btn btn-info" type="button">Put, Go Test</button><button class="btn btn-info" type="button">Put, Go Live</button>
+                      </div>
+                    </div>
+                    <br />
+                    <p class="quiet"><span class="label label-warning">Attention</span> Review all alerts.  Enter password to unlock controls.</p>
+                    </form>
+                  </div>
+                </div>             
+              </div>
+              <div class="tab-pane" id="tab2">
+                <h2><em>Science Signaling</em> (Vol vvv, Issue iiii)</h2>
+                <br />
+                <div id="content-scisig" class="row">
+                  <div class="span2 hidden-phone">
+                    <img class="well" src="http://www.sciencemag.org/site/feature/icon/pic.mag.current-issue.jpg" alt="http://placehold.it/" />
+                  </div>
+                  <div class="span7">
+                    <form id="alerts-scisig">
+                      <label class="checkbox">
+                        <input type="checkbox"> Electronic Table of Contents <a href="http://www.sciencemag.org" class="btn btn-mini">Preview</a>
+                      </label>
+                      <br />
+                     <div class="controls">
+                        <div class="input-prepend input-append">
+                          <span class="add-on "><i class="icon-lock"></i></span><input class="span2 pass-field" id="pass-signaling" size="16" type="password"><button class="btn btn-inverse" type="button">Put</button><button class="btn btn-info" type="button">Put, Go Test</button><button class="btn btn-info" type="button">Put, Go Live</button>
+                        </div>
+                      </div>
+                      <br />
+                      <p class="quiet"><span class="label label-warning">Attention</span> Review all alerts.  Enter password to unlock controls.</p>
+                    </form>
+                  </div>
+                </div>        
+              </div>
+              <div class="tab-pane" id="tab3">
+                <h2><em>Science Translational Medicine</em> (Vol vvv, Issue iiii)</h2>
+                <br />
+                <div id="content-stm" class="row">
+                  <div class="span2 hidden-phone">
+                    <img class="well" src="http://www.sciencemag.org/site/feature/icon/pic.mag.current-issue.jpg" alt="http://placehold.it/" />
+                  </div>
+                  <div class="span7">
+                    <form id="alerts-stm">
+                      <label class="checkbox">
+                        <input type="checkbox"> Electronic Table of Contents <a href="http://www.sciencemag.org" class="btn btn-mini">Preview</a>
+                      </label>
+                      <br />
+                     <div class="controls">
+                        <div class="input-prepend input-append">
+                          <span class="add-on "><i class="icon-lock"></i></span><input class="span2 pass-field" id="pass-stm" size="16" type="text"><button class="btn btn-inverse" type="password">Put</button><button class="btn btn-info" type="button">Put, Go Test</button><button class="btn btn-info" type="button">Put, Go Live</button>
+                        </div>
+                      </div>
+                      <br />
+                      <p class="quiet"><span class="label label-warning">Attention</span> Review all alerts.  Enter password to unlock controls.</p>
+                    </form>
+                  </div>
+                </div> 
+              
+              </div>
+              <div class="tab-pane" id="tab4">
+                <h2><em>Science News</em></h2>
+                <br />
+                <div id="content-news" class="row">
+                  <div class="span2 hidden-phone">
+                    <img class="well" src="http://news.sciencemag.org/sciencenow/site-img/default-th.jpg" alt="http://placehold.it/" />
+                  </div>
+                  <div class="span7">
+                    <form id="alerts-news">
+                      <label class="checkbox">
+                        <input type="checkbox"> Daily Email Alert <a href="http://www.sciencemag.org" class="btn btn-mini">Preview</a>
+                      </label>
+                      <label class="checkbox">
+                        <input type="checkbox"> Weekly Email Alert <a href="http://www.sciencemag.org" class="btn btn-mini">Preview</a>
+                      </label>
+                      <br />
+                     <div class="controls">
+                        <div class="input-prepend input-append">
+                          <span class="add-on "><i class="icon-lock"></i></span><input class="span2 pass-field" id="pass-news" size="16" type="password"><button class="btn btn-inverse" type="button">Put</button><button class="btn btn-info" type="button">Put, Go Test</button><button class="btn btn-info" type="button">Put, Go Live</button>
+                        </div>
+                      </div>
+                      <br />
+                      <p class="quiet"><span class="label label-warning">Attention</span> Review all alerts.  Enter password to unlock controls.</p>
+                    </form>
+                  </div>
+                </div>    
+              </div>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+
+      <footer>
+        <p>&copy; <em>Science</em> | AAAS 2012</p>
+      </footer>
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/app.js"></script>
+
+  </body>
+</html>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="news" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>News &amp; Analysis</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>News &amp; Analysis</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>n-analysis</subject></subj-group>
+<subj-group subj-group-type="field"><subject>MICROBIO</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Developmental Biology</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Multicellularity Driven by Bacteria</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Carpenter</surname><given-names>Jennifer</given-names></name><xref ref-type="fn" rid="FN1">*</xref></contrib>
+</contrib-group>
+<author-notes>
+<fn id="FN1">
+<label>*</label>
+<p>Jennifer Carpenter is a journalist based in Toronto, Canada. Follow her on Twitter: @JennyCarpy.</p>
+</fn>
+</author-notes>
+<pub-date pub-type="ppub">
+<day>03</day>
+<month>08</month>
+<year>2012</year>
+</pub-date>
+<volume>337</volume>
+<issue>6094</issue>
+<fpage>510</fpage>
+<lpage>510</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser"><p>Bacteria can prompt single-celled choanoflagellates to divide into multicellular versions of themselves, biologists reported last week at the 71st annual meeting of the Society for Developmental Biology.</p></abstract>
+<abstract abstract-type="web-summary"><p>Microscopic plankton called choanoflagellates have led to an uncommon insight into how multicellular organisms might have evolved. Bacteria can prompt single-celled choanoflagellates to divide into multicellular versions of themselves, biologists reported last week at the 71st annual meeting of the Society for Developmental Biology. The researchers hope the work will prompt biologists to look more closely at the role of microorganisms in the evolution of multicellularity.</p></abstract>
+</article-meta>
+</front>
+<body>
+<p><bold>MONTREAL, CANADA</bold>&#x2014;When taking a dip this summer you will probably swallow tens, possibly hundreds, of microscopic plankton called choanoflagellates. These common organisms have led to an uncommon insight into how multicellular organisms might have evolved. Bacteria can prompt single-celled choanoflagellates to divide into multicellular versions of themselves, University of California (UC), Berkeley, biologist Nicole King reported last week here at the 71st annual meeting of the Society for Developmental Biology. King hopes the work will prompt biologists to look more closely at the role of microorganisms in the evolution of multicellularity.</p>
+<p>To the untrained eye, choanoflagellates look like animals. But they are less complex&#x2014;the closest living relatives of animals but on an older branch of the tree of life. As such, these organisms can provide clues about what early animals looked like and can help reconstruct the events from more than 600 million years ago that led to the incredible diversity of the animal kingdom.</p>
+<p>Choanoflagellates exist as solitary cells or rosette-shaped colonies. King had shown in 2010 that colonies are not simply aggregates of single-cell choanoflagellates but an interacting cluster that forms after a single cell divides. This finding convinced many biologists that the mechanisms for making multicellular organisms existed before the origin of animals.</p>
+<p>To investigate the transition to colony life, King decided to sequence the genome of a colony-forming choanoflagellate and compare it with the genome of a unicellular individual. But before sequencing, she asked undergraduate Richard Zuzow to purge the sample of everything but the plankton itself. When Zuzow added antibiotics to get rid of any bacteria, the choanoflagellate colonies disappeared. At first, &#x201C;I didn&apos;t believe him,&#x201D; King recalls. But with repeated tests, she became convinced that &#x201C;the bacteria are the important part of the [multicellular] story,&#x201D; she says.</p>
+<p>She investigated further. Of the 60 bacteria cultured from the original choanoflagellate sample, only one&#x2014;a bacterium called <italic>Algoriphagus machipongonensis</italic>&#x2014;induced colony-forming behavior. Focusing on this species, and enlisting the help of chemist Jon Clardy&apos;s lab at Harvard Medical School in Boston, King cleaved the bacterium into its constitutive parts&#x2014;membrane, cytoplasm, cell envelope&#x2014;and exposed the choanoflagellates to each one. &#x201C;The cell envelope was highly potent&#x201D; in inducing colonies, King reported. Within the envelope, she and her colleagues homed in on a molecule called RIF-1, identified as a colonyinducing molecule. It belongs to a class of molecules called sulfonolipids, which typically regulate cell differentiation and migration, among other processes.</p>
+<fig id="F1" position="float">
+<caption>
+<title>Push toward complexity.</title>
+<p>Bacteria induce solitary plankton called choanoflagellates (<italic>bottom</italic>) to become multicellular (<italic>top</italic>).</p>
+</caption>
+<graphic xlink:href="337_510_F1"></graphic>
+<attrib>CREDIT: ROSIE ALEGADO, KING LAB, UC BERKELEY</attrib>
+</fig>
+<p>King plans to see if RIF-1 plays a similar role in other animals, such as sponges, that closely resemble early animals. &#x201C;The transition to [studying] sponges will be a tough one,&#x201D; says developmental biologist William McGinnis of UC San Diego. There are few molecular tools to study choanoflagellates, fewer still in sponges. Yet, as simple animals, sponges are the next obvious place to look for evidence that bacteria played a role in the evolution of animal multicellularity.</p>
+<p>&#x201C;[Multicellularity was] a critical step in the evolution of animals because it allowed the division of different cell [functions],&#x201D; which ultimately led to more complex life forms, McGinnis says. But whether bacteria are responsible for similar development in animals &#x201C;remains to be seen.&#x201D;</p>
+<p>McGinnis says he was &#x201C;astonished&#x201D; that bacteria would trigger a developmental switch to multicellularity at all. He, like King, suspects that the choanoflagellates have evolved to sense the presence of the bacteria because the microbes are their main source of food. By forming a colony, the plankton make themselves more efficient predators, he notes.</p>
+</body>
+</article>

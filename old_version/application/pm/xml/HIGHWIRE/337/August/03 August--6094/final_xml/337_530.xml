@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"><front>
+<journal-meta><journal-id journal-id-type="publisher-id">SCIENCE</journal-id><journal-title>Science</journal-title><abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title><issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta><article-id pub-id-type="publisher-id">1225524</article-id><article-id pub-id-type="doi">10.1126/science.1225524</article-id><article-categories>
+<subj-group subj-group-type="article-type"><subject>Perspective</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Perspectives</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>perspective</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Materials Science</subject></subj-group>
+<subj-group subj-group-type="field"><subject>MAT SCI</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Approaching Asymmetry and Versatility in Polymer Assembly</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Pochan</surname><given-names>Darrin J.</given-names></name></contrib>
+<aff id="aff1">Materials Science and Engineering, Biomedical Engineering, University of Delaware, Newark, DE 19716, USA.</aff>
+</contrib-group>
+<author-notes>
+<corresp>E-mail: <email>pochan@udel.edu</email></corresp>
+</author-notes><pub-date pub-type="ppub">
+<day>03</day>
+<month>08</month>
+<year>2012</year>
+</pub-date><volume>337</volume><issue>6094</issue><fpage>530</fpage><lpage>531</lpage><permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>Multistep solution processes can create polymeric nanoparticles that are asymmetrical and that have complex internal structures.</p>
+</abstract>
+<abstract abstract-type="excerpt">
+<p>Modern integrated circuits are produced in a &#x201C;top-down&#x201D; approach with the aid of lithographic techniques to sequentially control the etching and deposition of materials. Arbitrary nanoscale shapes can be created in a desired hierarchical sequence to produce a functional device. If assembled with no control of size, shape, or sequence, the same materials produce no function and no technology. In contrast to lithography, &#x201C;bottom-up&#x201D; solution processing can assemble nanoscale polymeric materials in a simple manner, often through aggregation and phase separation processes driven by multiple weak interactions and the minimization of free energy (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). Unfortunately, bottom-up products are usually relatively simple and symmetrical (e.g., spherical and cylindrical micelles, bilayer membranes, and spherical colloids). On page 559 of this issue, Rupar <italic>et al.</italic> (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>) present a beautiful example of complexity and arbitrary control of solution-grown nanomaterials. The authors combined aspects of sequential, top-down control with bottom-up simplicity by using molecular design, solution assembly, crystallization, and covalent cross-linking chemistry in a multistep fashion.</p>
+</abstract><custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Phillip D. Szuromi</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Jeff Cook</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>Modern integrated circuits are produced in a &#x201C;top-down&#x201D; approach with the aid of lithographic techniques to sequentially control the etching and deposition of materials. Arbitrary nanoscale shapes can be created in a desired hierarchical sequence to produce a functional device. If assembled with no control of size, shape, or sequence, the same materials produce no function and no technology. In contrast to lithography, &#x201C;bottom-up&#x201D; solution processing can assemble nanoscale polymeric materials in a simple manner, often through aggregation and phase separation processes driven by multiple weak interactions and the minimization of free energy (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). Unfortunately, bottomup products are usually relatively simple and symmetrical (e.g., spherical and cylindrical micelles, bilayer membranes, and spherical colloids). On page <related-article related-article-type="in-this-issue" vol="337" page="559" issue="6094">559</related-article> of this issue, Rupar <italic>et al.</italic> (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>) present a beautiful example of complexity and arbitrary control of solution-grown nanomaterials. The authors combined aspects of sequential, top-down control with bottom-up simplicity by using molecular design, solution assembly, crystallization, and covalent cross-linking chemistry in a multistep fashion.</p>
+<fig id="F1" position="float">
+<caption>
+<title>Solution processing.</title>
+<p>Rupar <italic>et al.</italic> constructed asymmetric nanoparticles in several steps. (<bold>A</bold>) A block copolymer in solution assembles into a cylindrical nanoparticle (green) with a crystalline core. The red ends of the grown cylinder provide sites from which additional block copolymer molecules can crystallize. (<bold>B</bold>) A new block copolymer is added that can assemble via CDSA into cylinders (lavender) symmetrically from the nanoparticles in (A). (<bold>C</bold>) The outer-shell polymer blocks of the new cylinder end segments are covalently cross-linked (purple). This cross-linking blocks any additional assembly and does not affect the outer-shell block of the initial seed cylinder because it has different outer-shell chemistry. (<bold>D</bold>) Changing solvent dissolves the non&#x2013;cross-linked middle cylinder section and leaves the end cylinder segments as new seeds with only one active end. This step is key for asymmetry in the final nanostructure. (<bold>E</bold>) New block copolymers are added that can undergo CDSA and grow into cylinders (orange). However, these new polymers begin to crystallize and assemble only on the one active end of the existing cylinder end sections produced in (D). (<bold>F</bold>) Additional new block copolymer may be added to grow another segment. (<bold>G</bold>) Changing solution conditions can force aggregation of the blue-end cylinder segments and form star-like clusters.</p>
+</caption>
+<graphic xlink:href="337_530_F1" />
+<attrib>CREDIT: P. HUEY/<italic>SCIENCE</italic></attrib>
+</fig>
+<p>To grow nanostructures from soft-matter components (e.g., polymers and polypeptides) with arbitrary structure and complexity, multistep processing strategies that mimic top-down strategies must replace &#x201C;one-pot&#x201D; assembly methods. For example, particle replication in nonwetting templates (PRINT) (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>), a recently developed soft-matter equivalent to lithography in electronics, combines a patterned mold that defines a particle size and shape. Subsequent material additions (e.g., sequential addition of cross-linkable organic monomers) and processing steps (e.g., covalent cross-linking or physical phase separation) produce polymer particles of arbitrary size and shape with multiple internal compartments, payloads, or surface functionality.</p>
+<p>In this context, a hierarchy of steps that exploits intermolecular interactions with a variety of type and strength (e.g., noncovalent and covalent steps) is required to replicate top-down control purely in solution. The potential utility of multistep assembly processes has been shown for block copolymers, which covalently link chains with different chemical functionalities (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). The desired aggregation in a particular solvent environment is driven initially by solvophobic blocks that create a core, which is then surrounded by a solvophilic block. Newer strategies take this process one or two steps further. Multiple solvophobic blocks can be forced into the core of an aggregate by combining them within a single block copolymer, and local phase separation of unlike chemical functionalities in the same core creates multiple compartments (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>). Altering solution conditions can also transform particle shape (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R7"><italic>7</italic></xref>).</p>
+<p>Two or more different block copolymers also can be forced into the same nanoparticle. If the blend produces a mixture of unlike blocks in the solvophilic region of the assembly, patterns of different chemistry can be produced on the outside of the aggregate, such as patches on vesicle membranes (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>, <xref ref-type="bibr" rid="R9"><italic>9</italic></xref>). If the blend results in a mixture of blocks in the solvophobic region of the assembly, these unlike blocks can phase-separate and locally achieve a distinctive shape of nanoparticle that respective block copolymers in the mixture would adopt if assembled in solution on their own, creating a multicompartment, multigeometry nanoparticle (e.g., a combined spherical-cylindrical nanoparticle) (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>).</p>
+<p>Recently, researchers have taken small, multicompartment block copolymer nanoparticles and used a stepwise, hierarchical solution-processing method to build up larger, multicompartment superstructures of a desired size and number of compartments (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>). Rupar <italic>et al.</italic> take this multistep strategy further with combined steps of molecular solution assembly and the strong interactions of crystallization in a specific hierarchy. They call this process crystallization-driven self-assembly (CDSA). A crystallized polymer block defines the core of the particles. The figure illustrates the multistep, lithography-like hierarchical construction process. Final particles may contain an arbitrarily chosen number of segments of desired length along the CDSA-grown nanoparticles. The nanoparticles are noncentrosymmetric with regard to composition, in stark contrast to a vast majority of solution-assembled nanostructures.</p>
+<p>These methods developed by Rupar <italic>et al.</italic> go well beyond &#x201C;self-assembly.&#x201D; Spontaneous self-assembly does occur within steps of the nanoparticle construction process (e.g., step A in the figure), but molecular assembly occurs in remaining steps only with direction from previously assembled seed particles (e.g., steps B and E in the figure) and in response to chosen processing (e.g., cross-linking chemistry or sequential addition of new block copolymer). Nor is the process in the figure an example of &#x201C;directed self-assembly&#x201D; where forming or preformed nanoparticles are ordered with external fields or templates (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). The combined use of covalent chemistry, crystallization, and partial dissolution, in addition to self-assembly and directed assembly, is an example of a new hierarchical paradigm for soft nanomaterial solution construction. This new solution construction is not limited by physical or chemical tools and can be used to create complex, asymmetric nanostructures both uniformly and reproducibly.</p>
+</body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Bishop</surname><given-names>K. J. M.</given-names></name><etal/></person-group>., <source>Small</source>
+<volume>5</volume>, <fpage>1600</fpage> (<year>2009</year>).</citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Rupar</surname><given-names>P. A.</given-names></name><etal/></person-group>., <source>Science</source>
+<volume>337</volume>, <fpage>559</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>J. Y.</given-names></name><etal/></person-group>., <source>J. Am. Chem. Soc.</source>
+<volume>134</volume>, <fpage>5801</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Bates</surname><given-names>F. S.</given-names></name><etal/></person-group>., <source>Science</source>
+<volume>336</volume>, <fpage>434</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Moughton</surname><given-names>A. O.</given-names></name><etal/></person-group>., <source>Macromolecules</source>
+<volume>45</volume>, <fpage>2</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Dupont</surname><given-names>J.</given-names></name><name><surname>Liu</surname><given-names>G.</given-names></name></person-group>, <source>Soft Matter</source>
+<volume>6</volume>, <fpage>3654</fpage> (<year>2010</year>).</citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Cui</surname><given-names>H. G.</given-names></name><etal/></person-group>., <source>Science</source>
+<volume>317</volume>, <fpage>647</fpage> (<year>2007</year>).</citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Christian</surname><given-names>D. A.</given-names></name><etal/></person-group>., <source>Nat. Mater.</source>
+<volume>8</volume>, <fpage>843</fpage> (<year>2009</year>).</citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>LoPresti</surname><given-names>C.</given-names></name><etal/></person-group>., <source>ACS Nano</source>
+<volume>5</volume>, <fpage>1775</fpage> (<year>2011</year>).</citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Pochan</surname><given-names>D. J.</given-names></name><etal/></person-group>., <source>Soft Matter</source>
+<volume>7</volume>, <fpage>2500</fpage> (<year>2011</year>).</citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Gr&#x00F6;schel</surname><given-names>A. H.</given-names></name><etal/></person-group>., <source>Nat. Commun.</source>
+<volume>3</volume>, <fpage>710</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Grzelczak</surname><given-names>M.</given-names></name><etal/></person-group>., <source>ACS Nano</source>
+<volume>4</volume>, <fpage>3591</fpage> (<year>2010</year>).</citation>
+</ref>
+</ref-list>
+</back>
+</article>

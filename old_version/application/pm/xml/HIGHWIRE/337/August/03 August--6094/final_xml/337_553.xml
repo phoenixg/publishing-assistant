@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="brief-report" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1222789</article-id>
+<article-id pub-id-type="doi">10.1126/science.1222789</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Brevia</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Brevia</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>brevia</subject></subj-group>
+<subj-group subj-group-type="field"><subject>BIOCHEM</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Cartwheel Architecture of <italic>Trichonympha</italic> Basal Body</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Guichard</surname><given-names>Paul</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Desfosses</surname><given-names>Ambroise</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Maheshwari</surname><given-names>Aditi</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Hachet</surname><given-names>Virginie</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Dietrich</surname><given-names>Carsten</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Brune</surname><given-names>Andreas</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Ishikawa</surname><given-names>Takashi</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Sachse</surname><given-names>Carsten</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib> <contrib contrib-type="author" corresp="yes"><name><surname>G&#x00F6;nczy</surname><given-names>Pierre</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="corresp" rid="cor1">*</xref></contrib>
+<aff id="aff1"><label>1</label>Swiss Institute for Experimental Cancer Research (ISREC), School of Life Sciences, Swiss Federal Institute of Technology (EPFL), Lausanne, Switzerland.</aff>
+<aff id="aff2"><label>2</label>Structural and Computational Biology Unit, European Molecular Biology Laboratory (EMBL), Heidelberg, Germany.</aff>
+<aff id="aff3"><label>3</label>Biomolecular Research, Paul Scherrer Institut (PSI), Villigen, Switzerland.</aff>
+<aff id="aff4"><label>4</label>Department of Biogeochemistry, Max Planck Institute for Terrestrial Microbiology, Marburg, Germany.</aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>To whom correspondence should be addressed. E-mail: <email xlink:href="pierre.gonczy@epfl.ch">pierre.gonczy@epfl.ch</email></corresp></author-notes>
+<pub-date pub-type="ppub"><day>03</day><month>08</month><year>2012</year></pub-date>
+<volume>337</volume>
+<issue>6094</issue>
+<fpage>553</fpage>
+<lpage>553</lpage>
+<history><date date-type="received"><day>03</day><month>04</month><year>2012</year></date><date date-type="accepted"><day>14</day><month>05</month><year>2012</year></date><date date-type="epub"><day>12</day><month>07</month><year>2012</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser"><p>Electron microscopy provides a close-up view of the ninefold-symmetric stacked rings at the base of cilia and flagella.</p></abstract>
+<abstract>
+<p>Centrioles and basal bodies are essential for the formation of cilia, flagella, and centrosomes. They exhibit a characteristic ninefold symmetry imparted by a cartwheel thought to contain rings of SAS-6 proteins. We used cryoelectron tomography to investigate the architecture of the exceptionally long cartwheel of the flagellate <italic>Trichonympha</italic>. We found that the cartwheel is a stack of central rings that exhibit a vertical periodicity of 8.5 nanometers and is able to accommodate nine SAS-6 homodimers. The spokes that emanate from two such rings associate into a layer, with a vertical periodicity of 17 nanometers on the cartwheel margin. Thus, by using the power of biodiversity, we unveiled the architecture of the cartwheel at the root of the ninefold symmetry of centrioles and basal bodies.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Stella Hurtley</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Lauren Kmec</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>Centrioles and basal bodies are evolutionarily conserved organelles that are essential for the formation of cilia, flagella, and centrosomes and characterized by a ninefold radial symmetric arrangement of microtubules. A structure called the cartwheel serves as a scaffold for this arrangement and exhibits a central hub ~22 nm in diameter, from which nine spokes emanate toward peripheral microtubules (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). SAS-6 proteins are essential for cartwheel assembly across evolution and harbor a globular N-terminal domain followed by a coiled coil (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). SAS-6 proteins undergo homodimerization and oligomerization between homodimers (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>, <xref ref-type="bibr" rid="R3"><italic>3</italic></xref>). In vitro, this results in macromolecular assemblies and ringlike structures ~22 nm in diameter (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>), but whether such rings exist in vivo is unclear. Moreover, how SAS-6 oligomers give rise to the ~100-nm-high cartwheel observed in most species is not understood. Conceivably, cartwheel height could be achieved via a helical or a stacking mechanism (<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). An architectural model is needed to distinguish between these possibilities and unravel mechanisms of cartwheel assembly.</p>
+<p>We sought to obtain a three-dimensional (3D) map of the cartwheel in the native state by using cryoelectron tomography (cryo-ET). The ~100-nm height of the cartwheel in most species and its instability (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>) precluded such analysis. To circumvent this limitation, we turned to <italic>Trichonympha</italic> flagellates that live as symbionts in the gut of termites and have exceptionally elongated basal bodies, with ~1500-nm-high cartwheels (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). Apart from its exceptional height, the overall organization of the <italic>Trichonympha</italic> cartwheel is similar to that in other species (<xref ref-type="fig" rid="F1">Fig. 1A</xref> and fig. S1).</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption>
+<p>Cartwheel architecture. (<bold>A</bold>) Cross-section of chemically fixed <italic>Trichonympha</italic> cartwheel, with the central hub from which emanate nine spokes. Scale bar, 40 nm. (<bold>B</bold>) Longitudinal section of <italic>Trichonympha</italic> basal body cryotomogram. Only about a quarter of the basal body is shown. Scale bar, 40 nm. (<bold>C</bold>) Higher magnification of the region boxed in (B), illustrating the ~8.5-nm periodicity of the central hub. Scale bar, 10 nm. (<bold>D</bold>) Low-threshold 3D electron microscopy (EM) map of the central hub, with ~8.5-nm periodicity between central rings. (<bold>E</bold>) Top and side views of structural model of Bld12p (<italic>Chlamydomonas</italic> SAS-6) ring (red) fitted in the high-threshold 3D EM map of the central hub. (<bold>F</bold>) 3D representation of a cartwheel segment. Each layer consists of two central rings ~8.5 nm apart joined by their spokes toward the periphery, thus generating the ~17-nm periodicity at the margin.</p>
+</caption><graphic xlink:href="337_553_F1"></graphic></fig>
+<p>We purified <italic>Trichonympha</italic> basal bodies and analyzed them by using cryo-ET (<xref ref-type="fig" rid="F1">Fig. 1B</xref> and movie S1). This revealed that the central hub exhibits a vertical periodicity of ~8.5 nm (<xref ref-type="fig" rid="F1">Fig. 1C</xref>). Two-dimensional Fourier analysis of tomogram projections yielded two main layer lines at 1/170 and 1/85 &#x00C5; (fig. S2A). A single layer line was detected at 1/85 &#x00C5; by retaining only the signal from the central hub (fig. S2B), whereas the cartwheel margin gave rise to the 1/170 &#x00C5; layer line (fig. S2C).</p>
+<p>We then used 3D translational and rotational autocorrelation to address whether the central hub is a helix or a stack (fig. S3A). We found a translation peak every ~8.5 nm (fig. S3B), whereas rotational analysis revealed a ninefold symmetry with correlation peaks every 40&#x00B0; (fig. S3C). Successive rings did not exhibit a measureable twist, indicating that the central hub is not helical but instead a lattice of stacked rings.</p>
+<p>We next determined the structure of the central hub by using single-particle image reconstruction (<xref ref-type="fig" rid="F1">Fig. 1D</xref>, fig. S4, and movie S2). Because the N-terminal domains of SAS-6 proteins are structurally conserved (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>), we tested whether a ring of the <italic>Chlamydomonas</italic> SAS-6 protein could fit into the 3D map of the <italic>Trichonympha</italic> central hub. We found this to be the case, with extra densities between rings suggestive of additional proteins (<xref ref-type="fig" rid="F1">Fig. 1E</xref>, fig. S4A, and movie S3). This supports the view that SAS-6 rings exist in vivo.</p>
+<p>We sought to unveil the full architecture of the cartwheel by using subtomogram averaging and ninefold symmetrization, notably to understand how the ~8.5-nm periodicity of the central hub translates into the ~17-nm periodicity at the margin. The resulting 3D structure revealed that radial spokes emanating from the central hub associate two by two ~20 nm thereafter, merging into a single bundle, thus forming layers exhibiting ~17-nm periodicity (<xref ref-type="fig" rid="F1">Fig. 1F</xref>, fig. S5, and movie S4). It will be interesting to investigate to what extent the conclusions we were able to draw by using power of biodiversity apply in other species.</p>
+</body>
+<back><app-group><app>
+<title>Supplementary Materials</title><supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/science.1222789/DC1">www.sciencemag.org/cgi/content/full/science.1222789/DC1</ext-link></p>
+<p>Materials and Methods</p>
+<p>Supplementary Text</p>
+<p>Figs. S1 to S6</p>
+<p>References (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>&#x2013;<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>)</p>
+<p>Movies S1 to S4</p></supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>G&#x00F6;nczy</surname><given-names>P.</given-names></name></person-group>, 
+<article-title>Mechanisms of procentriole formation</article-title>. <source>Nat. Rev. Molec. Cell Biol.</source> 
+<volume>13</volume>, 
+<fpage>425</fpage> (<year>2012</year>). <pub-id pub-id-type="doi">10.1016/j.tcb.2008.06.004</pub-id><pub-id pub-id-type="pmid">18620859</pub-id></citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kitagawa</surname><given-names>D.</given-names></name><etal /></person-group>., 
+<article-title>Structural basis of the 9-fold symmetry of centrioles</article-title>. <source>Cell</source> 
+<volume>144</volume>, 
+<fpage>364</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1016/j.cell.2011.01.008</pub-id><pub-id pub-id-type="pmid">21277013</pub-id></citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>van Breugel</surname><given-names>M.</given-names></name><etal /></person-group>., 
+<article-title>Structures of SAS-6 suggest its organization in centrioles</article-title>. <source>Science</source> 
+<volume>331</volume>, 
+<fpage>1196</fpage> (<year>2011</year>); 10.1126/science.1199325. <pub-id pub-id-type="doi">10.1126/science.1199325</pub-id><pub-id pub-id-type="pmid">21273447</pub-id></citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Cottee</surname><given-names>M. A.</given-names></name><name><surname>Raff</surname><given-names>J. W.</given-names></name><name><surname>Lea</surname><given-names>S. M.</given-names></name><name><surname>Roque</surname><given-names>H.</given-names></name></person-group>, 
+<article-title>SAS-6 oligomerization: The key to the centriole?</article-title> <source>Nat. Chem. Biol.</source> 
+<volume>7</volume>, 
+<fpage>650</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1038/nchembio.660</pub-id><pub-id pub-id-type="pmid">21931303</pub-id></citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>S.</given-names></name><name><surname>Fernandez</surname><given-names>J. J.</given-names></name><name><surname>Marshall</surname><given-names>W. F.</given-names></name><name><surname>Agard</surname><given-names>D. A.</given-names></name></person-group>, 
+<article-title>Three-dimensional structure of basal body triplet revealed by electron cryo-tomography</article-title>. <source>EMBO J.</source> 
+<volume>31</volume>, 
+<fpage>552</fpage> (<year>2012</year>). <pub-id pub-id-type="doi">10.1038/emboj.2011.460</pub-id><pub-id pub-id-type="pmid">22157822</pub-id></citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Gibbons</surname><given-names>I. R.</given-names></name><name><surname>Grimstone</surname><given-names>A. V.</given-names></name></person-group>, 
+<article-title>On flagellar structure in certain flagellates</article-title>. <source>J. Biophys. Biochem. Cytol.</source> 
+<volume>7</volume>, 
+<fpage>697</fpage> (<year>1960</year>). <pub-id pub-id-type="doi">10.1083/jcb.7.4.697</pub-id><pub-id pub-id-type="pmid">13827900</pub-id></citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kirby</surname><given-names>H.</given-names></name></person-group>, <source>Univ. Calif. Publ. Zool.</source> 
+<volume>37</volume>, 
+<fpage>349</fpage> (<year>1932</year>).</citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kremer</surname><given-names>J. R.</given-names></name><name><surname>Mastronarde</surname><given-names>D. N.</given-names></name><name><surname>McIntosh</surname><given-names>J. R.</given-names></name></person-group>, 
+<article-title>Computer visualization of three-dimensional image data using IMOD</article-title>. <source>J. Struct. Biol.</source> 
+<volume>116</volume>, 
+<fpage>71</fpage> (<year>1996</year>). <pub-id pub-id-type="doi">10.1006/jsbi.1996.0013</pub-id><pub-id pub-id-type="pmid">8742726</pub-id></citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Heymann</surname><given-names>J. B.</given-names></name><name><surname>Cardone</surname><given-names>G.</given-names></name><name><surname>Winkler</surname><given-names>D. C.</given-names></name><name><surname>Steven</surname><given-names>A. C.</given-names></name></person-group>, 
+<article-title>Computational resources for cryo-electron tomography in Bsoft</article-title>. <source>J. Struct. Biol.</source> 
+<volume>161</volume>, 
+<fpage>232</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1016/j.jsb.2007.08.002</pub-id><pub-id pub-id-type="pmid">17869539</pub-id></citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Frank</surname><given-names>J.</given-names></name><etal /></person-group>., 
+<article-title>SPIDER and WEB: Processing and visualization of images in 3D electron microscopy and related fields</article-title>. <source>J. Struct. Biol.</source> 
+<volume>116</volume>, 
+<fpage>190</fpage> (<year>1996</year>). <pub-id pub-id-type="doi">10.1006/jsbi.1996.0030</pub-id><pub-id pub-id-type="pmid">8742743</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ishikawa</surname><given-names>T.</given-names></name><name><surname>Sakakibara</surname><given-names>H.</given-names></name><name><surname>Oiwa</surname><given-names>K.</given-names></name></person-group>, 
+<article-title>The architecture of outer dynein arms in situ</article-title>. <source>J. Mol. Biol.</source> 
+<volume>368</volume>, 
+<fpage>1249</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1016/j.jmb.2007.02.072</pub-id><pub-id pub-id-type="pmid">17391698</pub-id></citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Pettersen</surname><given-names>E. F.</given-names></name><etal /></person-group>., 
+<article-title>UCSF Chimera&#x2014;a visualization system for exploratory research and analysis</article-title>. <source>J. Comput. Chem.</source> 
+<volume>25</volume>, 
+<fpage>1605</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1002/jcc.20084</pub-id><pub-id pub-id-type="pmid">15264254</pub-id></citation></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Sachse</surname><given-names>C.</given-names></name><etal /></person-group>., 
+<article-title>High-resolution electron microscopy of helical specimens: A fresh look at tobacco mosaic virus</article-title>. <source>J. Mol. Biol.</source> 
+<volume>371</volume>, 
+<fpage>812</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1016/j.jmb.2007.05.088</pub-id><pub-id pub-id-type="pmid">17585939</pub-id></citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ludtke</surname><given-names>S. J.</given-names></name><name><surname>Baldwin</surname><given-names>P. R.</given-names></name><name><surname>Chiu</surname><given-names>W.</given-names></name></person-group>, 
+<article-title>EMAN: Semiautomated software for high-resolution single-particle reconstructions</article-title>. <source>J. Struct. Biol.</source> 
+<volume>128</volume>, 
+<fpage>82</fpage> (<year>1999</year>). <pub-id pub-id-type="doi">10.1006/jsbi.1999.4174</pub-id><pub-id pub-id-type="pmid">10600563</pub-id></citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Egelman</surname><given-names>E. H.</given-names></name></person-group>, 
+<article-title>A robust algorithm for the reconstruction of helical filaments using single-particle methods</article-title>. <source>Ultramicroscopy</source> 
+<volume>85</volume>, 
+<fpage>225</fpage> (<year>2000</year>). <pub-id pub-id-type="doi">10.1016/S0304-3991(00)00062-0</pub-id><pub-id pub-id-type="pmid">11125866</pub-id></citation></ref>
+</ref-list>
+<ack>
+<title>Acknowledgments</title><p>We thank M. Steinmetz, A.-M. Tassin, and Y. Hongoh for fruitful discussions and comments on the manuscript; J.-D. Rochaix and A. Shapiguzov for <italic>Chlamydomonas</italic>; and S. Rosset and G. Knott (BioEM core facility, EPFL) for help with EM. Supported by grants from the Swiss National Foundation (Sinergia CRSII3_125463 to P.G.; NF31003A&#x2010;125131/1 to T.I.) and the European Research Council (AdG 233335 to P.G.). Additional data and information are in the supplementary materials.</p>
+</ack></back>
+</article>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>twil</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Sociology</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Intimidated by Equations?</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Jasny</surname><given-names>Barbara R.</given-names></name></contrib>
+</contrib-group>
+<pub-date pub-type="ppub">
+<day>20</day>
+<month>07</month>
+<year>2012</year>
+</pub-date>
+<volume>337</volume>
+<issue>6092</issue>
+<fpage seq="a">270</fpage>
+<lpage>270</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="twil.pdf" />
+<custom-meta-wrap>
+<custom-meta><meta-name>Editor</meta-name><meta-value>Kristen Mueller, Jake Yeston</meta-value></custom-meta>
+</custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<p>Although there is general agreement on the value of a strong tie between theory and data, forging links between theoretical and empirical approaches (and practitioners) is not as straightforward as it should be. New evidence of this disconnect comes from the work of Fawcett and Higginson, who examined the use of mathematical equations in 649 papers dealing with ecology and evolution that were published in 1998. They gathered citation data, excluding instances of self-citation. An increase in the number of equations per page of main text corresponded to a lower rate of citations. Overall, each additional equation in the main text of a paper was associated with a 28% decrease in the citation rate. Burying the equations in an appendix had a salutary effect on citation rate. When the citing papers were divided into theoretical and nontheoretical on the basis of their use of the word &#x201C;model&#x201D; in the abstract or title, the authors observed that the negative effect was due to the nontheoretical papers not citing papers with equations. There are caveats to the conclusions&#x2014;examinations over longer periods of time, analysis of the relative content of the papers, and examination of the effect for online rather than print publication are all warranted. Although the authors conclude that better math education for biologists is the best long-term solution, they suggest that more immediate strategies could include the addition of explanatory text between equations.</p>
+<p><italic>Proc. Natl. Acad. Sci. U.S.A.</italic> <bold>109</bold>, 10.1073/pnas.1205259109 (2012).</p>
+</body>
+</article>

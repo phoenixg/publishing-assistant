@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>twil</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Biomedicine</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Psychiatry</subject><subject>Biochemistry</subject><subject>Neuroscience</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>A Delicate Balance in Fragile X</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Chong</surname><given-names>Lisa D.</given-names></name></contrib>
+</contrib-group>
+<pub-date pub-type="ppub">
+<day>26</day>
+<month>04</month>
+<year>2013</year>
+</pub-date>
+<volume>340</volume>
+<issue>6131</issue>
+<fpage seq="a">409</fpage>
+<lpage>409</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="twil.pdf" />
+<custom-meta-wrap>
+<custom-meta><meta-name>Editor</meta-name><meta-value>Kristen Mueller, Maria Cruz</meta-value></custom-meta>
+</custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<p>Endocannabinoids are lipids that modulate cognition, anxiety, mood, and pain sensation&#x2014;all behaviors that are deficient in patients with fragile X syndrome (FXS). FXS is a genetic disorder in which fragile X mental retardation protein (FMRP), an RNA-binding protein that controls protein synthesis, is not expressed in neurons. Treatments for the condition are focused on alleviating the symptoms. Busquets-Garcia <italic>et al.</italic> suggest that targeting the endocannabinoid system could be a new therapeutic approach for FXS. When rimonabant, a drug that blocks endocannabinoid receptor CB1R, was injected into the hippocampus of FMRP-deficient mice (a good model for FXS), the animals showed improved memory and sensitivity to pain. In pyramidal neurons, activation of the receptor mGluR5 by excitatory glutaminergic neurons triggers the mTor signaling pathway to control gene expression and synaptic plasticity. Activation of this pathway is elevated in FXS, and rimonabant normalized the phosphorylation of pathway components Akt and p70S6K in the FXS mouse model. Genetic deletion of CB1R blunted the therapeutic effects of the drug. Furthermore, an antagonist of the CB2R endocannabinoid receptor specifically normalized anxiety-like behavior in the FXS mouse model. These observations suggest that modulating endocannabinoids in FXS patients could improve cognitive abilities and anxiety, among other symptoms.</p>
+<p><italic>Nat. Med.</italic> <bold>19</bold>, 10.1038/nm.3127 (2013).</p>
+</body>
+</article>

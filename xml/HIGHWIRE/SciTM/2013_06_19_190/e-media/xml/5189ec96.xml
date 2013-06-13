@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">STM</journal-id>
+<journal-title>Science Translational Medicine</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Sci. Transl. Med.</abbrev-journal-title>
+<issn pub-type="ppub">1946-6234</issn><issn pub-type="epub">1946-6242</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">3006712</article-id>
+<article-id pub-id-type="doi">10.1126/scitranslmed.3006712</article-id>
+<article-categories><subj-group subj-group-type="article-type"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>STM EC</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>NEUROLOGY</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Clearing the Air about Stroke</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Mack</surname><given-names>William J.</given-names></name></contrib>
+<aff id="aff1">University of Southern California, Los Angeles, CA 90033, USA. E-mail: <email xlink:href="mackw@usc.edu">mackw@usc.edu</email></aff>
+</contrib-group>
+<pub-date pub-type="ppub"><day>12</day><month>06</month><year>2013</year></pub-date>
+<volume>5</volume>
+<issue>189</issue>
+<fpage>189ec96</fpage>
+<lpage>189ec96</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p> Short-term exposure to air pollution<sub> </sub>is associated with lowered blood flow in the brain. </p>
+</abstract>
+</article-meta>
+</front>
+<body>
+<p>For decades, air quality levels have been reported in the news like baseball scores. Scientists and political activists have warned that inhaling polluted air brings with it heightened threats of asthma, bronchitis, and cancer. More recently, clinical and population-based investigations have established an association between air pollution and risk of stroke. However, little is known about the pathophysiology and molecular mechanisms underlying this link. Now, Wellenius <italic>et al</italic>. report that fine particles in the air alter blood flow to the brains of elderly people. </p>
+<p>Fine particulate matter (PM<sub>2.5</sub>), found in smoke and haze, is a mixture of particles/liquid droplets 2.5 &#x03BC;m and smaller. The small size allows entrance into the lungs and potentially the systemic circulation. The authors  examined associations between PM<sub>2.5 </sub>levels and cerebral blood flow (hemodynamics)  in community-dwelling older adults. Average daily air PM<sub>2.5</sub> levels were recorded at the Harvard monitoring station in Boston. Transcranial Doppler ultrasound was used to determine blood flow velocities in the middle cerebral artery both at rest and in response to alterations in end-tidal CO<sub>2</sub> and arterial blood pressure. The investigators found that short-term exposure to increased PM<sub>2.5 </sub>levels<sub> </sub>was associated with lower resting cerebrovascular flow velocity and higher cerebrovascular resistance. They did not observe associations between ambient PM<sub>2.5</sub> levels<sub> </sub>and cerebrovascular responses to end-tidal CO<sub>2</sub> and arterial blood pressure changes.</p>
+<p>In a well-designed nested cohort study, the authors used linear mixed models to evaluate associations between PM<sub>2.5 </sub>levels and outcome, accounting for repeated measures within participants. Wellenius and colleagues<italic> </italic>were rigorous in controlling for critical study covariates (demographics, medical comorbidities, and meteorological data).  The authors demonstrated cerebrovascular dysfunction in the setting of PM<sub>2.5 </sub>levels that are common in urban environments and below standards accepted by the U.S. government. These findings suggest that air pollution is a pervasive and concerning risk factor for stroke.</p>
+<p>G. A. <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed?term=Wellenius%20GA%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=23709640">Wellenius, <italic>et al.</italic>,</ext-link> Ambient fine particulate matter alters cerebral hemodynamics in the elderly. <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/23709640"><italic>Stroke</italic> </ext-link><bold>6</bold>, 1532&#x2013;1536 (2013). <ext-link ext-link-type="uri" xlink:href="http://stroke.ahajournals.org/content/44/6/1532%20abstract">[Abstract]</ext-link> </p>
+</body>
+</article>

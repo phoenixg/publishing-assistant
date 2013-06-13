@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>twil</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Materials Science</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Materials-Science</subject><subject>Medicine</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Surfactants on Double Duty</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Lavine</surname><given-names>Marc S.</given-names></name></contrib>
+</contrib-group>
+<pub-date pub-type="ppub">
+<day>12</day>
+<month>04</month>
+<year>2013</year>
+</pub-date>
+<volume>340</volume>
+<issue>6129</issue>
+<fpage seq="a">121</fpage>
+<lpage>121</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="twil.pdf" />
+<custom-meta-wrap>
+<custom-meta><meta-name>Editor</meta-name><meta-value>Kristen Mueller, Jake Yeston</meta-value></custom-meta>
+</custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<p>In an emulsion, droplets of one liquid are kept stable within an immiscible second liquid through the use of surfactants; oil-and-water&#x2013;based salad dressings are a well-known example. Multiple emulsions, comprising multiple shells of the two liquids, are of increasing interest for applications to drug delivery as well as food and cosmetics. However, these emulsions typically need both hydrophobic and hydrophilic surfactants to stabilize the two interfaces. Besnard <italic>et al.</italic> show that a single polymer can be used to modify the curvature of the oil/water interface and thereby promote the phase inversion required to create a multiple emulsion. The material is a diblock copolymer with blocks of polystyrene and a random polymer of styrene and 2-(dimethylamino)ethylmethacrylate monomers (DMAEMA). A change in temperature alters the hydrogen bonds between DMAEMA and water, and thus the hydrophobicity of the polymer. A second phase inversion can also be induced by varying the acidity of the solution within a narrow pH window. Several mixing methods and polymers with different chain lengths were used to generate the emulsions, and in all cases the emulsions showed stability for at least several months.</p>
+<p><italic>Adv. Mater.</italic> <bold>25</bold>, 10.1002/adma.201204496 (2013).</p>
+</body>
+</article>

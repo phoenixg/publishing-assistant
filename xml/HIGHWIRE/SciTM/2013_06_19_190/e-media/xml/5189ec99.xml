@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">STM</journal-id>
+<journal-title>Science Translational Medicine</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Sci. Transl. Med.</abbrev-journal-title>
+<issn pub-type="ppub">1946-6234</issn><issn pub-type="epub">1946-6242</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">3006715</article-id>
+<article-id pub-id-type="doi">10.1126/scitranslmed.3006715</article-id>
+<article-categories><subj-group subj-group-type="article-type"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>STM EC</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Diabetes </subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Making Sugar from Fat?</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Tirosh</surname><given-names>Amir</given-names></name></contrib>
+<aff id="aff1">Division of Endocrinology, Diabetes and Hypertension, Brigham and Women&#x2019;s Hospital, Harvard Medical School, Boston, MA 02115, USA.</aff>
+</contrib-group>
+<pub-date pub-type="ppub"><day>12</day><month>06</month><year>2013</year></pub-date>
+<volume>5</volume>
+<issue>189</issue>
+<fpage>189ec99</fpage>
+<lpage>189ec99</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>Fat cells cannot produce glucose, but they instruct the liver to do so by releasing a hormone called aP2. </p>
+</abstract>
+</article-meta>
+</front>
+<body>
+<p>There are strong evolutionary constraints to ensure the ability of mammals to produce glucose even during times of nutrient deprivation. This has led to the development of several hormone pathways that counter-regulate the effects of insulin. These hormones include glucagon, growth hormone, cortisol, and catecholamines. In fact, excess secretion of any of these hormones may result in increased insulin resistance and type 2 diabetes. Now, Cao <italic>et al.</italic> report that fatty acid binding protein 4 (FABP4, or aP2), a major chaperone of lipids in adipocytes, is a secreted hormone that boosts glucose production in the liver. This new hormone may represent an attractive target for developing drugs to treat diabetes. </p>
+<p>This new adipokine is secreted by fat cells during fasting and signals the liver to increase glucose production. The authors report that aP2 can stimulate hepatic glucose production both in cultured primary hepatocytes and in lean mice. Notably, circulating aP2 concentrations were found to be markedly elevated in both obese humans and in mouse models of obesity. In addition, treatment of obese mice with antibodies against aP2 reduced hepatic glucose production and reversed the diabetic phenotype in these animals. This unique action of aP2 may explain the improved insulin sensitivity and protection from diet-induced obesity observed in mice lacking aP2.</p>
+<p>This study highlights the key role of adipose tissue in regulating whole-body glucose metabolism. During fasting, adipose tissue not only provides free fatty acids, the major energy source for gluconeogenesis, but also directly activates the glucose production machinery in the liver by secreting aP2. These findings have translational implications for treating diabetes in that aP2 neutralization may provide a new way to suppress the excessive hepatic glucose production observed in patients with diabetes. </p>
+<p>H. Cao <italic>et al.,</italic> Adipocyte lipid chaperone AP2 is a secreted adipokine regulating hepatic glucose production. <italic>Cell Metab.</italic> <bold>17</bold>, 768&#x2013;778 (2013). <ext-link ext-link-type="uri" xlink:href="http://www.cell.com/cell-metabolism/retrieve/pii/S1550413113001551">[Abstract]</ext-link> </p>
+</body>
+</article>

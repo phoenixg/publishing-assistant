@@ -1,0 +1,27 @@
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:hwui='http://schema.highwire.org/Site/UI'>
+<head>
+<title>Multimedia - Science Podcast Definitions ({!{ISSUE_SHORT_DAY}!} {!{ISSUE_FULL_MONTH}!})</title>
+</head>
+
+<body>
+
+<div id='begin-fragment-marker'><!-- start of fragment marker div --></div>
+
+	<div>
+		<object type="application/x-highwire-ui" data="urn:define:podcast-teaser">{*{PODCAST-TEASER|SCI-PODCAST|1}*}</object>
+		<object type="application/x-highwire-ui" data="urn:define:podcast-img-credit">{*{PODCAST-IMGCREDIT|SCI-PODCAST|1}*}</object>
+		<object type="application/x-highwire-ui" data="urn:define:podcast-date-full">{!{ISSUE_SHORT_DAY}!} {!{ISSUE_FULL_MONTH}!} {!{ISSUE_FULL_YEAR}!}</object>
+		<object type="application/x-highwire-ui" data="urn:define:podcast-date-short">{!{ISSUE_MONTH}!}/{!{ISSUE_DAY}!}</object>
+		<object type="application/x-highwire-ui" data="urn:define:podcast-url"><a href="http://podcasts.aaas.org/science_podcast/SciencePodcast_{!{ISSUE_YEAR}!}{!{ISSUE_MONTH}!}{!{ISSUE_DAY}!}.mp3">Listen Now</a></object>
+		<object type="application/x-highwire-ui" data="urn:define:podcast-transcript-url"><a href="/content/{!{VOLUME_NUM}!}/{!{ISSUE_NUM}!}/{*{PODCAST-ISSUE|SCI-PODCAST|1}*}/suppl/DC1">Read Transcript</a></object>
+		<object type="application/x-highwire-ui" data="urn:define:podcast-more-url"><a href="/site/multimedia/podcast/">More Podcasts</a></object>
+		<object type="application/x-highwire-ui" data="urn:define:podcast-feed-url"><a href="/feature/misc/podcast/feed.html" onClick="window.open('/feature/misc/podcast/feed.html', 'feed', config='height=520,width=350,scrollbars=0,resizable=1,toolbar=0'); return false">Subscribe to the <em>Science</em> Podcast RSS Feed</a></object>	
+	</div>
+	
+<div id='end-fragment-marker'><!-- start of fragment marker div --></div>
+
+</body>
+</html>
+
+
+

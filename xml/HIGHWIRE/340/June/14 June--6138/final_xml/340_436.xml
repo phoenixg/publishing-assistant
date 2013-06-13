@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1238518</article-id>
+<article-id pub-id-type="doi">10.1126/science.1238518</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Perspective</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Perspectives</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>perspective</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Neuroscience</subject></subj-group>
+<subj-group subj-group-type="field"><subject>NEUROSCIENCE</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Neuroscience</subject><subject>Psychiatry</subject><subject>Zoology</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Plasticity in the Neurotransmitter Repertoire</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Birren</surname><given-names>Susan J.</given-names></name></contrib>
+<contrib contrib-type="author" corresp="yes"><name><surname>Marder</surname><given-names>Eve</given-names></name></contrib>
+<aff>Biology Department and Volen Center, Brandeis University, Waltham, MA 02454, USA.</aff>
+</contrib-group>
+<author-notes>
+<corresp>E-mail: <email>marder@brandeis.edu</email></corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<day>26</day>
+<month>04</month>
+<year>2013</year>
+</pub-date>
+<volume>340</volume>
+<issue>6131</issue>
+<fpage>436</fpage>
+<lpage>437</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>A switch in the type of neurotransmitter released in the brain underlies changes in mammalian behavior associated with day-night cycles. <named-content content-type="related-content">[Also see Research Article by <related-article related-article-type="in-this-issue" vol="340" page="449" issue="6131">Dulcis <italic>et al.</italic></related-article>]</named-content></p>
+</abstract>
+<abstract abstract-type="excerpt">
+<p>In the earliest days of neuroscience, it was thought that a neuron made and released only a single chemical, known as a neurotransmitter, to send a signal across a synapse to an adjacent neuron (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). At the same time, it was deeply mysterious why so many signaling molecules were used in nervous systems. Subsequently, it became clear that many, if not most, neurons (including those in mammals) make and release two or more neurotransmitters including small-molecules and neuropeptides (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>&#x2013;<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). As the list of these potential cotransmitters and their receptors has increased, we are faced with understanding the functional relevance of this embarrassment of riches for neural circuits and behavior. Neurotransmitters and neuromodulators (substances often released with small-molecule neurotransmitters) can elicit a variety of different actions on their neuron targets, including directly opening ion channels or acting through signal transduction pathways to alter neuronal excitability or synaptic transmission. Thus, characterizing the mixture of cotransmitters released by a neuron is important for understanding how neuronal circuits operate. The mechanisms that change the profile of neurotransmitter release provide opportunities for plastic changes in circuit function, and consequently in organism behavior. On page 449 of this issue, Dulcis <italic>et al.</italic> (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>) report changes in the neurotransmitter profile of neurons that underlie photoperiod-triggered changes in animal behavior. The findings argue that neurotransmitter switching is a new mechanism for neuroplasticity (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>) in adult nervous systems.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Lisa D. Chong</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Jeff Cook</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>In the earliest days of neuroscience, it was thought that a neuron made and released only a single chemical, known as a neurotransmitter, to send a signal across a synapse to an adjacent neuron (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). At the same time, it was deeply mysterious why so many signaling molecules were used in nervous systems. Subsequently, it became clear that many, if not most, neurons (including those in mammals) make and release two or more neurotransmitters including small-molecules and neuropeptides (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>&#x2013;<xref ref-type="bibr" rid="R4"><italic>4</italic></xref>). As the list of these potential cotransmitters and their receptors has increased, we are faced with understanding the functional relevance of this embarrassment of riches for neural circuits and behavior. Neurotransmitters and neuromodulators (substances often released with small-molecule neurotransmitters) can elicit a variety of different actions on their neuron targets, including directly opening ion channels or acting through signal transduction pathways to alter neuronal excitability or synaptic transmission. Thus, characterizing the mixture of cotransmitters released by a neuron is important for understanding how neuronal circuits operate. The mechanisms that change the profile of neurotransmitter release provide opportunities for plastic changes in circuit function, and consequently in organism behavior. On page <related-article related-article-type="in-this-issue" vol="340" page="449" issue="6131">449</related-article> of this issue, Dulcis <italic>et al.</italic> (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>) report changes in the neurotransmitter profile of neurons that underlie photoperiod-triggered changes in animal behavior. The findings argue that neurotransmitter switching is a new mechanism for neuroplasticity (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>) in adult nervous systems.</p>
+<p>Early studies using cultured developing neurons showed that individual neurons can switch their transmitter phenotype (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>, <xref ref-type="bibr" rid="R8"><italic>8</italic></xref>). For example, peripheral sympathetic neurons that normally release norepinephrine as their neurotransmitter can undergo a developmental switch to acetylcholine. A role for this switch was shown for sympathetic neurons innervating rat sweat glands. These neurons release acetylcholine when innervating sweat glands, whereas they secrete norepinephrine when innervating other organs, including the heart (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>). Subsequent work has studied the molecular pathways underlying these developmental switches (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>, <xref ref-type="bibr" rid="R11"><italic>11</italic></xref>) and has demonstrated activity-dependent transmitter plasticity in adult rodent brains (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). This type of regulation became even more intriguing when it was found that the production of new neurotransmitters by neurons can induce new behaviors such as pigmentation changes in amphibian larvae (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>, <xref ref-type="bibr" rid="R13"><italic>13</italic></xref>).</p>
+<fig id="F1" position="float">
+<caption>
+<title>Neurotransmitter switch.</title>
+<p>During long days, there is a shift in the neurotransmitters released by hypothalamic neurons in the adult rat brain from dopamine to somatostatin, whereas the opposite shift is seen during short days. Increased dopamine signaling during short days results in decreased release of CRF from target neurons, and consequently less CRF and corticosteroids in the plasma. These conditions are associated with a decrease in stress behaviors in nocturnal rodents. The converse is seen with decreased dopamine signaling during long-day conditions. In humans and in other diurnal animals, short days are more stressful and are associated with depression.</p>
+</caption>
+<graphic xlink:href="340_436_F1"></graphic>
+<attrib>CREDIT: K. SUTLIFF/<italic>SCIENCE</italic></attrib>
+</fig>
+<p>The work by Dulcis <italic>et al.</italic> is remarkable in that it ties these well-characterized phenomena to plasticity in the mammalian response to the light-dark cycle. Specifically, the exposure of adult rats to light was altered by keeping the animals in photoperiod chambers for a week on either long-day (19 hours of light and 5 hours of dark) or short-day (5 hours of light and 19 hours of dark) cycles. The number of dopamine-releasing neurons in several hypothalamic nuclei (clusters of neurons) increased with short-day cycles and decreased with long-day cycles, whereas the inverse was seen with somatostatin. Dopamine is a neurotransmitter whose functions in the brain include modulating cognition, motivation, mood, memory, and learning; somatostatin is a peptide neuromodulator that is widely expressed in the nervous system and may be involved in the regulation of stress responses. The number of dopamine receptors on target neurons in the brain increased and decreased homeostatically, likely to ensure that the changes in the cotransmission of dopamine and somatostatin would result in functional outcomes. Strikingly, the animals' behavior was also modified with short-day cycles, as seen in two assays thought to indicate mood, anxiety, and depression. Changes in light-dark cycle have profound effects on human mood and behavior as well, contributing to a variety of disorders such as seasonal affective disorder. Thus, there is now a potential mechanistic link among mood, photoperiod, and neurotransmitter plasticity that mirrors associations observed in humans among seasonal affective disorder, photoperiod, and dopamine signaling (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>).</p>
+<p>Supporting this link are measurements of corticotropin-releasing factor (CRF) secretion by adult rat hypothalamic neurons in response to different photoperiods. Dulcis <italic>et al.</italic> noted that the change in the ratio of dopaminergic signaling to somatostatin signaling correlated with changes in the amount of CRF and corticosteroid in the plasma (see the figure). CRF is released by neurons in the mammalian brain that are targets of dopamine and somatostatin. This triggers a cascade of events that raises the concentration of circulating corticosteroids. These steroids have a wide range of physiological effects and have been implicated in stress and depression (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>). The findings suggest that the transmitter switch potentially couples photoperiod and mood regulation. The ability of neurons to switch their neurotransmitter repertoire has been known for 40 years; the study of Dulcis <italic>et al.</italic> demonstrates the use of this mechanism to control adult behavior in response to sensory variation.</p>
+<p>Although the work by Dulcis <italic>et al.</italic> was carried out in nocturnal rodents for which long-day photoperiods are stressful, it is possible to imagine broader implications of this work for human behavior in which short-day photoperiods are stressful. Admittedly, the mechanistic details in humans may be different. Nonetheless, given the ubiquitous ability of neurons to release multiple neurotransmitters and the demonstrated capacity for plasticity, it is critical to consider the potential role of transmitter plasticity in understanding the human brain in health and disease.</p>
+</body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Dale</surname><given-names>H.</given-names></name></person-group>, <source>Proc. R. Soc. Med.</source> <volume>28</volume>, <fpage>319</fpage> (<year>1935</year>).</citation>
+</ref>
+<ref id="R2">
+<label>2</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Burnstock</surname><given-names>G.</given-names></name></person-group>, <source>Neuroscience</source> <volume>1</volume>, <fpage>239</fpage> (<year>1976</year>).</citation>
+</ref>
+<ref id="R3">
+<label>3</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Jan</surname><given-names>Y. N.</given-names></name><etal/></person-group>., <source>Proc. Natl. Acad. Sci. U.S.A.</source> <volume>76</volume>, <fpage>1501</fpage> (<year>1979</year>).</citation>
+</ref>
+<ref id="R4">
+<label>4</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Nusbaum</surname><given-names>M. P.</given-names></name><etal/></person-group>., <source>Trends Neurosci.</source> <volume>24</volume>, <fpage>146</fpage> (<year>2001</year>).</citation>
+</ref>
+<ref id="R5">
+<label>5</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Dulcis</surname><given-names>D.</given-names></name><name><surname>Jamshidi</surname><given-names>P.</given-names></name><name><surname>Leutgeb</surname><given-names>S.</given-names></name><name><surname>Spitzer</surname><given-names>N. C.</given-names></name></person-group>, <source>Science</source> <volume>340</volume>, <fpage>449</fpage> (<year>2013</year>).</citation>
+</ref>
+<ref id="R6">
+<label>6</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Spitzer</surname><given-names>N. C.</given-names></name></person-group>, <source>Nat. Rev. Neurosci.</source> <volume>13</volume>, <fpage>94</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R7">
+<label>7</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Furshpan</surname><given-names>E. J.</given-names></name><etal/></person-group>., <source>Proc. Natl. Acad. Sci. U.S.A.</source> <volume>73</volume>, <fpage>4225</fpage> (<year>1976</year>).</citation>
+</ref>
+<ref id="R8">
+<label>8</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Landis</surname><given-names>S. C.</given-names></name></person-group>, <source>Proc. Natl. Acad. Sci. U.S.A.</source> <volume>73</volume>, <fpage>4220</fpage> (<year>1976</year>).</citation>
+</ref>
+<ref id="R9">
+<label>9</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Schotzinger</surname><given-names>R. J.</given-names></name><name><surname>Landis</surname><given-names>S. C.</given-names></name></person-group>, <source>Nature</source> <volume>335</volume>, <fpage>637</fpage> (<year>1988</year>).</citation>
+</ref>
+<ref id="R10">
+<label>10</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Yamamori</surname><given-names>T.</given-names></name><etal/></person-group>., <source>Science</source> <volume>246</volume>, <fpage>1412</fpage> (<year>1989</year>).</citation>
+</ref>
+<ref id="R11">
+<label>11</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>B.</given-names></name><etal/></person-group>., <source>Nat. Neurosci.</source> <volume>5</volume>, <fpage>539</fpage> (<year>2002</year>).</citation>
+</ref>
+<ref id="R12">
+<label>12</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Guti&#x00E9;rrez</surname><given-names>R.</given-names></name></person-group>, <source>Trends Neurosci.</source> <volume>28</volume>, <fpage>297</fpage> (<year>2005</year>).</citation>
+</ref>
+<ref id="R13">
+<label>13</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Dulcis</surname><given-names>D.</given-names></name><name><surname>Spitzer</surname><given-names>N. C.</given-names></name></person-group>, <source>Nature</source> <volume>456</volume>, <fpage>195</fpage> (<year>2008</year>).</citation>
+</ref>
+<ref id="R14">
+<label>14</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Praschak-Rieder</surname><given-names>N.</given-names></name><name><surname>Willeit</surname><given-names>M.</given-names></name></person-group>, <source>Curr. Top. Behav. Neurosci.</source> <volume>11</volume>, <fpage>149</fpage> (<year>2012</year>).</citation>
+</ref>
+<ref id="R15">
+<label>15</label>
+<citation citation-type="journal">
+<person-group person-group-type="author"><name><surname>Arborelius</surname><given-names>L.</given-names></name><etal/></person-group>., <source>J. Endocrinol.</source> <volume>160</volume>, <fpage>1</fpage> (<year>1999</year>).</citation>
+</ref>
+</ref-list>
+</back>
+</article>

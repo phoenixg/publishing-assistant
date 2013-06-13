@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1219569</article-id>
+<article-id pub-id-type="doi">10.1126/science.1219569</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Report</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Reports</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>reports</subject></subj-group>
+<subj-group subj-group-type="field"><subject>PSYCHOLOGY</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>The Double-Edged Sword: Does Biomechanism Increase or Decrease Judges' Sentencing of Psychopaths?</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Aspinwall</surname><given-names>Lisa G.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Brown</surname><given-names>Teneille R.</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib> <contrib contrib-type="author" corresp="yes"><name><surname>Tabery</surname><given-names>James</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref><xref ref-type="corresp" rid="cor1">*</xref></contrib>
+<aff id="aff1"><label>1</label>Department of Psychology, University of Utah, Salt Lake City, UT 84112, USA.</aff>
+<aff id="aff2"><label>2</label>S.J. Quinney College of Law, University of Utah, Salt Lake City, UT 84112, USA.</aff>
+<aff id="aff3"><label>3</label>Department of Philosophy, University of Utah, Salt Lake City, UT 84112, USA.</aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>To whom correspondence should be addressed. E-mail: <email xlink:href="tabery@philosophy.utah.edu">tabery@philosophy.utah.edu</email></corresp></author-notes>
+<pub-date pub-type="ppub"><day>17</day><month>08</month><year>2012</year></pub-date>
+<volume>337</volume>
+<issue>6096</issue>
+<fpage>846</fpage>
+<lpage>849</lpage>
+<history><date date-type="received"><day>24</day><month>01</month><year>2012</year></date><date date-type="accepted"><day>26</day><month>06</month><year>2012</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="editor"><title>Biology Made Me Do It</title><p>Introducing evidence of a biological basis of dysfunctional behavior might induce a judge to impose a lighter sentence upon defendants on the grounds that their innate biology lessened personal responsibility for their actions. On the other hand, it might also plausibly lead to a longer sentence on the grounds that this biological predisposition would imply a higher risk of future criminal acts. <bold>Aspinwall <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="337" page="846">846</related-article>) analyzed sentencing opinions from a nationwide group of judges in the United States of a scenario closely modeled on a real-life case. Varying two factors&#x2014;whether evidence for a biological basis was presented and whether it was offered by the defense or by the prosecution&#x2014;revealed an overall lessening of sentences when biology was invoked.</p></abstract>
+<abstract abstract-type="teaser"><p>An empirical study of sentencing judgments suggests that perceived biological predisposition induces leniency.</p></abstract>
+<abstract>
+<p>We tested whether expert testimony concerning a biomechanism of psychopathy increases or decreases punishment. In a nationwide experiment, U.S. state trial judges (<italic>N</italic> = 181) read a hypothetical case (based on an actual case) where the convict was diagnosed with psychopathy. Evidence presented at sentencing in support of a biomechanical cause of the convict's psychopathy significantly reduced the extent to which psychopathy was rated as aggravating and significantly reduced sentencing (from 13.93 years to 12.83 years). Content analysis of judges' reasoning indicated that even though the majority of judges listed aggravating factors (86.7%), the biomechanical evidence increased the proportion of judges listing mitigating factors (from 29.7 to 47.8%). Our results contribute to the literature on how biological explanations of behavior figure into theories of culpability and punishment.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Gilbert Chin</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Barbara Ordway</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<p>Scientists have identified associations between genetic, neurobiological, and environmental factors and antisocial behaviors such as psychopathy [see, for example, (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref><italic>&#x2013;</italic><xref ref-type="bibr" rid="R5"><italic>5</italic></xref>)]. The inferences drawn from these associations are varied and controversial. But controversy has not prevented the research from making its way into court. Forensic psychiatrists reported testing defendants charged with first-degree murder for their genetic monoamine oxidase-A (MAOA) status (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>), and an Italian judge considered a defendant's MAOA status when rendering his sentence (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>). Neuroscientists performed functional magnetic resonance imaging on convicted murderer Brian Dugan to determine whether he has a defective, psychopathic brain, as ostensibly evidenced by neuroimaging (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>).</p>
+<p>Courts have repeatedly held that evidence relating to both future dangerousness and impaired volitional control is highly relevant to sentencing decisions (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>, <xref ref-type="bibr" rid="R10"><italic>10</italic></xref>). Because of this, commentators have pointed out that evidence of a biomechanism associated with antisocial behaviors such as psychopathy may present a double-edged sword (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>&#x2013;<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>). And, indeed, some judges have considered such evidence mitigating (i.e., decreasing sentence), whereas other judges have considered the evidence aggravating (i.e., increasing sentence) (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>, <xref ref-type="bibr" rid="R19"><italic>19</italic></xref>). Both sides of the double-edged sword rely in part on hard biological determinism, or the idea that once we know something about an individual's genes or brain, we can predict or explain his or her behavior (<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>). Thus, under a retributive or &#x201C;just desserts&#x201D; theory of punishment, evidence of a biomechanism may reduce judgments of culpability because it identifies an internal and stable cause of behavior believed to be outside the individual's control (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>&#x2013;<xref ref-type="bibr" rid="R23"><italic>23</italic></xref>). At the same time, under a utilitarian theory that seeks to promote social welfare, the biomechanism may increase punishment, as the immutable characteristic suggests that he or she will likely reoffend. Such determinist perceptions of immutability may be especially pronounced for biomechanisms involving DNA-based evidence (<xref ref-type="bibr" rid="R24"><italic>24</italic></xref>, <xref ref-type="bibr" rid="R25"><italic>25</italic></xref>). Past research has confirmed that judges are willing to hear and weigh evidence concerning genetic risk factors in criminal cases (<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>). However, the effect of biomechanical evidence on judges' reasoning in sentencing has yet to be experimentally tested.</p>
+<p>Participants were 181 U.S. state trial court judges recruited by e-mail to complete an anonymous online survey concerning judicial use of scientific evidence at sentencing. All judges were presented with the same hypothetical vignette (~1200 words) loosely based upon the actual case of <italic>Mobley</italic> v. <italic>State</italic> (<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>), which involved a convicted murderer who famously sought to be genetically tested for his MAOA status as part of his defense. In our vignette, Jonathan Donahue attempted to rob a restaurant. When the manager did not give Donahue the money, Donahue struck him repeatedly in the head with a gun, resulting in moderate, permanent brain damage. A jury found Donahue guilty of aggravated battery (see supplementary materials for recruitment procedure, judges' demographic information, a discussion of potential selection bias, and experimental vignette).</p>
+<p>Participants were randomly assigned to one cell of a 2 &#x201C;presenting party&#x201D; (prosecution/defense) &#x00D7; 2 &#x201C;biomechanism&#x201D; (absent/present) design. All participants were provided identical expert testimony from a psychiatrist explaining that Donahue was a diagnosed psychopath. Participants in the biomechanism-absent condition received only expert testimony concerning the diagnosis of psychopathy. Participants in the biomechanism-present condition received identical expert testimony concerning the diagnosis of psychopathy plus expert testimony from a neurobiologist who presented an explanation of the biomechanism contributing to the development of psychopathy (here, low MAOA activity, atypical amygdala function, and other neurodevelopmental factors) (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>). In the prosecution condition, prosecutors argued that the evidence should be considered aggravating because the crime and Donahue's actions afterward all pointed to his being a psychopath and posing a continued threat to society. In the defense condition, the defense counsel argued that the evidence should be considered mitigating because the crime and his actions afterward all pointed to Donahue&#x2019;s having a harder time controlling his impulses due to his disorder (see supplementary materials for complete text of expert testimony).</p>
+<p>After exposure to the full case, including all expert testimony, judges were asked to indicate the extent to which the evidence concerning psychopathy mitigated, aggravated, or had no effect on the punishment they would render to Donahue; to rate his legal responsibility, moral responsibility, and free will; to estimate their personal average sentence for aggravated battery; and finally, to provide their sentence in years for the present case. Following each question, judges were asked to explain their answers using an open-ended text box see supplementary materials for complete measures and examples of judges' answers).</p>
+<table-wrap id="T1" position="float"><label>Table 1</label><caption>
+<p>Number and proportion of judges citing any aggravating or mitigating factor and specific aggravating or mitigating factors as a function of the presentation of a biomechanism and presenting party in response to any of the questions asking them to explain their reasoning about the effects of expert testimony concerning psychopathy on judgment, along with description of each content code and its interrater reliability (<xref ref-type="bibr" rid="R34"><italic>34</italic></xref>). Number in parentheses shows the proportion.</p>
+</caption>
+<table frame="hsides" rules="groups">
+<col width="41.82%" />
+<col width="6.87%" />
+<col width="10.91%" />
+<col width="9.6%" />
+<col width="10.95%" />
+<col width="9.58%" />
+<col width="10.27%" />
+<thead>
+<tr>
+<td rowspan="3" valign="top" align="left" scope="col"></td>
+<td rowspan="3" valign="bottom" align="center" scope="col"><bold>Kappa</bold></td>
+<td colspan="4" valign="top" align="center" scope="colgroup"><bold>Biomechanism</bold></td>
+<td valign="top" align="left" scope="col"></td>
+</tr>
+<tr>
+<td colspan="2" valign="top" align="center" scope="colgroup"><bold>Absent</bold></td>
+<td colspan="2" valign="top" align="center" scope="colgroup"><bold>Present</bold></td>
+<td valign="top" align="left" scope="col"></td>
+</tr>
+<tr>
+<td valign="top" colspan="1" align="center" scope="colgroup"><bold>Prosecution</bold><break /><bold>(<italic>n</italic> = 54)</bold></td>
+<td valign="top" align="center" scope="col"><bold>Defense</bold><break /><bold>(<italic>n</italic> = 37)</bold></td>
+<td valign="top" align="center" scope="col"><bold>Prosecution</bold><break /><bold>(<italic>n</italic> = 49)</bold></td>
+<td valign="top" align="center" scope="col"><bold>Defense</bold><break /><bold>(<italic>n</italic> = 41)</bold></td>
+<td valign="top" align="center" scope="col"><bold>Total</bold><break /><bold>(<italic>N</italic> = 181)</bold></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" scope="col"><italic>Aggravating factors</italic></td>
+<td valign="middle" align="left"></td>
+<td valign="middle" align="left"></td>
+<td valign="middle" align="left"></td>
+<td valign="middle" align="left"></td>
+<td valign="middle" align="left"></td>
+<td valign="middle" align="left"></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Any aggravating factor</td>
+<td valign="middle" align="left"></td>
+<td valign="middle" align="center">45 (0.833)</td>
+<td valign="middle" align="center">30 (0.811)</td>
+<td valign="middle" align="center">45 (0.918)</td>
+<td valign="middle" align="center">37 (0.902)</td>
+<td valign="middle" align="center">157 (0.867)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Aggravates (increases sentence)</td>
+<td valign="middle" align="center">1.00</td>
+<td valign="middle" align="center">26 (0.481)</td>
+<td valign="middle" align="center">14 (0.378)</td>
+<td valign="middle" align="center">16 (0.327)</td>
+<td valign="middle" align="center">12 (0.293)</td>
+<td valign="middle" align="center">68 (0.376)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Future dangerousness and incapacitation</td>
+<td valign="middle" align="center">1.00</td>
+<td valign="middle" align="center">27 (0.500)</td>
+<td valign="middle" align="center">19 (0.514)</td>
+<td valign="middle" align="center">32 (0.653)</td>
+<td valign="middle" align="center">22 (0.537)</td>
+<td valign="middle" align="center">100 (0.553)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Won't change (recidivism)</td>
+<td valign="middle" align="center">1.00</td>
+<td valign="middle" align="center">21 (0.389)</td>
+<td valign="middle" align="center">18 (0.487)</td>
+<td valign="middle" align="center">19 (0.388)</td>
+<td valign="middle" align="center">14 (0.341)</td>
+<td valign="middle" align="center">72 (0.398)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Seriousness of the crime and nature of the harm to victim</td>
+<td valign="middle" align="center">0.987</td>
+<td valign="middle" align="center">24 (0.444)</td>
+<td valign="middle" align="center">9 (0.243)</td>
+<td valign="middle" align="center">14 (0.286)</td>
+<td valign="middle" align="center">15 (0.366)</td>
+<td valign="middle" align="center">62 (0.343)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Lack of remorse/guilt</td>
+<td valign="middle" align="center">1.00</td>
+<td valign="middle" align="center">11 (0.204)</td>
+<td valign="middle" align="center">4 (0.108)</td>
+<td valign="middle" align="center">8 (0.163)</td>
+<td valign="middle" align="center">10 (0.244)</td>
+<td valign="middle" align="center">33 (0.182)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Lack of empathy (cold-blooded)</td>
+<td valign="middle" align="center">1.00</td>
+<td valign="middle" align="center">1 (0.019)</td>
+<td valign="middle" align="center">1 (0.027)</td>
+<td valign="middle" align="center">5 (0.102)</td>
+<td valign="middle" align="center">5 (0.122)</td>
+<td valign="middle" align="center">12 (0.066)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Had control</td>
+<td valign="middle" align="center">1.00</td>
+<td valign="middle" align="center">20 (0.370)</td>
+<td valign="middle" align="center">9 (0.243)</td>
+<td valign="middle" align="center">25 (0.510)</td>
+<td valign="middle" align="center">22 (0.537)</td>
+<td valign="middle" align="center">76 (0.420)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Culpable (deserves punishment)</td>
+<td valign="middle" align="center">1.00</td>
+<td valign="middle" align="center">11 (0.204)</td>
+<td valign="middle" align="center">8 (0.216)</td>
+<td valign="middle" align="center">14 (0.286)</td>
+<td valign="middle" align="center">10 (0.244)</td>
+<td valign="middle" align="center">43 (0.238)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Guilty mind (appreciates wrongfulness of actions)</td>
+<td valign="middle" align="center">1.00</td>
+<td valign="middle" align="center">20 (0.370)</td>
+<td valign="middle" align="center">18 (0.487)</td>
+<td valign="middle" align="center">19 (0.388)</td>
+<td valign="middle" align="center">21 (0.512)</td>
+<td valign="middle" align="center">78 (0.431)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Not mentally ill</td>
+<td valign="middle" align="center">0.982</td>
+<td valign="middle" align="center">11 (0.204)</td>
+<td valign="middle" align="center">6 (0.162)</td>
+<td valign="middle" align="center">18 (0.367)</td>
+<td valign="middle" align="center">7 (0.171)</td>
+<td valign="middle" align="center">42 (0.232)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="col"><italic>Mitigating factors</italic></td>
+<td valign="middle" align="left"></td>
+<td valign="middle" align="left"></td>
+<td valign="middle" align="left"></td>
+<td valign="middle" align="left"></td>
+<td valign="middle" align="left"></td>
+<td valign="middle" align="left"></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Any mitigating factor</td>
+<td valign="middle" align="left"></td>
+<td valign="middle" align="center">15 (0.278)</td>
+<td valign="middle" align="center">12 (0.324)</td>
+<td valign="middle" align="center">16 (0.327)</td>
+<td valign="middle" align="center">27 (0.659)</td>
+<td valign="middle" align="center">70 (0.387)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Mitigates (reduces sentence)</td>
+<td valign="middle" align="center">1.00</td>
+<td valign="middle" align="center">2 (0.037)</td>
+<td valign="middle" align="center">5 (0.135)</td>
+<td valign="middle" align="center">2 (0.041)</td>
+<td valign="middle" align="center">8 (0.195)</td>
+<td valign="middle" align="center">17 (0.094)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Lacks control</td>
+<td valign="middle" align="center">1.00</td>
+<td valign="middle" align="center">5 (0.093)</td>
+<td valign="middle" align="center">4 (0.108)</td>
+<td valign="middle" align="center">6 (0.122)</td>
+<td valign="middle" align="center">11 (0.268)</td>
+<td valign="middle" align="center">26 (0.144)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Mentally ill</td>
+<td valign="middle" align="center">1.00</td>
+<td valign="middle" align="center">8 (0.148)</td>
+<td valign="middle" align="center">5 (0.135)</td>
+<td valign="middle" align="center">8 (0.163)</td>
+<td valign="middle" align="center">11 (0.268)</td>
+<td valign="middle" align="center">32 (0.177)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Not culpable</td>
+<td valign="middle" align="center">1.00</td>
+<td valign="middle" align="center">4 (0.074)</td>
+<td valign="middle" align="center">5 (0.135)</td>
+<td valign="middle" align="center">4 (0.082)</td>
+<td valign="middle" align="center">5 (0.122)</td>
+<td valign="middle" align="center">18 (0.099)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Feel sorry (for defendant)</td>
+<td valign="middle" align="center">1.00</td>
+<td valign="middle" align="center">0</td>
+<td valign="middle" align="center">0</td>
+<td valign="middle" align="center">1 (0.020)</td>
+<td valign="middle" align="center">2 (0.049)</td>
+<td valign="middle" align="center">3 (0.017)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Lacks empathy (defendant is incapable of feeling sorry)</td>
+<td valign="middle" align="center">1.00</td>
+<td valign="middle" align="center">2 (0.037)</td>
+<td valign="middle" align="center">1 (0.027)</td>
+<td valign="middle" align="center">4 (0.082)</td>
+<td valign="middle" align="center">4 (0.098)</td>
+<td valign="middle" align="center">11 (0.061)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="col"><italic>Double-edged sword</italic></td>
+<td valign="middle" align="left"></td>
+<td valign="middle" align="left"></td>
+<td valign="middle" align="left"></td>
+<td valign="middle" align="left"></td>
+<td valign="middle" align="left"></td>
+<td valign="middle" align="left"></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row"> Balance/weigh</td>
+<td valign="middle" align="center">1.00</td>
+<td valign="middle" align="center">10 (0.185)</td>
+<td valign="middle" align="center">5 (0.135)</td>
+<td valign="middle" align="center">9 (0.184)</td>
+<td valign="middle" align="center">19 (0.463)</td>
+<td valign="middle" align="center">43 (0.238)</td>
+</tr>
+</tbody></table></table-wrap>
+<p>The evidence concerning psychopathy was rated as aggravating overall (M = 3.59, SEM = 0.068). A two-way analysis of variance (ANOVA) yielded significant main effects for both biomechanism (<italic>F</italic><sub>1,176</sub> = 10.411, <italic>P</italic> &lt; 0.001) and presenting party (<italic>F</italic><sub>1,176</sub> = 13.482, <italic>P</italic> &lt; 0<italic>.</italic>0001). As shown in <xref ref-type="fig" rid="F1">Fig. 1</xref>, the expert testimony concerning a biomechanism significantly reduced judgments of aggravation (biomechanism present: M = 3.37, SEM = 0.099 versus biomechanism absent: M = 3.80, SEM = 0.087). Expert testimony about psychopathy presented by the defense also reduced judgments of aggravation (M = 3.31, SEM = 0.108), compared with identical psychopathy information presented by the prosecution (M = 3.80, SEM = 0.080). The two-way interaction was not significant (<italic>F</italic><sub>1,176</sub> = 0.368, <italic>P</italic> &lt; 0.545).</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption>
+<p>Judgments of the mitigating versus aggravating effects of evidence concerning psychopathy on punishment as a function of presenting party and the presentation of a biomechanism. Error bars represent &#x00B1; 1 SD.</p>
+</caption><graphic xlink:href="337_846_F1"></graphic></fig>
+<p>Complete sentencing data were provided by 164 respondents (90.6% of judges). The average sentence was 12.93 years and highly variable (SEM = 0.682; range = 1 to 41), with significant variation by state of adjudication (<italic>F</italic><sub>18,145</sub> = 5.068, <italic>P</italic> &lt; 0.0001). This is not surprising, as no two states have exactly the same sentencing guidelines; they differ in factors such as evidentiary rules, the role of parole boards, the impact of the presence of a firearm, and the degree to which judges may exercise discretion. To include state of adjudication as a factor, we collapsed across presenting party (which had no significant main effects or interactions on sentencing; see supplementary materials). The resulting state of adjudication &#x00D7; biomechanism ANOVA yielded main effects of state of adjudication, <italic>F</italic><sub>10,113</sub> = 8.340, <italic>P</italic> &lt; 0.0001, and biomechanism, <italic>F</italic><sub>1,113</sub> = 5.372, <italic>P</italic> &lt; 0.022. The presentation of a biomechanism resulted in lower sentences overall (biomechanism present: M = 12.83 years, SEM = 1.104, <italic>n</italic> = 62 versus biomechanism absent: M = 13.93 years, SEM = 1.039, <italic>n</italic> = 73). There were no other reliable effects (see supplementary materials for detailed information about state differences in sentencing and alternative methods for accounting for the variability among states). Finally, sentences in both conditions significantly exceeded the judges' reported personal averages for aggravated battery (biomechanism present: M = 9.040, SEM = 0.808, <italic>t</italic>(61) = 6.148, <italic>P</italic> &lt; 0.0001; biomechanism absent: M = 9.336, SEM = 0.731, <italic>t</italic>(72) = 7.825, <italic>P</italic> &lt; 0.0001). Thus, despite the significant variability among states when it came to sentencing, the addition of a biomechanism for psychopathy significantly reduced the sentence and significantly reduced the degree to which psychopathy was rated as aggravating. The idea that identifying a biomechanical cause by itself excuses behavior has been called the &#x201C;psycho-legal error,&#x201D; because all behavior is ultimately caused and so all behavior could, in turn, be excused (<xref ref-type="bibr" rid="R25"><italic>25</italic></xref>). The biomechanical cause is only relevant to legal evaluations of behavior if it is tied to some normative theory about how the biomechanical cause actually compromises legal responsibility. With that in mind, we also asked the judges to rate Donahue's free will, legal responsibility, and moral responsibility.</p>
+<p>There were no experimental effects concerning biomechanism or presenting party (all <italic>F</italic>s &lt; 1, not significant) for questions concerning legal responsibility (M = 4.90, SEM = 0.035; <italic>n</italic> = 174), moral responsibility (M = 4.27, SEM = 0.088; <italic>n</italic> = 168), or free will (M = 4.66, SEM = 0.049; <italic>n</italic> = 169), as these judgments were uniformly high and, in the case of legal responsibility and free will, near the scale's maximum. This disconnect between the significant effects for reduced aggravation and reduced sentencing, but lack of corresponding effects for reduced free will and responsibility, presents an apparent paradox, as free will, moral responsibility, and punishment are often taken to be closely connected (<xref ref-type="bibr" rid="R29"><italic>29</italic></xref>). One could discount the relevance of philosophical musings on free will and responsibility when it comes to actual judicial reasoning (<xref ref-type="bibr" rid="R30"><italic>30</italic></xref>), and indeed, some judges responded to the questions about free will and moral responsibility with answers such as, &#x201C;It is not my job to judge morals. It is my job to judge legal issues.&#x201D; (See the next section and supplementary materials for additional samples of judges' reasoning.) But such discounting then requires an alternative explanation for the effects of reduced aggravation and reduced sentence. Although these results await replication in less extreme cases, with more nuanced means of evaluating relative degrees of constraint on defendant's free will and responsibility, they should be considered in conjunction with the following analysis of judges' stated reasons for their sentencing decisions.</p>
+<p>Judges sometimes issue opinions that explain the theoretical basis for their sentences. But usually we are left guessing about how specific theories of punishment compete with one another in the judges' minds. In our experiment, we were able to both capture and analyze judges' reasons in light of competing punishment theories. Judges&#x2019; explanations were coded by two independent raters with high agreement (see <xref ref-type="table" rid="T1">Table 1</xref> for kappa statistics and coding categories).</p>
+<p>As shown in <xref ref-type="table" rid="T1">Table 1</xref> and <xref ref-type="fig" rid="F2">Fig. 2</xref>, consistent with the highly aggravating nature of the crime, the vast majority of judges (86.7% overall) listed at least one aggravating factor when reasoning through their responses, with explanations concerning the convict's future dangerousness, inability to change, control over and intentionality of his actions most frequently listed. As shown in <xref ref-type="fig" rid="F2">Fig. 2</xref>, although the introduction of a biomechanism for psychopathy tended to increase the percentage of judges listing at least one aggravating factor, this result was only marginally significant (from 82.4 to 91.1%, <italic>&#x03C7;<sup>2</sup></italic>(1) = 2.973, <italic>P</italic> &lt; 0.085).</p>
+<fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption>
+<p>Percentage of judges citing at least one aggravating factor and at least one mitigating factor, respectively, when asked to explain their reasoning about the impact of the evidence concerning psychopathy on their judgment of the defendant as a function of presenting party and the presentation of a biomechanism. <italic>N</italic>s indicate the number of judges per experimental condition who mentioned an aggravating or mitigating factor, respectively.</p>
+</caption><graphic xlink:href="337_846_F2"></graphic></fig>
+<p>Although mitigating factors were mentioned less frequently (38.7% of judges overall), the presentation of a biomechanism by the defense doubled the number of judges listing a mitigating factor (65.9% versus 27.8 to 32.7%; <italic>&#x03C7;<sup>2</sup></italic>(3) = 16.830, <italic>P</italic> &lt; 0.001). As shown in <xref ref-type="table" rid="T1">Table 1</xref>, the most frequently listed mitigating factors were that the convict was mentally ill and lacked control over his actions, and thus was less legally culpable. Judges justified these responses with comments such as, &#x201C;The evidence that psychopaths do not have the necessary neural connections to feel empathy is significant. It makes possible an argument that psychopaths are, in a sense, morally 'disabled' just as other people are physically disabled. I have received and considered such evidence in past trials.&#x201D;</p>
+<p>Finally, as shown at the bottom of <xref ref-type="table" rid="T1">Table 1</xref>, we coded explicit mentions of the concepts of balancing and weighing both mitigating and aggravating factors, which were derived from statements independently coded as either mitigating or aggravating. Mentions of balancing or weighing these countervailing factors were ~2.5 times as high in the defense/biomechanism-present condition (46.3% versus 13.5 to 18.5% in the other three conditions, <italic>&#x03C7;<sup>2</sup></italic>(3) = 15.293, <italic>P</italic> &lt; 0.002). Judges justified these responses with comments such as, &#x201C;Psychopathy may make the defendant less morally culpable, but it increases his future dangerousness to society. In my mind, these factors balance out&#x2026;&#x201D;</p>
+<p>These uncommon qualitative data illustrate that the introduction of expert testimony concerning a biomechanism for psychopathy significantly increased the number of judges invoking mitigating factors in their reasoning and balancing them with aggravating factors. These findings suggest that the biomechanism did invoke such concepts as reduced culpability due to lack of impulse control, even if these concepts did not affect the ratings of free will and responsibility. In an actual case, judges may acknowledge (but not necessarily endorse) the potential for evidence to be seen as mitigating to document their consideration of this evidence in the event of an appeal. However, the demand to do so here in this hypothetical case should have been minimized, and the increased mention of mitigating factors is consistent with the results obtained for reduced ratings of aggravation and reduced sentence. The fact that the increased mention of mitigating factors occurred in conjunction with increased mentions of balancing and /or weighing the aggravating and mitigating factors conveys the genuine double-edged nature of the evidence of a biomechanism. The qualitative data concerning balancing and weighing countervailing factors illustrate how judges may acknowledge a punishment theory, such as retributivism, and find reduced impulse control to be a valid mitigating factor, while simultaneously recognizing the need to weigh different policy goals (e.g., public safety) along the lines of a more utilitarian theory of incapacitation.</p>
+<p>Our study is both hindered and helped by the extreme facts of our case. The crime itself was violent and reprehensible. Moreover, the convict was portrayed in an unsympathetic manner, bragging about his crime and expressing no remorse. On the other hand, had the convict been found guilty of murder and had thus faced either the death sentence or life in prison without the possibility of parole, then future dangerousness would have lost its appeal as the defendant might have been incarcerated for life with no potential to reoffend. Further, judges were explicitly told that rehabilitation was not an alternative, as large-scale treatment has to date been ineffective for adult psychopaths. This eliminated a possible third option for those seeking to find a compromise between aggravation and mitigation. In future studies, the potential for effective treatment makes presentation of a third rehabilitative theory, with corresponding expert testimony, an attractive option for testing. The judges were also not presented with cross-examination, having only received the expert scientific testimony from either the defense or the prosecution.</p>
+<p>Turning to limitations associated with the science, we focused exclusively on psychopathy, a diagnosis with much stigma. Thus, these results may not generalize to other psychiatric diagnoses associated with antisocial behavior (<xref ref-type="bibr" rid="R31"><italic>31</italic></xref>, <xref ref-type="bibr" rid="R32"><italic>32</italic></xref>). Likewise, we based our account of the biomechanism of psychopathy on James Blair's neurocognitive model (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>). Changing this causal description might lead to different judgments (<xref ref-type="bibr" rid="R33"><italic>33</italic></xref>). Finally, we combined psychiatric, genetic, and neurobiological science in constructing the expert testimony. Future research should examine the effects of separately introducing testimony on genetic penetrance and expression, neurodevelopment and plasticity, and probabilistic data indicating how much of the relative risk of developing the particular antisocial disorder can be attributed to the given biomechanism.</p>
+</body>
+<back><app-group><app>
+<title>Supplementary Materials</title><supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/337/6096/846/DC1">www.sciencemag.org/cgi/content/full/337/6096/846/DC1</ext-link></p>
+<p>Materials and Methods</p>
+<p>Supplementary Text</p>
+<p>Figs. S1 and S2</p>
+<p>Tables S1 to S3</p>
+<p>References</p>
+<p>Data File S1</p></supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Caspi</surname><given-names>A.</given-names></name><etal /></person-group>., 
+<article-title>Role of genotype in the cycle of violence in maltreated children</article-title>. <source>Science</source> 
+<volume>297</volume>, 
+<fpage>851</fpage> (<year>2002</year>). <pub-id pub-id-type="doi">10.1126/science.1072290</pub-id><pub-id pub-id-type="pmid">12161658</pub-id></citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Dodge</surname><given-names>K. A.</given-names></name></person-group>, 
+<article-title>Mechanisms of gene&#x2013;environment interaction effects in the development of conduct disorder</article-title>. <source>Perspect. Psychol. Sci.</source> 
+<volume>4</volume>, 
+<fpage>408</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1111/j.1745-6924.2009.01147.x</pub-id><pub-id pub-id-type="pmid">19779577</pub-id></citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Glenn</surname><given-names>A. L.</given-names></name><name><surname>Raine</surname><given-names>A.</given-names></name><name><surname>Schug</surname><given-names>R. A.</given-names></name></person-group>, 
+<article-title>The neural correlates of moral decision-making in psychopathy</article-title>. <source>Mol. Psychiatry</source> 
+<volume>14</volume>, 
+<fpage>5</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1038/mp.2008.104</pub-id><pub-id pub-id-type="pmid">19096450</pub-id></citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Tikkanen</surname><given-names>R.</given-names></name><etal /></person-group>., 
+<article-title>Psychopathy, PCL-R, and MAOA genotype as predictors of violent reconvictions</article-title>. <source>Psychiatry Res.</source> 
+<volume>185</volume>, 
+<fpage>382</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1016/j.psychres.2010.08.026</pub-id><pub-id pub-id-type="pmid">20850185</pub-id></citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Viding</surname><given-names>E.</given-names></name><name><surname>Larsson</surname><given-names>H.</given-names></name><name><surname>Jones</surname><given-names>A. P.</given-names></name></person-group>, 
+<article-title>Quantitative genetic studies of antisocial behavior</article-title>. <source>Philos. Trans. R. Soc. Lond., B</source> 
+<volume>363</volume>, 
+<fpage>2519</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1098/rstb.2008.0037</pub-id></citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Bernet</surname><given-names>W.</given-names></name><name><surname>Vnencak-Jones</surname><given-names>C. L.</given-names></name><name><surname>Farahany</surname><given-names>N.</given-names></name><name><surname>Montgomery</surname><given-names>S. A.</given-names></name></person-group>, 
+<article-title>Bad nature, bad nurture, and testimony regarding MAOA and SLC6A4 genotyping at murder trials</article-title>. <source>J. Forensic Sci.</source> 
+<volume>52</volume>, 
+<fpage>1362</fpage> (<year>2007</year>).<pub-id pub-id-type="pmid">17944904</pub-id></citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Feresin</surname><given-names>E.</given-names></name></person-group>, 
+<article-title>Lighter sentence for murderer with &#x2018;bad genes&#x2019;</article-title>. <source>Nature</source> 10.1038/news.2009.1050 (<year>2009</year>). <pub-id pub-id-type="doi">10.1038/news.2009.1050</pub-id></citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hughes</surname><given-names>V.</given-names></name></person-group>, 
+<article-title>Science in court: Head case</article-title>. <source>Nature</source> 
+<volume>464</volume>, 
+<fpage>340</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1038/464340a</pub-id><pub-id pub-id-type="pmid">20237536</pub-id></citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="other"><italic>Simmons</italic> v. <italic>South Carolina</italic>, 512 U.S. 154, 162 (S. Ct. 1994).</citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="other"><italic>Williams</italic> v. <italic>State of Oklahoma</italic>, 358 U.S. 576, (S. Ct. 1959).</citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Evansburg</surname><given-names>A. R.</given-names></name></person-group>, 
+<article-title>&#x201C;But your honor, it's in his genes&#x201D;: The case for genetic impairments as grounds for a downward departure under the Federal sentencing guidelines</article-title>. <source>Am. Crim. Law Rev.</source> 
+<volume>38</volume>, 
+<fpage>1565</fpage> (<year>2001</year>).</citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Farahany</surname><given-names>N. A.</given-names></name><name><surname>Coleman</surname><given-names>J. E.</given-names><suffix>Jr.</suffix></name></person-group>, 
+<article-title>Genetics and responsibility: To know the criminal from the crime</article-title>. <source>Law Contemp. Probl.</source> 
+<volume>69</volume>, 
+<fpage>115</fpage> (<year>2006</year>).</citation></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Gurley</surname><given-names>J. R.</given-names></name><name><surname>Marcus</surname><given-names>D. K.</given-names></name></person-group>, 
+<article-title>The effects of neuroimaging and brain injury on insanity defenses</article-title>. <source>Behav. Sci. Law</source> 
+<volume>26</volume>, 
+<fpage>85</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1002/bsl.797</pub-id><pub-id pub-id-type="pmid">18327829</pub-id></citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Jones</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Overcoming the myth of free will in criminal law: The true impact of the genetic revolution</article-title>. <source>Duke Law J.</source> 
+<volume>52</volume>, 
+<fpage>1031</fpage> (<year>2003</year>).<pub-id pub-id-type="pmid">12964573</pub-id></citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="book">S. J. Morse, in <italic>Gene-Environment Interactions in Developmental Psychopathology</italic>, K. A. Dodge, M. Rutter, Eds. (Guilford Press, New York, 2011), pp. 207&#x2013;234.</citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Schopp</surname><given-names>R. F.</given-names></name></person-group>, 
+<article-title>Two-edged swords, dangerousness and expert testimony in capital sentencing</article-title>. <source>Law Psychol. Rev.</source> 
+<volume>30</volume>, 
+<fpage>57</fpage> (<year>2006</year>).</citation></ref>
+<ref id="R17"><label>17</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Snead</surname><given-names>O. C.</given-names></name></person-group>, 
+<article-title>Neuroimaging and the &#x201C;complexity&#x201D; of capital punishment</article-title>. <source>New York Univ. Law Rev.</source> 
+<volume>82</volume>, 
+<fpage>1265</fpage> (<year>2007</year>).</citation></ref>
+<ref id="R18"><label>18</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Brown</surname><given-names>T.</given-names></name><name><surname>Murphy</surname><given-names>E.</given-names></name></person-group>, 
+<article-title>Through a scanner darkly: Functional neuroimaging as evidence of a criminal defendant&#x2019;s past mental states</article-title>. <source>Stanford Law Rev.</source> 
+<volume>62</volume>, 
+<fpage>1119</fpage> (<year>2010</year>).<pub-id pub-id-type="pmid">20429137</pub-id></citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="other"><italic>Landrigan</italic> v. <italic>Stewart</italic>, 272 F.3d 1221 (9th Cir., 2001).</citation></ref>
+<ref id="R20"><label>20</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Haslam</surname><given-names>N.</given-names></name></person-group>, 
+<article-title>Genetic essentialism, neuroessentialism, and stigma: Commentary on Dar-Nimrod and Heine (2011)</article-title>. <source>Psychol. Bull.</source> 
+<volume>137</volume>, 
+<fpage>819</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1037/a0022386</pub-id><pub-id pub-id-type="pmid">21859181</pub-id></citation></ref>
+<ref id="R21"><label>21</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Monterosso</surname><given-names>J.</given-names></name><name><surname>Royzman</surname><given-names>E. B.</given-names></name><name><surname>Schwartz</surname><given-names>B.</given-names></name></person-group>, 
+<article-title>Explaining away responsibility: Effects of scientific explanation on perceived culpability</article-title>. <source>Ethics Behav.</source> 
+<volume>15</volume>, 
+<fpage>139</fpage> (<year>2005</year>). <pub-id pub-id-type="doi">10.1207/s15327019eb1502_4</pub-id></citation></ref>
+<ref id="R22"><label>22</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Nahmias</surname><given-names>E.</given-names></name><name><surname>Coates</surname><given-names>D. J.</given-names></name><name><surname>Kvaran</surname><given-names>T.</given-names></name></person-group>, 
+<article-title>Free will, moral responsibility, and mechanism: Experiments on folk intuitions</article-title>. <source>Midwest Stud. Philos.</source> 
+<volume>3I</volume>, 
+<fpage>214</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1111/j.1475-4975.2007.00158.x</pub-id></citation></ref>
+<ref id="R23"><label>23</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Weiner</surname><given-names>B.</given-names></name><name><surname>Perry</surname><given-names>R. P.</given-names></name><name><surname>Magnusson</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>An attributional analysis of reactions to stigmas</article-title>. <source>J. Pers. Soc. Psychol.</source> 
+<volume>55</volume>, 
+<fpage>738</fpage> (<year>1988</year>). <pub-id pub-id-type="doi">10.1037/0022-3514.55.5.738</pub-id><pub-id pub-id-type="pmid">2974883</pub-id></citation></ref>
+<ref id="R24"><label>24</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Dar-Nimrod</surname><given-names>I.</given-names></name><name><surname>Heine</surname><given-names>S. J.</given-names></name></person-group>, 
+<article-title>Genetic essentialism: On the deceptive determinism of DNA</article-title>. <source>Psychol. Bull.</source> 
+<volume>137</volume>, 
+<fpage>800</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1037/a0021860</pub-id><pub-id pub-id-type="pmid">21142350</pub-id></citation></ref>
+<ref id="R25"><label>25</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Morse</surname><given-names>S. J.</given-names></name></person-group>, 
+<article-title>Avoiding irrational neurolaw exuberance: A plea for neuromodesty</article-title>. <source>Mercer Law Rev.</source> 
+<volume>62</volume>, 
+<fpage>837</fpage> (<year>2011</year>).</citation></ref>
+<ref id="R26"><label>26</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hoffmann</surname><given-names>D.</given-names></name><name><surname>Rothenberg</surname><given-names>K.</given-names></name></person-group>, 
+<article-title>Judging genes: Implications of the second generation of genetic tests in the courtroom</article-title>. <source>Maryland Law Rev.</source> 
+<volume>66</volume>, 
+<fpage>858</fpage> (<year>2007</year>).</citation></ref>
+<ref id="R27"><label>27</label><citation citation-type="other"><italic>Mobley </italic>v.<italic> State</italic>, 455 S.E.2d 61 (Ga, 1995).</citation></ref>
+<ref id="R28"><label>28</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Blair</surname><given-names>R. J. R.</given-names></name></person-group>, 
+<article-title>The emergence of psychopathy: Implications for the neuropsychological approach to developmental disorders</article-title>. <source>Cognition</source> 
+<volume>101</volume>, 
+<fpage>414</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1016/j.cognition.2006.04.005</pub-id><pub-id pub-id-type="pmid">16904094</pub-id></citation></ref>
+<ref id="R29"><label>29</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Greene</surname><given-names>J.</given-names></name><name><surname>Cohen</surname><given-names>J.</given-names></name></person-group>, 
+<article-title>For the law, neuroscience changes nothing and everything</article-title>. <source>Philos. Trans. R. Soc. Lond. B Biol. Sci.</source> 
+<volume>359</volume>, 
+<fpage>1775</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1098/rstb.2004.1546</pub-id><pub-id pub-id-type="pmid">15590618</pub-id></citation></ref>
+<ref id="R30"><label>30</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Morse</surname><given-names>S. J.</given-names></name></person-group>, 
+<article-title>Determinism and the death of folk psychology: Two challenges to responsibility from neuroscience</article-title>. <source>Minnesota J. Law Sci. Technol.</source> 
+<volume>9</volume>, 
+<fpage>1</fpage> (<year>2008</year>).</citation></ref>
+<ref id="R31"><label>31</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>DeMatteo</surname><given-names>D.</given-names></name><name><surname>Edens</surname><given-names>J. F.</given-names></name></person-group>, 
+<article-title>The role and relevance of the psychopathy checklist-revised in court: A case law survey of U.S. courts (1991-2004)</article-title>. <source>Psychol. Public Policy Law</source> 
+<volume>12</volume>, 
+<fpage>214</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1037/1076-8971.12.2.214</pub-id></citation></ref>
+<ref id="R32"><label>32</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Edens</surname><given-names>J. F.</given-names></name><name><surname>Colwell</surname><given-names>L. H.</given-names></name><name><surname>Desforges</surname><given-names>D. M.</given-names></name><name><surname>Fernandez</surname><given-names>K.</given-names></name></person-group>, 
+<article-title>The impact of mental health evidence on support for capital punishment: Are defendants labeled psychopathic considered more deserving of death?</article-title> <source>Behav. Sci. Law</source> 
+<volume>23</volume>, 
+<fpage>603</fpage> (<year>2005</year>). <pub-id pub-id-type="doi">10.1002/bsl.660</pub-id><pub-id pub-id-type="pmid">16170787</pub-id></citation></ref>
+<ref id="R33"><label>33</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Skeem</surname><given-names>J. L.</given-names></name><name><surname>Polaschek</surname><given-names>D. L. L.</given-names></name><name><surname>Patrick</surname><given-names>C. J.</given-names></name><name><surname>Lilienfeld</surname><given-names>S. O.</given-names></name></person-group>, 
+<article-title>Psychopathic personality: Bridging the gap between scientific evidence and public policy</article-title>. <source>Psychol. Sci. Public Interest</source> 
+<volume>12</volume>, 
+<fpage>95</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1177/1529100611426706</pub-id></citation></ref>
+<ref id="R34"><note><label>34</label>
+<p>Answers are collapsed across eliciting question (mitigating versus. aggravating effect of evidence, legal responsibility, moral responsibility, free will, and sentencing). For verbatim examples of judges' reasoning, see supplementary materials.</p></note></ref>
+</ref-list>
+<ack>
+<title>Acknowledgments</title><p>The research was supported by a University of Utah Interdisciplinary Research Seed Grant. We are grateful to J. Taber for assistance with statistical analyses, G. Cash and A. Spivey for coding qualitative data, P. Burrows and Media Solutions for constructing the online survey, A. Newman for formatting assistance, and to two anonymous reviewers for their helpful comments on a prior version of this article. Finally, we thank the judges for their time and participation. Authors' names are listed alphabetically.</p>
+</ack></back>
+</article>

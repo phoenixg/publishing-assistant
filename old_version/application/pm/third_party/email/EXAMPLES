@@ -1,0 +1,226 @@
+These examples pertain to the 'standard' Eloqua WSDL, which provides functionality for 
+managing assets, entities, and activities, as well as basic email sending.  It does not
+currently support the method calls in the WSDLs that are dedicated to handling mass emailing
+and data management (bulk importing/exporting).
+
+Eloqua's API does not currently provide anything other than a shell SoapFault in many cases, so the
+utility methods to view the most recent SOAP envelope that was sent is quite useful in debugging.
+
+Most calls take an array of entities or assets, and the SDK will throw an exception if an array is
+not passed.
+
+NOTE:  These examples are not intended to teach the Eloqua API; rather, they are here to 
+       illustrate how the PHP SDK implements the Eloqua API.
+
+Prerequisites
+-------------
+All examples below assume the SDK has been instantiated.
+
+require_once 'EloquaServiceClient.php';
+
+$eloqua = new EloquaServiceClient('/path/to/wsdl', 'organization_name\username', 'password'); 
+
+Conventions
+-----------
+<create entity> - implies that you copy and paste the code from the Create() section, so you have a
+                  Contact in the variable $entity and a CreateResult in the variable $result.
+
+<create asset> - implies that you copy and paste the code from the CreateAsset() section, so you 
+                 have an ContactGroup in the variable $asset and a CreateAssetResult in the variable
+                 $result.
+
+Method Names:
+-------------
+To comply with Eloqua's standards, all SDK method names are uppercase.
+
+Variable Names:
+---------------
+$eloqua - reference to an instance of the Toolkit object
+$result - the result of an Eloqua method call
+$entity - an entity object
+
+
+----------------------------------------------------------------------------------------------------
+
+Entity Metadata Operations:
+
+ListEntityTypes()
+-----------------
+
+$result = $eloqua->ListEntityTypes();
+
+
+DescribeEntityType()
+--------------------
+
+$result = $eloqua->DescribeEntityType('Base');
+
+
+DescribeEntity()
+----------------
+
+$result = $eloqua->DescribeEntity(new EntityType(0, 'Contact', 'Base'));
+
+
+Entity Operations:
+
+Create()
+--------
+
+$entity = new DynamicEntity('Contact');
+$entity->C_EmailAddress = 'foo@example.com';
+$result = $eloqua->Create(array($entity));
+$entity->Id = $result->CreateResult->CreateResult->ID;
+
+
+Retrieve()
+----------
+$result = $eloqua->Retrieve(new EntityType(0, 'Contact', 'Base'), array(*ID TO RETRIEVE*, *ANOTHER ID*));
+
+
+Update()
+--------
+<create entity>
+$entity->C_EmailAddress = 'bar@example.com';
+$result = $eloqua->Update(array($entity));
+
+
+Delete()
+--------
+$result = $eloqua->Delete(new EntityType(0, 'Contact', 'Base'), array(*ID TO DELETE*));
+
+
+Query()
+-------
+$result = $eloqua->Query(new EntityType(0, 'Contact', 'Base'), 'C_EmailAddress=\'*@example.com\'');
+
+
+Asset Metadata Operations:
+
+ListAssetTypes()
+----------------
+$result = $eloqua->ListAssetTypes();
+
+
+DescribeAssetType()
+-------------------
+$result = $eloqua->DescribeAssetType('ContactGroup');
+
+
+DescribeAsset()
+---------------
+$assetType = new AssetType(0, 'ContactGroupName', 'ContactGroup');
+$result = $eloqua->DescribeAsset($assetType);
+
+
+Asset Operations:
+
+Create()
+--------
+$assetType = new AssetType(0, 'ContactGroupName', 'ContactGroup');
+$asset = new DynamicAsset($assetType);
+
+$asset->name = 'my group name';
+$asset->description = 'my group description';
+
+$result = $eloqua->CreateAsset(array($asset));
+$asset->Id = $result->CreateAssetResult->CreateAssetResult->ID;
+
+
+Retrieve()
+----------
+$assetType = new AssetType(0, 'ContactGroupName', 'ContactGroup');
+$result = $eloqua->RetrieveAsset($assetType, array(*ID TO RETRIEVE*));
+
+
+Update()
+--------
+<create asset>
+$asset->name = 'my group, renamed';
+
+$result = $eloqua->UpdateAsset(array($asset));
+
+
+Delete()
+--------
+$assetType = new AssetType(0, 'ContactGroupName', 'ContactGroup');
+$result = $eloqua->DeleteAsset($assetType, array(*ID TO DELETE*));
+
+
+General API Functions:
+
+ListGroupMembership()
+---------------------
+$result = $eloqua->Retrieve(new EntityType(0, 'Contact', 'Base'), array(*ENTITY ID*));
+$entity = $result[0];
+$result = $eloqua->ListGroupMembership($entity);
+
+
+AddGroupMember()
+----------------
+$result = $eloqua->Retrieve(new EntityType(0, 'Contact', 'Base'), array(*ENTITY ID*));
+$entity = $result[0];
+$result = $eloqua->RetrieveAsset(new AssetType(0, 'ContactGroupName', 'ContactGroup'), 
+                                 array(*ASSET ID*));
+$asset = $result[0];
+
+$result = $eloqua->AddGroupMember($entity, $asset);
+
+RemoveGroupMember()
+$result = $eloqua->Retrieve(new EntityType(0, 'Contact', 'Base'), array(*ENTITY ID*));
+$entity = $result[0];
+$result = $eloqua->RetrieveAsset(new AssetType(0, 'ContactGroupName', 'ContactGroup'), 
+                                 array(*ASSET ID*));
+$asset = $result[0];
+
+$result = $eloqua->RemoveGroupMember($entity, $asset);
+
+
+Undocumented API Functions:
+
+ListActivityTypes()
+-------------------
+$result = $eloqua->ListActivityTypes();
+
+
+DescribeActivityType()
+----------------------
+$result = $eloqua->DescribeActivityType('Web');
+
+
+DescribeActivity()
+------------------
+$activity = new EloquaActivityType(null, 'Form', 'FormSubmit');
+$result = $eloqua->DescribeActivity($activity);
+
+
+GetActivities()
+---------------
+$result = $eloqua->Retrieve(new EntityType(0, 'Contact', 'Base'), array(*ID TO RETRIEVE*));
+$entity = $result[0];
+
+$result = $eloqua->GetActivities($entity, array('FormSubmit', 'WebVisit'), '2008-10-13T09:59:00Z', '2010-10-13T09:59:00Z');
+
+
+GetEmailActivitiesForRecipients()
+---------------------------------
+// This friend of mine brought three chickens into his high school as a prank.  
+// They were wearing numbers - 1, 2, and 4.
+// So, in his honor...
+$result = $eloqua->GetEmailActivitiesForRecipients(array('foo@example.com'), array(1, 2, 4)); // 1, 2, 4 are IDs of emails
+
+
+SendQuickEmail()
+----------------
+$result = $eloqua->Retrieve(new EntityType(0, 'Contact', 'Base'), array(*ID TO RETREIVE*));
+$entity = $result[0];
+$result = $eloqua->RetrieveAsset(new AssetType(0, '*NAME OF EMAIL*', 'Email'), array(*ASSET ID*));
+$asset = $result[0];
+
+$options = array('AllowResend' => true);
+$result = $eloqua->SendQuickEmail($asset, $entity, $options);
+
+
+GetQuickEmailStatus()
+---------------------
+$result = $eloqua->GetQuickEmailStatus(*PUT deploymentId FROM $result OF SendQuickEmail() HERE*);

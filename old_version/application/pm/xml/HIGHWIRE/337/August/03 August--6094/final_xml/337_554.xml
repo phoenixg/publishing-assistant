@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1222779</article-id>
+<article-id pub-id-type="doi">10.1126/science.1222779</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Report</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Reports</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>reports</subject></subj-group>
+<subj-group subj-group-type="field"><subject>ASTRONOMY</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Radio Detections During Two State Transitions of the Intermediate-Mass Black Hole HLX-1</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Webb</surname><given-names>Natalie</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref ref-type="corresp" rid="cor1">*</xref></contrib> <contrib contrib-type="author"><name><surname>Cseh</surname><given-names>David</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Lenc</surname><given-names>Emil</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref><xref ref-type="aff" rid="aff5"><sup>5</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Godet</surname><given-names>Olivier</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Barret</surname><given-names>Didier</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Corbel</surname><given-names>Stephane</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Farrell</surname><given-names>Sean</given-names></name><xref ref-type="aff" rid="aff5"><sup>5</sup></xref><xref ref-type="aff" rid="aff6"><sup>6</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Fender</surname><given-names>Robert</given-names></name><xref ref-type="aff" rid="aff7"><sup>7</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Gehrels</surname><given-names>Neil</given-names></name><xref ref-type="aff" rid="aff8"><sup>8</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Heywood</surname><given-names>Ian</given-names></name><xref ref-type="aff" rid="aff9"><sup>9</sup></xref></contrib>
+<aff id="aff1"><label>1</label>Universit&#x00E9; de Toulouse; UPS-OMP; IRAP, F-31028 Toulouse, France.</aff>
+<aff id="aff2"><label>2</label>CNRS; IRAP; 9 avenue du Colonel Roche, BP 44346, F-31028 Toulouse Cedex 4, France.</aff>
+<aff id="aff3"><label>3</label>Laboratoire Astrophysique des Interactions Multi-echelles (UMR 7158), CEA/DSM-CNRS-Universit&#x00E9; Paris Diderot, CEA Saclay, F-91191 Gif-sur-Yvette, France.</aff>
+<aff id="aff4"><label>4</label>Australia Telescope National Facility, CSIRO Astronomy and Space Science, PO Box 76, Epping, NSW 1710, Australia.</aff>
+<aff id="aff5"><label>5</label>Sydney Institute for Astronomy, School of Physics, University of Sydney, Sydney, NSW 2006, Australia.</aff>
+<aff id="aff6"><label>6</label>Department of Physics and Astronomy, University of Leicester, Leicester LE1 7RH, UK.</aff>
+<aff id="aff7"><label>7</label>School of Physics and Astronomy, University of Southampton, Highfield, Southampton SO17 1BJ, UK.</aff>
+<aff id="aff8"><label>8</label>Astroparticle Physics Laboratory, NASA/Goddard Space Flight Center, Greenbelt, MD 20771, USA.</aff>
+<aff id="aff9"><label>9</label>Department of Physics, University of Oxford, Oxford OX1 3RH, UK.</aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>To whom correspondence should be addressed. E-mail: <email xlink:href="natalie.webb@irap.omp.eu">natalie.webb@irap.omp.eu</email></corresp></author-notes>
+<pub-date pub-type="ppub"><day>03</day><month>08</month><year>2012</year></pub-date>
+<volume>337</volume>
+<issue>6094</issue>
+<fpage>554</fpage>
+<lpage>556</lpage>
+<history><date date-type="received"><day>02</day><month>04</month><year>2012</year></date><date date-type="accepted"><day>11</day><month>06</month><year>2012</year></date><date date-type="epub"><day>05</day><month>07</month><year>2012</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="editor"><title>Big Black Holes</title><p>Black holes come in two sizes: stellar-mass black holes, with masses just above that of the Sun, and supermassive black holes, with masses up to a billion times that of the Sun. The hyperluminous x-ray source HLX-1 in the spiral galaxy ESO 243-49 is the best candidate to host a black hole of intermediate mass. <bold>Webb <italic>et al.</italic></bold> (p. <related-article related-article-type="in-this-issue" vol="337" page="554">554</related-article>, published online 5 July) now report the detection of transient radio emission from this source, which may represent a jet ejection event. The radio flares indicate a mass that is consistent with that of an intermediate mass black hole. Jets have been seen to emanate from both supermassive and stellar-mass black holes. Intermediate mass black holes thus seem to behave like other black holes.</p></abstract>
+<abstract abstract-type="teaser"><p>Observations of a candidate intermediate-mass black hole support the scale invariance of jets in black holes.</p></abstract>
+<abstract>
+<p>Relativistic jets are streams of plasma moving at appreciable fractions of the speed of light. They have been observed from stellar-mass black holes (~3 to 20 solar masses, <italic>M</italic><sub>&#x2609;</sub>) as well as supermassive black holes (~10<sup>6</sup> to 10<sup>9</sup> <italic>M</italic><sub>&#x2609;</sub>) found in the centers of most galaxies. Jets should also be produced by intermediate-mass black holes (~10<sup>2</sup> to 10<sup>5</sup> <italic>M</italic><sub>&#x2609;</sub>), although evidence for this third class of black hole has, until recently, been weak. We report the detection of transient radio emission at the location of the intermediate-mass black hole candidate ESO 243-49 HLX-1, which is consistent with a discrete jet ejection event. These observations also allow us to refine the mass estimate of the black hole to be between ~9 &#x00D7; 10<sup>3</sup> <italic>M</italic><sub>&#x2609;</sub> and ~9 &#x00D7; 10<sup>4</sup> <italic>M</italic><sub>&#x2609;</sub>.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Editor</meta-name><meta-value>Maria Cruz</meta-value></custom-meta><custom-meta><meta-name>Copyeditor</meta-name><meta-value>Jeff Cook</meta-value></custom-meta></custom-meta-wrap></article-meta>
+</front>
+<body>
+<boxed-text content-type="sci-custom 6094-blackholes"></boxed-text>
+<p>It has been proposed that the kinetic power output of any black hole is only related to the mass accreted [in Eddington units (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>)] onto it and does not depend on the mass of the black hole itself (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>). If this is true, jet emission, which is most frequently detected through radio emission, is to be expected not only from stellar-mass black holes and supermassive black holes, but from black holes of all masses. This includes ultraluminous x-ray sources (ULXs), which are non-nuclear extragalactic x-ray point sources that exceed the Eddington luminosity (where the radiation force is balanced by the gravitational force) for a stellar-mass black hole. These could be stellar-mass black holes undergoing hyperaccretion (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>, <xref ref-type="bibr" rid="R4"><italic>4</italic></xref>) and/or beaming (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>, <xref ref-type="bibr" rid="R6"><italic>6</italic></xref>). Alternatively, they could contain black holes of a slightly higher mass, between 30 and 90 solar masses (<italic>M</italic><sub>&#x2609;</sub>) (<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>), or could be the missing class of intermediate-mass black holes (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>). </p>
+<p>To date, no variable radio emission associated with jets has been detected from ultraluminous x-ray sources, despite numerous observing campaigns (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>, <xref ref-type="bibr" rid="R10"><italic>10</italic></xref>). By contrast, nonvarying nebula-like extended radio emission, which is likely to be powered by the central black hole, has been detected around some ULXs (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>&#x2013;<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>). ESO 243-49 HLX-1 (hereafter referred to as HLX-1) not only is a ULX but is currently the best intermediate-mass black hole candidate. If HLX-1 harbors an intermediate-mass black hole, it accretes at comparable fractions of the Eddington luminosity, as stellar-mass black holes in binaries (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>). Hence, HLX-1 is expected to display similarities to the latter class of objects. In that respect, spectral state transitions reminiscent of black hole binaries have already been reported (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>, <xref ref-type="bibr" rid="R16"><italic>16</italic></xref>). It is therefore the ideal object in which to search for jet emission, so as to verify the scale invariance of jets from black holes.</p>
+<p>HLX-1 was detected serendipitously by XMM-Newton on 23 November 2004 in the outskirts of the edge-on spiral galaxy ESO 243-49, 8 arc sec from the nucleus (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). The distance to HLX-1 measured from its H<sub>&#x03B1;</sub> emission line confirms that ESO 243-49 is the host galaxy (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>). HLX-1 therefore has a maximum unabsorbed x-ray luminosity, assuming isotropic emission, of 1.1 &#x00D7; 10<sup>42</sup> ergs s<sup>&#x2212;1</sup> (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). HLX-1 qualifies as a ULX because of the non-nuclear situation of this point source and because it exceeds the Eddington luminosity for a stellar-mass black hole by three orders of magnitude. From the x-ray luminosity and the conservative assumption that this value exceeds the Eddington limit by at most a factor of 10 (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>), a lower limit of 500 <italic>M</italic><sub>&#x2609;</sub> was derived for the mass of the black hole (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). The maximum mass, however, is not constrained. The x-ray to optical flux ratio (<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>, <xref ref-type="bibr" rid="R19"><italic>19</italic></xref>) is far greater than expected from an active galactic nucleus, but without an estimate of this maximum mass, it could be argued that HLX-1 is a non-nuclear supermassive black hole [e.g., (<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>)].</p>
+<p>We observed HLX-1 with the Australia Telescope Compact Array (ATCA) in the 750-m configuration on 13 September 2010 (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>), when regular x-ray monitoring of HLX-1 with the Swift satellite (<xref ref-type="bibr" rid="R22"><italic>22</italic></xref>) showed that HLX-1 had just undergone a transition from the low/hard x-ray state to the high/soft x-ray state. This transition occurs for HLX-1 when the count rate increases by more than a factor of 10 in just a few days (<xref ref-type="fig" rid="F1">Fig. 1</xref>) (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>, <xref ref-type="bibr" rid="R23"><italic>23</italic></xref>). Galactic black hole binaries are known to regularly emit radio flares around the transition from the low/hard to the high/soft state [e.g., (<xref ref-type="bibr" rid="R24"><italic>24</italic></xref>, <xref ref-type="bibr" rid="R25"><italic>25</italic></xref>)]. Such flares are associated with ejection events; for example, an expelled jet can lead to radio flaring when the higher-velocity ejecta collides with the lower-velocity material produced by the steady jet. As well as detecting radio emission from the nucleus of the galaxy, we detected a radio point source at right ascension (RA) = 01<sup>h</sup>10<sup>m</sup>28.28<sup>s</sup> and declination (dec) = &#x2013;46&#x00B0;04'22.3'', coincident with the Chandra x-ray position of HLX-1 (<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>). Combining the 5-GHz and 9-GHz data gives a detection of 50 &#x03BC;Jy per beam and a 1&#x03C3; noise level of 11 &#x03BC;Jy, and thus a 4.5&#x03C3; detection at the position of HLX-1, at a time when such emission can be expected (<xref ref-type="fig" rid="F2">Fig. 2A</xref> and <xref ref-type="table" rid="T1">Table 1</xref>).</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption>
+<p>Long-term Swift x-ray telescope light curve showing the dates of the first two ATCA observations and the period during which the subsequent five ATCA observations were taken. Three x-ray state transitions from the low/hard state (count rate less than ~0.002, 0.3 to 10.0 keV) to the high/soft state (count rate between ~0.01 and ~0.05, 0.3 to 10.0 keV) can be seen.</p>
+</caption><graphic xlink:href="337_554_F1"></graphic></fig>
+<fig id="F2" position="float" fig-type="figure"><label>Fig. 2</label><caption>
+<p>(<bold>A</bold>) Five- and 9-GHz combined radio observations [contours: &#x2013;3, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, and 25 times the 1&#x03C3; root mean square (RMS) noise level (5.6 &#x03BC;Jy per beam)] using the radio data taken on 13 September 2010, 31 August 2011, and 3 and 4 September 2011 with ATCA and superimposed on an I-band Hubble Space Telescope image of ESO 243-49 (inverted color map). The beam size is shown at the lower left. The galaxy, ESO 243-49, is clearly detected in radio. An 8&#x03C3; point source falls at RA = 01<sup>h</sup>10<sup>m</sup>28.28<sup>s</sup> and dec = &#x2013;46&#x00B0;04'22.3'' (1&#x03C3; error on the position of RA = 0.43'' and dec = 0.67''), well within the 0.3'' Chandra error circle of HLX-1. (<bold>B</bold>) Five- and 9-GHz combined radio observations [contours: &#x2013;3, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, and 25 times the 1&#x03C3; RMS noise level (7.0 &#x03BC;Jy per beam)] made from the 3 December 2010, 25 August 2011, and 1 September 2011 ATCA observations and superimposed on the same I-band Hubble Space Telescope image of ESO 243-49. The galaxy ESO 243-49 is again clearly detected, but no source is found within the Chandra error circle. The beam size is shown at the lower left.</p>
+</caption><graphic xlink:href="337_554_F2"></graphic></fig>
+<table-wrap id="T1" position="float"><label>Table 1</label><caption>
+<p>The seven radio observations organized by date. The second column shows the Swift x-ray unabsorbed flux (0.5 to 10.0 keV), with 90% confidence intervals in parentheses. The third column shows the combined 5- and 9-GHz peak brightness radio flux (with the associated 1&#x03C3; noise level) for the detections, or the 3&#x03C3; upper limit for the nondetections. The final column gives the radio flux from fitting a point source (with the associated 1&#x03C3; noise level) using the point spread function.</p>
+</caption>
+<table frame="hsides" rules="groups">
+<col width="18.24%" />
+<col width="29.55%" />
+<col width="24.63%" />
+<col width="27.58%" />
+<thead>
+<tr>
+<td valign="middle" align="center" scope="col"><bold>Observation date</bold></td>
+<td valign="middle" align="center" scope="col"><bold>X-ray flux</bold><break /><bold>(ergs cm<sup>&#x2212;2</sup> s<sup>&#x2212;1</sup>)</bold></td>
+<td valign="middle" align="center" scope="col"><bold>5+9 GHz peak flux</bold><break /><bold>(&#x03BC;Jy/beam)</bold></td>
+<td valign="middle" align="center" scope="col"><bold>5+9 GHz flux density (&#x03BC;Jy)</bold></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="middle" align="left" scope="row">13 Sep 2010</td>
+<td valign="middle" align="center">4.57 (<inline-formula><mml:math id="m1"><mml:mrow><mml:msubsup><mml:mrow></mml:mrow><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>0.50</mml:mn></mml:mrow><mml:mrow><mml:mo>+</mml:mo><mml:mn>0.68</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math></inline-formula>) &#x00D7; 10<sup>&#x2212;13</sup></td>
+<td valign="middle" align="center">50 (11)</td>
+<td valign="middle" align="center">42 (10)</td>
+</tr>
+<tr>
+<td valign="middle" align="left" scope="row">3 Dec 2010</td>
+<td valign="middle" align="center">2.40 (<inline-formula><mml:math id="m2"><mml:mrow><mml:msubsup><mml:mrow></mml:mrow><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>0.50</mml:mn></mml:mrow><mml:mrow><mml:mo>+</mml:mo><mml:mn>0.60</mml:mn></mml:mrow></mml:msubsup></mml:mrow></mml:math></inline-formula>) &#x00D7; 10<sup>&#x2212;13</sup></td>
+<td valign="middle" align="center">&lt;36</td>
+<td valign="middle" align="center">11 (20)</td>
+</tr>
+<tr>
+<td valign="middle" align="left" scope="row">25 Aug 2011</td>
+<td valign="middle" align="center">4.57 (&#x00B1;0.30) &#x00D7; 10<sup>&#x2212;13</sup></td>
+<td valign="middle" align="center">&lt;30</td>
+<td valign="middle" align="center">14.5 (7)</td>
+</tr>
+<tr>
+<td valign="middle" align="left" scope="row">31 Aug 2011</td>
+<td valign="middle" align="center">4.57 (&#x00B1;0.30) &#x00D7; 10<sup>&#x2212;13</sup></td>
+<td valign="middle" align="center">51 (10)</td>
+<td valign="middle" align="center">63 (18)</td>
+</tr>
+<tr>
+<td valign="middle" align="left" scope="row">1 Sep 2011</td>
+<td valign="middle" align="center">4.57 (&#x00B1;0.30) &#x00D7; 10<sup>&#x2212;13</sup></td>
+<td valign="middle" align="center">&lt;31</td>
+<td valign="middle" align="center">25 (10.5)</td>
+</tr>
+<tr>
+<td valign="middle" align="left" scope="row">3 Sep 2011</td>
+<td valign="middle" align="center">4.57 (&#x00B1;0.30) &#x00D7; 10<sup>&#x2212;13</sup></td>
+<td valign="middle" align="center">45 (10.5)</td>
+<td valign="middle" align="center">43 (10)</td>
+</tr>
+<tr>
+<td valign="middle" align="left" scope="row">4 Sep 2011</td>
+<td valign="middle" align="center">4.57 (&#x00B1;0.30) &#x00D7; 10<sup>&#x2212;13</sup></td>
+<td valign="middle" align="center">30 (7.5)</td>
+<td valign="middle" align="center">27 (7.5)</td>
+</tr>
+</tbody></table></table-wrap>
+<p>The radio flares in galactic black hole binaries are typically brighter than the nonflaring radio emission by a factor of 10 to &gt;100 (<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>) and generally last one to several days [e.g., XTE J1859+226 (<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>)]. Once the high/soft state has been achieved, the core jet is suppressed [e.g., (<xref ref-type="bibr" rid="R24"><italic>24</italic></xref>)]. To determine whether the radio emission that we detected was transient and thus associated with a radio flare, we made another observation with ATCA in the 6-km configuration on 3 December 2010, when HLX-1 was declining from the high/soft state and when no flaring was expected. This observation again showed emission from the nucleus of the galaxy, consistent with that of the previous radio observation, but revealed no source at the position of HLX-1. The 3&#x03C3; nondetection for the combined 5- and 9-GHz data is 36 &#x03BC;Jy per beam (<xref ref-type="fig" rid="F2">Fig. 2B</xref> and <xref ref-type="table" rid="T1">Table 1</xref>). These observations suggest that the source is variable.</p>
+<p>To confirm the variability, we reobserved HLX-1 when it had just undergone another transition from the low/hard x-ray state to the high/soft x-ray state in August 2011 (<xref ref-type="fig" rid="F1">Fig. 1</xref>). All five of the 2011 observations (<xref ref-type="table" rid="T1">Table 1</xref>) were made in a similar configuration to the December 2010 observation. We observed three noncontiguous detections (&#x2265;4&#x03C3;) and two noncontiguous nondetections of the source (<xref ref-type="table" rid="T1">Table 1</xref>). This indicates that two flares were detected during this period.</p>
+<p>To determine whether the source was indeed variable, we fitted each observation using a point source, with the point spread function. We used the position of HLX-1 when the source was not detected. This allowed us to estimate the flux and the associated errors (<xref ref-type="table" rid="T1">Table 1</xref>) even for a nondetection. We tested whether the data could be fitted with a constant&#x2014;namely, the mean of the data. We used a chi-square test to compare these data to the mean flux value and found a reduced chi-square <inline-formula><mml:math id="m3"><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msubsup><mml:mstyle mathsize="100%" displaystyle="true"><mml:mi>&#x03C7;</mml:mi></mml:mstyle><mml:mi>&#x03BD;</mml:mi><mml:mn>2</mml:mn></mml:msubsup></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:math></inline-formula> value of 2.5 (5 degrees of freedom); because this is much greater than unity, a constant is a poor fit to the data and hence the variable nature of the phenomenon is supported. Further, combining all of the detections (5 and 9 GHz), the source was observed at 45 &#x03BC;Jy per beam, with a 1&#x03C3; noise level of 5.5 &#x03BC;Jy; this represents a confident detection at the 8&#x03C3; level. Combining in a similar fashion the data in which no radio emission was detected, we obtained a 3&#x03C3; upper limit in the combined 5- and 9-GHz data of 21 &#x03BC;Jy per beam (<xref ref-type="fig" rid="F2">Fig. 2</xref>). The variability rules out emission from a nebula. Hence, the observed variable radio emission is again consistent with a transient jet ejection event.</p>
+<p>Observations of supermassive black holes and stellar-mass black holes have supported the scale invariance of jets (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>, <xref ref-type="bibr" rid="R29"><italic>29</italic></xref>) through comparing x-ray and radio measurements&#x2014;tracers of mass accretion rate and kinetic output, respectively&#x2014;with the associated black hole masses to form a &#x201C;fundamental plane of black hole activity&#x201D; (<xref ref-type="bibr" rid="R28"><italic>28</italic></xref>). Under the hypothesis that HLX-1 is indeed an intermediate-mass black hole, we can test the proposed relation. We take what is generally considered to be the maximum mass of intermediate-mass black holes, ~1 &#x00D7; 10<sup>5</sup> <italic>M</italic><sub>&#x2609;</sub> (<xref ref-type="bibr" rid="R8"><italic>8</italic></xref>), and the x-ray luminosity, 5.43 &#x00D7; 10<sup>41</sup> ergs s<sup>&#x2212;1</sup> (0.5 to 10.0 keV), determined from Swift x-ray telescope (<xref ref-type="bibr" rid="R30"><italic>30</italic></xref>) observations made at the same time as our radio detection. Continuum (nonflaring) radio emission can then be estimated with the aforementioned relationship (<xref ref-type="bibr" rid="R29"><italic>29</italic></xref>), which is based on a sample that includes black holes in all different x-ray states. This relation implies a continuum radio emission at the ~20 &#x03BC;Jy level. This is slightly lower than the 3&#x03C3; nonflaring upper limit, which suggests that the mass of the black hole is likely to be less than ~1 &#x00D7; 10<sup>5</sup> <italic>M</italic><sub>&#x2609;</sub>.</p>
+<p>Radio flares are seen to occur in galactic black hole binaries when the x-ray luminosity is 10 to 100% of the Eddington luminosity (<xref ref-type="bibr" rid="R14"><italic>14</italic></xref>). HLX-1 has already shown behavior similar to that of galactic black hole binaries. Therefore, if we assume that the radio flares that we observed also occur when the x-ray luminosity is 10 to 100% of the Eddington luminosity, then the black hole mass would be between ~9.2 &#x00D7; 10<sup>3</sup> <italic>M</italic><sub>&#x2609;</sub> and ~9.2 &#x00D7; 10<sup>4</sup> <italic>M</italic><sub>&#x2609;</sub>, commensurate with the mass estimate above and those of (<xref ref-type="bibr" rid="R16"><italic>16</italic></xref>, <xref ref-type="bibr" rid="R23"><italic>23</italic></xref>, <xref ref-type="bibr" rid="R31"><italic>31</italic></xref>)<italic> </italic>and confirming the intermediate-mass black hole status.</p>
+</body>
+<back><app-group><app>
+<title>Supplementary Materials</title><supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/cgi/content/full/science.1222779/DC1">www.sciencemag.org/cgi/content/full/science.1222779/DC1</ext-link></p>
+<p>Materials and Methods</p>
+<p>Table S1</p>
+<p>References (<italic>32</italic>, <italic>33</italic>)</p></supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><note><label>1</label>
+<p>The mass accreted (<inline-formula><mml:math id="m4"><mml:mover accent="true"><mml:mi>m</mml:mi><mml:mo>&#x02D9;</mml:mo></mml:mover></mml:math></inline-formula>) in Eddington units is represented by a dimensionless ratio, <inline-formula><mml:math id="m5"><mml:mrow><mml:mover accent="true"><mml:mi>m</mml:mi><mml:mo>&#x02D9;</mml:mo></mml:mover><mml:mo>=</mml:mo><mml:mrow><mml:mover accent="true"><mml:mi>M</mml:mi><mml:mo>&#x02D9;</mml:mo></mml:mover><mml:mo>/</mml:mo><mml:mrow><mml:msub><mml:mstyle mathsize="100%" displaystyle="true"><mml:mover accent="true"><mml:mi>M</mml:mi><mml:mo>&#x02D9;</mml:mo></mml:mover></mml:mstyle><mml:mrow><mml:mi mathvariant="normal">EDD</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mrow></mml:mrow></mml:math></inline-formula>, where <inline-formula><mml:math id="m6"><mml:mover accent="true"><mml:mi>M</mml:mi><mml:mo>&#x02D9;</mml:mo></mml:mover></mml:math></inline-formula> is the accretion rate and <inline-formula><mml:math id="m7"><mml:mrow><mml:msub><mml:mstyle mathsize="100%" displaystyle="true"><mml:mover accent="true"><mml:mi>M</mml:mi><mml:mo>&#x02D9;</mml:mo></mml:mover></mml:mstyle><mml:mrow><mml:mi mathvariant="normal">EDD</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> is the maximum rate of accretion due to the Eddington luminosity.</p></note></ref>
+<ref id="R2"><label>2</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Heinz</surname><given-names>S.</given-names></name><name><surname>Sunyaev</surname><given-names>R. A.</given-names></name></person-group>, 
+<article-title>The non-linear dependence of flux on black hole mass and accretion rate in core-dominated jets</article-title>. <source>Mon. Not. R. Astron. Soc.</source> 
+<volume>343</volume>, 
+<fpage>L59</fpage> (<year>2003</year>). <pub-id pub-id-type="doi">10.1046/j.1365-8711.2003.06918.x</pub-id></citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Begelman</surname><given-names>M. C.</given-names></name></person-group>, 
+<article-title>Super-Eddington fluxes from thin accretion disks?</article-title> <source>Astrophys. J.</source> 
+<volume>568</volume>, 
+<fpage>L97</fpage> (<year>2002</year>). <pub-id pub-id-type="doi">10.1086/340457</pub-id></citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Gladstone</surname><given-names>J. C.</given-names></name><name><surname>Roberts</surname><given-names>T. P.</given-names></name><name><surname>Done</surname><given-names>C.</given-names></name></person-group>, 
+<article-title>The ultraluminous state</article-title>. <source>Mon. Not. R. Astron. Soc.</source> 
+<volume>397</volume>, 
+<fpage>1836</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1111/j.1365-2966.2009.15123.x</pub-id></citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>King</surname><given-names>A. R.</given-names></name><name><surname>Davies</surname><given-names>M. B.</given-names></name><name><surname>Ward</surname><given-names>M. J.</given-names></name><name><surname>Fabbiano</surname><given-names>G.</given-names></name><name><surname>Elvis</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Ultraluminous x-ray sources in external galaxies</article-title>. <source>Astrophys. J.</source> 
+<volume>552</volume>, 
+<fpage>L109</fpage> (<year>2001</year>). <pub-id pub-id-type="doi">10.1086/320343</pub-id></citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>K&#x00F6;rding</surname><given-names>E.</given-names></name><name><surname>Falcke</surname><given-names>H.</given-names></name><name><surname>Markoff</surname><given-names>S.</given-names></name></person-group>, 
+<article-title>Population X: Are the super-Eddington X-ray sources beamed jets in microblazars or intermediate mass black holes?</article-title> <source>Astron. Astrophys.</source> 
+<volume>382</volume>, 
+<fpage>L13</fpage> (<year>2002</year>). <pub-id pub-id-type="doi">10.1051/0004-6361:20011776</pub-id></citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Zampieri</surname><given-names>L.</given-names></name><name><surname>Roberts</surname><given-names>T. P.</given-names></name></person-group>, 
+<article-title>Low-metallicity natal environments and black hole masses in ultraluminous X-ray sources</article-title>. <source>Mon. Not. R. Astron. Soc.</source> 
+<volume>400</volume>, 
+<fpage>677</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1111/j.1365-2966.2009.15509.x</pub-id></citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Miller</surname><given-names>M. C.</given-names></name><name><surname>Colbert</surname><given-names>E. J. M.</given-names></name></person-group>, <source>Int. J. Mod. Phys. D</source> 
+<volume>13</volume>, 
+<fpage>1</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1142/S0218271804004426</pub-id></citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>K&#x00F6;rding</surname><given-names>E.</given-names></name><name><surname>Colbert</surname><given-names>E.</given-names></name><name><surname>Falcke</surname><given-names>H.</given-names></name></person-group>, 
+<article-title>A radio monitoring survey of ultra-luminous X-ray sources</article-title>. <source>Astron. Astrophys.</source> 
+<volume>436</volume>, 
+<fpage>427</fpage> (<year>2005</year>). <pub-id pub-id-type="doi">10.1051/0004-6361:20042452</pub-id></citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Freeland</surname><given-names>M.</given-names></name><name><surname>Kuncic</surname><given-names>Z.</given-names></name><name><surname>Soria</surname><given-names>R.</given-names></name><name><surname>Bicknell</surname><given-names>G. V.</given-names></name></person-group>, 
+<article-title>Radio and X-ray properties of relativistic beaming models for ultraluminous X-ray sources</article-title>. <source>Mon. Not. R. Astron. Soc.</source> 
+<volume>372</volume>, 
+<fpage>630</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1111/j.1365-2966.2006.10750.x</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kaaret</surname><given-names>P.</given-names></name><name><surname>Corbel</surname><given-names>S.</given-names></name><name><surname>Prestwich</surname><given-names>A. H.</given-names></name><name><surname>Zezas</surname><given-names>A.</given-names></name></person-group>, 
+<article-title>Radio emission from an ultraluminous x-ray source</article-title>. <source>Science</source> 
+<volume>299</volume>, 
+<fpage>365</fpage> (<year>2003</year>). <pub-id pub-id-type="doi">10.1126/science.1079610</pub-id><pub-id pub-id-type="pmid">12532009</pub-id></citation></ref>
+<ref id="R12"><label>12</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Miller</surname><given-names>N. A.</given-names></name><name><surname>Mushotzky</surname><given-names>R. F.</given-names></name><name><surname>Neff</surname><given-names>S. G.</given-names></name></person-group>, 
+<article-title>Radio emission associated with the ultraluminous x-ray source in Holmberg II</article-title>. <source>Astrophys. J.</source> 
+<volume>623</volume>, 
+<fpage>L109</fpage> (<year>2005</year>). <pub-id pub-id-type="doi">10.1086/430112</pub-id></citation></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Cseh</surname><given-names>D.</given-names></name><etal /></person-group>., 
+<article-title>Black hole powered nebulae and a case study of the ultraluminous x-ray source IC 342 X-1</article-title>. <source>Astrophys. J.</source> 
+<volume>749</volume>, 
+<fpage>17</fpage> (<year>2012</year>). <pub-id pub-id-type="doi">10.1088/0004-637X/749/1/17</pub-id></citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Fender</surname><given-names>R. P.</given-names></name><name><surname>Belloni</surname><given-names>T. M.</given-names></name><name><surname>Gallo</surname><given-names>E.</given-names></name></person-group>, <source>Mon. Not. R. Astron. Soc.</source> 
+<volume>355</volume>, 
+<fpage>1105</fpage> (<year>2004</year>). </citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Godet</surname><given-names>O.</given-names></name><name><surname>Barret</surname><given-names>D.</given-names></name><name><surname>Webb</surname><given-names>N. A.</given-names></name><name><surname>Farrell</surname><given-names>S. A.</given-names></name><name><surname>Gehrels</surname><given-names>N.</given-names></name></person-group>, 
+<article-title>First evidence for spectral state transitions in the ESO 243-49 hyperluminous x-ray source HLX-1</article-title>. <source>Astrophys. J.</source> 
+<volume>705</volume>, 
+<fpage>L109</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1088/0004-637X/705/2/L109</pub-id></citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Servillat</surname><given-names>M.</given-names></name><etal /></person-group>., 
+<article-title>X-ray variability and hardness of ESO 243-49 HLX-1: Clear evidence for spectral state transitions</article-title>. <source>Astrophys. J.</source> 
+<volume>743</volume>, 
+<fpage>6</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1088/0004-637X/743/1/6</pub-id></citation></ref>
+<ref id="R17"><label>17</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Farrell</surname><given-names>S. A.</given-names></name><name><surname>Webb</surname><given-names>N. A.</given-names></name><name><surname>Barret</surname><given-names>D.</given-names></name><name><surname>Godet</surname><given-names>O.</given-names></name><name><surname>Rodrigues</surname><given-names>J. M.</given-names></name></person-group>, 
+<article-title>An intermediate-mass black hole of over 500 solar masses in the galaxy ESO 243-49</article-title>. <source>Nature</source> 
+<volume>460</volume>, 
+<fpage>73</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1038/nature08083</pub-id><pub-id pub-id-type="pmid">19571880</pub-id></citation></ref>
+<ref id="R18"><label>18</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Wiersema</surname><given-names>K.</given-names></name><etal /></person-group>., 
+<article-title>A redshift for the intermediate-mass black hole candidate HLX-1: Confirmation of its association with the galaxy ESO 243-49</article-title>. <source>Astrophys. J.</source> 
+<volume>721</volume>, 
+<fpage>L102</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1088/2041-8205/721/2/L102</pub-id></citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Soria</surname><given-names>R.</given-names></name><etal /></person-group>., <source>Mon. Not. R. Astron. Soc.</source> 
+<volume>405</volume>, 
+<fpage>870</fpage> (<year>2010</year>).</citation></ref>
+<ref id="R20"><label>20</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Guedes</surname><given-names>J.</given-names></name><name><surname>Madau</surname><given-names>P.</given-names></name><name><surname>Kuhlen</surname><given-names>M.</given-names></name><name><surname>Diemand</surname><given-names>J.</given-names></name><name><surname>Zemp</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>Simulations of recoiling massive black holes in the Via Lactea halo</article-title>. <source>Astrophys. J.</source> 
+<volume>702</volume>, 
+<fpage>890</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1088/0004-637X/702/2/890</pub-id></citation></ref>
+<ref id="R21"><note><label>21</label>
+<p>See supplementary materials on <italic>Science</italic> Online.</p></note></ref>
+<ref id="R22"><label>22</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Gehrels</surname><given-names>N.</given-names></name><etal /></person-group>., 
+<article-title>The <italic>Swift</italic> gamma&#x2010;ray burst mission</article-title>. <source>Astrophys. J.</source> 
+<volume>611</volume>, 
+<fpage>1005</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1086/422091</pub-id></citation></ref>
+<ref id="R23"><label>23</label><citation citation-type="other">O. Godet <italic>et al</italic>., http://arxiv.org/abs/1204.3461<italic> </italic>(2012).</citation></ref>
+<ref id="R24"><label>24</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Fender</surname><given-names>R. P.</given-names></name><name><surname>Homan</surname><given-names>J.</given-names></name><name><surname>Belloni</surname><given-names>T. M.</given-names></name></person-group>, 
+<article-title>Jets from black hole X-ray binaries: Testing, refining and extending empirical models for the coupling to X-rays</article-title>. <source>Mon. Not. R. Astron. Soc.</source> 
+<volume>396</volume>, 
+<fpage>1370</fpage> (<year>2009</year>). <pub-id pub-id-type="doi">10.1111/j.1365-2966.2009.14841.x</pub-id></citation></ref>
+<ref id="R25"><label>25</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Corbel</surname><given-names>S.</given-names></name><name><surname>Fender</surname><given-names>R. P.</given-names></name><name><surname>Tomsick</surname><given-names>J. A.</given-names></name><name><surname>Tzioumis</surname><given-names>A. K.</given-names></name><name><surname>Tingay</surname><given-names>S.</given-names></name></person-group>, 
+<article-title>On the origin of radio emission in the x&#x2010;ray states of XTE J1650&#x2212;500 during the 2001&#x2013;2002 outburst</article-title>. <source>Astrophys. J.</source> 
+<volume>617</volume>, 
+<fpage>1272</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1086/425650</pub-id></citation></ref>
+<ref id="R26"><label>26</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Webb</surname><given-names>N. A.</given-names></name><etal /></person-group>., 
+<article-title><italic>CHANDRA</italic> and <italic>SWIFT</italic> follow-up observations of the intermediate-mass black hole in ESO 243-49</article-title>. <source>Astrophys. J.</source> 
+<volume>712</volume>, 
+<fpage>L107</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1088/2041-8205/712/1/L107</pub-id></citation></ref>
+<ref id="R27"><label>27</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Brocksopp</surname><given-names>C.</given-names></name><etal /></person-group>., 
+<article-title>Initial low/hard state, multiple jet ejections and X-ray/radio correlations during the outburst of XTE J1859+226</article-title>. <source>Mon. Not. R. Astron. Soc.</source> 
+<volume>331</volume>, 
+<fpage>765</fpage> (<year>2002</year>). <pub-id pub-id-type="doi">10.1046/j.1365-8711.2002.05230.x</pub-id></citation></ref>
+<ref id="R28"><label>28</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Merloni</surname><given-names>A.</given-names></name><name><surname>Heinz</surname><given-names>S.</given-names></name><name><surname>di Matteo</surname><given-names>T.</given-names></name></person-group>, 
+<article-title>A fundamental plane of black hole activity</article-title>. <source>Mon. Not. R. Astron. Soc.</source> 
+<volume>345</volume>, 
+<fpage>1057</fpage> (<year>2003</year>). <pub-id pub-id-type="doi">10.1046/j.1365-2966.2003.07017.x</pub-id></citation></ref>
+<ref id="R29"><label>29</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>K&#x00F6;rding</surname><given-names>E.</given-names></name><name><surname>Falcke</surname><given-names>H.</given-names></name><name><surname>Corbel</surname><given-names>S.</given-names></name></person-group>, 
+<article-title>Refining the fundamental plane of accreting black holes</article-title>. <source>Astron. Astrophys.</source> 
+<volume>456</volume>, 
+<fpage>439</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1051/0004-6361:20054144</pub-id></citation></ref>
+<ref id="R30"><label>30</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Burrows</surname><given-names>D. N.</given-names></name><etal /></person-group>., 
+<article-title>The Swift x-ray telescope</article-title>. <source>Space Sci. Rev.</source> 
+<volume>120</volume>, 
+<fpage>165</fpage> (<year>2005</year>). <pub-id pub-id-type="doi">10.1007/s11214-005-5097-2</pub-id></citation></ref>
+<ref id="R31"><label>31</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Davis</surname><given-names>S. W.</given-names></name><etal /></person-group>., 
+<article-title>The cool accretion disk in ESO 243-49 HLX-1: Further evidence of an intermediate-mass black hole</article-title>. <source>Astrophys. J.</source> 
+<volume>734</volume>, 
+<fpage>111</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1088/0004-637X/734/2/111</pub-id></citation></ref>
+<ref id="R32"><label>32</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Wilson</surname><given-names>W. E.</given-names></name><etal /></person-group>., 
+<article-title>The Australia Telescope Compact Array broad-band backend: Description and first results</article-title>. <source>Mon. Not. R. Astron. Soc.</source> 
+<volume>416</volume>, 
+<fpage>832</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1111/j.1365-2966.2011.19054.x</pub-id></citation></ref>
+<ref id="R33"><label>33</label><citation citation-type="confproc">R. J. Sault, P. J. Teuben, M. C. H. Wright, in <italic>Astronomical Data Analysis Software and Systems IV</italic>, R. A. Shaw, H. E. Payne, J. J. E. Hayes, Eds. (Astronomical Society of the Pacific, San Francisco, 1995), p. 433.</citation></ref>
+</ref-list>
+<ack>
+<title>Acknowledgments</title><p>Supported by the European Community&#x2019;s Seventh Framework Programme (FP7/2007-2013) under grant agreement number ITN 215212 &#x201C;Black Hole Universe&#x201D; (D.C. and S.C.), the UK Science and Technology Facilities Council (S.F.), and an Australian Research Council postdoctoral fellowship funded by grant DP110102889 (S.F.). The Australia Telescope is funded by the Commonwealth of Australia for operation as a national facility managed by CSIRO; the data can be accessed at <ext-link ext-link-type="uri" xlink:href="http://atoa.atnf.csiro.au/query.jsp">http://atoa.atnf.csiro.au/query.jsp</ext-link>. This work made use of data supplied by the UK Swift Science Data Centre at the University of Leicester (<ext-link ext-link-type="uri" xlink:href="http://www.swift.ac.uk/swift_portal">www.swift.ac.uk/swift_portal</ext-link>).</p>
+</ack></back>
+</article>

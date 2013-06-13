@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="article-commentary" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">STM</journal-id>
+<journal-title>Science Translational Medicine</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Sci. Transl. Med.</abbrev-journal-title>
+<issn pub-type="ppub">1946-6234</issn><issn pub-type="epub">1946-6242</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">3004718</article-id>
+<article-id pub-id-type="doi">10.1126/scitranslmed.3004718</article-id>
+<article-categories><subj-group subj-group-type="article-type"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Editors' Choice</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>STM EC</subject></subj-group>
+<subj-group subj-group-type="field"><subject>Medicine</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Skin Diseases</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Sensing Sun Damage</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Anandasabapathy</surname><given-names>Niroshana</given-names></name></contrib>
+<aff id="aff1">Laboratory of Cellular Physiology and Immunology, Rockefeller University, New York, NY 10065, USA. E-mail: <email xlink:href="nanandasab@rockefeller.edu">nanandasab@rockefeller.edu</email></aff>
+</contrib-group>
+<pub-date pub-type="ppub"><day>15</day><month>08</month><year>2012</year></pub-date>
+<volume>4</volume>
+<issue>147</issue>
+<fpage>147ec144</fpage>
+<lpage>147ec144</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser">
+<p>Small RNAs may spur skin cell responses to sun damage.</p>
+</abstract>
+</article-meta>
+</front>
+<body>
+<p>Too much fun in the sun can leave a person&#x2019;s skin red and inflamed, but these conditions might just be the tip of the iceberg. In addition to sunburns, the ultraviolet B (UVB) portion of the solar radiation spectrum&#x2014;which includes wavelengths between 290 and 310 nm&#x2014;also drives aging and transformation of cells to a cancerous state. Through an unidentified sensor, UVB rays spur skin damage via release of proinflammatory compounds [such as tumor necrosis factor&#x2013;&#x03B1; (TNF-&#x03B1;) and interleukin-6 (IL-6)] while also suppressing skin immunity. Now, Bernard <italic>et al.</italic> show that UVB exposure stimulates the innate-immune Toll-like receptor 3 (TLR3) in normal cells of the human skin epidermis (keratinocytes).</p>
+<p>TLR3 is highly conserved from flies to mammals and senses the presence of pathogens by detecting double-stranded RNA. The authors found that normal human keratinocytes that had been exposed to UV irradiation in culture produced small nuclear RNAs, which stimulated surrounding non&#x2013;UV-damaged keratinocytes and blood cells to release inflammatory mediators. By comparing the sequences of RNAs recovered from UVB-treated versus untreated human skin cells, the authors detected the release, after UVB exposure, of specific RNAs with double-stranded domains that did not encode proteins. Skin cells isolated from mice that lacked TLR3 did not release the inflammatory cytokine TNF-&#x03B1; in response to UVB damage. As a model for allergic and irritant skin dermatitis&#x2014;or contact sensitization&#x2014;the authors applied the chemical dinitrofluorobenzene to the skin of TLR3-deficient and control mice and then measured skin thickness. Normal mice exposed to UVB rays were able to limit their immune response when the contact-sensitizing agent was applied, whereas TLR3-deficient mice could not control the inflammatory response.</p>
+<p>It remains to be determined whether UVB-induced RNA release or TLR3 up-regulation is a possible trigger for photosensitive disorders and autoimmune diseases that are worsened by sun exposure. Further study is also needed to shed light on the role of noncoding RNAs and TLR3-controlled cytokines in the progression of UV-damaged cells to skin cancer.</p>
+<p>J. Bernard <italic>et al</italic>., Ultraviolet radiation damages self noncoding RNA and is detected by TLR3. <italic>Nat. Med</italic>. 8 July 2012 (doi: 10.1038/nm.2861). <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/22772463">[PubMed]</ext-link> </p>
+</body>
+</article>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="news" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>News &amp; Analysis</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>News &amp; Analysis</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>n-analysis</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Astronomy</subject><subject>Physics</subject><subject>Materials-Science</subject></subj-group>
+<subj-group subj-group-type="field"><subject>PHYSICS</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Physics</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Dark-Matter Mystery Nears Its Moment of Truth</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Cho</surname><given-names>Adrian</given-names></name></contrib>
+</contrib-group>
+<pub-date pub-type="ppub">
+<day>26</day>
+<month>04</month>
+<year>2013</year>
+</pub-date>
+<volume>340</volume>
+<issue>6131</issue>
+<fpage>418</fpage>
+<lpage>418</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser"><p>Physicists working with an ultrasensitive particle detector deep underground reported three blips that could be particles of dark matter&#x2014;suggesting that weakly interacting massive particles might not be far off.</p></abstract>
+<abstract abstract-type="web-summary"><p>At a meeting last week, physicists working with an ultrasensitive particle detector deep underground reported three blips that could be particles of dark matter, the mysterious stuff whose gravity binds the galaxies, bumping into atomic nuclei. Other physicists are taking note because the three events are cleaner and more persuasive than earlier ones this detector has recorded. If dark matter has been spotted, than a lightweight version of a so-called weakly interacting massive particle should show up in other experiments in a year or so. Still, the events should be viewed with caution, physicists say.</p></abstract>
+</article-meta>
+</front>
+<body>
+<p>As announcements go, it was a bit like texting your parents that you're getting married. At a meeting last week, physicists working with an ultrasensitive particle detector deep underground reported three blips that could be particles of dark matter, the mysterious stuff whose gravity binds the galaxies, bumping into atomic nuclei. However, the leaders of the on-going Cryogenic Dark Matter Search (CDMS) issued no press release and stressed that three "events" are too few to claim a discovery.</p>
+<p>Nevertheless, other physicists are taking note for two reasons. First, they say, the three events are cleaner and more persuasive than earlier ones CDMS recorded. Second, if CDMS has spotted dark matter, then the beast they've glimpsed&#x2014;a lightweight version of a so-called weakly interacting massive particle (WIMP)&#x2014;should show up in other experiments in a year or so. "If this is real, we should know soon," says Neal Weiner, a theorist at New York University in New York City.</p>
+<fig id="F1" position="float">
+<caption>
+<title>Tantalizing.</title>
+    <p>Physicists working on the Cryogenic Dark Matter Search have spotted three potential signals of dark-matter particles.</p>
+</caption>
+<graphic xlink:href="340_418_F1"></graphic>
+<attrib>CREDIT: REIDAR HAHN/FERMILAB</attrib>
+</fig>
+<p>CDMS researchers had reason to be cautious. In December 2009, as rumors swirled, they presented two other possible WIMP events. Even though a press release that they issued claimed no discovery, others rolled their eyes. CDMS researchers used certain criteria, or "cuts," to sift signal events from "background" events caused by ordinary particles. If the team tightened its cuts a tad, the two events went away, leading some physicists to criticize CDMS researchers for calling them possible signal events at all. "We felt a bit burned by the experience," says Blas Cabrera, a CDMS member from Stanford University in Palo Alto, California.</p>
+<p>This time CDMS researchers soft-pedaled the data. Lurking 713 meters down in the idled Soudan mine in northern Minnesota, CDMS comprises disks of germanium or silicon cooled almost to absolute zero. To look for a nucleus recoiling from a collision with a WIMP, researchers monitor each disk for a pulse of electricity teamed with a pulse of heat. The previous events appeared in germanium data in a version of the experiment known as CDMS-II. (Researchers are now running SuperCDMS.) The new events come from silicon data that CDMS-II collected from July 2007 to September 2008 and were presented on 13 April at the meeting of the American Physical Society in Denver. "They look robust, they look healthy," says Juan Collar, a physicist from the University of Chicago in Illinois, who does not work on CDMS.</p>
+<p>Still, the events should be viewed with caution, physicists say. To interpret their data, CDMS researchers must estimate the number of background events that on average they would expect to find in such a data set, which they calculate to be 0.4. That number and other details imply that there's a 0.2% chance the three events are due to background alone, they say. But if the researchers have underestimated the background a little, the significance of the result falls a lot, says Richard Gaitskell of Brown University. "It's like brain surgery," he says, "one little slip and it changes the outcome entirely."</p>
+<p>CDMS's results suggest that WIMPs are about eight times as massive as the proton&#x2014;less than theories had generally forecast&#x2014;and they roughly jibe with other hints of lightweight WIMPs. In 2010, Collar and colleagues working with an experiment called the Coherent Germanium Neutrino Technology (CoGeNT) in Soudan reported an excess of events that could be low-mass WIMPS. In 2011, researchers working with the Cryogenic Rare Event Search with Superconducting Thermometers (CRESST) in Italy's subterranean Gran Sasso National Laboratory spotted similar signs.</p>
+<p>However, an experiment known as The XENON Dark Matter Project in Gran Sasso claimed to have ruled out the CoGeNT and CRESST signals, and a food fight broke out over whose measurements were reliable (<italic>Science</italic>, 3 June 2011, p. <ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.sciencemag.org/content/332/6034/1144.full">1144</ext-link>). XENON used a detector filled with liquid xenon, an element whose heavy nucleus makes it less sensitive to lightweight WIMPs. So some researchers argued that the XENON team overstated the detector's sensitivity. Conversely, reanalysis of the CoGeNT results suggested that they were mostly background events.</p>
+<p>If light WIMPs exist, then several other experiments should soon see them. For example, the Large Underground Xenon dark-matter experiment (LUX) has been assembled 1478 meters down in the Sanford Underground Research Facility in Lead, South Dakota, and should start taking data this year. With its mass of 350 kilograms of frigid liquid xenon, LUX should see thousands of light WIMPs, if they're there. "This is the year of the light WIMP or of its demise," Collar predicts.</p>
+<p>The acid test for the entire notion of WIMPs may not be far behind. The idea emerged from a concept in particle physics called supersymmetry, which posits that every known particle has a more massive "superpartner." The lightest of these would be a stable uncharged particle that hardly interacts with normal matter&#x2014;just the ticket for dark matter. Supersymmetry generally predicts that the particles should be hundreds of times as massive as a proton, and that's mainly the type of particle physicists have sought.</p>
+<p>But it hasn't shown up yet. If it doesn't appear in the new tonne-scale detector XENON is building or similar detectors that researchers in the United States hope to build by 2016, then physicists may have to accept that even if WIMPs exist, they're undetectable. "It's going to a critical juncture," says Lian-Tao Wang, a theorist at the University of Chicago. "We are living interesting times."</p>
+</body>
+</article>

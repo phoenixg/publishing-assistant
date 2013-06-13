@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn><issn pub-type="epub">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">1233062</article-id>
+<article-id pub-id-type="doi">10.1126/science.1233062</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Special Issue Report</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Reports</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>special/reports</subject></subj-group>
+<subj-group subj-group-type="field"><subject>ANTHRO</subject><subject>ONLINE</subject></subj-group>
+<subj-group subj-group-type="display-ad"><subject>Botany</subject><subject>Anthropology</subject><subject>Anatomy</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Dental Morphology and the Phylogenetic &#x201C;Place&#x201D; of <italic>Australopithecus sediba</italic></article-title><alt-title alt-title-type="running-head"><italic>Australopithecus sediba</italic></alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Irish</surname><given-names>Joel D.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="corresp" rid="cor1">*</xref></contrib> <contrib contrib-type="author"><name><surname>Guatelli-Steinberg</surname><given-names>Debbie</given-names></name><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Legge</surname><given-names>Scott S.</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib> <contrib contrib-type="author"><name><surname>de Ruiter</surname><given-names>Darryl J.</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref><xref ref-type="aff" rid="aff5"><sup>5</sup></xref></contrib> <contrib contrib-type="author"><name><surname>Berger</surname><given-names>Lee R.</given-names></name><xref ref-type="aff" rid="aff5"><sup>5</sup></xref></contrib>
+<aff id="aff1"><label>1</label>Research Centre in Evolutionary Anthropology and Palaeoecology, School of Natural Sciences and Psychology, Liverpool John Moores University, Liverpool L3 3AF, UK.</aff>
+<aff id="aff2"><label>2</label>Department of Anthropology, and Department of Evolution, Ecology, and Organismal Biology, Ohio State University, Columbus, OH 43210, USA.</aff>
+<aff id="aff3"><label>3</label>Department of Anthropology, Macalester College, St. Paul, MN 55105, USA.</aff>
+<aff id="aff4"><label>4</label>Department of Anthropology, Texas A&amp;M University, College Station, TX 77843, USA.</aff>
+<aff id="aff5"><label>5</label>Evolutionary Studies Institute, University of the Witwatersrand, Private Bag 3, Wits 2050, South Africa.</aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor1"><label>*</label>Corresponding author. E-mail: <email xlink:href="j.d.irish@ljmu.ac.uk">j.d.irish@ljmu.ac.uk</email></corresp></author-notes>
+<pub-date pub-type="ppub"><day>12</day><month>04</month><year>2013</year></pub-date>
+<volume>340</volume>
+<issue>6129</issue>
+<issue-title content-type="special-issue"><italic>Australopithecus sediba</italic></issue-title>
+<elocation-id>1233062</elocation-id>
+<history><date date-type="received"><day>21</day><month>11</month><year>2012</year></date><date date-type="accepted"><day>12</day><month>03</month><year>2013</year></date></history>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2013, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract>
+<p>To characterize further the <italic>Australopithecus sediba</italic> hypodigm, we describe 22 dental traits in specimens MH1 and MH2. Like other skeletal elements, the teeth present a mosaic of primitive and derived features. The new nonmetric data are then qualitatively and phenetically compared with those in eight other African hominin samples, before cladistic analyses using a gorilla outgroup. There is some distinction, largely driven by contrasting molar traits, from East African australopiths. However, <italic>Au. sediba</italic> links with <italic>Au. africanus</italic> to form a South African australopith clade. These species present five apomorphies, including shared expressions of Carabelli&#x2019;s upper first molar (UM1) and protostylid lower first molar (LM1). Five synapomorphies are also evident between them and monophyletic <italic>Homo habilis/rudolfensis</italic> + <italic>H. erectus</italic>. Finally, a South African australopith + <italic>Homo</italic> clade is supported by four shared derived states, including identical LM1 cusp 7 expression.</p>
+</abstract>
+<custom-meta-wrap><custom-meta><meta-name>Print abstract page</meta-name><meta-value>164</meta-value></custom-meta></custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<boxed-text content-type="sci-custom 6129-sediba"><p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/site/extra/sediba/index.xhtml">Index to <italic>Australopithecus sediba</italic> special section</ext-link></p></boxed-text>
+<p>Given their propensity to outlast other hard tissues, teeth provide sizable, although restricted, data sets to define and characterize fossils. Thus, when alternative remains are available, as with <italic>Australopithecus sediba</italic> (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>), the focus shifts readily to elements that give insight into hominin abilities such as cognition (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>), manipulation (<xref ref-type="bibr" rid="R3"><italic>3</italic></xref>, <xref ref-type="bibr" rid="R4"><italic>4</italic></xref>), parturition (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>), and locomotion (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>&#x2013;<xref ref-type="bibr" rid="R9"><italic>9</italic></xref>). Still, teeth have three key attributes that permit a singular perspective on hominins and their origins. First, crowns come into actual contact with the environment, so that direct inferences can be made about diet and certain behaviors (<xref ref-type="bibr" rid="R10"><italic>10</italic></xref>). Second, because teeth preserve their record of incremental growth, a fine-grained understanding about the pace of hominin life histories is possible (<xref ref-type="bibr" rid="R11"><italic>11</italic></xref>). Third, their high genetic component, among other features in expression (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>), facilitates phylogenetic interpretations. Focusing on the latter attribute, we describe 22 nonmetric crown and root traits. These descriptions are then contrasted with those of six fossil and two recent hominin samples. Finally, after coding characters across these samples and an outgroup for cladistic analysis, we present additional phylogenetic information concerning this 1.977 million-year-old (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>) South African australopith.</p>
+<p>Some dental data in <italic>Au. sediba</italic> have been presented (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>, <xref ref-type="bibr" rid="R14"><italic>14</italic></xref>). However, many of those characters are unique to Plio-Pleistocene hominins (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>&#x2013;<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>). The traits used here are from the Arizona State University Dental Anthropology System (ASUDAS) (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>), most of which are expressed in modern and fossil hominins, plus various other primates. Traits in the ASUDAS are highly heritable and minimally affected by sexual dimorphism, among other attributes (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). Further, as &#x201C;minor&#x201D; variants they should be little affected by selection, and pairwise correlations are negligible (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>, <xref ref-type="bibr" rid="R19"><italic>19</italic></xref>). A lack of selection would reduce potential homoplasy (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>). Low or no correlations address character redundancy that would bias cladistic analyses; this issue is crucial for molar traits, given the identified linkage, albeit minor, between accessory cusp formation and intercusp spacing and crown size (<xref ref-type="bibr" rid="R20"><italic>20</italic></xref>). Only low intertrait correlations were detected for the present traits (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>).</p>
+<p>We inspected &gt;340 fossil and 4571 recent hominin specimens retaining teeth, along with 44 gorilla dentitions; recording of the requisite traits (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>) yielded the samples presented herein. The <italic>Au. sediba</italic> dental remains derive from MH1, a juvenile male, and MH2, an adult female (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). Data from the fossil comparative samples were collected in original specimens and 11 high-resolution casts (table S1) (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>, <xref ref-type="bibr" rid="R22"><italic>22</italic></xref>). The east African australopith sample consists of <italic>Au. anamensis</italic> and <italic>Au. afarensis</italic>. Shared ASUDAS expression in these two time-successive species permitted pooling [see (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>)] so as to most comprehensively characterize the <italic>Australopithecus</italic> genus in this region. <italic>Homo habilis/rudolfensis</italic> includes specimens assigned by some to different, albeit contemporaneous, species that also share ASUDAS expression. Similarly, <italic>H. erectus</italic> (also known as <italic>ergaster</italic>) includes specimens from what some maintain are different species (<xref ref-type="bibr" rid="R23"><italic>23</italic></xref>). The remaining samples comprise <italic>Au. africanus</italic>, <italic>Paranthropus robustus</italic>, and <italic>P. boisei</italic>. The rationale to assign specimens to species is presented elsewhere (<xref ref-type="bibr" rid="R21"><italic>21</italic></xref>, <xref ref-type="bibr" rid="R22"><italic>22</italic></xref>). In brief, sample composition is based on a majority consensus of researchers, while maximizing characterization for comparative purposes.</p>
+<p>The recent hominin samples consist of post-Pleistocene <italic>H. sapiens</italic> from sub-Saharan (<italic>n</italic> = 2309) and North Africa (<italic>n</italic> = 2262) (<xref ref-type="bibr" rid="R24"><italic>24</italic></xref>&#x2013;<xref ref-type="bibr" rid="R26"><italic>26</italic></xref>). Crown data in <italic>Gorilla gorilla</italic> were recorded in a collection from Cameroon; root descriptions are extrapolated from published sources (<xref ref-type="bibr" rid="R27"><italic>27</italic></xref>, <xref ref-type="bibr" rid="R28"><italic>28</italic></xref>). The latter species is used as an outgroup for cladistic analysis, which is appropriate given that it and <italic>Pan</italic> are the closest extant relatives of hominins (<xref ref-type="bibr" rid="R15"><italic>15</italic></xref>).</p>
+<p>Twenty-two traits that could be recorded in the two <italic>Au. sediba</italic> specimens, their ASUDAS grades, and expressions in the species are listed in <xref ref-type="table" rid="T1">Table 1</xref>. Comprehensive trait and grade definitions are available elsewhere (<xref ref-type="bibr" rid="R18"><italic>18</italic></xref>, <xref ref-type="bibr" rid="R19"><italic>19</italic></xref>). Similar descriptions and character states for the cladistic analysis are listed in <xref ref-type="table" rid="T2">Table 2</xref> for all samples. In this table, state values replicate ASUDAS grades, with one exception. The ASUDAS grade range of 0 to 7 for Carabelli&#x2019;s upper first molar (UM1) was increased to 0 to 8, with definitions (<xref ref-type="bibr" rid="R19"><italic>19</italic></xref>) shifted up for each value to account for the gorilla cingulum variant (now given a value of 0); grade 0 is treated here as the primitive state, although not all researchers may concur. This modification accounts for the change in <italic>Au. sediba</italic> Carabelli&#x2019;s values (from 4 to 5) between tables.</p>
+<table-wrap id="T1" position="float"><label>Table 1</label><caption>
+<p><bold>ASUDAS traits, grades, and descriptions in<italic> Australopithecus sediba</italic> specimens.</bold></p>
+</caption>
+<table frame="void" rules="groups">
+<col width="37.03%"/>
+<col width="32.06%"/>
+<col width="30.91%"/>
+<thead>
+<tr>
+<td valign="top" align="left" scope="col"></td>
+<td valign="bottom" align="center" scope="col"><bold>MH1</bold></td>
+<td valign="bottom" align="center" scope="col"><bold>MH2</bold></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" scope="row">Labial curvature UI1</td>
+<td valign="top" align="left">2: Weak convexity</td>
+<td valign="top" align="left"></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Shovel UI1</td>
+<td valign="top" align="left">1: Faint lingual ridges</td>
+<td valign="top" align="left"></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Double shovel UI1</td>
+<td valign="top" align="left">0: No labial ridges</td>
+<td valign="top" align="left"></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Bushman canine UC</td>
+<td valign="top" align="left">0: Mesial and distal ridges same size</td>
+<td valign="top" align="left"></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Distal accessory ridge UC</td>
+<td valign="top" align="left">0: Absent</td>
+<td valign="top" align="left"></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Root no. UP1</td>
+<td valign="top" align="left">2: Two roots</td>
+<td valign="top" align="left"></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Carabelli&#x2019;s cusp UM1</td>
+<td valign="top" align="left">4: Large depression (possible cusp)*</td>
+<td valign="top" align="left"></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Cusp 5 UM1</td>
+<td valign="top" align="left">1: Faint cuspule</td>
+<td valign="top" align="left"></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Enamel extension UM1</td>
+<td valign="top" align="left">0: Enamel border straight</td>
+<td valign="top" align="left"></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Hypocone UM2</td>
+<td valign="top" align="left">4: Large cusp</td>
+<td valign="top" align="left"></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">UM3 agenesis</td>
+<td valign="top" align="left">0: Absent (tooth present)</td>
+<td valign="top" align="left"> </td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Tome&#x2019;s root LP1</td>
+<td valign="top" align="left">5: Two free roots</td>
+<td valign="top" align="left">5: Two free roots</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Lingual cusp no. LP2</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="left">5: Two, distal larger than mesial</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Anterior fovea LM1</td>
+<td valign="top" align="left">2: Weak expression</td>
+<td valign="top" align="left"></td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Cusp no. LM1</td>
+<td valign="top" align="left">5: Hypoconulid present</td>
+<td valign="top" align="left">5: Hypoconulid present</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Protostylid LM1</td>
+<td valign="top" align="left">4: Pronounced secondary groove</td>
+<td valign="top" align="left">&gt;1: Likely present, but expression uncertain</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Cusp 7 LM1</td>
+<td valign="top" align="left">2: Small*</td>
+<td valign="top" align="left">&gt;1: Likely present, but expression uncertain</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Root no. LM1</td>
+<td valign="top" align="left">2: Two</td>
+<td valign="top" align="left">2: Two</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Groove pattern LM2</td>
+<td valign="top" align="left">Y: Cusps 2 and 3 touch</td>
+<td valign="top" align="left">Y: Cusps 2 and 3 touch</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Cusp no. LM2</td>
+<td valign="top" align="left">5: Hypoconulid present</td>
+<td valign="top" align="left">5: Hypoconulid present</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Root no. LM2</td>
+<td valign="top" align="left">2: Two</td>
+<td valign="top" align="left">2: Two</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Torsomolar angle LM3</td>
+<td valign="top" align="left">0: No crown rotation</td>
+<td valign="top" align="left">0: No crown rotation</td>
+</tr>
+</tbody></table><table-wrap-foot>
+<p>*Estimated from worn or damaged tooth and/or interpolated from alternate member of same tooth class.</p></table-wrap-foot></table-wrap>
+<table-wrap id="T2" position="float"><label>Table 2</label><caption>
+<p><bold>ASUDAS traits and grades and the distribution of their states across the gorilla outgroup and hominin samples.</bold></p>
+</caption>
+<table frame="above" rules="groups">
+<col width="12.1%"/>
+<col width="8.79%"/>
+<col width="8.79%"/>
+<col width="8.79%"/>
+<col width="8.79%"/>
+<col width="8.79%"/>
+<col width="8.79%"/>
+<col width="8.79%"/>
+<col width="8.79%"/>
+<col width="8.79%"/>
+<col width="8.79%"/>
+<thead>
+<tr>
+<td valign="bottom" align="left" scope="col"></td>
+<td valign="bottom" align="center" scope="col"><bold><italic>G. gorilla</italic></bold></td>
+<td valign="bottom" align="center" scope="col"><bold>East African australopith</bold></td>
+<td valign="bottom" align="center" scope="col"><bold><italic>Au. sediba</italic></bold></td>
+<td valign="bottom" align="center" scope="col"><bold><italic>Au. africanus</italic></bold></td>
+<td valign="bottom" align="center" scope="col"><bold><italic>H. habilis/</italic></bold><break/><bold><italic>rudolfensis</italic></bold></td>
+<td valign="bottom" align="center" scope="col"><bold><italic>H. erectus</italic></bold></td>
+<td valign="bottom" align="center" scope="col"><bold><italic>P. robustus</italic></bold></td>
+<td valign="bottom" align="center" scope="col"><bold><italic>P. boisei</italic></bold></td>
+<td valign="bottom" align="center" scope="col"><bold><italic>H. sapiens </italic></bold><break/><bold>(S. Africa)</bold></td>
+<td valign="bottom" align="center" scope="col"><bold><italic>H. sapiens</italic></bold><break/><bold>(N. Africa)</bold></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left" scope="row">Labial curvature UI1</td>
+<td valign="bottom" align="center">Pronounced</td>
+<td valign="bottom" align="center">Weak</td>
+<td valign="bottom" align="center">Weak</td>
+<td valign="bottom" align="center">Weak</td>
+<td valign="bottom" align="center">Weak</td>
+<td valign="bottom" align="center">Weak</td>
+<td valign="bottom" align="center">Moderate</td>
+<td valign="bottom" align="center">Weak</td>
+<td valign="bottom" align="center">Weak</td>
+<td valign="bottom" align="center">Trace</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row"></td>
+<td valign="bottom" align="center">4</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">1</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row">Shovel UI1</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Faint</td>
+<td valign="bottom" align="center">Faint</td>
+<td valign="bottom" align="center">Faint</td>
+<td valign="bottom" align="center">Faint</td>
+<td valign="bottom" align="center">Trace</td>
+<td valign="bottom" align="center">Trace</td>
+<td valign="bottom" align="center">Faint</td>
+<td valign="bottom" align="center">Faint</td>
+<td valign="bottom" align="center">Faint</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row"></td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row">Double shovel UI1</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Faint</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row"></td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">1</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row">Bushman canine UC</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="left"></td>
+<td valign="bottom" align="center">Present, moderate TD attachment<sup>&#x2021;</sup></td>
+<td valign="bottom" align="center">Present, weak TD attachment<sup>&#x2021;</sup></td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row"></td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">?</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">1</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row">Distal acc. ridge UC</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Faint</td>
+<td valign="bottom" align="center">Faint</td>
+<td valign="bottom" align="center">Faint</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="left"></td>
+<td valign="bottom" align="center">Weak</td>
+<td valign="bottom" align="center">Faint</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row"></td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">?</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">1</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row">Root no. UP3</td>
+<td valign="bottom" align="center">Two</td>
+<td valign="bottom" align="center">Two</td>
+<td valign="bottom" align="center">Two</td>
+<td valign="bottom" align="center">&gt;Two</td>
+<td valign="bottom" align="center">&gt;Two</td>
+<td valign="bottom" align="center">&gt;Two</td>
+<td valign="bottom" align="center">Two</td>
+<td valign="bottom" align="left"></td>
+<td valign="bottom" align="center">Two</td>
+<td valign="bottom" align="center">Two</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row"></td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">?</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row">Carabelli&#x2019;s cusp UM1<sup>*</sup></td>
+<td valign="bottom" align="center">Lingual cingulum<bold>&#x2020;</bold></td>
+<td valign="bottom" align="center">Groove&#x2013; small cusp</td>
+<td valign="bottom" align="center">Large depression&#x2013; cusp</td>
+<td valign="bottom" align="center">Large depression&#x2013; large cusp</td>
+<td valign="bottom" align="center">Pit&#x2013;small cusp</td>
+<td valign="bottom" align="center">Pit&#x2013;small cusp</td>
+<td valign="bottom" align="center">Large depression&#x2013;large cusp</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Pit&#x2013;small cusp</td>
+<td valign="bottom" align="center">Large depression&#x2013; large cusp</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row"></td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">5</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row">Cusp 5 UM1</td>
+<td valign="bottom" align="center">Faint cuspule</td>
+<td valign="bottom" align="center">Trace cuspule</td>
+<td valign="bottom" align="center">Faint cuspule</td>
+<td valign="bottom" align="center">Trace cuspule</td>
+<td valign="bottom" align="center">Faint cuspule</td>
+<td valign="bottom" align="center">Trace cuspule</td>
+<td valign="bottom" align="center">Small cuspule</td>
+<td valign="bottom" align="center">Small cuspule</td>
+<td valign="bottom" align="center">Trace cuspule</td>
+<td valign="bottom" align="center">Faint cuspule</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row"></td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">1</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row">Enamel extension UM1</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Faint</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Faint</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row"></td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">1</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row">Hypocone UM2</td>
+<td valign="bottom" align="center">Very large cusp</td>
+<td valign="bottom" align="center">Large cusp</td>
+<td valign="bottom" align="center">Large cusp</td>
+<td valign="bottom" align="center">Very large cusp</td>
+<td valign="bottom" align="center">Large cusp</td>
+<td valign="bottom" align="center">Large cusp</td>
+<td valign="bottom" align="center">Very large cusp</td>
+<td valign="bottom" align="center">Large cusp</td>
+<td valign="bottom" align="center">Large cusp</td>
+<td valign="bottom" align="center">Small cusp</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row"></td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">4</td>
+<td valign="bottom" align="center">4</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">4</td>
+<td valign="bottom" align="center">4</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">4</td>
+<td valign="bottom" align="center">4</td>
+<td valign="bottom" align="center">3</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row">UM3 agenesis</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Minimal</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row"></td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">1</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row">Tome&#x2019;s root LP3</td>
+<td valign="bottom" align="center">Two roots</td>
+<td valign="bottom" align="center">Two roots</td>
+<td valign="bottom" align="center">Two roots</td>
+<td valign="bottom" align="center">Two roots</td>
+<td valign="bottom" align="center">One root, deep groove</td>
+<td valign="bottom" align="left"></td>
+<td valign="bottom" align="center">Two roots</td>
+<td valign="bottom" align="left"></td>
+<td valign="bottom" align="center">One root, moderate groove</td>
+<td valign="bottom" align="center">One root, shallow groove</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row"></td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">?</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">?</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">1</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row">Lingual cusp no. LP4</td>
+<td valign="bottom" align="center">Two, cusps equal size</td>
+<td valign="bottom" align="center">Two, mesial cusp larger</td>
+<td valign="bottom" align="center">Two, distal cusp larger</td>
+<td valign="bottom" align="center">Two, mesial cusp larger</td>
+<td valign="bottom" align="center">Two, cusps equal size</td>
+<td valign="bottom" align="center">Two, mesial cusp much larger</td>
+<td valign="bottom" align="center">Two, mesial cusp larger</td>
+<td valign="bottom" align="center">Two, mesial cusp larger</td>
+<td valign="bottom" align="center">Two, mesial cusp much larger</td>
+<td valign="bottom" align="center">Two, mesial cusp larger</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row"></td>
+<td valign="bottom" align="center">4</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">4</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">3</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row">Anterior fovea LM1</td>
+<td valign="bottom" align="center">Weak</td>
+<td valign="bottom" align="center">Weak</td>
+<td valign="bottom" align="center">Weak</td>
+<td valign="bottom" align="center">Moderate</td>
+<td valign="bottom" align="center">Moderate</td>
+<td valign="bottom" align="center">Moderate</td>
+<td valign="bottom" align="center">Moderate</td>
+<td valign="bottom" align="center">Large</td>
+<td valign="bottom" align="center">Weak</td>
+<td valign="bottom" align="center">Faint</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row"></td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">4</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">1</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row">Cusp no. LM1</td>
+<td valign="bottom" align="center">Five</td>
+<td valign="bottom" align="center">Six</td>
+<td valign="bottom" align="center">Five</td>
+<td valign="bottom" align="center">Five</td>
+<td valign="bottom" align="center">Five</td>
+<td valign="bottom" align="center">Five</td>
+<td valign="bottom" align="center">Six</td>
+<td valign="bottom" align="center">Six</td>
+<td valign="bottom" align="center">Five</td>
+<td valign="bottom" align="center">Five</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row"></td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">6</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">6</td>
+<td valign="bottom" align="center">6</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">5</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row">Protostylid LM1</td>
+<td valign="bottom" align="center">Curved buccal groove</td>
+<td valign="bottom" align="center">Absent-pit</td>
+<td valign="bottom" align="center">Trace cusp</td>
+<td valign="bottom" align="center">Small cusp</td>
+<td valign="bottom" align="center">Curved buccal groove</td>
+<td valign="bottom" align="center">Absent-pit</td>
+<td valign="bottom" align="center">Absent-pit</td>
+<td valign="bottom" align="center">Curved mesial and distal grooves</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent-Pit</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row"></td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">4</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">1</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row">Cusp 7 LM1</td>
+<td valign="bottom" align="center">Faint</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Small</td>
+<td valign="bottom" align="center">Small</td>
+<td valign="bottom" align="center">Small</td>
+<td valign="bottom" align="center">Small</td>
+<td valign="bottom" align="center">Faint</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Small</td>
+<td valign="bottom" align="center">Absent</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row"></td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">0</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row">Root no. LM1</td>
+<td valign="bottom" align="center">Two</td>
+<td valign="bottom" align="center">Two</td>
+<td valign="bottom" align="center">Two</td>
+<td valign="bottom" align="center">Two</td>
+<td valign="bottom" align="center">Two</td>
+<td valign="bottom" align="center">Two</td>
+<td valign="bottom" align="center">Two</td>
+<td valign="bottom" align="center">Two</td>
+<td valign="bottom" align="center">Two</td>
+<td valign="bottom" align="center">Two</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row"></td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row">Groove pattern LM2</td>
+<td valign="bottom" align="center">Y</td>
+<td valign="bottom" align="center">Some X</td>
+<td valign="bottom" align="center">Y</td>
+<td valign="bottom" align="center">Y</td>
+<td valign="bottom" align="center">Y</td>
+<td valign="bottom" align="center">Y</td>
+<td valign="bottom" align="center">Y</td>
+<td valign="bottom" align="center">Y</td>
+<td valign="bottom" align="center">Y</td>
+<td valign="bottom" align="center">X</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row"></td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">2</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row">Cusp no. LM2</td>
+<td valign="bottom" align="center">Five</td>
+<td valign="bottom" align="center">Six</td>
+<td valign="bottom" align="center">Five</td>
+<td valign="bottom" align="center">Five</td>
+<td valign="bottom" align="center">Five</td>
+<td valign="bottom" align="center">Five</td>
+<td valign="bottom" align="center">Six</td>
+<td valign="bottom" align="center">&#x2265;Six</td>
+<td valign="bottom" align="center">Five</td>
+<td valign="bottom" align="center">Four</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row"></td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">6</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">6</td>
+<td valign="bottom" align="center">7</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">4</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row">Root no. LM2</td>
+<td valign="bottom" align="center">Two</td>
+<td valign="bottom" align="center">Two</td>
+<td valign="bottom" align="center">Two</td>
+<td valign="bottom" align="center">Two</td>
+<td valign="bottom" align="center">Two</td>
+<td valign="bottom" align="center">Two</td>
+<td valign="bottom" align="center">Two</td>
+<td valign="bottom" align="left"></td>
+<td valign="bottom" align="center">Two</td>
+<td valign="bottom" align="center">&#x2264;Two</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row"></td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">?</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">1</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row">Torsomolar angle LM3</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Absent</td>
+<td valign="bottom" align="center">Minimal</td>
+<td valign="bottom" align="center">Minimal</td>
+<td valign="bottom" align="center">Minimal</td>
+<td valign="bottom" align="center">Minimal</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" scope="row"></td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+</tr>
+</tbody></table><table-wrap-foot>
+<p>*Numeric character states do not correspond to ASUDAS grades as presented in Table 1.</p>
+<p>&#x2020;This state is not present in the hominin samples and is considered, like all others in the outgroup, to be plesiomorphic.</p>
+<p>&#x2021;TD, tuberculum dentale.</p></table-wrap-foot></table-wrap>
+<p>Fourteen of 22 character states are identical between <italic>Au. sediba</italic> and east African australopiths. The count between <italic>Au. sediba</italic> and <italic>Au. africanus</italic> is 15, and both are similar for a 16th state (protostylid lower first molar, LM1). All <italic>Australopithecus</italic> hypodigms are somewhat similar, but the South African taxa are notably alike for lower molar cusp number, size, and pattern expression. <italic>Australopithecus sediba</italic> has 15 states in common with <italic>H. habilis/rudolfensis</italic>, and 13 of 21 with <italic>H. erectus</italic>; it is less akin to recent <italic>H. sapiens</italic> and is distinct from <italic>Paranthropus</italic>&#x2014;owing to the latter&#x2019;s mass-additive molar morphology. Shared states among other species are also instructive; for example, <italic>Au. africanus</italic> shares additional ASUDAS traits with early <italic>Homo</italic>. The most expeditious way to present these links is with a dendrogram (fig. S1), where an <italic>Au. sediba/Au. africanus</italic> group is adjacent to an early/later <italic>Homo</italic> cluster, and east African australopiths and <italic>Paranthropus</italic> are more distant. Of course, character states of these traits were not determined for this phenetic comparison; some are symplesiomorphic, so results should be interpreted with caution.</p>
+<p>Both primitive and derived dental features are present in <italic>Au. sediba</italic>. The former, like many hominins including <italic>Au. africanus</italic>, includes two-rooted upper third premolar (UP3), hypocone UM2, UM3 presence, Tome&#x2019;s root lower third premolar (LP3), two-rooted LM1, two-rooted LM2, five-cusped LM1, five-cusped LM2, and LM2 Y-groove. The last three traits in east African australopiths often include six cusps for LM1 and LM2, and some occurrence of an X-groove pattern (below). Derived traits in <italic>Au. sediba</italic> include a decrease in labial curvature upper first incisor (UI1), slight UI1 shoveling, and increases in Carabelli&#x2019;s UM1, LM1 protostylid, and LM1 cusp 7 expression (fig. S2). Other derived dental features, including overall size reduction and a specific decrease in size and complexity of the canine and posterior teeth, are detailed elsewhere (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>, <xref ref-type="bibr" rid="R14"><italic>14</italic></xref>).</p>
+<p>Numeric states in <italic>Gorilla</italic>, <italic>Au. sediba</italic>, and the comparative samples were next submitted for cladistic analysis with PAUP 4.0b10 (<xref ref-type="bibr" rid="R29"><italic>29</italic></xref>). Coding of binary and multistate characters emulates a standard approach in the above (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>, <xref ref-type="bibr" rid="R15"><italic>15</italic></xref>&#x2013;<xref ref-type="bibr" rid="R17"><italic>17</italic></xref>) and other systematic studies. Polarity was determined via rooting of the outgroup, and all characters were treated as ordered and of equal weight. Wagner parsimony and the branch and bound method were used to identify optimal cladograms. Of the 22 characters, root number LM1 is constant, and three were deemed parsimony-uninformative (double shovel UI1, UM3 agenesis, and root number LM2); the expression of all four represents the primitive condition. The remaining 18 traits yielded one cladogram (<xref ref-type="fig" rid="F1">Fig. 1</xref>) with a tree length of 76, consistency index of 0.62, retention index of 0.48, and rescaled consistency index of 0.3 [interpretation in (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>)].</p>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption>
+<title>Maximum parsimony cladogram of gorilla outgroup and nine hominin samples based on ASUDAS characters.</title>
+<p>Numbers are from a separate, although analogous 50% majority consensus tree of 10,000 bootstrapped replicate data sets; they represent the proportion of included trees that support the given node. SSA, sub-Saharan Africans; NAF, North Africans. See text for all methods employed and sample compositions.</p>
+</caption><graphic xlink:href="340_1233062_F1"></graphic></fig>
+<p>In parallel with the phenetic findings, <italic>Au. sediba</italic> is depicted as a sister species of <italic>Au. africanus</italic> to form a South African australopith clade. These species share five apomorphies: (i) weak labial curvature UI1; (ii) faint shovel UI1 (both are parallel with the east African australopiths, <italic>Paranthropus</italic>, and <italic>Homo</italic> clades); (iii) large depression-to-cusp Carabelli&#x2019;s UM1 (parallel with <italic>P. robustus</italic> and North African <italic>H. sapiens</italic>); (iv) trace-small cusp protostylid LM1; and (v) small cusp 7 LM1 (parallel with <italic>H. habilis/</italic> <italic>rudolfensis</italic> + <italic>H. erectus</italic> clade and sub-Saharan African <italic>H. sapiens</italic>). Synapomorphies between the South African gracile australopiths and monophyletic <italic>H. habilis/rudolfensis</italic> + <italic>H. erectus</italic> include (i) weak labial curvature UI1; (ii) faint shovel UI1 (both parallel with the east African australopiths, <italic>Paranthropus</italic>, and <italic>H. sapiens</italic>); (iii) faint distal accessory ridge UC (parallel with <italic>H. sapiens</italic>); (iv) &gt;2 root number UP3; and (v) small cusp 7 LM1 (parallel with sub-Saharan African <italic>H. sapiens</italic>). A South African australopith + <italic>Homo</italic> clade is supported by four shared derived states: (i) weak labial curvature UI1, (ii) faint shovel UI1 (both parallel with east African australopith and <italic>Paranthropus</italic>), (iii) faint distal accessory ridge UC, and (iv) small cusp 7 LM1.</p>
+<p>Although the focus is on <italic>Au. sediba</italic>, the remaining clades are defined by characters of interest as well, and warrant brief mention, i.e., <italic>H. habilis/rudolfensis</italic> + <italic>H. erectus</italic> (e.g., Carabelli&#x2019;s cusp UM1), <italic>Homo sapiens</italic> (e.g., Bushman canine), and east African australopiths + <italic>Paranthropus</italic>. The latter grouping is seemingly nonintuitive but not unique; comparable classifications were identified using a wide range of characters (<xref ref-type="bibr" rid="R30"><italic>30</italic></xref>, <xref ref-type="bibr" rid="R31"><italic>31</italic></xref>). Here, <italic>Paranthropus</italic> and, as noted, the east African australopiths&#x2014;especially <italic>Au. afarensis</italic>, are characterized by some unique molar states such as trace-small cuspule for cusp 5 UM1, six-cusped LM1, absent-pit protostylid LM1, absent cusp 7, and six-cusped LM2. These shared expressions were reported elsewhere (<xref ref-type="bibr" rid="R12"><italic>12</italic></xref>, <xref ref-type="bibr" rid="R22"><italic>22</italic></xref>) and were suggested to be symplesiomorphies and/or homoplasies.</p>
+<p>A 50% majority-rule consensus tree of 10,000 bootstrapped replicate data sets was used to assess the stability of all clades; it is analogous to the maximum parsimony cladogram, so percentages of included trees supporting each clade were simply added to <xref ref-type="fig" rid="F1">Fig. 1</xref>. Overall, the location of <italic>Au. sediba</italic> + <italic>Au. africanus</italic> at the stem of the <italic>Homo</italic> clade corresponds well with prior phylogenetic findings using &gt;60 craniodental characters (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>), which suggested that <italic>Au. sediba</italic> was derived from <italic>Au. africanus</italic>. This proposal is sustained here. Berger <italic>et al</italic>. (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>) also stated that <italic>Au. sediba</italic> is more derived toward <italic>Homo</italic> than are east African australopiths and <italic>Au. africanus</italic>; as such, <italic>A. sediba</italic> may represent (i) a sister group to a later ancestor that was an initial contemporary of early <italic>Homo</italic>, or (ii) a candidate ancestor to the latter genus (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>). Both scenarios are supported, although, at least for these new data, <italic>Au. africanus</italic> does share additional ASUDAS traits with early <italic>Homo</italic>; as such, <xref ref-type="fig" rid="F1">Fig. 1</xref> and the study&#x2019;s (<xref ref-type="bibr" rid="R1"><italic>1</italic></xref>) 60-character cladogram differ in that the latter depicts <italic>Au. africanus</italic> as more distant than <italic>Au. sediba</italic> from the <italic>Homo</italic> clade.</p>
+<p>The conclusions from the dental data presented here concur with those derived from the virtual brain endocast, and hand, spine, pelvis, foot, and ankle elements of <italic>Au. sediba</italic> (<xref ref-type="bibr" rid="R2"><italic>2</italic></xref>&#x2013;<xref ref-type="bibr" rid="R7"><italic>7</italic></xref>); each area presents a mosaic of primitive and derived characters that, assuming they are homologies, is not unexpected in a transitional species or one that, minimally, reflects a close phyletic relationship with <italic>Homo</italic> (<xref ref-type="bibr" rid="R5"><italic>5</italic></xref>). Moreover, with regard to east African australopiths, it is possible that disparity in expression of molar states with their southern counterparts is also paralleled by other elements; differences in the foot, for example, prompted Zipfel <italic>et al</italic>. (<xref ref-type="bibr" rid="R6"><italic>6</italic></xref>) to remark that an ancestor-descendant relationship between <italic>Au. afarensis</italic> and <italic>Au. sediba</italic> is unlikely or, if it existed, would have required several evolutionary reversals.</p>
+<p>Although the phylogenetic place of <italic>Au. sediba</italic> has not been settled, the dental data serve to further define its position relative to other genera. It is distinct from <italic>Au. afarensis</italic>, close to <italic>Au. africanus</italic> and, along with the latter, shares a number of apomorphies with <italic>Homo</italic>. The relationship to <italic>H. habilis/rudolfensis</italic> had been suggested to reflect an adaptive evolution some two million years ago toward a definitive <italic>Homo</italic> grade (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>); that is, <italic>Au. sediba</italic> could just as likely be the candidate ancestor of <italic>H. erectus</italic> as that of the majority consensus <italic>H. habilis</italic> and/or <italic>H. rudolfensis</italic> (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>). However, determination of which taxon (or taxa) led to <italic>Homo erectus</italic> is, at present, not explicitly demonstrable. The difficulty is, to paraphrase Pickering <italic>et al</italic>. (<xref ref-type="bibr" rid="R13"><italic>13</italic></xref>), under an assumption of substantial homoplasy, to discern phylogenetic affinities in such closely related species based on so few remains. Only recovery of additional <italic>Au. sediba</italic> and other Plio-Pleistocene remains can fill in the missing pieces of this evolutionary puzzle.</p>
+</body>
+<back><app-group><app>
+<title>Supplementary Materials</title><supplementary-material>
+<p><ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/content/340/6129/1233062/suppl/DC1">www.sciencemag.org/content/340/6129/1233062/suppl/DC1</ext-link></p>
+<p>Materials and Methods</p>
+<p>Supplementary Text</p>
+<p>Figs. S1 and S2</p>
+<p>Table S1</p>
+<p>References (<xref ref-type="bibr" rid="R32"><italic>32</italic></xref>&#x2013;<xref ref-type="bibr" rid="R65"><italic>65</italic></xref>)</p></supplementary-material></app></app-group>
+<ref-list>
+<title>References and Notes</title>
+<ref id="R1"><label>1</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Berger</surname><given-names>L. R.</given-names></name><etal/></person-group>., 
+<article-title><italic>Australopithecus sediba</italic>: A new species of <italic>Homo</italic>-like australopith from South Africa</article-title>. <source>Science</source> 
+<volume>328</volume>, 
+<fpage>195</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1126/science.1184944</pub-id><pub-id pub-id-type="pmid">20378811</pub-id></citation></ref>
+<ref id="R2"><label>2</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Carlson</surname><given-names>K. J.</given-names></name><etal/></person-group>., 
+<article-title>The endocast of MH1, <italic>Australopithecus sediba</italic></article-title>. <source>Science</source> 
+<volume>333</volume>, 
+<fpage>1402</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1126/science.1203922</pub-id><pub-id pub-id-type="pmid">21903804</pub-id></citation></ref>
+<ref id="R3"><label>3</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kivell</surname><given-names>T. L.</given-names></name><name><surname>Kibii</surname><given-names>J. M.</given-names></name><name><surname>Churchill</surname><given-names>S. E.</given-names></name><name><surname>Schmid</surname><given-names>P.</given-names></name><name><surname>Berger</surname><given-names>L. R.</given-names></name></person-group>, 
+<article-title><italic>Australopithecus sediba</italic> hand demonstrates mosaic evolution of locomotor and manipulative abilities</article-title>. <source>Science</source> 
+<volume>333</volume>, 
+<fpage>1411</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1126/science.1202625</pub-id><pub-id pub-id-type="pmid">21903806</pub-id></citation></ref>
+<ref id="R4"><label>4</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Churchill</surname><given-names>S. E.</given-names></name><etal/></person-group>., 
+<article-title>The upper limb of <italic>Australopithecus sediba</italic></article-title>. <source>Science</source> 
+<volume>340</volume>, 
+<fpage>1233477</fpage> (<year>2013</year>). <pub-id pub-id-type="doi">10.1126/science.1233477</pub-id></citation></ref>
+<ref id="R5"><label>5</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kibii</surname><given-names>J. M.</given-names></name><etal/></person-group>., 
+<article-title>A partial pelvis of <italic>Australopithecus sediba</italic></article-title>. <source>Science</source> 
+<volume>333</volume>, 
+<fpage>1407</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1126/science.1202521</pub-id><pub-id pub-id-type="pmid">21903805</pub-id></citation></ref>
+<ref id="R6"><label>6</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Zipfel</surname><given-names>B.</given-names></name><etal/></person-group>., 
+<article-title>The foot and ankle of <italic>Australopithecus sediba</italic></article-title>. <source>Science</source> 
+<volume>333</volume>, 
+<fpage>1417</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1126/science.1202703</pub-id><pub-id pub-id-type="pmid">21903807</pub-id></citation></ref>
+<ref id="R7"><label>7</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Williams</surname><given-names>S. A.</given-names></name><etal/></person-group>., 
+<article-title>The vertebral column of <italic>Australopithecus sediba</italic></article-title>. <source>Science</source> 
+<volume>340</volume>, 
+<fpage>1232996</fpage> (<year>2013</year>). <pub-id pub-id-type="doi">10.1126/science.1232996</pub-id></citation></ref>
+<ref id="R8"><label>8</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Schmid</surname><given-names>P.</given-names></name><etal/></person-group>., 
+<article-title>Mosaic morphology in the thorax of <italic>Australopithecus sediba</italic></article-title>. <source>Science</source> 
+<volume>340</volume>, 
+<fpage>1234598</fpage> (<year>2013</year>). <pub-id pub-id-type="doi">10.1126/science.1234598</pub-id></citation></ref>
+<ref id="R9"><label>9</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>DeSilva</surname><given-names>J. M.</given-names></name><etal/></person-group>., 
+<article-title>The lower limb and mechanics of walking in <italic>Australopithecus sediba</italic></article-title>. <source>Science</source> 
+<volume>340</volume>, 
+<fpage>1232999</fpage> (<year>2013</year>). <pub-id pub-id-type="doi">10.1126/science.1232999</pub-id></citation></ref>
+<ref id="R10"><label>10</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ungar</surname><given-names>P. S.</given-names></name></person-group>, 
+<article-title>Dental evidence for the diets of Plio-Pleistocene hominins</article-title>. <source>Yearb. Phys. Anthropol.</source> <bold>54</bold>, 47
+<volume> </volume>(<year>2011</year>). <pub-id pub-id-type="doi">10.1002/ajpa.21610</pub-id><pub-id pub-id-type="pmid">22101687</pub-id></citation></ref>
+<ref id="R11"><label>11</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Dean</surname><given-names>C.</given-names></name><etal/></person-group>., 
+<article-title>Growth processes in teeth distinguish modern humans from <italic>Homo erectus</italic> and earlier hominins</article-title>. <source>Nature</source> 
+<volume>414</volume>, 
+<fpage>628</fpage> (<year>2001</year>). <pub-id pub-id-type="doi">10.1038/414628a</pub-id><pub-id pub-id-type="pmid">11740557</pub-id></citation></ref>
+<ref id="R12"><note><label>12</label>
+<p>Methods and background are available as supplementary materials on <italic>Science</italic> Online.</p></note></ref>
+<ref id="R13"><label>13</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Pickering</surname><given-names>R.</given-names></name><etal/></person-group>., 
+<article-title><italic>Australopithecus sediba</italic> at 1.977 Ma and implications for the origins of the genus <italic>Homo</italic></article-title>. <source>Science</source> 
+<volume>333</volume>, 
+<fpage>1421</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1126/science.1203697</pub-id><pub-id pub-id-type="pmid">21903808</pub-id></citation></ref>
+<ref id="R14"><label>14</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>de Ruiter</surname><given-names>D. J.</given-names></name><etal/></person-group>., 
+<article-title>Mandibular remains support taxonomic validity of <italic>Australopithecus sediba</italic></article-title>. <source>Science</source> 
+<volume>340</volume>, 
+<fpage>1232997</fpage> (<year>2013</year>). <pub-id pub-id-type="doi">10.1126/science.1232997</pub-id></citation></ref>
+<ref id="R15"><label>15</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Strait</surname><given-names>D. S.</given-names></name><name><surname>Grine</surname><given-names>F. E.</given-names></name><name><surname>Moniz</surname><given-names>M. A.</given-names></name></person-group>, 
+<article-title>A reappraisal of early hominid phylogeny</article-title>. <source>J. Hum. Evol.</source> 
+<volume>32</volume>, 
+<fpage>17</fpage> (<year>1997</year>). <pub-id pub-id-type="doi">10.1006/jhev.1996.0097</pub-id><pub-id pub-id-type="pmid">9034954</pub-id></citation></ref>
+<ref id="R16"><label>16</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Strait</surname><given-names>D. S.</given-names></name><name><surname>Grine</surname><given-names>F. E.</given-names></name></person-group>, 
+<article-title>Inferring hominoid and early hominid phylogeny using craniodental characters: The role of fossil taxa</article-title>. <source>J. Hum. Evol.</source> 
+<volume>47</volume>, 
+<fpage>399</fpage> (<year>2004</year>). <pub-id pub-id-type="doi">10.1016/j.jhevol.2004.08.008</pub-id><pub-id pub-id-type="pmid">15566946</pub-id></citation></ref>
+<ref id="R17"><label>17</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Smith</surname><given-names>H. F.</given-names></name><name><surname>Grine</surname><given-names>F. E.</given-names></name></person-group>, 
+<article-title>Cladistic analysis of early <italic>Homo</italic> crania from Swartkrans and Sterkfontein, South Africa</article-title>. <source>J. Hum. Evol.</source> 
+<volume>54</volume>, 
+<fpage>684</fpage> (<year>2008</year>). <pub-id pub-id-type="doi">10.1016/j.jhevol.2007.10.012</pub-id><pub-id pub-id-type="pmid">18289640</pub-id></citation></ref>
+<ref id="R18"><label>18</label><citation citation-type="book">G. R. Scott, C. G. Turner II, <italic>The Anthropology of Modern Human Teeth: Dental Morphology and its Variation in Recent Human Populations</italic> (Cambridge Univ. Press, Cambridge, 1997).</citation></ref>
+<ref id="R19"><label>19</label><citation citation-type="book">C. G. Turner, C. R. Nichol, G. R. Scott, in <italic>Advances in Dental Anthropology</italic>, M. A. Kelley and C. S. Larsen, Eds. (Wiley, New York, 1991), pp. 13&#x2013;32.</citation></ref>
+<ref id="R20"><label>20</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hunter</surname><given-names>J. P.</given-names></name><name><surname>Guatelli-Steinberg</surname><given-names>D.</given-names></name><name><surname>Weston</surname><given-names>T. C.</given-names></name><name><surname>Durner</surname><given-names>R.</given-names></name><name><surname>Betsinger</surname><given-names>T. K.</given-names></name></person-group>, 
+<article-title>Model of tooth morphogenesis predicts carabelli cusp expression, size, and symmetry in humans</article-title>. <source>PLoS ONE</source> 
+<volume>5</volume>, 
+<fpage>e11844</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1371/journal.pone.0011844</pub-id><pub-id pub-id-type="pmid">20689576</pub-id></citation></ref>
+<ref id="R21"><label>21</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Irish</surname><given-names>J. D.</given-names></name><name><surname>Guatelli-Steinberg</surname><given-names>D.</given-names></name></person-group>, 
+<article-title>Ancient teeth and modern human origins: An expanded comparison of African Plio-Pleistocene and recent world dental samples</article-title>. <source>J. Hum. Evol.</source> 
+<volume>45</volume>, 
+<fpage>113</fpage> (<year>2003</year>). <pub-id pub-id-type="doi">10.1016/S0047-2484(03)00090-3</pub-id><pub-id pub-id-type="pmid">14529648</pub-id></citation></ref>
+<ref id="R22"><label>22</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Guatelli-Steinberg</surname><given-names>D.</given-names></name><name><surname>Irish</surname><given-names>J. D.</given-names></name></person-group>, 
+<article-title>Brief communication: Early hominin variability in first molar dental trait frequencies</article-title>. <source>Am. J. Phys. Anthropol.</source> 
+<volume>128</volume>, 
+<fpage>477</fpage> (<year>2005</year>). <pub-id pub-id-type="doi">10.1002/ajpa.20194</pub-id><pub-id pub-id-type="pmid">16028225</pub-id></citation></ref>
+<ref id="R23"><label>23</label><citation citation-type="confproc">F. E. Grine <italic>et al</italic>., in <italic>The First Humans&#x2014;Origin and Early Evolution of the Genus</italic> Homo<italic>: Contributions from the Third Stony Brook Human Evolution Symposium and Workshop</italic>, 3 to 7 October 2006, F. E. Grine, J. G. Fleagle, R. E. Leakey, Eds. (Springer Science + Business Media B.V., Amsterdam, 2009), pp. 49&#x2013;64.</citation></ref>
+<ref id="R24"><label>24</label><citation citation-type="thesis">J. D. Irish, thesis, Arizona State University (1993).</citation></ref>
+<ref id="R25"><label>25</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Irish</surname><given-names>J. D.</given-names></name></person-group>, 
+<article-title>Ancestral dental traits in recent Sub-Saharan Africans and the origins of modern humans</article-title>. <source>J. Hum. Evol.</source> 
+<volume>34</volume>, 
+<fpage>81</fpage> (<year>1998</year>). <pub-id pub-id-type="doi">10.1006/jhev.1997.0191</pub-id><pub-id pub-id-type="pmid">9467783</pub-id></citation></ref>
+<ref id="R26"><label>26</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Irish</surname><given-names>J. D.</given-names></name></person-group>, 
+<article-title>Population continuity vs. discontinuity revisited: Dental affinities among late Paleolithic through Christian-era Nubians</article-title>. <source>Am. J. Phys. Anthropol.</source> 
+<volume>128</volume>, 
+<fpage>520</fpage> (<year>2005</year>). <pub-id pub-id-type="doi">10.1002/ajpa.20109</pub-id><pub-id pub-id-type="pmid">15895433</pub-id></citation></ref>
+<ref id="R27"><label>27</label><citation citation-type="thesis">S. A. Abbott, thesis, University of London (1984).</citation></ref>
+<ref id="R28"><label>28</label><citation citation-type="thesis">K. Kupczik, thesis, University of London (2003).</citation></ref>
+<ref id="R29"><label>29</label><citation citation-type="book">D. L. Swofford, <italic>Phylogenetic Analysis using Parsimony (PAUP), Ver. 4.0.</italic> (Illinois National History Survey, Champaign, IL, 2002).</citation></ref>
+<ref id="R30"><label>30</label><citation citation-type="book">T. R. Olson, in <italic>Ancestors: The Hard Evidence</italic>, E. Delson, Ed. (Liss, New York, 1985), pp. 102&#x2013;119.</citation></ref>
+<ref id="R31"><label>31</label><citation citation-type="book">D. Falk, in <italic>Evolutionary History of the &#x2018;&#x2018;Robust&#x2019;&#x2019; Australopithecines</italic>, F. E. Grine, Ed. (de Gruyter, New York, 1988), pp. 85&#x2013;96.</citation></ref>
+<ref id="R32"><label>32</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Martin&#x00F3;n-Torres</surname><given-names>M.</given-names></name><etal/></person-group>., 
+<article-title>Dental evidence on the hominin dispersals during the Pleistocene</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume>104</volume>, 
+<fpage>13279</fpage> (<year>2007</year>). <pub-id pub-id-type="doi">10.1073/pnas.0706152104</pub-id><pub-id pub-id-type="pmid">17684093</pub-id></citation></ref>
+<ref id="R33"><label>33</label><citation citation-type="book">C. Larsen, <italic>Bioarchaeology</italic> (Cambridge Univ. Press, Cambridge, 1997).</citation></ref>
+<ref id="R34"><label>34</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Rightmire</surname><given-names>G. P.</given-names></name></person-group>, 
+<article-title>Dental variation and human history</article-title>. <source>Rev. Archaeol.</source> 
+<volume>20</volume>, 
+<fpage>1</fpage> (<year>1999</year>).</citation></ref>
+<ref id="R35"><label>35</label><citation citation-type="other">T. E. Hughes, G. C. Townsend, Twin studies of dental crown morphology: genetic and environmental determinants of the Cusp of Carabelli. <italic>Program of the 15th International Symposium on Dental Morphology</italic>, 24 to 27 August 2011, Newcastle upon Tyne, p. 37.</citation></ref>
+<ref id="R36"><label>36</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ricaut</surname><given-names>F. X.</given-names></name><etal/></person-group>., 
+<article-title>Comparison between morphological and genetic data to estimate biological relationship: The case of the Egyin Gol necropolis (Mongolia)</article-title>. <source>Am. J. Phys. Anthropol.</source> 
+<volume>143</volume>, 
+<fpage>355</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1002/ajpa.21322</pub-id><pub-id pub-id-type="pmid">20949608</pub-id></citation></ref>
+<ref id="R37"><label>37</label><citation citation-type="thesis">R. Hubbard, thesis, Ohio State University (2012).</citation></ref>
+<ref id="R38"><label>38</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Scott</surname><given-names>G. R.</given-names></name></person-group>, 
+<article-title>Population variation of Carabelli&#x2019;s trait</article-title>. <source>Hum. Biol.</source> 
+<volume>52</volume>, 
+<fpage>63</fpage> (<year>1980</year>).<pub-id pub-id-type="pmid">7364428</pub-id></citation></ref>
+<ref id="R39"><label>39</label><citation citation-type="book">P. M. Butler, in <italic>Dental Anthropology</italic>, D. Brothwell, Ed. (Pergamon, New York, 1963), pp. 1&#x2013;14.</citation></ref>
+<ref id="R40"><label>40</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Alvesalo</surname><given-names>L.</given-names></name><name><surname>Tigerstedt</surname><given-names>P. M. A.</given-names></name></person-group>, 
+<article-title>Heritabilities of human tooth dimensions</article-title>. <source>Hereditas</source> 
+<volume>77</volume>, 
+<fpage>311</fpage> (<year>1974</year>). <pub-id pub-id-type="doi">10.1111/j.1601-5223.1974.tb00943.x</pub-id><pub-id pub-id-type="pmid">4448690</pub-id></citation></ref>
+<ref id="R41"><label>41</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Skelton</surname><given-names>R. R.</given-names></name><name><surname>McHenry</surname><given-names>H. M.</given-names></name></person-group>, 
+<article-title>Evolutionary relationships among early hominids</article-title>. <source>J. Hum. Evol.</source> 
+<volume>23</volume>, 
+<fpage>309</fpage> (<year>1992</year>). <pub-id pub-id-type="doi">10.1016/0047-2484(92)90070-P</pub-id></citation></ref>
+<ref id="R42"><label>42</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Jernvall</surname><given-names>J.</given-names></name><name><surname>Jung</surname><given-names>H.-S.</given-names></name></person-group>, 
+<article-title>Genotype, phenotype, and developmental biology of molar tooth characters</article-title>. <source>Yearb. Phys. Anthropol.</source> <bold>48</bold>, 171 (<year>2000</year>). <pub-id pub-id-type="doi">10.1002/1096-8644(2000)43:31+&lt;171::AID-AJPA6&gt;3.0.CO;2-3</pub-id><pub-id pub-id-type="pmid">11123840</pub-id></citation></ref>
+<ref id="R43"><label>43</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Gregory</surname><given-names>W. K.</given-names></name><name><surname>Hellman</surname><given-names>M.</given-names></name></person-group>, 
+<article-title>The dentition of <italic>Dryopithecus</italic> and the origin of man</article-title>. <source>Am. Mus. Nat. Hist. Anthrop. Papers</source> 
+<volume>28</volume>, 
+<fpage>1</fpage> (<year>1926</year>).</citation></ref>
+<ref id="R44"><label>44</label><citation citation-type="thesis">S. Bailey, thesis, Arizona State University (2002).</citation></ref>
+<ref id="R45"><label>45</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hardin</surname><given-names>M.</given-names></name><name><surname>Legge</surname><given-names>S. S.</given-names></name></person-group>, 
+<article-title>Non-metric trait variability expressed in the deciduous molars of chimpanzees and gorillas</article-title>. <source>Am. J. Phys. Anthropol.</source> 
+<volume>52</volume>(s<supplement>uppl.</supplement>), 
+<fpage>156</fpage> (<year>2011</year>).</citation></ref>
+<ref id="R46"><label>46</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Wood</surname><given-names>B. A.</given-names></name><name><surname>Engleman</surname><given-names>C. A.</given-names></name></person-group>, 
+<article-title>Analysis of the dental morphology of Plio-Pleistocene hominids. V. Maxillary postcanine tooth morphology</article-title>. <source>J. Anat.</source> 
+<volume>161</volume>, 
+<fpage>1</fpage> (<year>1988</year>).<pub-id pub-id-type="pmid">3254883</pub-id></citation></ref>
+<ref id="R47"><label>47</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Stringer</surname><given-names>C. B.</given-names></name><name><surname>Humphrey</surname><given-names>L. T.</given-names></name><name><surname>Compton</surname><given-names>T.</given-names></name></person-group>, 
+<article-title>Cladistic analysis of dental traits in recent humans using a fossil outgroup</article-title>. <source>J. Hum. Evol.</source> 
+<volume>32</volume>, 
+<fpage>389</fpage> (<year>1997</year>). <pub-id pub-id-type="doi">10.1006/jhev.1996.0112</pub-id><pub-id pub-id-type="pmid">9085188</pub-id></citation></ref>
+<ref id="R48"><label>48</label><citation citation-type="book">S. Bailey, in <italic>Technique and Application in Dental Anthropology</italic>, J. D. Irish and G. C. Nelson, Eds. (Cambridge Univ. Press, Cambridge, 2008), pp. 293&#x2013;316.</citation></ref>
+<ref id="R49"><label>49</label><citation citation-type="book">D. R. Swindler, <italic>Primate Dentition: An Introduction to the Teeth of Non-Human Primates</italic> (Cambridge Univ. Press, Cambridge, 2002).</citation></ref>
+<ref id="R50"><label>50</label><citation citation-type="book">P. M. Butler, in <italic>Teeth: Form, Function and Evolution</italic>, B. Kurten, Ed. (Columbia Univ. Press, New York, 1982), pp. 44&#x2013;51.</citation></ref>
+<ref id="R51"><label>51</label><citation citation-type="book">J. D. Cadien, in <italic>Perspectives on Human Evolution 2</italic>, S. L. Washburn and P. Dolhinow, Eds. (Holt, Rinehart and Winston, New York, 1972), pp. 199&#x2013;222.</citation></ref>
+<ref id="R52"><label>52</label><citation citation-type="book">Y. Mizoguchi, <italic>Shovelling: A Statistical Analysis of its Morphology</italic> (Univ. Tokyo Press, Tokyo, 1985).</citation></ref>
+<ref id="R53"><label>53</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Barnes</surname><given-names>D.</given-names></name></person-group>, 
+<article-title>Variations in tooth morphology between male and female in the Iteso</article-title>. <source>J. Dent. Res.</source> 
+<volume>47</volume>, 
+<fpage>971</fpage> (<year>1968</year>).</citation></ref>
+<ref id="R54"><label>54</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Mizoguchi</surname><given-names>Y.</given-names></name></person-group>, 
+<article-title>Adaptive significance of the Carabelli trait</article-title>. <source>Bull. Nat. Sci. Mus. Series D (Anthropology)</source> 
+<volume>19</volume>, 
+<fpage>21</fpage> (<year>1993</year>).</citation></ref>
+<ref id="R55"><label>55</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Townsend</surname><given-names>G. C.</given-names></name><name><surname>Yamada</surname><given-names>H.</given-names></name><name><surname>Smith</surname><given-names>P.</given-names></name></person-group>, 
+<article-title>The metaconule in Australian Aboriginals: An accessory tubercle on maxillary molar teeth</article-title>. <source>Hum. Biol.</source> 
+<volume>58</volume>, 
+<fpage>851</fpage> (<year>1986</year>).<pub-id pub-id-type="pmid">3557411</pub-id></citation></ref>
+<ref id="R56"><label>56</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Wake</surname><given-names>D. B.</given-names></name><name><surname>Wake</surname><given-names>M. H.</given-names></name><name><surname>Specht</surname><given-names>C. D.</given-names></name></person-group>, 
+<article-title>Homoplasy: From detecting pattern to determining process and mechanism of evolution</article-title>. <source>Science</source> 
+<volume>331</volume>, 
+<fpage>1032</fpage> (<year>2011</year>). <pub-id pub-id-type="doi">10.1126/science.1188545</pub-id><pub-id pub-id-type="pmid">21350170</pub-id></citation></ref>
+<ref id="R57"><label>57</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Irish</surname><given-names>J. D.</given-names></name></person-group>, 
+<article-title>Characteristic high- and low-frequency dental traits in sub-Saharan African populations</article-title>. <source>Am. J. Phys. Anthropol.</source> 
+<volume>102</volume>, 
+<fpage>455</fpage> (<year>1997</year>). <pub-id pub-id-type="doi">10.1002/(SICI)1096-8644(199704)102:4&lt;455::AID-AJPA3&gt;3.0.CO;2-R</pub-id><pub-id pub-id-type="pmid">9140538</pub-id></citation></ref>
+<ref id="R58"><label>58</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Irish</surname><given-names>J. D.</given-names></name></person-group>, 
+<article-title>Who were the ancient Egyptians? Dental affinities among Neolithic through postdynastic peoples</article-title>. <source>Am. J. Phys. Anthropol.</source> 
+<volume>129</volume>, 
+<fpage>529</fpage> (<year>2006</year>). <pub-id pub-id-type="doi">10.1002/ajpa.20261</pub-id><pub-id pub-id-type="pmid">16331657</pub-id></citation></ref>
+<ref id="R59"><label>59</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Irish</surname><given-names>J. D.</given-names></name></person-group>, 
+<article-title>The mean measure of divergence (MMD): Its utility in model-free and model-bound analyses relative to the Mahalanobis D(2) distance for nonmetric traits</article-title>. <source>Am. J. Hum. Biol.</source> 
+<volume>22</volume>, 
+<fpage>378</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1002/ajhb.21010</pub-id><pub-id pub-id-type="pmid">19918917</pub-id></citation></ref>
+<ref id="R60"><label>60</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Wood</surname><given-names>B. A.</given-names></name></person-group>, 
+<article-title>Early hominid species and speciation</article-title>. <source>J. Hum. Evol.</source> 
+<volume>22</volume>, 
+<fpage>351</fpage> (<year>1992</year>). <pub-id pub-id-type="doi">10.1016/0047-2484(92)90065-H</pub-id></citation></ref>
+<ref id="R61"><label>61</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Gr&#x00FC;neberg</surname><given-names>H.</given-names></name></person-group>, 
+<article-title>Genetical studies on the skeleton of the mouse. IV. Quasi-continuous variations</article-title>. <source>J. Genet.</source> 
+<volume>51</volume>, 
+<fpage>95</fpage> (<year>1952</year>). <pub-id pub-id-type="doi">10.1007/BF02986708</pub-id></citation></ref>
+<ref id="R62"><label>62</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Suwa</surname><given-names>G.</given-names></name><name><surname>Wood</surname><given-names>B. A.</given-names></name><name><surname>White</surname><given-names>T. D.</given-names></name></person-group>, 
+<article-title>Further analysis of mandibular molar crown and cusp areas in Pliocene and early Pleistocene hominids</article-title>. <source>Am. J. Phys. Anthropol.</source> 
+<volume>93</volume>, 
+<fpage>407</fpage> (<year>1994</year>). <pub-id pub-id-type="doi">10.1002/ajpa.1330930402</pub-id><pub-id pub-id-type="pmid">8048464</pub-id></citation></ref>
+<ref id="R63"><label>63</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Curnoe</surname><given-names>D.</given-names></name></person-group>, 
+<article-title>A review of early <italic>Homo</italic> in southern Africa focusing on cranial, mandibular and dental remains, with the description of a new species (<italic>Homo gautengensis</italic> sp. nov.)</article-title>. <source>Homo</source> 
+<volume>61</volume>, 
+<fpage>151</fpage> (<year>2010</year>). <pub-id pub-id-type="doi">10.1016/j.jchb.2010.04.002</pub-id><pub-id pub-id-type="pmid">20466364</pub-id></citation></ref>
+<ref id="R64"><label>64</label><citation citation-type="book">F. E. Grine, in <italic>Swartkrans: A Cave&#x2019;s Chronicle of Early Man</italic>, C. K. Brain, Ed. (Transvaal Museum, Pretoria, 1993), pp. 75&#x2013;116.</citation></ref>
+<ref id="R65"><label>65</label><citation citation-type="book">C. K. Brain, <italic>The Hunters or the Hunted? An Introduction to African Cave Taphonomy</italic> (Univ. Chicago Press, Chicago, 1981).</citation></ref>
+</ref-list>
+<ack>
+<title>Acknowledgments</title><p>Collection of the recent African comparative data was funded by monies to J.D.I. from the National Science Foundation (BCS-0840674, BNS-0104731, BNS-9013942), National Geographic Society, Wenner-Gren Foundation, Institute for Bioarchaeology, University of Alaska, and the Combined Prehistoric and Hierakonpolis Expeditions. The innumerable individuals at &gt;25 institutions from which the data were collected cannot be listed in this restricted space, but their help is greatly appreciated. These and the <italic>Au. sediba</italic> ASUDAS raw data are in the possession of J.D.I. Collection of the early hominin comparative data was funded by grants to D.G.-S. from the Leakey Foundation and Ohio State University. The authors thank D. Johanson and W. Kimbel for allowing D.G.-S. to study the Hadar fossils, M. Yilma of the National Museum of Ethiopia, C. Kiarie of the National Museums of Kenya, P. Msemwa and E. Maro of the National Museum of Tanzania, the Ethiopian government, and the governments of Kenya and Tanzania. H. Fourie and F. Thackery provided access to fossils at the Transvaal Museum in Pretoria; P. Tobias, B. Kramer, and K. Kuykendall provided access to the fossils at the University of the Witwatersrand. I. Tattersall, J. Schwartz, J. Lukacs, H. McHenry, I. Pike, J. McKee, and T. Harrison advised D.G.-S. regarding the logistics of her research in east and South Africa. The ASUDAS hominin data are in the possession of D.G.-S. The assistance of A. Gill and M. Harman at the Powell-Cotton Museum, Birchington, UK, from which the gorilla crown data (in the possession of S.S.L.) were recorded, is greatly appreciated. Funding for S.S.L. was provided by the Wallace Travel Fund, Macalester College, and the Paul Anderson Interdisciplinary Summer Research Fund; funding for D.J.D. was provided by the Ray A. Rothrock Fellowship, Texas A&amp;M University.</p>
+<p>For the entire project, we also thank the South African Heritage Resource agency for the permits to work at the Malapa site; the Nash family for granting access to the Malapa site and continued support of research on their reserve; the South African Department of Science and Technology, the African Origins Platform (AOP), the Gauteng Provincial Government, the South African National Research Foundation, the Institute for Human Evolution, University of the Witwatersrand, the University of the Witwatersrand&#x2019;s Vice Chancellor&#x2019;s Discretionary Fund, the National Geographic Society, the Palaeontological Scientific Trust, the Andrew W. Mellon Foundation, the Ford Foundation, the U.S. Diplomatic Mission to South Africa, the French Embassy of South Africa, the A. H. Schultz Foundation, Duke University, Ray A. Rothrock &#x2019;77 Fellowship and International Research Travel Assistance Grant of Texas A&amp;M University, and the Oppenheimer and Ackerman families and Sir Richard Branson for funding; the University of the Witwatersrand&#x2019;s Schools of Geosciences and Anatomical Sciences and the Bernard Price Institute for Palaeontology for support and facilities; the Gauteng Department of Agriculture, Conservation and Environment and the Cradle of Humankind Management Authority; and our respective universities for ongoing support. For access to other comparative specimens, E. Mbua, P. Kiura, V. Iminjili, and the National Museums of Kenya; B. Billings, B. Zipfel, and the School of Anatomical Sciences at the University of the Witwatersrand; and S. Potze, L. C. Kgasi, and the Ditsong Museum. For technical and material support, Duke University, the University of Zurich 2009 and 2010 Field Schools, A. B. Taylor, C. E. Terhune, and C. E. Wall. Numerous individuals have been involved in the ongoing preparation and excavation of these fossils, including C. Dube, C. Kemp, M. Kgasi, M. Languza, J. Malaza, G. Mokoma, P. Mukanela, T. Nemvhundi, M. Ngcamphalala, S. Jirah, S. Tshabalala, and C. Yates. Other individuals who have given significant support to this project include B. de Klerk, W. Lawrence, C. Steininger, B. Kuhn, L. Pollarolo, B. Zipfel, J. Kretzen, D. Conforti, J. McCaffery, C. Dlamini, H. Visser, R. McCrae-Samuel, B. Nkosi, B. Louw, L. Backwell, F. Thackeray, and M. Peltier. J. Smilg facilitated computed tomography scanning of the specimens. The <italic>Au. sediba</italic> specimens are archived at the Institute of Human Evolution at the University of the Witwatersrand.</p>
+</ack></back>
+</article>

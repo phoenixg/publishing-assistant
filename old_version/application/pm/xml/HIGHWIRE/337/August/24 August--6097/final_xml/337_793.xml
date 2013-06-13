@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="news" dtd-version="2.3" xml:lang="EN" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">SCIENCE</journal-id>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+<issn pub-type="ppub">0036-8075</issn>
+<issn pub-type="epub">1095-9203</issn>
+<publisher>
+<publisher-name>American Association for the Advancement of Science</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>News Focus</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>News Focus</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>n-focus</subject></subj-group>
+<subj-group subj-group-type="field"><subject>ECOLOGY</subject><subject>COMP/MATH</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>Climatology</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>Mountains of Data</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Service</surname><given-names>Robert F.</given-names></name></contrib>
+</contrib-group>
+<pub-date pub-type="ppub">
+<day>17</day>
+<month>08</month>
+<year>2012</year>
+</pub-date>
+<volume>337</volume>
+<issue>6096</issue>
+<fpage>793</fpage>
+<lpage>795</lpage>
+<permissions>
+<copyright-statement>Copyright &#x00A9; 2012, American Association for the Advancement of Science</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+</permissions>
+<abstract abstract-type="teaser"><p>A famous mountaineer and Microsoft researchers are blending images, data, and computer models to document how changing climate is affecting the Himalaya.</p></abstract>
+<abstract abstract-type="web-summary"><p>After dozens of Himalayan journeys, David Breashears began to notice that the glaciers were in rapid retreat. In 2007, Breashears formed GlacierWorks, a company that's creating an interactive Web site to allow viewers to navigate Himalayan landscapes constructed from terabytes of high-resolution images. Breashears and his GlacierWorks colleagues are now working with computer scientists and image experts at Microsoft Research to augment the images with numerous other layers of scientific data and models. Viewers will be able to peruse vistas from photos taken at eye level and learn about hydrology and how glaciers accumulate, lose ice, and flow down mountainsides. They'll also be able to manipulate climate models to see the effects on glacial melting and river flows in decades to come.</p></abstract>
+</article-meta>
+</front>
+<body>
+<fig id="F1" position="float">
+<caption>
+<title>On the hunt.</title>
+<p>GlacierWorks climbers search for the exact locations where early British explorers snapped the original iconic images of mountains and glaciers in the Himalaya.</p>
+</caption>
+<graphic xlink:href="337_793_F1"></graphic>
+<attrib>CREDIT: GLACIERWORKS, 2009</attrib>
+</fig>
+<p>David Breashears has experienced triumphs and tragedy among the mountain peaks at the top of the world. Since 1978, Breashears, 56, has taken part in 45 expeditions to the Himalaya Mountains in southern Asia. He was the first American to climb Mount Everest twice, a peak he has now ascended five times. A filmmaker and photographer, Breashears has also created more than 40 films and won four Emmys. He is perhaps most famous for his 1996 IMAX movie <italic>Everest</italic>; during shooting, five members of three other climbing teams died when a fierce storm slammed into the mountain while they were near the peak.</p>
+<fig id="F2" position="float">
+<caption>
+<title>The find.</title>
+<p>Breashears (<italic>right</italic>), shown with Mingmar Dorji Sherpa, says it's a &#x201C;tremendous thrill&#x201D; to recreate early photos after climbs that sometimes last 20 hours a day.</p>
+</caption>
+<graphic xlink:href="337_793_F2"></graphic>
+<attrib>CREDIT: GLACIERWORKS, 2007</attrib>
+</fig>
+<p>In his images, Breashears prides himself on portraying the exquisite beauty and drama of his landscapes. But for a man who sees every detail, Breashears readily admits that for the longest time he was missing the big picture. After dozens of his Himalayan journeys, Breashears began to notice a transformation. Large numbers of the more than 35,000 glaciers that interleave this 3000-kilometer-long mountain range were in rapid retreat. &#x201C;I saw tremendous changes happening, and I was shocked how bereft I was of knowledge,&#x201D; he says.</p>
+<p>After presenting his images to researchers, Breashears found himself swept up in the conflict over whether the changes were due to natural climate variability or climate change. &#x201C;We didn't know we would be squeezed from both sides the way we have,&#x201D; Breashears says. &#x201C;It's taken a toll on us.&#x201D;</p>
+<p>Although reluctant to enter the fray, Breashears says he felt compelled to help others understand the changes he was witnessing. So he decided to do what he does best: combine his mountaineering, photography, and storytelling skills to let his images tell the story the way reams of scientific papers cannot.</p>
+<p>In 2007, Breashears formed GlacierWorks, a company that's creating an interactive Web site to allow viewers to navigate Himalayan landscapes constructed from terabytes of high-resolution images. Breashears and his GlacierWorks colleagues are now working with computer scientists and image experts at Microsoft Research (MSR) in Richland, Washington, and Bangalore, India, to augment the images with numerous other layers of scientific data and models&#x2014;just as Google Earth highlights roads, borders, and other features atop a seamless tapestry of satellite images. But instead of seeing what Breashears calls &#x201C;impersonal&#x201D; flat, two-dimensional satellite images, viewers will be able to peruse vistas from photos taken at eye level, giving them a far better sense of what it's like to travel the Himalaya in person. Along the way, viewers will be able to click on icons superimposed over the landscapes to learn about hydrology and how glaciers accumulate, lose ice, and flow down mountainsides. They'll also be able to work with climate models, changing variables such as CO<sub>2</sub> emissions, population, and the balance of electricity created from coal and renewables to see the effects on glacial melting and river flows in decades to come.</p>
+<p>Jeff Dozier, a hydrologist at the University of California, Santa Barbara, and a veteran of a few battles of his own over climate change, calls the approach a &#x201C;fantastic&#x201D; way for viewers to uncover the relationships between atmospheric chemistry, snow accumulation, temperature, ice melting rates at different elevations, and the degree to which snow reflects light back into space. &#x201C;If you help people figure it out for themselves, it often has a more lasting impact,&#x201D; Dozier says. &#x201C;We can really use something like this.&#x201D; Besides, he adds, &#x201C;the images are just spectacular.&#x201D;</p>
+<fig id="F3" position="float">
+<caption>
+<title>Rivers of ice and time.</title>
+<p>Panoramic views of the East Rongbuk Glacier on the north side of Mount Everest taken by Major E. O. Wheeler in 1921 and David Breashears in 2011, with a close-up (<italic>left</italic>). Over 90 years, the glacier's vertical height has dropped by 100 meters.</p>
+</caption>
+<graphic xlink:href="337_793_F3"></graphic>
+<attrib>CREDITS (TOP TO BOTTOM): MAJOR E. O. WHEELER/ROYAL GEOGRAPHICAL SOCIETY, 1921; DAVID BREASHEARS/GLACIERWORKS, 2011 (2)</attrib>
+</fig>
+<p>Images are indeed the heart of the project: thousands of high-resolution photographs that Breashears and his small climbing team have made during 11 expeditions since 2007. Perhaps the most powerful are &#x201C;matched&#x201D; images based on hundreds of original photos taken by British expeditions from the late 19th century through the 1950s. Breashears and his team triangulated the position from which each of the early photos was taken; then they returned to capture an updated view, ideally at the same time of year. In many instances, the glaciers had receded dramatically. &#x201C;The images have a certain truth to them and a certain power,&#x201D; Breashears says. &#x201C;They are irrefutable.&#x201D;</p>
+<p>In another effort, Breashears and his team went airborne. They mounted seven still cameras aboard a mountain-rescue helicopter and collected 80,000 images in the area surrounding the base camps and ascent routes on Mount Everest, flying as close as possible to the ground to give the sense of being within the folds of the mountain. Now, working with image experts at MSR and other colleagues, they are stitching together 3500 of the images into a single file that will enable viewers to &#x201C;fly&#x201D; up the flanks of Everest near the highest point on Earth.</p>
+<p>Still, Breashears wanted to go beyond the images, to incorporate data such as video logs of climbers, displays of scientific studies, and computer models of future melting. No Web program could seamlessly weld such disparate data sources. In March 2011, however, Breashears spoke with Curtis Wong, an old colleague at the Public Broadcasting Service's shows <italic>Nova</italic> and <italic>Frontline</italic>, who had since moved to MSR. Wong told Breashears that MSR colleagues in India were putting together a new Web-based platform called Rich Interactive Narratives (RIN), designed to let users effortlessly move among myriad data types&#x2014;a wholly new interactive computer experience.</p>
+<p>Wong put Breashears in touch with Padmanabhan Anandan, a computer vision expert who runs the Indian lab, and Joseph Joy, RIN's chief architect. By December 2011, Breashears and the MSR team had joined forces to make GlacierWorks fly. &#x201C;I wanted to work with someone who would push us,&#x201D; Joy says.</p>
+<p>Anandan explains that the idea of constructing a player to move between different data types isn't new. It's partly what's behind Google Earth as well as Microsoft's own WorldWide Telescope. But these are closed, one-off systems, useful only within their particular applications. Joy's idea was to create a novel computer language that allowed anyone to integrate all the different data formats&#x2014;and thus weave a narrative out of any diverse assemblies of data. In addition to working with GlacierWorks, MSR researchers have teamed up with the Indian government's Science and Technology Department to use RIN to create an interactive narrative of the country's cultural history. And Joy says academics are eager to use the tool to explain science by allowing users to unite numerous studies and data types.</p>
+<p>For his part, Dozier says he's excited about the prospect of using GlacierWorks's interactive site to teach students about the uncertainties of climate change. &#x201C;Glaciers are integrators of climate,&#x201D; Dozier says. The positive side of that is that changes to the glaciers reveal that broad changes in climate are occurring. But that doesn't tell you whether their retreat is due to declining snowfall, faster melting, a combination of the two, or some other factor. So any chance to help students work through those combinations would be a welcome change, Dozier says.</p>
+<p>Beyond the educational aspect of the work, Breashears says he hopes the terabytes of high-resolution images he and his colleagues have taken over the past few years will give future scientists a baseline for tracking changes in the size of glaciers, snow accumulation, and melt rates throughout the Himalaya. That may not satisfy the fire-breathing warriors in the political battle over climate change. But that's just fine with Breashears, who says he wants to stand in &#x201C;the irrational middle&#x201D; and show people the stark beauty of the highest reaches of our planet and the stark reality of how it's changing.</p>
+</body>
+</article>
