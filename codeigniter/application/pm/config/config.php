@@ -15,7 +15,8 @@
 //$config['base_url']	= "http://localhost:8888/codeigniter";
 //$config['base_url']	= "http://development/CodeIgniter_2.0.0/";
 //$config['base_url'] = "http://eddev01.aaas.org/codeigniter-v2.1.2/";
-$config['base_url']	= "http://localhost:8080/codeigniter";
+//$config['base_url']	= "http://localhost:8080/codeigniter";
+$config['base_url'] = "http://localhost/publishing-assistant/codeigniter";
 /*
 |--------------------------------------------------------------------------
 | Index File
@@ -159,7 +160,7 @@ $config['directory_trigger'] 	= 'd'; // experimental not currently in use
 | Error Logging Threshold
 |--------------------------------------------------------------------------
 |
-| If you have enabled error logging, you can set an error threshold to 
+| If you have enabled error logging, you can set an error threshold to
 | determine what gets logged. Threshold options are:
 | You can enable error logging by setting a threshold over zero. The
 | threshold determines what gets logged. Threshold options are:
